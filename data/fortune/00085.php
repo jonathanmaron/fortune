@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'f3847a77-a47f-5c1f-a2c5-96496c3acefe' => [
-        'I don\'t have a very positive attitude towards rappers.',
-        'Miriam Margolyes',
+    'c154a9cd-cdc4-55bb-9a06-18edb7a1e253' => [
+        'For most inhabitants of the Arab world, the prevailing cultural attitude toward women - fed and encouraged by Wahhabi doctrine, which is based on Bedouin social norms rather than Islamic jurisprudence - often trumps the rights accorded to women by Islam.',
+        'G. Willow Wilson',
     ],
-    'e37dc8c8-575a-5e86-a7d6-af0aadbdd56f' => [
-        'Doing stunt work is risky, but it\'s something I enjoy.',
-        'Verne Troyer',
+    '4abf5cd5-56dc-5b48-8884-43d18ea170ec' => [
+        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
+        'John C. Maxwell',
     ],
-    'b49fb2b7-b57a-514a-b0c0-cd349ef60a02' => [
-        'We didn\'t even think about it, you know? I used to collect laser discs, and you\'d have some college professor analyzing It\'s a Wonderful Life or Citizen Kane, and now it is pretty funny - the idea of commentary for a silly kid\'s movie, you know?',
-        'Dana Carvey',
+    'ccaa8bab-8815-5308-a7d4-c9817b85198b' => [
+        'No matter the bad things that happened in past time, let\'s try to live the best we can now.',
+        'Ziggy Marley',
     ],
-    '9ca43b5f-a1bb-52f7-8877-7a5f8ee91fdb' => [
-        'Dogs are not our whole life, but they make our lives whole.',
-        'Paula Cole',
+    'e56fee6d-e8f6-5b37-ba41-72f3ae52b0a4' => [
+        'The cost of our success is the exhaustion of natural resources, leading to energy crises, climate change, pollution, and the destruction of our habitat. If you exhaust natural resources, there will be nothing left for your children. If we continue in the same direction, humankind is headed for some frightful ordeals, if not extinction.',
+        'Christian de Duve',
     ],
-    '5133df39-d57a-55f4-a51f-6efe5a68a44c' => [
-        'A nickel ain\'t worth a dime anymore.',
-        'Yogi Berra',
+    'f2780ebb-1a54-5892-bf16-24812490d950' => [
+        'The fear of life is the favorite disease of the 20th century.',
+        'Sylvia Plath',
     ],
-    '71d08dd4-d04d-5e91-a14d-dff6418e878f' => [
-        'I think home has become my friends and family, wherever they are.',
-        'Rachel Brosnahan',
+    '5d728421-0c6c-549e-8a40-13710e514098' => [
+        'Perhaps I know best why it is man alone who laughs; he alone suffers so deeply that he had to invent laughter.',
+        'Friedrich Nietzsche',
     ],
-    'aeed6b18-62e2-53f2-a2b0-d3e6cec2b6e5' => [
-        'When it comes down to it, glam rock was all very amusing. At the time, it was funny, then a few years later it became sort of serious-looking and a bit foreboding.',
-        'David Bowie',
+    '5ddf273c-28ad-521b-99f6-cc0a033cfe77' => [
+        'I spent a lot of time with a crown on my head.',
+        'Halle Berry',
     ],
-    '285b3759-eff3-51fa-825a-cc08b842f307' => [
-        'I like to have Chinese furniture in my home as a constant and painful reminder of how much has been destroyed in China. The contrast between the beauty of the past and the ugliness of the modern is nowhere sharper than in China.',
-        'Jung Chang',
+    'e6505e11-55c7-50dd-b060-8a463a45409c' => [
+        'It takes discipline not to let social media steal your time.',
+        'Alexis Ohanian',
     ],
-    'f41467e0-b307-52ca-98be-d1be27802061' => [
-        'The Democrats are the party that says government will make you smarter, taller, richer, and remove the crabgrass on your lawn. The Republicans are the party that says government doesn\'t work and then they get elected and prove it.',
-        'P. J. O\'Rourke',
+    '8d203293-bbc4-548c-bdb2-1f74b12fcb29' => [
+        'My school days were the happiest days of my life; which should give you some indication of the misery I\'ve endured over the past twenty-five years.',
+        'Al Franken',
     ],
-    '3b55c00c-5710-54b0-99c0-d6cba6850816' => [
-        'The counterfeit and counterpart of Nature is reproduced in art.',
-        'Henry Wadsworth Longfellow',
+    '0ba0ffdb-cab4-56b8-baf7-98d3f0a7e308' => [
+        'I want to make this world perfect.',
+        'Malala Yousafzai',
     ],
-    'ec5ab472-ad42-5646-ad15-725c27cf66cd' => [
-        'Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.',
-        'Byron Pulsifer',
+    '9dd7dcb1-b808-5bfd-b875-49ceb0333612' => [
+        'Step out of the history that is holding you back. Step into the new story you are willing to create.',
+        'Oprah Winfrey',
     ],
-    'a13ce39d-9c2e-55e8-ab00-83f40eca7189' => [
-        'The road to success is always under construction.',
-        'Lily Tomlin',
+    '79896619-b80c-50f1-9346-176a9105504a' => [
+        'The breaks you take from work pay you back manifold when you return because you come back with a fresher mind and newer thinking. Some of your best ideas come when you\'re on vacation.',
+        'Gautam Singhania',
     ],
-    '2ddb7c2d-25d7-5bbf-b454-2297e1e8254c' => [
-        'This sunlight linked me through the ages to that past consciousness.',
-        'Richard Jefferies',
+    'b196721f-1ceb-5ebd-b418-952d33384900' => [
+        'Do not hire a man who does your work for money, but him who does it for love of it.',
+        'Henry David Thoreau',
     ],
-    '33233fd5-6644-5a24-9e65-a8cf06762b79' => [
-        'Find something that you love to do, and find a place that you really like to do it in. I found something I loved to do. I\'m a mechanical engineer by training, and I loved it. I still do. My son is a nuclear engineer at MIT, a junior, and I get the same vibe from him. Your work has to be compelling. You spend a lot of time doing it.',
-        'Ursula Burns',
+    'c9511f36-7ee5-5001-aeda-600e42c8c2e2' => [
+        'Always be smarter than the people who hire you.',
+        'Lena Horne',
     ],
-    '45eac63c-07b6-5831-a18c-c0ce3cab61d0' => [
-        'Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.',
-        'Thomas Kempis',
+    '21bedb27-2b1b-50e0-afe9-6f3a969bbd32' => [
+        'If you wish to be a success in the world, promise everything, deliver nothing.',
+        'Napoleon Bonaparte',
     ],
-    'a7aafd60-2e56-5206-863c-689b3c06a61b' => [
-        'The only real mistake is the one from which we learn nothing.',
-        'John Powell',
+    '8b680d40-50a9-5cbe-85bb-5493f2f7abfa' => [
+        'Practice yourself, for heavens sake in little things, and then proceed to greater.',
+        'Epictetus',
     ],
-    '52a8f6dd-5359-5d37-9c00-e903f3b2d960' => [
-        'Our greatness has always come from people who expect nothing and take nothing for granted - folks who work hard for what they have, then reach back and help others after them.',
-        'Michelle Obama',
+    '541a7b36-89b8-51db-bcdc-cb5130d1c0b1' => [
+        'The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.',
+        'Leonardo Ruiz',
     ],
-    '543e02d1-f453-52b6-a8a8-07cff08a6b2a' => [
-        'When everything is lonely I can be my best friend.',
-        'Conor Oberst',
+    'b7fa3f10-4fd5-5ecd-84f5-046b2eaae11b' => [
+        'There\'s nothing better than people talking to each other, sharing best practices, and opening up communications.',
+        'Dan Gilbert',
     ],
-    '47d7a1c3-6868-5162-8923-f8307b809cac' => [
-        'I am highly offended by the total lack of acknowledgement of my contribution to Laker success.',
-        'Kareem Abdul-Jabbar',
+    'b5b31311-b3a6-5ad0-822a-9468e6b660f6' => [
+        'I think those who invest in mutual funds want someone else to do the thinking for them. But the fact that they can move the money around the family of mutual funds just through a phone call lets them feel that they can play tycoons.',
+        'Ron Chernow',
     ],
-    '1313053c-947a-5934-9f92-3bf6d1549cdc' => [
-        'The harder I work, the luckier I get.',
-        'Samuel Goldwyn',
+    '49d7db8e-dde0-5035-ac68-994132d0660e' => [
+        'Having to travel so much plays havoc with your personal life.',
+        'Renee Fleming',
     ],
-    'd82ec6fb-a33d-5559-a910-9a8c599281bf' => [
-        'I don\'t believe people are looking for the meaning of life as much as they are looking for the experience of being alive.',
-        'Marcus Aurelius',
+    '7dbe0a05-0849-523a-b3dd-20fba82f26dc' => [
+        'It\'s okay to have a bad day',
+        'Unknown',
     ],
-    'c18481af-6414-5619-b9be-5899cda7cd08' => [
-        'Black Consciousness is an attitude of the mind and a way of life, the most positive call to emanate from the black world for a long time.',
-        'Steven Biko',
+    '5facf3db-ce1c-562e-b055-243c5e7932f5' => [
+        'Never floss with a stranger.',
+        'Joan Rivers',
     ],
-    'fe97693f-5e67-5b72-9496-e2901fe94b7f' => [
-        'Character contributes to beauty. It fortifies a woman as her youth fades. A mode of conduct, a standard of courage, discipline, fortitude, and integrity can do a great deal to make a woman beautiful.',
-        'Jacqueline Bisset',
+    '3c756ce7-067e-5132-880d-bca62b614a52' => [
+        'Beauty is about perception, not about make-up. I think the beginning of all beauty is knowing and liking oneself. You can\'t put on make-up, or dress yourself, or do you hair with any sort of fun or joy if you\'re doing it from a position of correction.',
+        'Kevyn Aucoin',
     ],
-    '527e15d2-3f67-51c3-af92-95343e4fedc7' => [
-        'Wishes don\'t bring riches; work make things work.',
-        'Ifeanyi Enoch Onuoha',
+    '923a8830-7145-5a31-98da-389ac3a567c1' => [
+        'Never let lack of money interfere with having fun.',
+        'Unknown',
     ],
-    'b1cc8f21-3229-5846-8199-a076184fbf2f' => [
-        'I love funny people. I met and became friends with some of the funniest people ever. Gilda Radner, bless her soul; Martin Short; Dave Thomas; Eugene Levy.',
-        'Paul Shaffer',
+    '3c3de9b1-1d8d-5a74-9d6c-57ec8d246520' => [
+        'Not everything in old age is grim. I haven\'t walked through an airport for years, and wheelchairs are the way to travel.',
+        'Donald Hall',
     ],
-    '1c858404-ccd2-5c64-9219-aa6205ba94e0' => [
-        'I think every role you get is going to be a powerful one. As long as you go in with the mindset of, \'Yeah, I\'m going to make the most of this.\' So that\'s the kind of attitude I take into each role that I play.',
-        'Anna Hutchison',
+    'cfea3923-64ce-5c77-aa33-e3bba24e3139' => [
+        'Failure is not an option. Everyone has to succeed.',
+        'Arnold Schwarzenegger',
     ],
-    'a90d7b69-ac5e-50fa-b3d8-b0a7becc91ad' => [
-        'Even a smile is a good deed.',
-        'Shari Arison',
+    '775f83ad-1937-54fe-b771-906711b9804d' => [
+        'No matter how you travel, it\'s still you going.',
+        'Jeff Goldblum',
     ],
-    '20c0bbde-99e4-5569-ab9b-99554a092048' => [
-        'Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?',
-        'A. P. J. Abdul Kalam',
+    '4174ad6c-9ecf-5a3c-a304-72d23823a91d' => [
+        'Sometimes I envy people who can be only half crazy, with one foot in the passion and one foot in the real world. But that\'s not me. I dive into the total crazy experience. That\'s the only way to travel.',
+        'Kiran Ahluwalia',
     ],
-    '48b8cd17-a31c-5a01-b7cb-4eb659d62f7c' => [
-        'I enjoy going out by myself... always have, always will. I don\'t have security guards, and, for the most part, I enjoy meeting new people. I see myself as a regular guy who likes playing video games with his nieces and nephews and poker with his family. I don\'t have an art collection or take exotic vacations. I enjoy being at home.',
-        'Vince Vaughn',
+    '951d17d1-b498-5f33-bda7-34344d5383be' => [
+        'I\'d like to dial it back 5% or 10% and try to have a vacation that\'s not just e-mail with a view.',
+        'Elon Musk',
     ],
-    'e05517e1-028d-58dc-9421-74f01f4ca72c' => [
-        'I think there are very few people who have a real style, a real personality, and real beauty.',
-        'Marisa Berenson',
+    'f12b0e0e-0cd4-5db4-bf76-0fb88a02b5e6' => [
+        'That\'s my gift. I let that negativity roll off me like water off a duck\'s back. If it\'s not positive, I didn\'t hear it. If you can overcome that, fights are easy.',
+        'George Foreman',
     ],
-    '9994fd0e-9121-5c9d-a471-607ec9dc7b43' => [
-        'I have found adventure in flying, in world travel, in business, and even close at hand... Adventure is a state of mind - and spirit.',
-        'Jacqueline Cochran',
+    'd2a3fa38-4a22-5326-9ab4-9f43596e08dc' => [
+        'The beauty of a finely worked object points to the beauty of the craftsmanship. The beauty of the craftsmanship points to the beauty of the name which was the source of the craftsmanship. The beauty of the name of the craftsman\'s art points to the beauty of the craftsman\'s attributes manifested in that art.',
+        'Said Nursi',
     ],
-    'd0342055-3d96-5680-9e02-b46ef22893a9' => [
-        'Everything that has existed, lingers in the Eternity.',
-        'Agatha Christie',
+    '3f45a2ad-d03d-5fd9-a10b-e346620f8e8f' => [
+        'If you try to come off as this big-time star with an attitude, people don\'t like that.',
+        'Selena',
     ],
-    'cc585d11-a78f-5f2e-9578-1ae92b65556d' => [
-        'Faith in oneself is the best and safest course.',
-        'Michelangelo',
+    'fafb7efe-9e57-5b6c-96a4-0e2ecf5bae16' => [
+        'Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can\'t build on it; it\'s only for wallowing in.',
+        'Katherine Mansfield',
     ],
-    '7696498c-1809-50ad-ba7a-5d996dd6109c' => [
-        'You do manage a somewhat religious attitude toward your art. It is a calling rather than a job.',
-        'Jim Harrison',
+    '0dbd3acb-3776-5b56-8662-d2269c3035de' => [
+        'Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.',
+        'William Shakespeare',
     ],
-    'a24c8610-3fdb-565b-b2e7-d885c27a090d' => [
-        'To me a lush carpet of pine needles or spongy grass is more welcome than the most luxurious Persian rug.',
-        'Helen Keller',
+    '0fa6bb35-80fe-5c78-88bf-79cecf21be06' => [
+        'My attitude with covers is, make it your own or else leave it alone.',
+        'Glenn Danzig',
     ],
-    '5d09999f-21e6-5406-8f1f-3169ee39dc47' => [
-        'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
-        'Zig Ziglar',
+    '78cf4fd2-597d-5a5c-a6c3-1ee179e760af' => [
+        'Life teaches you that you need to make decisions in the right time - not too early, not too late.',
+        'Jeb Bush',
     ],
-    '677f3440-7094-501e-bc3c-b1efad348bbe' => [
-        'I\'ve learned that I can\'t have a packed work schedule and a packed social schedule and a packed personal life; I need to just have time to myself to sit and breathe and unwind.',
-        'Kim Cattrall',
+    'd8ed3a45-5d75-57cd-bbf9-8d5ba36dd006' => [
+        'I have always served the public to the best of my ability. Why? Because, like every other man, it is to my interest to do so.',
+        'Cornelius Vanderbilt',
     ],
-    '01c5d5e2-e5ae-5023-a6da-af9811678b69' => [
-        'Liberty, taking the word in its concrete sense, consists in the ability to choose.',
-        'Simone Weil',
+    '51715ed4-004e-5044-a47b-012dce06de75' => [
+        'Eating well was something I learned as I started to be successful and had to travel and perform concerts, which are an intense cardio workout.',
+        'Curtis Jackson',
     ],
-    'bd187bfe-9be6-5422-b63a-db1b2a90db35' => [
-        'We tried to set up a company that patterned ourselves after Southwest in all the fun, the spirit, the great people, the smile, the efficiency side of it, but we\'ve added some extras that people aren\'t used to finding on Southwest.',
-        'David Neeleman',
+    '1b6241f0-120c-5837-9ac2-ee9d3e3d55a9' => [
+        'The follow your dreams thing is really important because so many people are railroaded into taking other paths by their family, their friends, people who should be supportive going, \'What are you talking about?\' Even just seemingly regular career paths, but if it\'s not what people expect for you they kind of react funny.',
+        'Joan Jett',
     ],
-    '0b0c8368-c933-5161-9b0e-bb40ad813fbe' => [
-        'I don\'t reflect much, unless I\'m talking to the media. I have more of a \'Forward, march!\' kind of attitude.',
-        'Kerry King',
+    '8b365aeb-c8ae-5332-92db-abb95f4cadfc' => [
+        'I find beauty in the grotesque, like most artists.',
+        'Alexander McQueen',
     ],
-    '7cd4c18a-6d00-5b20-a8b6-bc5c45abf4ec' => [
-        'Pick battles big enough to matter, small enough to win.',
-        'Jonathan Kozol',
+    '66fb7c5a-4df9-50f4-b9d8-d5008a6ab6c7' => [
+        'Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success.',
+        'Pablo Picasso',
     ],
-    'cd394b50-f590-5f75-bb37-882dea49f4c0' => [
-        'There\'s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family.',
-        'Gordon Ramsay',
+    '5bdc281a-d812-5d9e-adb5-ec3e2d7df650' => [
+        'Beauty is an ecstasy; it is as simple as hunger. There is really nothing to be said about it. It is like the perfume of a rose: you can smell it and that is all.',
+        'W. Somerset Maugham',
     ],
-    '4b1a0cc6-c1fd-5124-800a-71e29deb4a41' => [
-        'The lesson of travel seems to be so banal, but so great, which is that people are just so amazingly decent the world over. Given the disparity of income and wealth, it\'s amazing not just that you don\'t get robbed everywhere - it\'s amazing you don\'t get eaten.',
-        'Geoff Dyer',
+    '0a783a4a-3c13-5537-bb3a-60005060b4c8' => [
+        'You aren\'t your work, your accomplishments, your possessions, your home, your family... your anything. You\'re a creation of your Source, dressed in a physical human body intended to experience and enjoy life on Earth.',
+        'Wayne Dyer',
     ],
-    '8404c4e0-876c-5dfe-a912-faa9ddef5aa4' => [
-        'People don\'t understand that where I come from, everyone is either a convict, been in jail, been in a gang, is a hooligan of some sorts, but those are my brothers, my family and the people that I travel with. Those are the people that I roll with.',
-        'Lupe Fiasco',
+    '9c7a39e3-ce22-5525-9ece-b9e3328a00fb' => [
+        'I worked half my life to be an overnight success, and still it took me by surprise.',
+        'Jessica Savitch',
     ],
-    'd890a63f-ca01-518b-8a01-22a826b3efe3' => [
-        'I\'m one of those guys that - as far as relationships and stuff go - if you smile at me, I\'m like, \'Let\'s date for three years\' - which is just ridiculous.',
-        'Norman Reedus',
+    '47424ec7-9e69-5017-b4a2-980151c9372e' => [
+        'Beauty is only temporary, but your mind lasts you a lifetime.',
+        'Alicia Machado',
     ],
-    '2e3b11e5-df72-5664-bdb9-f7c2b4137f96' => [
-        'Hope is but the dream of those who wake.',
-        'Matthew Prior',
+    'f5e16cab-d104-5980-9f29-57ba526dfe29' => [
+        '\'Thank you\' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.',
+        'Alice Walker',
     ],
-    '3d8d23f5-ded0-5866-bae3-c3ca9b21bf5a' => [
-        'Success is a matter of one\'s own feeling about oneself.',
-        'Edward James Olmos',
+    'acc80ccf-8b61-5d8b-88f1-d2b7333beb59' => [
+        'I have never won a race, and that is my main disappointment - but you have to be positive.',
+        'Jean Alesi',
     ],
-    'f19ea4d0-fde1-53cc-a418-d9c97dffe6dd' => [
-        'The significance of the cherry blossom tree in Japanese culture goes back hundreds of years. In their country, the cherry blossom represents the fragility and the beauty of life. It\'s a reminder that life is almost overwhelmingly beautiful but that it is also tragically short.',
-        'Homaro Cantu',
+    '79741ccd-edfa-53cc-a9b4-8a923cd0cf76' => [
+        'As a model, I really stand for not being a model, if that makes sense. When I started, the whole idea of the model was very different; it was a bit stuck-up. Not stuck-up, but no one was trying to have fun, or not even have fun, but be willing to smile.',
+        'Cara Delevingne',
     ],
-    '809613c4-eba4-5d88-b1da-52066fd8b356' => [
-        'When we seek to discover the best in others, we somehow bring out the best in ourselves.',
-        'William Arthur Ward',
+    '51a0d219-0e7f-59a5-a659-844a715868d3' => [
+        'We have all met people that act \'old\' or think a number makes them old, and I truly don\'t believe that is the case. If you have a good attitude toward aging, and you do what you can to live healthy and take care of yourself, I don\'t think the number matters.',
+        'Tabatha Coffey',
     ],
-    'fadda71b-6c8b-5961-bbe4-3d34b370dea0' => [
-        'Go forth under the open sky, and list To Nature\'s teachings.',
-        'William C. Bryant',
+    '32b23d58-1190-55eb-8f54-e6c1d70a127b' => [
+        'I also had a mistaken attitude towards certain comrades.',
+        'Bela Kun',
     ],
 ];

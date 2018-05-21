@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '39a68dd8-08ab-5892-b5ad-4a8fa974dd2c' => [
-        'No matter what you\'ve done for yourself or for humanity, if you can\'t look back on having given love and attention to your own family, what have you really accomplished?',
-        'Lee Iacocca',
+    '574b7304-5282-57b2-a0f6-f895623baf7b' => [
+        'Indeed every monad must be different from every other. For there are never in nature two beings, which are precisely alike, and in which it is not possible to find some difference which is internal, or based on some intrinsic quality.',
+        'Gottfried Leibniz',
     ],
-    '5df85dca-7372-5aa4-bc86-3b5be68ed6d2' => [
-        'I don\'t work at being ordinary.',
-        'Paul McCartney',
+    '874ff4e8-55ce-57c0-9dd9-421581565694' => [
+        'Enhancing a woman\'s silhouette and enhancing a woman\'s beauty - both contribute to enhancing her confidence, so they\'re synonymous, really.',
+        'L\'Wren Scott',
     ],
-    '99a293ff-3c43-5f21-a3b1-952b6177f01f' => [
-        'I think Islam has been hijacked by the idea that all Muslims are terrorists; that Islam is about hate, about war, about jihad - I think that hijacks the spirituality and beauty that exists within Islam. I believe in allowing Islam to be seen in context and in its entirety and being judged on what it really is, not what you think it is.',
-        'Aasif Mandvi',
+    'b13b8139-94f6-51f4-a76f-610b458fa131' => [
+        'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
+        'Andy Grove',
     ],
-    '7c77154d-a7e0-5f89-b2ae-e736d397958f' => [
-        'It is only in the country that we can get to know a person or a book.',
-        'Cyril Connolly',
+    'ab22d6ea-b2f8-5070-8513-02302ef52cfd' => [
+        'Never give in and never give up.',
+        'Hubert H. Humphrey',
     ],
-    '1f0734b6-83d2-5932-9f75-098b9d669460' => [
-        'My success is the team\'s success. It\'s one of those things to a certain degree that it\'s effort and ability but also how I benefit from what my teammates do, and then it is up to me to perform.',
-        'Jason Babin',
+    'b523d3ce-2049-542c-975d-4b125986e412' => [
+        'Is it rather stupid and dangerous to take Magna Carta so much for granted, as many of us seem to do, and to think of this attitude as \'very English?\'',
+        'Melvyn Bragg',
     ],
-    'dda71c16-2f7c-578d-82c6-d95a31b31fe8' => [
-        'Your success depends mainly upon what you think of yourself and whether you believe in yourself.',
-        'William J. H. Boetcker',
+    '2111ae37-12f7-5950-beea-555ddb8e53ca' => [
+        'An important finding is that by determining the genome sequences of an entire family, one can identify many DNA sequencing errors and thus greatly increase the accuracy of the data. This will ultimately help us understand the role of genetic variations in the diagnosis, treatment, and prevention of disease.',
+        'Leroy Hood',
     ],
-    'ae04d17e-16f7-5618-84cf-57b967a57483' => [
-        'I said to the almond tree, \'Friend, speak to me of God,\' and the almond tree blossomed.',
-        'Nikos Kazantzakis',
+    '9e9fd255-7c13-57bd-9518-eb5ef3e42284' => [
+        'We smile at the ignorance of the savage who cuts down the tree in order to reach its fruit; but the same blunder is made by every person who is over eager and impatient in the pursuit of pleasure.',
+        'William Ellery Channing',
     ],
-    '4d5a7491-b6c9-57c9-86a1-f5addf97db46' => [
-        'You can\'t let praise or criticism get to you. It\'s a weakness to get caught up in either one.',
-        'John Wooden',
+    '935050b3-a1ec-5734-8c4d-4bf54bf0a6cf' => [
+        'I made myself famous by writing \'songs\' and lyrics about the beauty of the things I did and ugliness, too.',
+        'Jack Kerouac',
     ],
-    '4c74ee3b-d4e5-5cb4-99d2-9c1d6b2eed08' => [
-        'Laughter and joy are part of the beauty of life.',
-        'Diogo Morgado',
+    '1c3ffa4b-7d2f-5b60-a6ab-d879d8b9eed9' => [
+        'This hook nose and crab meister attitude has gotten me every job I\'ve ever had. And more divorces than I care to remember.',
+        'Norman Fell',
     ],
-    '302a5337-466e-5c17-9cd9-50b524e9ef34' => [
-        'I\'d like to think the best of me was still hiding up in my sleeve.',
-        'John Mayer',
+    'de034fd5-5224-5cd0-8be7-267a4903e478' => [
+        'Fear grows in darkness; if you think theres a bogeyman around, turn on the light.',
+        'Dorothy Thompson',
     ],
-    '6e9c7ea1-3f83-5bb7-b1bd-b67c43ec0933' => [
-        'The genius of the United States is not best or most in its executives or legislatures, nor in its ambassadors or authors or colleges, or churches, or parlors, nor even in its newspapers or inventors, but always most in the common people.',
-        'Walt Whitman',
+    '8bf08bed-dfdb-5273-a979-df846b29f2da' => [
+        'A lot of people think they should be happy all the time. But the writer understands you need both. You need the whole piano: the richness of the whole human experience. Depression, suffering and anger are all part of being human.',
+        'Janet Fitch',
     ],
-    'bc622acd-4314-5dcc-a42c-e10b00bdac92' => [
-        'The difference between utility and utility plus beauty is the difference between telephone wires and the spider web.',
-        'Edwin Way Teale',
+    '05355ed5-4d38-5281-8616-add86c62edd4' => [
+        'I think that business book reporting, it\'s all Jim Collins, it\'s the story of victory; it\'s success bias over and over again.',
+        'Ben Horowitz',
     ],
-    '6a8116fe-b98e-5c43-af51-d424c33b5524' => [
-        'Today, few terrorist organizations still employ the \'al-Qaeda model\' in which individuals travel to terrorist training camps overseas and then are deployed to the West to inflict atrocities.',
-        'Tom Cotton',
+    '1848a760-218f-58db-acfd-fabaae734b4b' => [
+        'I drink too much. The last time I gave a urine sample it had an olive in it.',
+        'Rodney Dangerfield',
     ],
-    '1cb3cf5e-e600-5f54-9573-add1ad58622c' => [
-        'There\'s beauty everywhere. There are amazing things happening everywhere, you just have to be able to open your eyes and witness it. Some days, that\'s harder than others.',
-        'Sarah McLachlan',
+    '3cf37ab0-9abc-5a3d-831d-e48c3df9ed4c' => [
+        '\'No one can make you successful; the will to success comes from within.\' I\'ve made this my motto. I\'ve internalized it to the point of understanding that the success of my actions and/or endeavors doesn\'t depend on anyone else, and that includes a possible failure.',
+        'Fabrizio Moreira',
     ],
-    '4e733f12-63f8-5742-8372-a7c41d79cbc4' => [
-        'When I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck.',
-        'James Whitcomb Riley',
+    'a18217ce-aab7-50fc-9cbf-033f137a3e35' => [
+        'Inspiration comes from within yourself. One has to be positive. When you\'re positive, good things happen.',
+        'Deep Roy',
     ],
-    '52c5356a-1848-59d8-892e-c712ea0ea7c3' => [
-        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-        'Francis Chan',
+    '97224801-dbf7-5133-94b3-ca6343d3763f' => [
+        'Nothing is more precious than life... especially the life of your child.',
+        'Rihanna',
     ],
-    '0787a26e-2b0a-5138-aa67-8a817fe414e1' => [
-        'Except during the nine months before he draws his first breath, no man manages his affairs as well as a tree does.',
-        'George Bernard Shaw',
+    '3ddde7c3-8f92-5af3-893f-ba81c16d619f' => [
+        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
+        'Rory Kinnear',
     ],
-    '7ac7a437-55a1-5efe-a90e-83d25a68b1ef' => [
-        'I don\'t think the world focuses on the positive things enough.',
-        'Dwyane Wade',
+    'f9f4994f-993b-55eb-9506-76005ee62dd2' => [
+        'The whole notion of pain, and how every individual experiences pain, is up for debate. We don\'t know how another person experiences pain - physical pain or psychic pain. Some of these clinics where assisted suicide or euthanasia is practiced, they call it \'weariness of life.\'',
+        'Shemar Moore',
     ],
-    '232b6693-0394-5cc9-8186-6184998a1124' => [
-        'Good health and good sense are two of life\'s greatest blessings.',
-        'Ken Venturi',
+    '8f67555b-825a-5eb8-9bf5-eb00c50b07ef' => [
+        'My work is all about adventure and teamwork in some of the most inhospitable jungles, mountains and deserts on the planet. If you aren\'t able to look after yourself and each other, then people die.',
+        'Bear Grylls',
     ],
-    'c302e149-7993-5e01-9ffe-40c96cbd4a49' => [
-        'Enjoy the little things, for one day you may look back and realize they were the big things.',
-        'Robert Brault',
+    'be738b12-63b3-59b6-b608-ac23f1ef948d' => [
+        'Beauty is variable, ugliness is constant.',
+        'Douglas Horton',
     ],
-    'd299b5f8-ca62-5909-8dd0-0eb210a77999' => [
-        'The purely agitational attitude is not good enough for a detailed consideration of a subject.',
-        'Jawaharlal Nehru',
+    'c0ce8799-f6b8-5c2c-b1d6-8404b4655fee' => [
+        'Painting from nature is not copying the object; it is realizing one\'s sensations.',
+        'Paul Cezanne',
     ],
-    'c5f2ca64-2849-5571-9138-4f8b32c752d1' => [
-        'Objectifying is kind of a funny thing. Art is objectification, all art, because you\'re taking someone and making them into an object. But people can also talk back more to you when you\'re sketching them. They can look at you and say, \'Oh man, you got me wrong.\'',
-        'Molly Crabapple',
+    '73546868-47e5-5cad-9318-f4ec848a3b3e' => [
+        'Love is a chain of love as nature is a chain of life.',
+        'Truman Capote',
     ],
-    '7d2bbcee-a008-5ddb-9939-a4b9aa6bc818' => [
-        'The nature of the music business is such that it\'s better to have a few chances for some things to be successful than just one, and that\'s kind of been my attitude all along.',
-        'Adam Schlesinger',
+    '3c62b58e-febe-51cf-b2da-4eecd6e8f104' => [
+        'Success in management requires learning as fast as the world is changing.',
+        'Warren Bennis',
     ],
-    'e065313a-a199-519d-ad50-dd75f47b9325' => [
-        'Now we have black and white elected officials working together. Today, we have gone beyond just passing laws. Now we have to create a sense that we are one community, one family. Really, we are the American family.',
-        'John Lewis',
+    '533ed559-3e9a-54ca-93b1-b028d4169bf4' => [
+        'It is the hopeful, buoyant, cheerful attitude of mind that wins. Optimism is a success builder; pessimism an achievement killer.',
+        'Orison Swett Marden',
     ],
-    '3b4ea0a8-a8b6-50bd-9783-ad9a0a46efbd' => [
-        'If you believe that your best years are behind you, you\'ve guaranteed they are; I\'m going to dance into that good night, with the oldies turned up loud.',
-        'Gina Barreca',
+    '1e922302-0702-5529-9889-adbb00ce7a7c' => [
+        'Alzheimer\'s, Parkinson\'s, brain and spinal cord disorders, diabetes, cancer, at least 58 diseases could potentially be cured through stem cell research, diseases that touch every family in America and in the world.',
+        'Rosa DeLauro',
     ],
-    '678a0cfc-5f3f-5ece-8f9b-e8da77bd3dec' => [
-        'Love is the beauty of the soul.',
-        'Saint Augustine',
+    'df8a3602-0437-5e09-9fa4-fe333162879e' => [
+        'We are all broken, that\'s how the light gets in.',
+        'Ernest Hemingway',
     ],
-    '7b85e6e7-2006-53df-9f1a-28a60225df8b' => [
-        'In everyone\'s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit.',
+    '33ff334a-e5db-5a1a-8901-159d31acf850' => [
+        'You always succeed in producing a result.',
+        'Tony Robbins',
+    ],
+    '663c1dd6-9c07-54da-8980-4d03c6ec6702' => [
+        'What you are will show in what you do.',
+        'Thomas A. Edison',
+    ],
+    'add99941-2704-52e4-bd0b-8f41266d2dd3' => [
+        'Shakespeare wrote about love. I write about love. Shakespeare wrote about gang warfare, family feuds and revenge. I write about all the same things.',
+        'Sister Souljah',
+    ],
+    'ed22db7c-2da0-5a08-9ba5-34054bf639b8' => [
+        'Personal discipline, when it becomes a way of life in our personal, family, and career lives, will enable us to do some incredible things.',
+        'Zig Ziglar',
+    ],
+    'ce3d4083-9e22-5cce-864c-119e4f3b87c1' => [
+        'It\'s all about quality of life and finding a happy balance between work and friends and family.',
+        'Tony Robbins',
+    ],
+    '2d296658-976c-55d2-a67c-dc0b4ce2529a' => [
+        'Every time I start to get worked up over something, I just think to myself, \'Is this really going to matter in my life tomorrow, in an hour, in a year?\' You just can\'t get stressed about the little things \'cause it\'s just not worth it at the end of the day.',
+        'Kylie Jenner',
+    ],
+    '05b67493-c899-56cd-b799-bd38fdeda763' => [
+        'All the candy corn that was ever made was made in 1911.',
+        'Lewis Black',
+    ],
+    '8f630e1c-413a-54f0-9d82-fdb516af7ebe' => [
+        'The very women who object to the morals of a notoriously beautiful actress, grow big with pride when an admirer suggests their marked resemblance to this stage beauty in physique.',
+        'Minna Antrim',
+    ],
+    'e4cc0b6d-ac09-5637-bb1a-7ebef29afd4a' => [
+        'I don\'t take success and failure seriously. The only thing I do seriously is march forward. If I fall, I get up and march again.',
+        'Kareena Kapoor Khan',
+    ],
+    'e7644c43-610c-5468-857a-bcec45d4f745' => [
+        'Our most intimate friend is not he to whom we show the worst, but the best of our nature.',
+        'Nathaniel Hawthorne',
+    ],
+    '2605ae63-aae8-554a-8414-79e9f6049648' => [
+        'To mistrust science and deny the validity of scientific method is to resign your job as a human. You\'d better go look for work as a plant or wild animal.',
+        'P. J. O\'Rourke',
+    ],
+    'ddc60781-1f99-57d2-907e-25de101a6783' => [
+        'Life is not a matter of holding good cards, but of playing a poor hand well.',
+        'Paul Bloom',
+    ],
+    '10745059-e3c5-54ee-a20e-58ef46c31544' => [
+        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
+        'Chelsea Manning',
+    ],
+    'f17a9714-2188-564a-8269-7fdc72eecffd' => [
+        'Although I have guitars all around, and I pick them up occasionally and write a tune and make a record, I don\'t really see myself as a musician. It may seem a funny thing to say. It\'s just like, I write lyrics, and I make up songs, but I\'m not a great lyricist or songwriter or producer. It\'s when you put all these things together - that makes me.',
+        'George Harrison',
+    ],
+    'a9e37895-c76f-5114-9cf2-ecdd8e08b9d0' => [
+        'Success is the sum of details.',
+        'Harvey S. Firestone',
+    ],
+    '365f30d2-d334-56fe-a930-5f45969e84a0' => [
+        'To a synthetic chemist, the complex molecules of nature are as beautiful as any of her other creations. The perception of that beauty depends on the understanding of chemical structures and their transformations, and, as with a treasured work of art, deepens as the subject is studied, perhaps even to a level approaching romance.',
+        'Elias James Corey',
+    ],
+    'a7589472-c913-5322-8e36-8c79b02aa664' => [
+        'Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today.',
+        'Maxwell Maltz',
+    ],
+    'd7d74055-4cca-51d5-9edf-27bbfe3cbb6c' => [
+        'I have a lot of very close girlfriends and sisters - I\'m from an all female family. My father often quips that even the cat was neutered!',
+        'Shirley Manson',
+    ],
+    'ec39f1d0-9515-5bbf-8f79-326638c426bb' => [
+        'Everywhere is nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.',
+        'Lucius Annaeus Seneca',
+    ],
+    '3653f7ec-b7d6-5501-a3a6-f92252769045' => [
+        'If I could travel back in time, I\'d bring back the entire Wu-Tang Clan.',
+        'Hannah Simone',
+    ],
+    '805c65b4-567b-5c17-9e29-dd29df9bfe6e' => [
+        'It\'s not so much what you learn about Mumbai, it\'s what you learn about yourself, really. It\'s a funny old hippie thing, but it\'s true as well. You find out a lot about yourself and your tolerance, and about your inclusiveness.',
+        'Danny Boyle',
+    ],
+    'c252bd04-887b-5964-8ed4-9a35d1d60e6f' => [
+        'Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.',
         'Albert Schweitzer',
     ],
-    '7623836a-b6a0-5a8b-b19d-e4ee1bc90460' => [
-        'Now, I\'m not saying I\'m fashionable, but there are sociological interests that matter to me, things that are theoretical, political, intellectual and also concerned with vanity and beauty that we all think about but that I try to mix up and translate into fashion.',
-        'Miuccia Prada',
+    'c0a5014c-b124-5ee7-8823-bf24de0dc9d8' => [
+        'When you have a bad day, a really bad day, try and treat the world better than it treated you.',
+        'Patrick Stump',
     ],
-    'f2045318-7f04-52fe-9ced-4ee5a9d33fd0' => [
-        'I do not think that obsession is funny or that not being able to stop one\'s intensity is funny.',
-        'Jim Dine',
-    ],
-    'e94226e2-fdbc-5c35-9dfd-2b6030c71342' => [
-        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
-        'Justin Zackham',
-    ],
-    '969dceda-032f-52e6-aad0-8ba91058f88a' => [
-        'A compliment is something like a kiss through a veil.',
-        'Victor Hugo',
-    ],
-    '32a1d97a-ad17-5a34-86e2-cce930adfdd5' => [
-        'I know what it is to feel unloved, to want revenge, to make mistakes, to suffer disappointment, yet also to find the courage to go forward in life.',
-        'Justine Skye',
-    ],
-    '49550eef-8f3e-520b-98d6-96847b1dff9f' => [
-        'We\'ve seen over time that countries that have the best economic growth are those that have good governance, and good governance comes from freedom of communication. It comes from ending corruption. It comes from a populace that can go online and say, \'This politician is corrupt, this administrator, or this public official is corrupt.\'',
-        'Ramez Naam',
-    ],
-    '00e826ca-2adf-52b1-bd84-6c8221f5c646' => [
-        'He who is too busy doing good finds no time to be good.',
-        'Rabindranath Tagore',
-    ],
-    '97e380ea-f598-5ead-bcd5-25c28cfd02a4' => [
-        'It\'s shocking to think about how little the travel industry cares about sustainability - and it\'s the basis of their business!',
-        'Jochen Zeitz',
-    ],
-    '0e6bf95f-9762-5440-9898-9d18f99293c9' => [
-        'The way to deal with the devil of obesity and diabetes is literally one day at a time.',
-        'Stephen Furst',
-    ],
-    '5d650977-1279-5ff4-904f-b0b151fc591c' => [
-        'My dad grew up with an avocado tree in his backyard. My entire family, my wife and daughters, they love avocado. I may well be allergic. It makes me physically sick.',
-        'Ted Cruz',
-    ],
-    '48a92c85-1a7c-5154-a591-ac66279a8c42' => [
-        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
-        'Benjamin Franklin',
-    ],
-    '2b612d3b-0e8a-5a27-8c97-dba33cf93444' => [
-        'When I was eight, my piano teacher played seven or eight notes, and I sang them. She stopped and looked at me in shock! That was the first time I\'d gotten that reaction. I\'d had looks of horror, but never shock in a positive way.',
-        'Chris Cornell',
-    ],
-    '726b2817-bf93-59f7-b0b4-14baa5c8421a' => [
-        'Electrical science has revealed to us the true nature of light, has provided us with innumerable appliances and instruments of precision, and has thereby vastly added to the exactness of our knowledge.',
-        'Nikola Tesla',
-    ],
-    '35b2efe7-0f2d-5745-8822-2eff1a4a607a' => [
-        'My ultimate goal is to end up being happy. Most of the time.',
-        'Taylor Swift',
-    ],
-    'bbddae58-5338-57da-b4ff-c352a6285f06' => [
-        'Filipinos want beauty. I have to look beautiful so that the poor Filipinos will have a star to look at from their slums.',
-        'Imelda Marcos',
-    ],
-    'ab7588ab-e552-5c1b-9b7e-ff614fcef70a' => [
-        'To make a prairie it takes a clover and one bee, One clover, and a bee, And revery. The revery alone will do, If bees are few.',
-        'Emily Dickinson',
-    ],
-    '4c4b7233-0607-599e-b2f5-53c362fd6818' => [
-        'If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.',
-        'Albert Einstein',
-    ],
-    'a4328492-6132-51b6-98ab-2750279db8da' => [
-        'Originality is the fine art of remembering what you hear but forgetting where you heard it.',
-        'Laurence J. Peter',
-    ],
-    'dd906d05-372d-58a8-aa51-65089c32263e' => [
-        'The drawings in \'Portal\' were actually me scribbling that stuff... I had a funny moment when I realized that someone gotten \'The cake is a lie\' tattooed on themselves. It was really interesting to see my handwriting tattooed on another human being. That... that\'s odd.',
-        'Kim Swift',
-    ],
-    '57e9a456-c809-5cfb-b930-d5d63f6415c4' => [
-        'I want the kids to know that it\'s not a myth that somebody from their city plays and wins in the NBA. I just want to influence them to work hard and do whatever they want to do in life, whether it\'s to be a basketball player or scientist... if they believe in themselves, they can do anything.',
-        'Kawhi Leonard',
-    ],
-    'd48f3cd0-b725-50e9-85ba-a59672df5c7a' => [
-        'To enjoy enduring success we should travel a little in advance of the world.',
-        'John McDonald',
-    ],
-    'c511fe54-fad4-50f4-8e83-611b7ff6dd09' => [
-        'The one way to get me to work my hardest was to doubt me.',
-        'Michelle Obama',
-    ],
-    'e5efc775-b5ef-53ad-9d3b-00dfb2fa9a38' => [
-        'Creativity takes courage.',
-        'Henri Matisse',
+    '24146f86-67bf-5c7e-9bef-b28315f19e66' => [
+        'I\'d like to get out of Philadelphia. I don\'t care for the people or their attitude, although they don\'t bother me or my play. But maybe the Phillies can get a couple of broken bats and shower shoes for me.',
+        'Richie Allen',
     ],
 ];

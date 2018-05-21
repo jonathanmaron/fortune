@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '12966cbc-b86f-5a79-8523-fe960af70a86' => [
-        'Live like you\'ll die tomorrow, work like you don\'t need the money, and dance like nobody\'s watching.',
-        'Bob Fosse',
+    'af6dab9b-dfe5-5499-98f5-35a9c0e2e427' => [
+        'It\'s really funny - when I\'m depressed or I\'m having a hard time, I\'ll write really fun stuff. And then when I\'m really happy, I write really depressing stuff.',
+        'Kathleen Hanna',
     ],
-    '765d841f-e1e0-5ce5-bf45-e59bf18cdd26' => [
-        'To love and win is the best thing. To love and lose, the next best.',
-        'William Makepeace Thackeray',
+    '726b2817-bf93-59f7-b0b4-14baa5c8421a' => [
+        'Electrical science has revealed to us the true nature of light, has provided us with innumerable appliances and instruments of precision, and has thereby vastly added to the exactness of our knowledge.',
+        'Nikola Tesla',
     ],
-    'a49209cf-39c9-5d2d-b572-941a19fba39e' => [
-        'The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.',
-        'Wilhelm Wundt',
+    'f47d4941-6038-5077-a008-c6d123f09b42' => [
+        'As we are liberated from our own fear, our presence automatically liberates others.',
+        'Nelson Mandela',
     ],
-    'd142465d-328a-5ad2-9e07-144266e6c9e4' => [
-        'Hard work without talent is a shame, but talent without hard work is a tragedy.',
-        'Robert Half',
+    '8a8810f7-0f29-5597-8fa3-539250d678b6' => [
+        'There\'s enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success.',
+        'Jim Hightower',
     ],
-    'e71a643d-97da-5ee8-9c20-1bf056165002' => [
-        'High heels are like a beauty lift. In a flat, you can feel beautiful, but a stiletto changes your mood, how you move - like a wild, beautiful animal. The idea was always to follow a woman\'s wardrobe, her desires.',
-        'Giuseppe Zanotti',
+    '05928677-cd86-5a82-8914-42c69a89d7ca' => [
+        'I grew up in a family that despised not only communism but collectivism, socialism, and any \'ism\' that deprived the individual of his or her natural rights.',
+        'Rand Paul',
     ],
-    'ee124f8a-b65d-5ec0-af10-e697545169e3' => [
-        'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations',
-        'Steve Jobs',
+    'f2d855c6-b8cf-5bab-a494-238c57349caa' => [
+        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
+        'Rhys Darby',
     ],
-    '59239fe7-d053-57b5-9081-ed54c5f60740' => [
-        'Facts which at first seem improbable will, even on scant explanation, drop the cloak which has hidden them and stand forth in naked and simple beauty.',
-        'Galileo Galilei',
+    '2538b738-ed11-5f82-b735-cf51c47a6255' => [
+        'Sometimes all the players get a bad hand. You just have to be determined enough to see the game through.',
+        'Dean Wilson',
     ],
-    '9dbb3c68-ead6-556f-bdef-e2eea6db2265' => [
-        'I am a Piscean, and they have a lovingly detached attitude towards life.',
-        'Shahid Kapoor',
+    'd7aad398-5d70-51c9-b4d8-b30cd5d3ad04' => [
+        'I always wanted to be somebody, but I should have been more specific.',
+        'Lily Tomlin',
     ],
-    'aa63ec52-5479-5332-8ba4-512fb96bed3a' => [
-        'The only time people dislike gossip is when you gossip about them.',
-        'Will Rogers',
+    'f50c2611-b2e8-5127-b89e-3f551f8035bc' => [
+        'Any celebration meal to which guests are invited, be they family or friends, should be an occasion for generous hospitality.',
+        'Julian Baggini',
     ],
-    '415eca1a-ed81-5459-afdc-677b5d5820cd' => [
-        'My duty is to try to reach beauty. Cinema is emotion. When you laugh you cry.',
-        'Roberto Benigni',
+    '0f4dc580-9852-53b5-836a-3237662c9a94' => [
+        'A kiss is a lovely trick designed by nature to stop speech when words become superfluous.',
+        'Ingrid Bergman',
     ],
-    '31e89ebf-f199-5431-9dce-a22787135a98' => [
-        'Every time you tear a leaf off a calendar, you present a new place for new ideas and progress.',
-        'Charles Kettering',
+    '0188532e-5998-51ed-9453-5e5b04a607ff' => [
+        'I am able to really enjoy the positive attention I receive.',
+        'Doutzen Kroes',
     ],
-    'e8fa92b6-b925-56f0-a77d-2da7f5b9f575' => [
-        'Fear of failure is one attitude that will keep you at the same point in your life.',
-        'Byron Pulsifer',
+    'e0e104d2-0a38-59d7-a9a5-76ce595b24f5' => [
+        'Along with success comes a reputation for wisdom.',
+        'Euripides',
     ],
-    'dc695399-1c27-5d17-9ee6-80bef4ffaa35' => [
-        'Only I can change my life. No one can do it for me.',
-        'Carol Burnett',
+    '1ba36341-9f8c-560e-a1a4-c40146185093' => [
+        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
+        'Grace Jones',
     ],
-    '8a6b9a3d-bcb7-5b76-8004-ab412742cd5f' => [
-        'It\'s always best to ask for forgiveness if you feel that you made a mistake. And again, asking for forgiveness is not just saying the words \'I\'m sorry\'; it is also offering what you need to do.',
-        'Grace Poe',
+    'c61e5a3d-98f2-52c6-9604-0791af14061a' => [
+        'The more real you get, the more unreal the world gets.',
+        'John Lennon',
     ],
-    'eafadc3e-cdb0-589b-8333-10d9a8ddc0e8' => [
-        'The spirit of L.A. is untamed wilderness. It\'s earthquakes and wildfires and oceans and mountain lions and fog. There\'s great physical beauty.',
-        'Dan Gilroy',
+    '4aaaf1b9-1a9f-52a5-a9ec-2eb8d267e5ca' => [
+        'The best way to be productive is to have a great team. So I spend more time than most CEOs on human resources. That\'s 20 percent of my week.',
+        'Kevin P. Ryan',
     ],
-    '2777fa87-4b3c-51fc-9150-153cc75aacd2' => [
-        'I live by the philosophy that beauty starts from within, and I make a conscious effort to fill my body with nutrients through the food I eat.',
-        'Miranda Kerr',
+    '62ea1564-368c-5ccd-af92-b614b0c9aa06' => [
+        'In the Arctic, the Inuit are saying water and land are the same; they\'re an unbroken unity. In the winter, you travel on the ice because it\'s the linkage and the easiest way, and in the summer, you move around on the water.',
+        'John Ralston Saul',
     ],
-    '662a7b70-1347-5dd1-a45b-121c1d4e13eb' => [
-        'When love and skill work together, expect a masterpiece.',
-        'John Ruskin',
+    'c4c859b9-2acf-5bef-a682-9e6c37c1333c' => [
+        'Strong beliefs win strong men, and then make them stronger.',
+        'Richard Bach',
     ],
-    '948e0a8b-1077-562a-97d4-1f4c5fc93bbd' => [
-        'Yes, you can lose somebody overnight, yes, your whole life can be turned upside down. Life is short. It can come and go like a feather in the wind.',
-        'Edgar Allan Poe',
+    'c71c1055-4bdd-50d1-94bb-b0b2716396f2' => [
+        'I\'ve had more ups than downs in my career. All you can do is keep working. You still have to take enjoyment out of what you\'re doing, and things will turn, and my smile has always been there. In good moments and bad.',
+        'Eden Hazard',
     ],
-    '2537be8b-50bd-527d-933c-069a876406d4' => [
-        'I\'ve etched out who I am through myriad haircut attempts, outfit attempts, beauty attempts, diet attempts. It\'s been an evolution.',
-        'Jamie Lee Curtis',
+    '37a32799-1c7b-58bf-8962-e7d01840eaf1' => [
+        'Success in business today requires real-time, mobile access to business opportunities.',
+        'Bob McDonnell',
     ],
-    '43dae40a-83e5-5aec-9b2e-3ae05e1b5f61' => [
-        'My idea of beauty is somebody that doesn\'t have to try too much, someone who is effortless and fresh.',
-        'Jessica Ennis',
+    '68fa376b-0b4a-51d1-b455-4876c6a1eca1' => [
+        'Nature is never finished.',
+        'Robert Smithson',
     ],
-    '99449aa9-539f-5870-a403-a8cc5b1394b9' => [
-        'Strangely, nothing makes me feel tired, fatigued, at all. I\'ve gone days and nights without sleep, and still the mind is in such a positive space it just doesn\'t make you feel fatigued.',
-        'Aishwarya Rai Bachchan',
+    '22fccab2-27ec-54d2-9ac3-fa51f21943aa' => [
+        'I remember the first time I had sex - I kept the receipt.',
+        'Groucho Marx',
     ],
-    '6710947e-875a-58c9-bf47-9026884aa2fd' => [
-        'Look back, and smile on perils past.',
-        'Walter Scott',
+    '2c8dc9d3-9325-5d3b-aefd-2597d70012d9' => [
+        'Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.',
+        'Denis Waitley',
     ],
-    '29a4671e-97b3-5a83-8c48-2cb397bd1cdf' => [
-        'I was entirely natural and in many ways I have the same attitude now. I don\'t mourn the loss of my youth because I believe you should enjoy what you have while you have it.',
-        'Koo Stark',
+    '976aa73b-c86d-591c-9ad1-8050f5e8bfad' => [
+        'What is required as we travel towards full unemployment is not new legislation but a gradual change of mental attitude, a shift in values. As our taste for idling grows, we will refuse to work for old-fashioned bosses who demand a five-day, 40-hour, nine-to-five type week, or worse.',
+        'Tom Hodgkinson',
     ],
-    'e619d8e4-f4e7-5d8f-bad6-48e4061f4d1e' => [
-        'Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.',
-        'Napoleon Hill',
+    '071b5ba3-ee10-52e0-83db-1e5fab11fff0' => [
+        'Good manners will open doors that the best education cannot.',
+        'Clarence Thomas',
     ],
-    'e0c2c029-55cb-5e27-b43c-5305d4e17372' => [
-        'As I get older, I want to do more films for kids because they\'re the best audience around. Just putting a smile on a kid\'s face is the best thing.',
-        'James McAvoy',
+    '7253c7df-61b4-5017-92d4-3e63b2ab8ca1' => [
+        'But meanwhile time flies; it flies never to be regained.',
+        'Virgil',
     ],
-    '14bab2d9-efc0-5b72-bc68-bade94277d4a' => [
-        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
-        'Billy Ocean',
+    '293f50fd-79fd-5493-8897-f1db490d3aaf' => [
+        'The weak can never forgive. Forgiveness is the attribute of the strong.',
+        'Mohandas Gandhi',
     ],
-    '5d42c7ba-3f63-5eeb-9da6-327792d15e06' => [
-        'Don\'t look back. Something might be gaining on you.',
-        'Satchel Paige',
+    '8d25b39d-d40c-56ac-9b0f-345f70611d8e' => [
+        'True life is lived when tiny changes occur.',
+        'Kay Granger',
     ],
-    '5a79d4d9-a807-5888-ac48-c94a3e588ae2' => [
-        'Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.',
-        'Arthur Rubinstein',
+    'ff24567a-93f7-5ed4-9098-4522bff63003' => [
+        'When I was little, I didn\'t smile much. Don\'t get me wrong. I was a happy kid, but I couldn\'t stand the space, dead center, in between my teeth. Yeah, I could whistle through it, but so what? That didn\'t win me many points on the playground in Medfield, Massachusetts.',
+        'Uzo Aduba',
     ],
-    'c70272b8-2c88-5b2e-a203-911bd751d016' => [
-        'It\'s cool to be a part of recovery. This is just who I am, this is what I write about, what I do, and most of my work has been a reflection of what I\'ve been going through in one way or another.',
-        'Chester Bennington',
+    '7483b70e-a202-5aa0-ac11-e2a49fce1a0b' => [
+        'In philanthropy, you have to take the attitude of a mother... You have to be patient, and we have been very patient for a long time.',
+        'Shiv Nadar',
     ],
-    'e281d205-5e26-5093-80f3-7dcb01d27d73' => [
-        'People who cannot find time for recreation are obliged sooner or later to find time for illness.',
-        'John Wanamaker',
+    '9e340aca-630d-5faa-982e-71d81bc6fc01' => [
+        'Human beings want to be free and however long they may agree to stay locked up, to stay oppressed, there will come a time when they say \'That\'s it.\' Suddenly they find themselves doing something that they never would have thought they would be doing, simply because of the human instinct that makes them turn their face towards freedom.',
+        'Aung San Suu Kyi',
     ],
-    '52bc8321-97ad-5285-a13f-47ecedc907f2' => [
-        'There\'s been so many different types of musicals, and it\'s a funny genre because there\'s a fine line between clever and stupid. It really takes a genius to know how to do it.',
-        'Melissa Etheridge',
+    'c5bed387-1620-5280-a715-839cec23f256' => [
+        'We have a president who stole the presidency through family ties, arrogance and intimidation, employing Republican operatives to exercise the tactics of voter fraud by disenfranchising thousands of blacks, elderly Jews and other minorities.',
+        'Barbra Streisand',
     ],
-    'aca89a71-4a33-5fb1-bf32-6c7c590b5e57' => [
-        'No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure.',
-        'Napoleon Hill',
-    ],
-    '322a2b01-e61b-5799-a2bf-b1e1fe517a5f' => [
-        'The attitude of the people proves that not only do we want to, but that we can succeed in pulling our country out of the difficult position it finds itself in. The banking system of our country will survive and grow.',
-        'Nicos Anastasiades',
-    ],
-    'fcad1dd1-8123-5fa3-a990-05ee18abe202' => [
-        'A hen is only an egg\'s way of making another egg.',
-        'Samuel Butler',
-    ],
-    '5f2e43a6-6f33-55bf-9d0d-7c16281a23f2' => [
-        'Exploration is really the essence of the human spirit.',
-        'Frank Borman',
-    ],
-    '017ff996-dedc-5c6b-96ca-72121ed4f780' => [
-        'Successful entrepreneurs are givers and not takers of positive energy.',
+    '85d68734-ac7f-5a0d-9c55-9a370ee6ac09' => [
+        'Friendship isn\'t a big thing. It\'s a million little things.',
         'Unknown',
     ],
-    '36c8f9be-21f1-5454-9bea-8611a5deae6f' => [
-        'We will be more successful in all our endeavors if we can let go of the habit of running all the time, and take little pauses to relax and re-center ourselves. And we\'ll also have a lot more joy in living.',
-        'Thich Nhat Hanh',
+    '6e45f2cb-cceb-5492-8cf7-9f861a76cc35' => [
+        'I like to smile a lot before going in the car. I make jokes, even on the grid, and then I can still manage to focus when it counts.',
+        'Romain Grosjean',
     ],
-    'ceb0e0a6-fb4c-5635-bce7-4044579a511c' => [
-        'I liked painting and drawing, and I liked humanities mainly - poetry, literature - this speculative attitude toward life.',
-        'Rafael Moneo',
+    '28caeafa-d9f9-5003-8323-95ca8733a701' => [
+        'Wearing the correct dress for any occasion is a matter of good manners.',
+        'Loretta Young',
     ],
-    'cded2e49-a7e1-5e15-932a-d9b7f1b8d30c' => [
-        'Oh, the summer night, Has a smile of light, And she sits on a sapphire throne.',
-        'Bryan Procter',
+    '914bf1da-1ecf-5ff8-ab08-62cc87422fa3' => [
+        'Only bad golfers are lucky. They\'re the ones bouncing balls off trees, curbs, turtles and cars. Good golfers have bad luck. When you hit the ball straight, a funny bounce is bound to be unlucky.',
+        'Lee Trevino',
     ],
-    'c8204c60-5bcd-567c-a3f6-f2fb48623905' => [
-        'Remember that sometimes not getting what you want is a wonderful stroke of luck.',
-        'Dalai Lama',
+    '747570e5-c5c6-5ee5-84c7-651ba5407ccb' => [
+        'I think that generally music should be a positive thing, I like Bob Marley\'s attitude: he said that his goal in life was to single handedly fight all the evil in the world with nothing but music, and when he went to a place he didn\'t go to play, he went to conquer.',
+        'Jon Fishman',
     ],
-    '203febbc-6d53-552e-b520-a6f95f5c90f3' => [
-        'Success is not two cars or a swimming pool. It\'s the approval of your peers.',
-        'Peter Finch',
+    '3db5c965-ec87-5448-8ed7-eafd3005dd7b' => [
+        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
+        'Kate Chopin',
     ],
-    'a62f81ca-0dc1-5b30-b3d3-8e2b2daeeaec' => [
-        'Jazz is a very democratic musical form. It comes out of a communal experience. We take our respective instruments and collectively create a thing of beauty.',
-        'Max Roach',
+    '474a5c57-0997-5aaf-91bc-50e570b8c02b' => [
+        'Autumn is a second spring when every leaf is a flower.',
+        'Albert Camus',
     ],
-    '28f70476-1b02-59d6-a64e-50ea7798b594' => [
-        'The most general law in nature is equity-the principle of balance and symmetry which guides the growth of forms along the lines of the greatest structural efficiency.',
-        'Herbert Read',
+    '630f77f0-5165-5ea8-8b7a-aeaeed6ba436' => [
+        'There are two tests in life, more important than any other test. On Monday morning, when you wake up, do you feel in the pit of your stomach you can\'t wait to go to work? And when you\'re ready to go home Friday afternoon, do you say, \'I can\'t wait to go home?\'',
+        'Chuck Schumer',
     ],
-    'bdbbc151-4c6d-5d18-9efd-03bc0dfdd3f2' => [
-        'One of the best pieces of advice I ever got was from a horse master. He told me to go slow to go fast. I think that applies to everything in life. We live as though there aren\'t enough hours in the day but if we do each thing calmly and carefully we will get it done quicker and with much less stress.',
-        'Viggo Mortensen',
+    '08c4d270-207a-57c1-8765-6c923a28768b' => [
+        'When I go back to Texas, I travel the state, and I see people all the time who come up to me, men and women across Texas, and they grab me by the shoulder, and they\'re afraid. They say, \'Ted, you know, I just lost my health insurance. I got a child with diabetes. I\'m scared. Please stop this from happening.\'',
+        'Ted Cruz',
     ],
-    '3cb2a61f-55d9-53bf-9157-5f9c244a97a2' => [
-        'I have my own dance and production companies, and acting is my creative outlet. It\'s what I\'m passionate about. I\'ve actually created a lifestyle where I could act for free. I could get a job to pay the bills and act on the weekends to make me smile.',
-        'Brian J. White',
+    'af8cd18f-0aa6-55fa-998a-274e50de0794' => [
+        'I learned a long time ago the wisest thing I can do is be on my own side, be an advocate for myself and others like me.',
+        'Maya Angelou',
     ],
-    '3fc78d91-4e94-5266-8bf5-1efc2ebc3b41' => [
-        'Being called a \'music legend\' is a very funny thing. It\'s nice to know that my work has been appreciated and that people have given me that status. On a personal level, however, I can\'t think about it too much. It means a lot... but then it doesn\'t.',
-        'Chris Squire',
+    '8ed7f397-3b32-511c-941e-1bba0b803e34' => [
+        'The most positive men are the most credulous.',
+        'Alexander Pope',
     ],
-    '43b1ccac-451d-5832-a2b7-11e8825d9f76' => [
-        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
-        'Martin Cruz Smith',
+    '4482e45c-22ab-5351-a286-15e109fb749b' => [
+        'I love to travel, but sometimes it\'s nice to stay in one place.',
+        'Gustavo Dudamel',
     ],
-    'e52a45dd-8f71-558d-b96c-62b9f360b2b7' => [
-        'I have a funny mental framework when I do physics. I create an imaginary audience in my head to explain things to - it is part of the way I think. For me, teaching and explaining, even to my imaginary audience, is part of the process.',
-        'Leonard Susskind',
+    '20575a21-459b-57e0-ac19-c910d19abcfc' => [
+        'The steeper the mountain the harder the climb the better the view from the finishing line',
+        'Unknown',
     ],
-    'f57f1153-0df4-5a0f-880b-0c1a000419a3' => [
-        'The vampire was a complete change from the usual romantic characters I was playing, but it was a success.',
-        'Bela Lugosi',
+    'e289c6b3-210c-53b6-b79d-02fd293d58cc' => [
+        'I always hear myself saying, \'She\'s a beauty!\' or \'He\'s a beauty!\' or \'What a beauty!\' but I never know what I\'m talking about.',
+        'Andy Warhol',
     ],
-    'fb788aab-7c5b-58e5-9403-662a609c5a22' => [
-        'I believe in soulmates, yes, but I believe you also have to work at love. I happen to believe your soulmate doesn\'t have to be your partner - your soulmate could be your best friend, your sibling, it doesn\'t have to be the person you marry.',
-        'Cheryl Cole',
+    'edd2ce2c-ee76-5962-97c9-5f8919f6b0be' => [
+        'Without social cohesion, the human race wouldn\'t be here: We\'re not formidable enough to survive without the tactics, rules and strategies that allow people to work together.',
+        'Peter Guber',
+    ],
+    '2db00aa2-faed-5a44-867f-d464f1361cd3' => [
+        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
+        'Horace Mann',
+    ],
+    'c5479626-0ea3-50b4-b63f-c37527e1cc1a' => [
+        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
+        'Todd Rundgren',
+    ],
+    '507cca72-00cc-5beb-86b1-8493ea9eeab3' => [
+        'I\'m not a defender of old or new football managers. I believe in good ones and bad ones, those that achieve success and those that don\'t.',
+        'Jose Mourinho',
+    ],
+    '62955260-2689-5fc4-aef3-a7573c4a0986' => [
+        'Lady Gaga is the present and the future. She is the most revolutionary and inspirational artist. She is fearless and daring.',
+        'Donatella Versace',
     ],
 ];

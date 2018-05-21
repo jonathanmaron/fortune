@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'de47b153-f194-5b59-a14f-7ba15ac97c0e' => [
-        'Tanzanians are some of the friendliest you\'ll ever meet, insisting on a welcoming smile and wave as they pass you on the streets, exclaiming \'Jambo!\'',
-        'Jodi Balfour',
+    '7c69bf64-3718-58a0-9cfa-85d25b7b3308' => [
+        'Time travel offends our sense of cause and effect - but maybe the universe doesn\'t insist on cause and effect.',
+        'Edward M. Lerner',
     ],
-    'b7e6565a-047a-5ab5-9402-a0bc268956af' => [
-        'Flaming enthusiasm, backed up by horse sense and persistence, is the quality that most frequently makes for success.',
-        'Dale Carnegie',
+    'ab30cb58-813a-5532-93ef-2e4555eaba83' => [
+        'If you focus on results, you will never change. If you focus on change, you will get results.',
+        'Jack Dixon',
     ],
-    '80e09125-6d98-5f45-8943-5a9b665b09cf' => [
-        'Unlike a lot of people, I don\'t feel powerless. I know I can do something. But anyone can do something, it\'s not about being special. It\'s about deciding to do it - to dive into work for peace and justice and care for everybody on the planet.',
-        'Patch Adams',
+    '552d96cc-7eec-5a23-b398-4206219a4279' => [
+        'Every performance is different. That\'s the beauty of it.',
+        'Van Morrison',
     ],
-    '64cf078a-6a96-53d7-9da1-fe68e2bbc71d' => [
-        'Through machinery, man can exert tremendous powers almost as fantastic as if he were the hero of a fairy tale. Through machinery, man can travel with an ever increasing velocity; he can fly through the air and go beneath the surface of the ocean.',
-        'Maria Montessori',
+    'f5d48406-0356-5e92-ab4e-3ffc527daf77' => [
+        'Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.',
+        'Norman Cousins',
     ],
-    'b342be74-ee0e-5e45-9dcb-71b9479e7958' => [
-        'If you think you can do it, you can.',
-        'John Burroughs',
+    '8fd0e71e-7d4b-54be-9d7d-c3d615bb972a' => [
+        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
+        'Murray Bartlett',
     ],
-    '07ba4f13-d8e5-5973-8d1f-45329d1879cb' => [
-        'I strongly believe that through dedication and perseverance, one can overcome adversity to achieve success. It is a privilege to accept membership in the Horatio Alger Association, an organization which promotes this principle.',
-        'Ginni Rometty',
+    'd6ae82fe-1293-5047-9e08-773d026d151c' => [
+        'If you travel to the States... they have a lot of different words than like what we use. For instance: they say \'elevator\', we say \'lift\'; they say \'drapes\', we say \'curtains\'; they say \'president\', we say \'seriously deranged git.\'',
+        'Alexei Sayle',
     ],
-    'ae61de27-afda-5d24-8077-b91bc8f7a12c' => [
-        'Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.',
-        'Stephen Hawking',
+    'ff48a46d-46ee-5655-8d5e-bc95dbe8129e' => [
+        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
+        'Bindi Irwin',
     ],
-    'a2670ce7-8c14-5941-877a-59385e0f5bd3' => [
-        'I think every chef, not just in America, but across the world, has a double-edged sword - two jackets, one that\'s driven, a self-confessed perfectionist, thoroughbred, hate incompetence and switch off the stove, take off the jacket and become a family man.',
-        'Gordon Ramsay',
+    'c5b1aed5-d97b-58d5-9822-304f20a5c274' => [
+        'I found this deer toy that poops out candy. And so if I say, \'Cree, you have to go to bed right now. You will get a candy.\' We\'ve named the pooping deer \'Gus.\'... He gets a jelly bean. And it works. Positive reinforcement is the way to go. I\'m learning things like that which help me be a better parent.',
+        'Tia Mowry',
     ],
-    '12981269-3193-5917-99c9-da25ed4bf5d4' => [
-        'The black holes of nature are the most perfect macroscopic objects there are in the universe: the only elements in their construction are our concepts of space and time.',
-        'Subrahmanyan Chandrasekhar',
+    'af373c96-1ad5-59b1-ba04-13723ae23748' => [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
     ],
-    '312d502c-ba37-5f85-84f9-7bb5ddb8662f' => [
-        'I\'ve been thinking about disowning some of my genes lately. I have a few healthy, happy, long-living optimists in my family tree - most of them fans of Christian Science founder Mary Baker Eddy, a major champion of positive thinking. But I\'ve got plenty of ancestors who played out more tortured hands.',
-        'Ariel Gore',
+    '96360a7d-884a-5d96-8eb6-8661fec41a3e' => [
+        'When Jennifer Lawrence says it\'s \'dumb\' to go hungry to make other people happy, she\'s saying it with the carefree attitude of a woman who probably will never have to make that choice to conform.',
+        'Jennifer Armintrout',
     ],
-    '80f8a0fe-fc6a-557d-ae71-7ec595efeadf' => [
-        'No man can succeed in a line of endeavor which he does not like.',
-        'Napoleon Hill',
+    '65623ce6-8400-51ba-b0cb-6f9794b1dd2e' => [
+        'Knowledge is a process of piling up facts; wisdom lies in their simplification.',
+        'Martin Fischer',
     ],
-    'a96c3a99-5ca5-5751-9ed1-3f43f378b77b' => [
-        'The sailor\'s life is at the best a life of danger. He pursues honor on the mountain wave and finds it in the battle and in the storm, and never did more distinguished chivalry display itself than in the conduct of our seamen during the late war.',
-        'John Tyler',
+    'b0401403-b8a2-5d2f-9632-fb4ca3be59a7' => [
+        'Our goal is to make the best devices in the world, not to be the biggest.',
+        'Steve Jobs',
     ],
-    'e5a4e033-449e-5e5c-bd6a-5c8c2205ba4c' => [
-        'Nothing is so strong as gentleness. Nothing is so gentle as real strength.',
-        'Frances de Sales',
+    '3dbb640f-922a-51c7-aaf8-1021926603cd' => [
+        'Success - it\'s what you do with what you\'ve got.',
+        'Woody Hayes',
     ],
-    'faa84b55-6887-539e-ae87-2316cb47aa5c' => [
-        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
-        'Buzz Aldrin',
+    '42836887-5dcf-56d1-9d04-0eee81a36542' => [
+        'My definition of love is being full. Complete. It makes everything lighter. Beauty is something you see. Love is something you feel.',
+        'Sharon Tate',
     ],
-    '3fbed737-8477-5e81-b740-fa2ca16c8872' => [
-        'It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living.',
-        'John C. Maxwell',
+    'd654eff3-9551-5a40-8340-7fe35d4d6dd7' => [
+        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
+        'Mike Vogel',
     ],
-    '2a12a2a5-f7b6-5cdc-8687-95bad1aadbc5' => [
-        'My best friend is the most important girl, outside of family, to me. I met her when I went to college and we bonded immediately. I\'d do anything for her at any time. We phone each other every day.',
-        'Dawn French',
+    '8e999a4b-b3a4-5669-bfea-ed7edc8a917b' => [
+        'If you want small changes in your life, work on your attitude. But if you want big and primary changes, work on your paradigm.',
+        'Stephen Covey',
     ],
-    'cee8a9a6-36bf-56d4-9499-409b44fc4740' => [
-        'When fear rushed in, I learned how to hear my heart racing but refused to allow my feelings to sway me. That resilience came from my family. It flowed through our bloodline.',
-        'Coretta Scott King',
+    '28ff8ac3-e22b-5969-ba68-5bf8e134bc40' => [
+        'The world is getting more connected through technology and travel. Cuisines are evolving. Some people are scared of globalization, but I think people will always take pride in cultural heritage.',
+        'John Mackey',
     ],
-    '86b6461f-2d68-564a-b6d6-f0cd65e91728' => [
-        'I\'m definitely a Polaroid camera girl. For me, what I\'m really excited about is bringing back the artistry and the nature of Polaroid.',
-        'Lady Gaga',
+    '9c3ea30e-96c4-57cd-98b5-0f9bc56e7bd1' => [
+        'The best kids are going to become the best. But the best thing about it is that you\'re going to learn lessons in playing those sports about winning and losing and teamwork and teammates and arguments and everything else that are going to affect you positively for the rest of your life.',
+        'Carl Lewis',
+    ],
+    '5519d98e-5daa-5699-98a7-a7d806a77cc2' => [
+        'I always tell people, \'The music\'s free. I get paid to travel.\'',
+        'Chris Stapleton',
+    ],
+    'fc4f34d2-1636-5690-ba40-2289ef4bb260' => [
+        'I tell everyone in the world that I have always been the best father I could be and that I was the worst husband. Wooo!',
+        'Ric Flair',
+    ],
+    '606c53c8-2321-5f75-b622-162123f01e37' => [
+        'Juvenile crime is not naturally born in the boy, but is largely due either to the spirit of adventure that is in him, to his own stupidity, or to his lack of discipline, according to the nature of the individual.',
+        'Robert Baden-Powell',
+    ],
+    '0f427264-049a-5356-a640-26e918a3eac0' => [
+        'Now that I\'m older, I have a much better appreciation of nature, and I love being alone.',
+        'Gia Coppola',
+    ],
+    '3b0f23d2-b77e-5c68-b8e6-531562d24694' => [
+        'I think women have to change their hairstyle from time to time.',
+        'Yulia Tymoshenko',
+    ],
+    'f1bbc1f1-f4d8-52ec-b39b-a648e19e36cb' => [
+        'Silence is a fence around wisdom.',
+        'German proverb',
+    ],
+    '18682d0e-396c-5306-a2b7-e935bb755fb3' => [
+        'When one side benefits more than the other, that\'s a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust.',
+        'Stephen Covey',
+    ],
+    '744c6708-e4f2-5d79-aa7b-327cdf074b81' => [
+        'I think there are some liberals who are extremely biased about Fox News and wish to shun it or wish to criticize any liberal who appears on Fox News. That, to me, is not a particularly liberal attitude.',
+        'Alan Colmes',
+    ],
+    'b8f82a60-c8b4-575e-8473-eee684ce7864' => [
+        'We can come to look upon the deaths of our enemies with as much regret as we feel for those of our friends, namely, when we miss their existence as witnesses to our success.',
+        'Arthur Schopenhauer',
+    ],
+    '6fecc85d-e37b-5cc0-bc5c-14aaa320fab9' => [
+        'Although I have a lot of close female friends in my life, my number one is still my mom. Without her, I wouldn\'t have the values that I have and see the world the way that I do today. She taught me how to appreciate and respect women. She taught me chivalry and how to love a woman and respect their feelings and emotions.',
+        'Charlotte Whitton',
+    ],
+    '797fcb7d-b8f6-5b85-8642-124613c315f7' => [
+        'I always thought \'chick lit\' meant third-person contemporary funny novels, dealing with issues of the day. I mean, it\'s not the ideal term; when I\'m asked to describe what I do, I say I write romantic comedies, cause that\'s what I feel they are. But I\'m quite pragmatic.',
+        'Sophie Kinsella',
+    ],
+    '1dfcfbe4-db85-50e5-8683-7aa6b85fecb7' => [
+        'The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance.',
+        'Paul Washer',
+    ],
+    '217fbeb9-7edc-5e09-97f4-7585fde86d35' => [
+        'The view of Earth is spectacular.',
+        'Sally Ride',
+    ],
+    '4b24bb13-f39e-5dbc-b830-f513e07d845c' => [
+        'Success is nothing more than a few simple disciplines, practiced every day.',
+        'Jim Rohn',
+    ],
+    'f64a66fe-21d4-5f70-8d93-25728b5eb341' => [
+        'The place to improve the world is first in one\'s own heart and head and hands.',
+        'Robert M. Pirsig',
+    ],
+    '22fb14e8-d0ce-5931-a6f3-55dcdb28da97' => [
+        'With everything that\'s thrown at you, whether it be problems at home, problems at work - whatever - basically, if you remain positive, you can see your way out of that.',
+        'Sean Paul',
+    ],
+    '4c7265cd-332e-59a9-bdb7-2ee53563284c' => [
+        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
+        'Charlie Sifford',
+    ],
+    '6ce02aec-e4b1-523e-bfdb-13e9a16c14fa' => [
+        'I am convinced that material things can contribute a lot to making one\'s life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important.',
+        'Stephen Gardiner',
+    ],
+    'fee86ec7-5930-5542-bd9e-c634742ca5c4' => [
+        'But if each man could have his own house, a large garden to cultivate and healthy surroundings - then, I thought, there will be for them a better opportunity of a happy family life.',
+        'George Cadbury',
+    ],
+    '5d1bf53b-012a-5d49-a0f8-d503c212637e' => [
+        'Millions of us, myself included, go back generations in this country, with ancestors who put in the painstaking work to become citizens. So we don\'t like the notion that anyone might get a free pass to American citizenship.',
+        'Barack Obama',
+    ],
+    'a1413a7b-7cb2-5705-821a-68374c8b502f' => [
+        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
+        'Dan Quinn',
+    ],
+    'f068fe81-b51e-5cb6-a406-4e590c1781f5' => [
+        'Who does not desire such a victory by which we shall join places in our Kingdom, so far divided by nature, and for which we shall set up trophies in another conquered world?',
+        'Alexander the Great',
+    ],
+    '00a65096-a1e5-50c2-9773-a46c38d7ba84' => [
+        'But I am convinced that those Jews who stand aside today with a malicious smile and with their hands in their trousers\' pockets will also want to dwell in our beautiful home.',
+        'Theodor Herzl',
+    ],
+    '3a90f937-0d10-580e-8dc3-7255d475352a' => [
+        'I travel light. I think the most important thing is to be in a good mood and enjoy life, wherever you are.',
+        'Diane von Furstenberg',
     ],
     '5cb26515-4930-530b-adb6-17f2ad95d4ed' => [
         'In the depth of winter I finally learned that there was in me an invincible summer.',
         'Albert Camus',
     ],
-    '074d674a-be23-579e-9a18-e0acc7962eb8' => [
-        'The secret to modern life is finding the measure in time management. I have two kids, career and I travel, and I don\'t think my life is any different than most couples. The most valuable commodity now for many people is time and how to parcel that out.',
-        'Hugh Jackman',
+    '1c9a8f71-b42a-56be-834b-a2d2ac93ac0f' => [
+        'Part of my act is meant to shake you up. It looks like I\'m being funny, but I\'m reminding you of other things. Life is tough, darling. Life is hard. And we better laugh at everything; otherwise, we\'re going down the tube.',
+        'Teri Garr',
     ],
-    '0213fbd3-afed-54f0-bf7b-9f702864ec95' => [
-        'Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. In other words, if we can learn to think about other people in a more positive and realistic way, it will be far easier to resolve conflicts and develop rewarding personal and professional relationships.',
-        'David D. Burns',
+    'dd5e02ca-2ff7-5c01-b564-41ac390f79b8' => [
+        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
+        'Barbara Block',
     ],
-    'bdd984da-a221-5ab2-bc75-24e8fe9da6ed' => [
-        'Thats the risk you take if you change: that people you\'ve been involved with won\'t like the new you. But other people who do will come along.',
-        'Lisa Alther',
+    'a103ca96-d0a6-5dbc-8aca-e9acc5a97ce2' => [
+        'You can learn more from the lows than the highs. The highs are great but the lows make you really look at things in a different way and want to improve. Every player will have both in their careers and I have, but what you get is that experience which is so important to perform at your best.',
+        'Wayne Rooney',
     ],
-    '2c437fa1-76f2-5b6b-8f90-cfaef283ea31' => [
-        'I\'m a painter, really. To be successful, you have to go to Hollywood, and I didn\'t like to travel.',
-        'H. R. Giger',
+    '7d87a74a-8c5d-58fe-b30e-763a43dfbb20' => [
+        'If you drive to, say, Shenandoah National Park, or the Great Smoky Mountains, you\'ll get some appreciation for the scale and beauty of the outdoors. When you walk into it, then you see it in a completely different way. You discover it in a much slower, more majestic sort of way.',
+        'Bill Bryson',
     ],
-    '04759a28-0893-56f2-8a12-f39f8c21fe53' => [
-        'Smile, breathe, and go slowly.',
-        'Thich Nhat Hanh',
+    'e07c2f76-3c1c-5cca-ae68-c6e56ae44a15' => [
+        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
+        'Alek Wek',
     ],
-    '9ce89d56-77a7-5025-8a83-edc31a6c1149' => [
-        'I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.',
-        'Karan Johar',
+    '80cb9fbf-0487-5c7f-b785-51b4e82a7412' => [
+        'Never have more children than you have car windows.',
+        'Erma Bombeck',
     ],
-    '12b1e091-5d75-5ad7-bfbe-150724f5c1ce' => [
-        'It takes half your life before you discover life is a do-it-yourself project.',
-        'Eckhart Tolle',
-    ],
-    'fae5dd35-70ab-5c3e-ae5f-7f623bef6cea' => [
-        'The true treasure lies within. It is the underlying theme of the songs we sing, the shows we watch and the books we read. It is woven into the Psalms of the Bible, the ballads of the Beatles and practically every Bollywood film ever made. What is that treasure? Love. Love is the nature of the Divine.',
-        'Radhanath Swami',
-    ],
-    'f2eb52d9-f5f3-5b09-b55b-985f4d3ef42b' => [
-        'Having contemplated this admirable grove, I proceeded towards the shrubberies on the banks of the river, and though it was now late in December, the aromatic groves appeared in full bloom.',
-        'William Bartram',
-    ],
-    'b212c5df-1a60-52e9-821c-8bc936a2d1e0' => [
-        'When you stop chasing the wrong things, you give the right things a chance to catch you.',
-        'Lolly Daskal',
-    ],
-    '4b28f091-6203-5bc7-836e-ef80fa0bec21' => [
-        'I love Snoop. I worked with him on \'Old School,\' and he\'s very accessible. He\'s very kind. He\'s always nice to everyone, to the crew. He\'s always got something positive to say. He\'s very childlike and loves to come and play. So, I had fun working with him.',
-        'Vince Vaughn',
-    ],
-    '13136a11-25ff-5cb5-8c0b-67c94113d21a' => [
-        'Travel is a lot like love.',
-        'Alain de Botton',
-    ],
-    '292383bd-c304-5c7e-ab37-e2a6d4aafbb0' => [
-        'It\'s been a hard time to celebrate, to come out with a smile. But I\'m an American. Naomi asked me to come out to support other Americans, and here I am.',
-        'Angie Everhart',
-    ],
-    '8ad8b7fa-83ff-52ba-8df7-92e4c6016b3c' => [
-        'Give a little love to a child, and you get a great deal back.',
-        'John Ruskin',
-    ],
-    'fdeb0aff-93c2-5a5b-a603-ad715767ea4b' => [
-        'Success comes to those who have an entire mountain of gold that they continually mine, not those who find one nugget and try to live on it for fifty years.',
-        'John C. Maxwell',
-    ],
-    'a164a38e-2e08-5500-9c14-180b5ef3cdfa' => [
-        'The productivity of work is not the responsibility of the worker but of the manager.',
-        'Peter Drucker',
-    ],
-    '4e6b9be3-26e0-59c6-84f7-d6ee2e39b3a3' => [
-        'Probably the first time I left Italy was to travel by train to Lourdes. I went with my mother and my grandmother - who was a very religious person - so it was a pilgrimage of sorts. I remember it as a very intense, but beautiful experience.',
-        'Andrea Bocelli',
-    ],
-    'e17f4ca1-bab6-5076-a969-0ffbd70248f9' => [
-        'Always desire to learn something useful.',
-        'Sophocles',
-    ],
-    '9d6ed72c-938e-5f30-9e34-96c5392eaf79' => [
-        'I definitely do like change. I don\'t know if my hairstyles reflect that, but I don\'t like the same old thing all the time.',
-        'Cobi Jones',
-    ],
-    'da6a8084-a006-5fec-b8ca-ad804ee68fe5' => [
-        'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
-        'Vicente Fox',
-    ],
-    'f03bc917-7fd8-5fe9-8072-490211a0eb6f' => [
-        'If the machine of government is of such a nature that it requires you to be the agent of injustice to another, then, I say, break the law.',
-        'Henry David Thoreau',
-    ],
-    '4070d10c-bd5f-58d1-8656-da39ee608d81' => [
-        'No one ever said learning was to be easy, but it\'s part of the process of evolving as a human being, and we all have to go through it. When I look back, I see that each difficult time brought an important lesson. And I prefer to look at it with gratitude because I wouldn\'t be who I am today if I haven\'t gone through it all.',
-        'Gisele Bundchen',
-    ],
-    'e86474c1-94c7-5efe-b6c9-9c5bddbed873' => [
-        'We must enforce the laws we have on the books, secure our borders, and deny special benefits to illegal immigrants such as in-state tuition rates. This approach is best for American citizens and is fair to those who have taken the time and effort to go through the legal immigration process.',
-        'Ron DeSantis',
-    ],
-    '6d74798f-f22a-527f-9657-ccec74c3dd82' => [
-        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
-        'William Wordsworth',
-    ],
-    'dc2e4a8a-6050-5c8f-8541-3968a5e7a041' => [
-        'I\'ve never wanted anybody to like me because I had long hair or short hair, or that they liked the way I dressed or they liked the way I dressed or they liked the way I smile.',
-        'David Allan Coe',
-    ],
-    '6dbce0d8-542a-5eef-b0a5-f86e66f42689' => [
-        'Don\'t let the fear of losing be greater than the excitement of winning.',
-        'Robert Kiyosaki',
-    ],
-    '3076e487-0d10-5216-a053-ce79c29c3765' => [
-        'You can\'t please everyone, and you have to trust your instincts, and you have to do your work and throw yourself in there and trust your instincts, and just trust that you\'re doing a good job that I can be proud of as well.',
-        'Matt Ryan',
-    ],
-    '2f86f7fe-5157-597e-be1d-4c4aadb4b9eb' => [
-        'The tax collector must love poor people, he\'s creating so many of them.',
-        'Bill Vaughan',
-    ],
-    '152bab77-eea9-5565-a3a9-e54e3bca8cfb' => [
-        'If I hadn\'t spent many years trying to be as compassionate as Mother Teresa, as positive a thinker as W. Clement Stone, as prolific a writer as Stephen King, and as good a speaker as many of the legends I have studied, I would not be as successful as I am today.',
-        'Jack Canfield',
-    ],
-    '507cca72-00cc-5beb-86b1-8493ea9eeab3' => [
-        'I\'m not a defender of old or new football managers. I believe in good ones and bad ones, those that achieve success and those that don\'t.',
-        'Jose Mourinho',
-    ],
-    '82605630-9431-5f93-86c4-2c7c0fecb103' => [
-        'The first pages of memory are like the old family Bible. The first leaves are wholly faded and somewhat soiled with handling. But, when we turn further, and come to the chapters where Adam and Eve were banished from Paradise, then, all begins to grow clear and legible.',
-        'Max Muller',
+    'a9925656-9a48-5be3-9c8f-c0880be04662' => [
+        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
+        'Srikumar Rao',
     ],
 ];

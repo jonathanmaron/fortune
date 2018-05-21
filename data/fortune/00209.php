@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'b456d189-7890-55ab-946e-98f2a219fed9' => [
-        'While we cannot predict the future, we will most surely live it. Every action and decision we take - or don\'t - ripples into the future. For the first time, we have the capability, the technology, and the knowledge to direct those ripples.',
-        'Jacque Fresco',
-    ],
-    '22f2040c-ad09-5fb3-b807-7c2b89ea0486' => [
-        'I can only control my own performance. If I do my best, then I can feel good at the end of the day.',
-        'Michael Phelps',
-    ],
-    'f77e241a-c8d7-5fec-829f-e6f933b777a8' => [
-        'The saddest thing that can happen to a person is to find out their memories are lies.',
-        "Juan Gabriel V\u{e1}squez",
-    ],
-    '787c502a-c3df-5c72-9f68-9e0790a893e5' => [
-        'How often I found where I should be going only by setting out for somewhere else.',
-        'R. Buckminster Fuller',
-    ],
-    '4c5b5d58-5ac7-59b9-a40c-cec7f51a066d' => [
-        'I believe every chess player senses beauty, when he succeeds in creating situations, which contradict the expectations and the rules, and he succeeds in mastering this situation.',
-        'Vladimir Kramnik',
-    ],
-    '0479a5d0-7534-579c-950f-9e5fd2d6cc36' => [
-        'A happy life is one which is in accordance with its own nature.',
-        'Lucius Annaeus Seneca',
-    ],
-    '919f7129-5e31-5e76-98f2-f04b2e4302fa' => [
-        'I would try to promote something that I loved, and the entire interview would be about my personal life. I would leave a room feeling defeated, feeling embarrassed, but I would always make sure to put that smile on my face because I wasn\'t going to let them get to me.',
-        'Selena Gomez',
-    ],
-    '9dddf511-5a71-5c31-b498-a2ae8c8310c2' => [
-        'It\'s funny: I was a photographer before I was a programmer.',
-        'Kevin Systrom',
-    ],
-    '9c8bd5be-a0f7-555b-99f6-1c123fecab9c' => [
-        'I\'m not funny in person. I mean I\'m really not. I\'m one of those people who always screw up anecdotes.',
-        'Bill Bryson',
-    ],
-    '7c77d6ab-1086-547b-83a8-600d5f2d1264' => [
-        'When I was about five, I gave my heart to Jesus Christ, and since then it\'s just been a stronghold in my life. Really, through the shark attack and all the hard times that my family and I went through, it gave us unity and perseverance to push through all this crazy stuff that we never knew was going to happen.',
-        'Bethany Hamilton',
-    ],
-    '87fd1839-66ba-5779-9697-21030d3b97fd' => [
-        'I\'ve been through natural disasters. I lived down in Miami and was down there for Hurricane Andrew which was a Category 5. There were members of my family that thought they were going to die. Everyone was in the bathtub.',
-        'Dwayne Johnson',
-    ],
-    '44aec7ad-07fc-5187-9077-accfb43ff4f6' => [
-        'Integrity reveals beauty.',
-        'Thomas Leonard',
-    ],
-    'c87dc01f-ab46-5a73-964e-15e7544de44b' => [
-        'Before I started a company, I was an employee with a bad attitude. I was always felt like, bosses are stupid, and people weren\'t well treated.',
-        'Mitch Kapor',
-    ],
-    'fb15ad7f-ab45-509f-a4ae-1decf1915516' => [
-        'It\'s a sad day when a woman being funny and interested in science is considered newsworthy.',
-        'Elise Andrew',
-    ],
-    'd42b84c7-f942-5682-a9f5-3cd4dbe71e04' => [
-        'When a person listens to a good song, and they can look out at the world and their lives and see the dark and the light, the negative and the positive, all the different elements, all come together in one holistic poem, that is a very healing and very reductive thing, and that\'s what my music is about.',
-        'Matisyahu',
-    ],
-    'f2217860-a75b-5f6e-9869-fc1532f8176f' => [
-        'Fashions have done more harm than revolutions.',
+    'a78c4a98-30e5-52c1-8e87-97553b210eab' => [
+        'Great perils have this beauty, that they bring to light the fraternity of strangers.',
         'Victor Hugo',
     ],
-    '782cfff1-32be-5d3f-92a8-7f46f6b3eea5' => [
-        'All men are by nature born equally free and independent.',
-        'George Mason',
+    'ffaafc74-a3cc-59d4-9e9f-5f23ce2c0eba' => [
+        'There is just one life for each of us: our own.',
+        'Jean Nidetch',
     ],
-    '0c46ea3f-11b7-53bd-993f-ce87be16fa85' => [
-        'If I\'m a bad mood, I can\'t go on stage and smile.',
-        'Grimes',
+    '89375662-177c-5662-b13b-a30494202859' => [
+        'Don\'t focus on negative things; focus on the positive, and you will flourish.',
+        'Alek Wek',
     ],
-    'dcbbbeb2-db4b-556f-a577-ca52914e6c01' => [
-        'Pictorial is something that I am not used to. You have to pose, smile, bend your arm, straighten up, look to the left.',
-        'Benigno Aquino III',
+    '534b7f02-8b98-530b-a019-6b272cec4be9' => [
+        'Beauty is produced by the pleasing appearance and good taste of the whole, and by the dimensions of all the parts being duly proportioned to each other.',
+        'Vitruvius',
     ],
-    '1bdc219a-12e6-5778-8266-efa8fa74cd19' => [
-        'A dream is what makes people love life even when it is painful.',
-        'Soren Kierkegaard',
+    '451446e4-edcd-5524-9350-5295b80257a4' => [
+        'Beauty is in the heart of the beholder.',
+        'H. G. Wells',
     ],
-    '35d0511e-cf98-5014-b82d-9ff4e3388512' => [
-        'If you have a fear of flying, don\'t. The data are very clear: If you have to travel someplace, the safest way is by airplane.',
-        'Peter Diamandis',
+    'eee3f69b-604c-5fd7-8db4-07065f0fe708' => [
+        'It takes a lot of work to put together a marriage, to put together a family and a home.',
+        'Elizabeth Edwards',
     ],
-    '44910298-50ae-5b8f-96fc-27f038b460a0' => [
-        'It\'s funny, in a way the actor is a writer. It\'s not like the two things are so separate as to be like apples and oranges. The writer and the actor are one.',
-        'Sam Shepard',
+    'ffdb2c9d-c9d3-50c2-b5f5-83e2d480488f' => [
+        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
+        'Joe Paterno',
     ],
-    '1aba50c5-8d2a-5a60-8f15-8e007011fd13' => [
-        'Watching movies in the U.S. is great fun because they get every joke, they smile, they laugh so much; it\'s a great feeling.',
-        'Jet Li',
+    '686b6e77-4f5c-5399-b07a-ffed36d8a845' => [
+        'The traditional Christian attitude toward human personality was that human nature was essentially good and that it was formed and modified by social pressures and training.',
+        'Carroll Quigley',
     ],
-    'be035c1d-6400-5db3-be80-38526272310a' => [
-        'We should all be thankful for those people who rekindle the inner spirit.',
-        'Albert Schweitzer',
+    'fe3adb65-d21b-5d4f-902a-6806daf6c12a' => [
+        'The travel and tourism industry, it\'s just a huge part of our economy.',
+        'Karen Hughes',
     ],
-    'adecba2a-1c35-5a86-a2c3-af2edccc9b99' => [
-        'When you\'re in love it\'s the most glorious two and a half days of your life.',
-        'Richard Lewis',
+    'e4871fac-db1a-50c5-8de4-b29f2c4eaacb' => [
+        'Beauty, to me is about being comfortable in your own skin.',
+        'Gwyneth Paltrow',
     ],
-    'be738b12-63b3-59b6-b608-ac23f1ef948d' => [
-        'Beauty is variable, ugliness is constant.',
-        'Douglas Horton',
+    'cb1529a9-fc46-55cf-9e3f-c0561b1ff009' => [
+        'When I started in the late nineties, it was all about young Hollywood. There were jobs for all of us if you were 18 to 21, were slightly good looking, or could be funny.',
+        'Chris Klein',
     ],
-    'ac5eeb93-0970-50cb-b748-a0586e111134' => [
-        'Going to a restaurant is one of my keenest pleasures. Meeting someplace with old and new friends, ordering wine, eating food, surrounded by strangers, I think is the core of what it means to live a civilised life.',
-        'William Feather',
+    'cf61a2a2-e694-5226-8543-a02a76acdd66' => [
+        'Love is what really fuels you, and that goes for relationships with a spouse or with family. Love is a beautiful thing.',
+        'Christina Milian',
     ],
-    '78c5a213-4bca-5f0f-aad1-d87e2060204c' => [
-        'I was so naive as a kid I used to sneak behind the barn and do nothing.',
-        'Johnny Carson',
+    'be282d56-36d2-503f-8e56-41e4af2843d2' => [
+        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
+        'Wadah Khanfar',
     ],
-    '491b2fdb-f9bd-5984-9a54-ae67d74e00eb' => [
-        'Clock watchers never seem to be having a good time.',
-        'James Cash Penney',
+    'ec73deec-9f6c-5041-8cde-7fd3f5e751eb' => [
+        'The Law of Divine Compensation posits that this is a self-organizing and self-correcting universe: the embryo becomes a baby, the bud becomes a blossom, the acorn becomes an oak tree. Clearly, there is some invisible force that is moving every aspect of reality to its next best expression.',
+        'Marianne Williamson',
     ],
-    'e8b6189b-e15f-5d75-a1d9-d25bbe09db62' => [
-        'When you are enthusiastic about what you do, you feel this positive energy. It\'s very simple.',
-        'Paulo Coelho',
+    '58769772-3724-5984-ad81-89d93b3876f9' => [
+        'Success is the child of audacity.',
+        'Benjamin Disraeli',
     ],
-    'd2a560e4-19e7-5987-b2a6-33f63cd3310d' => [
-        'Sometimes the best way to solve your own problems is to help someone else.',
-        'Iroh',
+    'ad7e6011-7955-5dee-b33c-5267dfc423c0' => [
+        'Exuberance is beauty.',
+        'William Blake',
     ],
-    'ee071bfc-83fa-59ce-b5c6-36e6a5c75ea7' => [
-        'What we observe is not nature itself, but nature exposed to our method of questioning.',
-        'Werner Heisenberg',
+    '10cedf16-e506-5fa7-adbc-daf9112ec90a' => [
+        'Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too.',
+        'Jimmy Buffett',
     ],
-    '35908629-0031-569d-bed1-c07bf47f3078' => [
-        'Learn all you can from the mistakes of others. You won\'t have time to make them all yourself.',
-        'Alfred Sheinwold',
+    'f368ceb6-c3a1-5007-a7cb-46779390ffeb' => [
+        'Long before we understand ourselves through the process of self-examination, we understand ourselves in a self-evident way in the family, society and state in which we live.',
+        'Hans-Georg Gadamer',
     ],
-    '5a4674c9-42c6-56e8-acce-aebf021ccc70' => [
-        'Our behavior toward each other is the strangest, most unpredictable, and most unaccountable of all the phenomena with which we are obliged to live. In all of nature, there is nothing so threatening to humanity as humanity itself.',
-        'Lewis Thomas',
+    '4748e62f-5c48-5555-81ec-e45cd51980ad' => [
+        'I look at it like this: that if Shakespeare were alive today, he would have written two or three plays about the Kennedy family, and actors would traditionally play JFK like they Hamlet or King Lear. They just would. I mean, people have played JFK, and they\'ll play him long after I have.',
+        'Rob Lowe',
     ],
-    '0c7629e9-7365-5656-b3aa-740602d581bb' => [
-        'When you encourage others, you in the process are encouraged because you\'re making a commitment and difference in that person\'s life. Encouragement really does make a difference.',
-        'Buddha',
+    'e40cfbcc-c3bb-5c21-b974-da06b2ece696' => [
+        'In some parts of the world, students are going to school every day. It\'s their normal life. But in other part of the world, we are starving for education... it\'s like a precious gift. It\'s like a diamond.',
+        'Jackee Harry',
     ],
-    '9f58dbdf-7d9c-51b3-81a7-b98d76b5d9e9' => [
-        'Love is a strange emotion. It is ever evolving. Lust is transient. With time, one realizes that love and togetherness are two different things. Very few people are lucky enough to experience the two emotions simultaneously.',
-        'Randeep Hooda',
+    '46fadf62-1fb7-58bd-8b70-80a1a233dac6' => [
+        'There are no shortcuts to victory. We must commit ourselves to the slow, painstaking work of foreign policy day by day and year by year.',
+        'Richard Lugar',
     ],
-    '53883509-6a56-5c8c-9e57-a6c51060bca9' => [
-        'Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.',
-        'Tony Robbins',
+    '70023e2c-74e0-57bb-87fa-4439cedd1f5c' => [
+        'After all is said and done, sit down.',
+        'Bill Copeland',
     ],
-    'b4941696-248b-5a04-9db4-2b4427cea4fd' => [
-        'Power is always dangerous. Power attracts the worst and corrupts the best.',
-        'Edward Abbey',
+    '56a18a1b-a874-50b4-b2ba-43302f4da541' => [
+        'I\'m just trying to be the me that I am and not all of this other crap. I just want to be the family man, and if somehow I can make the money to get my ranch and get the hell away from everybody else, that would be awesome.',
+        'Chris Kyle',
     ],
-    '39f55573-4dee-5eb8-b5d5-ad33fca6dafe' => [
-        'Isn\'t that the great thing about Christmas? You get a lot of respite, time to recharge your batteries, time with family without too much else happening anywhere else in the world, time to focus on the people you love and the activities that you enjoy, time to exercise, to read.',
-        'Wayne Swan',
+    '6669d0db-c18b-5038-acc3-4e72923f46e3' => [
+        'Encourage good music and art and literature in your homes. Homes that have a spirit of refinement and beauty will bless the lives of your children forever.',
+        'Ezra Taft Benson',
     ],
-    'dbcfb54a-30e9-536a-af8e-652ed39eb177' => [
-        'I have this theory that, depending on your attitude, your life doesn\'t have to become this ridiculous charade that it seems so many people end up living.',
-        'Christian Bale',
+    'ebf36fa5-154b-5d37-81af-f2d20bc1e47e' => [
+        'Every man regards his own life as the New Year\'s Eve of time.',
+        'Emily Dickinson',
     ],
-    'b0e47da9-2094-5bba-8bb2-48142ce14b94' => [
-        'The best part about being alone is that you really don\'t have to answer to anybody. You do what you want.',
-        'Justin Timberlake',
+    '6e598df3-d4a6-5cf7-a1da-2af02d9e06a2' => [
+        'The cool wind blew in my face and all at once I felt as if I had shed dullness from myself. Before me lay a long gray line with a black mark down the center. The birds were singing. It was spring.',
+        'Burl Ives',
     ],
-    '2481a074-24fc-54e6-a99a-30e7c0669307' => [
-        '\'Do What You Gotta Do\' is a positive, inspirational song that says no matter what it is; whether you\'re up against challenges or trying to get your dreams and aspirations met, you should do what whatever you have to do shy of killing yourself or someone else.',
-        'Angie Stone',
+    'd35f1180-01f8-53a1-a12c-6fe0596dcce7' => [
+        'No masterpiece was ever created by a lazy artist.',
+        'Unknown',
     ],
-    'fc5698ef-885b-5b15-a9ce-b96fd8479d0f' => [
-        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.',
-        'Alexander Hamilton',
+    '11dd0587-8e3c-54b2-b223-e1a8236930a6' => [
+        'I love not man the less, but Nature more.',
+        'Lord Byron',
     ],
-    '6fa656d9-2049-5eac-8959-d698fd9f1071' => [
-        'I\'m a very driven, ambitious, positive person. But I\'m a spiritual person as well.',
-        'Victoria Beckham',
+    '8afe1176-f95b-5cf7-a27f-575efb42f59c' => [
+        'There is in the DNA of the Italians a bit of madness, which in the overwhelming majority of cases is positive. It is genius. It is talent. It\'s the masterpieces of art. It\'s the food, fashion, everything that makes Italy great in the world.',
+        'Matteo Renzi',
     ],
-    'a5b9964c-48ac-504c-b8b8-3b5267d745c6' => [
-        'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
-        'Mark Twain',
+    '5fe1c8e1-98b2-556f-9ac2-da3f605f5552' => [
+        'Your best creative assets do not occur unless you do a mental shift. You have to be in a positive frame of mind because inspiration is fleeting. I walk to work for inspiration and to clear my mind.',
+        'Ron Ben-Israel',
     ],
-    '0453c69b-a861-52b3-ad72-4b7b54e5bf75' => [
-        'Family life is fragmenting in this modern age, but it\'s up to all of us to keep it together.',
-        'Mary Berry',
+    'd4cbda63-f978-5475-bc75-40ab543d7d73' => [
+        'I would encourage you to set really high goals. Set goals that, when you set them, you think they\'re impossible. But then every day you can work towards them, and anything is possible, so keep working hard and follow your dreams.',
+        'Katie Ledecky',
     ],
-    '6145f436-336c-5e41-81ea-4d9693947825' => [
-        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
-        'Shameik Moore',
+    '40c1a59b-e8e1-53d1-bdfa-6763a0084df9' => [
+        'Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?',
+        'Billy Graham',
     ],
-    '71ed2acc-e596-559c-a0d2-c83783700878' => [
-        'I have often said that the lure of flying is the lure of beauty.',
-        'Amelia Earhart',
+    'f8741ecb-6146-57e4-ac6d-5c2462283351' => [
+        'Life is short and the older you get, the more you feel it. Indeed, the shorter it is. People lose their capacity to walk, run, travel, think, and experience life. I realise how important it is to use the time I have.',
+        'Viggo Mortensen',
     ],
-    'fd44db77-5188-5dc2-82eb-e25f3a4906c0' => [
-        'Communication is a skill that you can learn. It\'s like riding a bicycle or typing. If you\'re willing to work at it, you can rapidly improve the quality of evry part of your life.',
-        'Brian Tracy',
+    '27ae3440-2da9-5ba6-90fa-52df7ae0c6ee' => [
+        'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn\'t deliver the goods.',
+        'John Maynard Keynes',
     ],
-    '2bfd8295-8a45-51c1-b0c2-ed3494e38886' => [
-        'You wanna know what scares people? Success. When you don\'t make moves and when you don\'t climb up the ladder, everybody loves you because you\'re not competition.',
-        'Nicki Minaj',
+    '4d93a208-e287-54ec-98c3-8cdb144d14b2' => [
+        'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
+        'Mark Caine',
+    ],
+    'd5154f4b-5763-5262-9a39-4e5ab4ae1403' => [
+        'It is even harder for the average ape to believe that he has descended from man.',
+        'H. L. Mencken',
+    ],
+    '99f66b08-fba3-5125-ade9-cadaadf5b1d1' => [
+        'Work gives you meaning and purpose and life is empty without it.',
+        'Stephen Hawking',
+    ],
+    '28ab378c-ef3a-53bd-bd9a-2e41672e1054' => [
+        'If one is master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.',
+        'Vincent Van Gogh',
+    ],
+    '12cdc571-a45b-5c87-bf71-59daadd783ee' => [
+        'When you love someone, the best thing you can offer is your presence. How can you love if you are not there?',
+        'Thich Nhat Hanh',
+    ],
+    '24a0bc36-bb52-55c8-b071-dd8257c3947b' => [
+        'We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.',
+        'Anthony Davis',
+    ],
+    '89a0bb9a-bd2e-5b51-9ccd-d55a9d000124' => [
+        'Every exit is an entry somewhere else.',
+        'Tom Stoppard',
+    ],
+    'f317a411-5f74-5bd0-8f5b-6e6e23af6467' => [
+        'Laziness may appear attractive, but work gives satisfaction.',
+        'Anne Frank',
+    ],
+    '94e7eef2-0241-5730-9670-07dce7b889c2' => [
+        'For myself, personally, I am never really aware of timing or anything because I am passionate about what I do, so I have found that if you really love what you do, then time flies.',
+        'Colm Wilkinson',
+    ],
+    '6052e2be-0e3b-5ea2-b627-4745d3f851c2' => [
+        'Beauty deprived of its proper foils and adjuncts ceases to be enjoyed as beauty, just as light deprived of all shadows ceases to be enjoyed as light.',
+        'John Ruskin',
+    ],
+    'ce41b55a-7600-5016-b939-28f403197abf' => [
+        'Travel can be one of the most rewarding forms of introspection.',
+        'Lawrence Durrell',
+    ],
+    'a46d9100-8ccd-5c7e-be9b-256afc076522' => [
+        'An investment said to have an 80% chance of success sounds far more attractive than one with a 20% chance of failure. The mind can\'t easily recognize that they are the same.',
+        'Daniel Kahneman',
+    ],
+    '1dc557a8-b7a3-591c-ad96-e86cdcf26815' => [
+        'Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.',
+        'Carl Jung',
+    ],
+    '5c28e43e-8403-5059-8357-d3e79f5523b2' => [
+        'I was lucky. My family is wonderful. And it\'s funny, because most of my best friends come from very large families. So it always felt as if I had lots of siblings, though in the end I had to leave them and go home. I kind of got the best of both worlds as a kid.',
+        'Sophia Bush',
+    ],
+    'acdb4f92-ba91-58a4-b5bb-6ac4111d5a0c' => [
+        'How did it get so late so soon? Its night before its afternoon. December is here before its June. My goodness how the time has flewn. How did it get so late so soon?',
+        'Dr. Seuss',
+    ],
+    'be50a4ae-4436-5411-8410-39e727f22b60' => [
+        'Autumn\'s the mellow time.',
+        'William Allingham',
     ],
 ];

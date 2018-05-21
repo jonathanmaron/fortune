@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'cf3e99e9-ffaa-56b0-b210-c80ea2d4417f' => [
-        'Man, being reasonable, must get drunk; the best of life is but intoxication.',
-        'Lord Byron',
+    '76eab6b2-072c-57b5-8a81-15adfeed3baf' => [
+        'If you want your life to be more rewarding, you have to change the way you think.',
+        'Oprah Winfrey',
     ],
-    '135b7606-3f8b-5368-a045-148b5f783f48' => [
-        'I\'ve had to listen to candidates tell me they are the most wonderful thing since the invention of sliced bread, and it bores me to death. It also makes me doubt that they are actually any good at all - plus it\'s an attitude that would never fly in the culture I\'ve created in my company.',
-        'John Rampton',
+    '036369b0-2753-5df4-a0d9-43f84f22c0be' => [
+        'I did this role in Life Goes On as an HIV positive character and so emotionally that was the most challenging.',
+        'Chad Lowe',
     ],
-    '792aeadf-93d7-50dd-bbeb-719f53c7a62b' => [
-        'I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.',
-        'Elizabeth Montagu',
+    'e2519321-2691-5cd4-a583-f299959c76b6' => [
+        'Parks are idealizations of nature, but nature in fact is not a condition of the ideal.',
+        'Robert Smithson',
     ],
-    'fb425726-d963-55a4-a855-80adfafc0491' => [
-        'I never knew a man come to greatness or eminence who lay abed late in the morning.',
-        'Johnathan Swift',
+    '52a5ce1a-99cc-54b8-83c5-65f93448ccde' => [
+        'As soon as you \'Botox\' your smile lines away, you lose part of your identity.',
+        'Nigel Barker',
     ],
-    'f81de1c7-d82c-5f54-b9d5-838ff64ad0d7' => [
-        'People is, I think, it\'s their nature - some people\'s nature, in a way, to be angry or jealous or just spiteful about somebody else\'s blessings.',
-        'Jill Scott',
+    '140df663-0db1-5f83-b5bd-0aa04838408d' => [
+        'If you cannot get rid of the family skeleton, you may as well make it dance.',
+        'George Bernard Shaw',
     ],
-    '0743de73-892e-52ba-9408-6eef787da6da' => [
-        'From my tribe I take nothing, I am the maker of my own fortune.',
-        'Tecumseh',
+    'c7466fd7-45ac-5777-af3b-be912c5b9b0e' => [
+        'Donald Evans is a favorite person of mine. His worth ethic, his attitude and his dedication really set him apart.',
+        'Joe Greene',
     ],
-    '78604734-043f-5de4-80cc-ec0dff214d6c' => [
-        'For most people, we often marvel at the beauty of a sunrise or the magnificence of a full moon, but it is impossible to fathom the magnitude of the universe that surrounds us.',
-        'Richard H. Baker',
-    ],
-    'ce4deeb5-d937-564c-a142-cb4ff533793c' => [
-        'Never be ashamed of what you feel. You have the right to feel any emotion that you want, and to do what makes you happy. That\'s my life motto.',
-        'Nelson Mandela',
-    ],
-    'ad912f55-c7f9-5a15-a2dc-ac3552feb19c' => [
-        'We travel, some of us forever, to seek other states, other lives, other souls.',
-        'Anais Nin',
-    ],
-    'd3499b33-d50c-51fa-8402-84a84d7bdbdd' => [
-        'Without faith, nothing is possible. With it, nothing is impossible.',
-        'Mary Bethune',
-    ],
-    'dffc0195-243a-5f51-bba5-722e368f9d8d' => [
-        'People get a little bolder and more wild in summer. You\'ve got things going on kabobs, things cooking on the bone. There\'s something about standing over a grill or outside with the family that inspires us.',
-        'Guy Fieri',
-    ],
-    'dfc6126a-a7f1-58fb-ab24-9e70ef69e5a2' => [
-        'Anybody can make history. Only a great man can write it.',
-        'Oscar Wilde',
-    ],
-    'ca14817e-b7c8-5a08-bf57-8ea5e420cb77' => [
-        'Life changes when you have a child, when you have your own family. You become more careful about what you do. You\'re not going to be out late, going out to clubs, hanging out with your friends. You\'re going to be at home, taking care of your daughter, playing with her.',
-        'Mohammed bin Rashid Al Maktoum',
-    ],
-    '72cef2af-bfff-5785-9ae4-ebfe7f7cb752' => [
-        'If you know your goal and work for it you will reach the peak.',
-        'Jounayet Rahman',
-    ],
-    '3319e0f4-b50d-5c0d-abf3-3705ff7f7bdf' => [
-        'Silence is true wisdom\'s best reply.',
-        'Euripides',
-    ],
-    '2c4c297b-234e-5c79-b3a0-2ec08c163d77' => [
-        'Unemployment insurance, abolishing child labor, the 40-hour work week, collective bargaining, strong banking regulations, deposit insurance, and job programs that put millions of people to work were all described, in one way or another, as \'socialist.\' Yet, these programs have become the fabric of our nation and the foundation of the middle class.',
-        'Bernie Sanders',
-    ],
-    '0dd737f6-836a-5039-a270-d810dca9c5a0' => [
-        'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.',
-        'Pauline Kael',
-    ],
-    '487fe75c-9c18-523e-b50b-d401f8256df9' => [
-        'Success is the space one occupies in the newspaper. Success is one day\'s insolence.',
-        'Elias Canetti',
-    ],
-    'e33056c2-44d8-534d-a536-b53522d2c80a' => [
-        'The funny thing about war is that people feel you need to be morally outraged. I feel morally outraged about it, and I\'ve been doing it for long enough to feel morally outraged, because I have been in massacre scenes in West Africa, and I\'ve been doing this for a long time now.',
-        'Tim Hetherington',
-    ],
-    '364ea063-871d-5445-a09f-d256f0e3c4e5' => [
-        'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.',
-        'Theodore Roosevelt',
-    ],
-    'f7a51691-cb37-563f-8b56-d278feca5a03' => [
-        'The greatest pleasure of life is love.',
-        'Shailene Woodley',
-    ],
-    'c6adfb6c-5f4a-5724-a530-215e7eedc45d' => [
-        'Nothing strengthens authority so much as silence.',
-        'Leonardo da Vinci',
-    ],
-    '1d034dd6-0195-5fc5-b4e7-d2e05ad2219f' => [
-        'You must accept that you might fail; then, if you do your best and still don\'t win, at least you can be satisfied that you\'ve tried. If you don\'t accept failure as a possibility, you don\'t set high goals, you don\'t branch out, you don\'t try - you don\'t take the risk.',
-        'Rosalynn Carter',
-    ],
-    'f7f0b1e7-2abe-58e7-9d9a-0340cf64811c' => [
-        'A friend may well be reckoned the masterpiece of nature.',
-        'Ralph Waldo Emerson',
-    ],
-    'd64c9417-69ef-532d-b450-836fbe30f003' => [
-        'I did the best I could, and in some arenas, my best was not good enough. I\'ve made some bad choices.',
-        'Amy Grant',
-    ],
-    '24fb82fb-ebf7-5aa1-9581-ba9ddbcb540a' => [
-        'This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.',
-        'Thomas Carlyle',
-    ],
-    '3e0c6cb9-a35d-53f5-8d79-3f4574fb01ce' => [
-        'More people smile at me now I\'m richer.',
-        'Mo Ibrahim',
-    ],
-    '2342d53c-ea53-52b8-8ea0-c872a96b9485' => [
-        'I often say that poverty needs no passport to travel.',
-        "\u{d3}scar Arias",
-    ],
-    '3b4f3b99-61a2-580e-98c2-0d1efffa1e76' => [
-        'The central conservative truth is that it is culture, not politics, that determines the success of a society. The central liberal truth is that politics can change a culture and save it from itself.',
-        'Daniel Patrick Moynihan',
-    ],
-    '61eae854-175c-5495-8ee4-ff7c75b9ac81' => [
-        'It pays to cultivate popularity. It doubles success possibilities, develops manhood, and builds up character.',
-        'Orison Swett Marden',
-    ],
-    '96fe4b3c-9748-5560-b71c-66e18cf5dbf3' => [
-        'Despair and disappointment are the parent of countless inspired, inspiring, triumphant creations.',
-        'Rasheed Ogunlaru',
-    ],
-    'd43a03ca-066c-5c81-9521-113b65d9b0b7' => [
-        'I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.',
-        'Georgia O\'Keeffe',
-    ],
-    'fa0199b2-bbc4-546a-b4d0-ee2560d5db36' => [
-        'My appearances are almost theatrical performances. I bring items for the children to see, such as photographs and actual piece of meteorite, a family quilt, sometimes spectacles, sometimes clothing, so that they can understand what I write about is family stories based in fact.',
-        'Patricia Polacco',
-    ],
-    '5b111565-01fb-503d-abe8-af2d62d43461' => [
-        'Be gentle first with yourself if you wish to be gentle with others.',
-        'Lama Yeshe',
-    ],
-    'cb62b263-bada-5671-a603-ff9fbf673e78' => [
-        'If you are given a chance to be a role model, I think you should always take it because you can influence a person\'s life in a positive light, and that\'s what I want to do. That\'s what it\'s all about.',
-        'Tiger Woods',
-    ],
-    '67278233-2ff4-535a-b69b-fb05377526e3' => [
-        'I still get wildly enthusiastic about little things... I play with leaves. I skip down the street and run against the wind.',
-        'Leo Buscaglia',
-    ],
-    '49bccbe1-7849-5950-8594-b64be5cd4ede' => [
-        'Cats are the runes of beauty, invincibility, wonder, pride, freedom, coldness, self-sufficiency, and dainty individuality - the qualities of sensitive, enlightened, mentally developed, pagan, cynical, poetic, philosophic, dispassionate, reserved, independent, Nietzschean, unbroken, civilised, master-class men.',
-        'H. P. Lovecraft',
-    ],
-    'f4943b3a-3362-5b02-9fcb-a2a410bac82b' => [
-        'I\'m someone who loses 80 to 90 percent of the time. Even when I lost, I put my body on the line and I told the best story. If I stood out, if my attitude towards fighting was different, I found a way to stay around and keep revamping myself and my character.',
-        'Dolph Ziggler',
-    ],
-    'c964fc81-85e3-54ad-9729-82305390c813' => [
-        'To send light into the darkness of men\'s hearts - such is the duty of the artist.',
-        'Schumann',
-    ],
-    'bbb6c578-a66e-5d2e-bf1b-9ffd18106011' => [
-        'We all have a social mask, right? We put it on, we go out, put our best foot forward, our best image. But behind that social mask is a personal truth, what we really, really believe about who we are and what we\'re capable of.',
-        'Phil McGraw',
-    ],
-    'fde164c4-e7e0-5407-b4f5-4e5f0d763c61' => [
-        'At home in Ireland, there\'s a habit of avoidance, an ironical attitude towards the authority figure.',
-        'Seamus Heaney',
-    ],
-    '3d2ed2af-d3f1-55b8-9a4a-9b4b5c0f0790' => [
-        'The essential element of successful strategy is that it derives its success from the differences between competitors with a consequent difference in their behavior.',
-        'Bruce Henderson',
-    ],
-    '63779ec0-02ac-58be-914d-da190748c00b' => [
-        'No day in which you learn something is a complete loss.',
-        'David Eddings',
-    ],
-    '771bb7c3-d65a-590f-9879-1c1e51cf216d' => [
-        'All our dreams can come true if we have the courage to pursue them.',
+    '73bd16a4-68e8-5222-be3a-ae0facc0f41c' => [
+        'Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.',
         'Walt Disney',
     ],
-    '5ed77792-1c15-5321-9d7f-15df44644ca1' => [
-        'I can walk into a room and create a good ambience. I was taught all about this back when I studied acting. One of the things they would teach you is how to send out positive signals when you enter a room. I am glad I learned this.',
-        'Jean Reno',
+    'fd4dc187-7dfa-5983-bf55-9263813e464d' => [
+        'America\'s trying to do the best for its veterans.',
+        'R. Lee Ermey',
     ],
-    'ceae8775-5b24-5b15-9f4e-7ed5569fbf85' => [
-        'Lord, grant that I may always desire more than I can accomplish.',
-        'Michelangelo',
+    '51927ffb-286a-50af-8d25-2d15b0cd180f' => [
+        'Happiness is the natural flower of duty.',
+        'Phillips Brooks',
     ],
-    '8ec986f6-6ccf-59c7-a2d6-880779432a6e' => [
-        'Pain is temporary. Quitting lasts forever.',
-        'Lance Armstrong',
+    '079599a3-2ce9-5a43-b3df-f8fa08bafffc' => [
+        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
+        'Georg Baselitz',
     ],
-    '0e35f15e-a1f9-5250-bef6-aade40e0e154' => [
-        'Clever men are good, but they are not the best.',
-        'Thomas Carlyle',
+    '9ab01877-27ca-5faa-87be-be95ed9c1960' => [
+        'One time I went into a restroom and a girl followed me in. I signed an autograph for her in the sink. It was pretty funny because she was in a guy\'s restroom and she wasn\'t embarrassed at all.',
+        'Zac Efron',
     ],
-    '4ec6e851-01eb-57d2-974f-187c17496c22' => [
-        'Johnny Colt is a character, and most people in Lynyrd Skynyrd are characters, so he fits in great with us. He\'s got an attitude, man, and I love it, and that\'s what we need.',
-        'Johnny Van Zant',
+    'af6fde5e-123d-5afd-acbb-7142cd9df548' => [
+        'Spirituality is not a formula; it is not a test. It is a relationship. Spirituality is not about competency; it is about intimacy. Spirituality is not about perfection; it is about connection. The way of the spiritual life begins where we are now in the mess of our lives.',
+        'Steve Buyer',
     ],
-    '960fb41d-3f5b-5621-8a04-2c7547338119' => [
-        'I have always argued that change becomes stressful and overwhelming only when you\'ve lost any sense of the constancy of your life. You need firm ground to stand on. From there, you can deal with that change.',
-        'Richard Nelson Bolles',
+    'c9233cd6-863f-58e4-847d-63ff3672496a' => [
+        'When I go to a bar, I don\'t go looking for a girl who knows the capital of Maine.',
+        'David Brenner',
+    ],
+    'eba4455a-6bc4-57a5-b9a9-2f91cf1830cb' => [
+        'Being in Blur has allowed me to travel and hear the music that\'s being made all over the world.',
+        'Damon Albarn',
+    ],
+    '05365378-1e6b-5aca-90a0-f994fce30e38' => [
+        'Today is your own. Tomorrow perchance may never come.',
+        'Helen Keller',
+    ],
+    '22b895a5-bfd5-5cfb-8170-940223f540d9' => [
+        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
+        'James Lane Allen',
+    ],
+    '35d0511e-cf98-5014-b82d-9ff4e3388512' => [
+        'If you have a fear of flying, don\'t. The data are very clear: If you have to travel someplace, the safest way is by airplane.',
+        'Peter Diamandis',
+    ],
+    'f5cd6920-9252-5223-8ff5-42025d7cc72d' => [
+        'It\'s pretty scary to know how quickly time flies.',
+        'James Wan',
+    ],
+    '947fd598-97e5-536f-80a1-66a38b983e86' => [
+        'Knowledge has three degrees, opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.',
+        'Plotinus',
+    ],
+    '84dbddbe-3fd2-5f54-83c0-b36624f977c7' => [
+        'I think people are so immersed in the anti-Scientology mindset by consuming tabloid media and stories about space aliens. It\'s baffling. When I say I want to see a more positive side of the church, all I\'m saying is I want to get past these headlines that talk about aliens and Tom Cruise jumping on a sofa.',
+        'Louis Theroux',
+    ],
+    '76b627fa-7186-56fd-bc85-72fb80ff434c' => [
+        'For \'Fright Night,\' we really want to convey the fun attitude of the movie and show the intensity of Colin Farrell as a predator. He\'s not a brooding vampire - he\'s dark and dangerous.',
+        'Stacey Snider',
+    ],
+    '5b86ea46-fd70-5c0c-a441-8f1d97fbab97' => [
+        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
+        'Neil deGrasse Tyson',
+    ],
+    '7d941f1a-979c-5602-9d58-ab2aacf5128d' => [
+        'Sometimes I feel an obligation to be accessible as a personality, but for me the driving force since the beginning has always been good work, taking risks, trying new things. If the door opens, go through it. Always go forwards.',
+        'David Soul',
+    ],
+    '3677a57c-4b4b-5d46-9bf6-abe8aa903185' => [
+        'Give light and people will find the way.',
+        'Ella Baker',
+    ],
+    '1cd13737-0871-5926-8fbe-b9537c0d4095' => [
+        'Time is generally the best doctor.',
+        'Ovid',
+    ],
+    '87d50790-8813-532d-bf0e-74275003bd8b' => [
+        'Some people dream of success, while other people get up every morning and make it happen.',
+        'Wayne Huizenga',
+    ],
+    'c6dcb8cd-dd73-577a-8fff-1ee70d942f83' => [
+        'I rant, therefore I am.',
+        'Dennis Miller',
+    ],
+    'd71b9748-5ce1-5a01-a860-67b06f8ec1b8' => [
+        'There is no shame in making an honest effort.',
+        'Epictetus',
+    ],
+    '573072fe-fb2a-50b2-b9d2-66b422999b88' => [
+        'Drawing on my fine command of the English language, I said nothing.',
+        'Robert Benchley',
+    ],
+    '1596eee5-a30c-5b9b-947e-d3f8bf8f3dcd' => [
+        'I believe that in life, you have to give things your best shot, do your best. You have to focus on what needs to be done, do the right thing, not the popular thing.',
+        'David Cameron',
+    ],
+    'a14d74a5-e812-5352-9284-54e5d609461a' => [
+        'People might not get all they work for in this world, but they must certainly work for all they get.',
+        'Frederick Douglass',
+    ],
+    'b508e8d5-f368-5fb0-bfe3-2bd2dc57410b' => [
+        'All I really need to know... I learned in kindergarten.',
+        'Thomas Merton',
+    ],
+    '574c1af7-af72-523b-92aa-c7b01a5c8bf2' => [
+        'If you dream of something worth doing and then simply go to work on it and don\'t think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps.',
+        'Edwin Land',
+    ],
+    'bae3e52f-cb41-5cde-8312-a009195d9e4a' => [
+        'In terms of my marriage, you know, falling in love with my husband was by far the best thing that\'s ever happened to me.',
+        'Caroline Kennedy',
+    ],
+    'c4c8eacf-a693-5080-a0a3-e10f2cbf634a' => [
+        'I try to not work too many Sundays. At least on Sunday nights, I try to chill out a little bit. I call it Sunday Funday.',
+        'Miley Cyrus',
+    ],
+    '3c416e7f-7eac-5fe9-870e-6d3d0ec8d8e1' => [
+        'It\'s so different when you change your hair color, you\'re treated so differently. It\'s a very funny experience. It\'s fun - I love changing up my hair.',
+        'Kate Bosworth',
+    ],
+    'af9b7a21-2a41-5b20-b0b3-5b705af23c7d' => [
+        'I found that being with happy positive people annoys me.',
+        'Karl Pilkington',
+    ],
+    '4042e996-060b-5c23-8318-7507a31b5844' => [
+        'To me, success in the job is setting a vision, guiding an organization through change - which is exactly what I did at Digitas, and I\'m very proud of that - and bringing people together and with you. That, to me, is what it takes to be successful.',
+        'Laura Lang',
+    ],
+    '70452151-ac1c-5f58-96b5-daa48fe8ca79' => [
+        'All the art of living lies in a fine mingling of letting go and holding on.',
+        'Juan Pablo Galavis',
+    ],
+    '6ebaadd9-fe89-5338-9174-a455ee4cb4c7' => [
+        'We come in many different shapes and sizes, and we need to support each other and our differences. Our beauty is in our differences.',
+        'Carre Otis',
+    ],
+    'd6a78164-2efc-502f-b3f3-5cbd307d85a3' => [
+        'The best way to get anybody\'s attention is dinner. I have good kitchen skills and good grocery shopping skills.',
+        'Al Roker',
+    ],
+    '22acedf2-7876-56f5-a49f-0acbbcea4e03' => [
+        'I\'m happy that the sacrificing, the hard training, the travel, the time being away from the family, is going to stop. So I\'m happy; I\'m glad about that. But I\'m also terrified. Frightened. Because, I mean, in my whole adult life, cycling was the most consistent thing I ever did.',
+        'Jens Voigt',
+    ],
+    '62bd5c63-a91d-57c2-99d5-35248d9904ed' => [
+        'To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.',
+        'Johannes Gaertner',
+    ],
+    '2bc83b3a-b8e9-54ae-b2fa-101ebcc0e46b' => [
+        'Time extracts various values from a painter\'s work. When these values are exhausted the pictures are forgotten, and the more a picture has to give, the greater it is.',
+        'Henri Matisse',
+    ],
+    '5ad40f64-b166-574a-bf14-099a98226d0a' => [
+        'The temple bell stops but I still hear the sound coming out of the flowers.',
+        'Matsuo Basho',
+    ],
+    '8ab9cf65-a3fb-5d01-9af0-e4c10c9b7688' => [
+        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
+        'Henry Louis Gates',
+    ],
+    '9d162e7e-3a2c-5624-aca8-c5c98a7508e1' => [
+        'I gave my life to become the person I am right now. Was it worth it?',
+        'Richard Bach',
+    ],
+    '84f2b16b-e25c-51b1-8f62-2b9b6d68844f' => [
+        'Life is full of misery, loneliness, and suffering - and it\'s all over much too soon.',
+        'Steve Jobs',
+    ],
+    'f0e0a0f0-b9ba-55e2-8264-f17e8e80a7c1' => [
+        'Time = Life, Therefore, waste your time and waste of your life, or master your time and master your life.',
+        'Alan Lakein',
+    ],
+    'cbaf3d4e-dc5d-58ea-9698-bd99124e72b1' => [
+        'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
+        'Edward Everett Hale',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '774a55c5-be19-518f-99da-150455d44b93' => [
-        'My life is devoted to business and supporting my family.',
-        'Colonel Sanders',
+    '11b35bbb-58ce-5d6d-9b64-d44263291840' => [
+        'Be obscure clearly.',
+        'E. B. White',
     ],
-    '305b1f94-0b3b-5c49-a3d8-70ff73de3b2d' => [
-        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
-        'Earl Nightingale',
+    '6f6c2e4e-8744-5699-a87c-9c0129d89896' => [
+        'Youth is something I never wanna take for granted. I just want to smile and live life.',
+        'Tyler, The Creator',
     ],
-    '9fad9a2a-d4a1-5297-961b-090b5e66e635' => [
-        'If you would take, you must first give, this is the beginning of intelligence.',
-        'Lao Tzu',
+    'c159ab9d-6e22-510e-b37b-29265b3b56c4' => [
+        'A woman can plan when to have her family and how to support a family.',
+        'Kathleen Turner',
     ],
-    '64d8025c-2f39-5a68-8170-4c9040b84d31' => [
-        'You know, true love really matters, friends really matter, family really matters. Being responsible and disciplined and healthy really matters.',
-        'Courtney Thorne-Smith',
+    'a4cc2356-270a-57ee-8655-ea1c6184f663' => [
+        'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
+        'Pope John XXIII',
     ],
-    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
-        'A river cuts through a rock not because of its power but its persistence.',
-        'Anonymous',
+    'a99b70f9-91c1-572c-8fc8-24cda4d86aaa' => [
+        'Why do I talk about the benefits of failure? Simply because failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than what I was, and began to direct all my energy into finishing the only work that mattered to me.',
+        'J. K. Rowling',
     ],
-    'c90c3ea4-28ef-5b7f-a6ae-e8b8f81f0cd9' => [
-        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
-        'Zig Ziglar',
+    '76b7e2e4-e341-5dd1-9cd1-581a19adc907' => [
+        'When I lose the sense of motivation and the sense to prove something as a basketball player, it\'s time for me to move away from the game.',
+        'Michael Jordan',
     ],
-    'eccf7a2a-751e-54f2-a6cb-9f612b7d1ca5' => [
-        'I like the map feature on the iPhone that tells me where I am, because I travel a lot.',
-        'Gary Shteyngart',
+    '7f595580-6649-5574-ade3-bf748b801017' => [
+        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
+        'Kevin Brownlow',
     ],
-    '7b3c551b-2334-5b83-8c00-dd4eb43661d3' => [
-        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
-        'Kristi Yamaguchi',
+    'add9a62e-0f88-5aa3-a5ae-70ecbafc7378' => [
+        'The American attitude is \'We\'re the best\'. That\'s why the NBA guys who come from other countries, the Europeans, all sort of stick together away from the game.',
+        'Andrew Bogut',
     ],
-    '171601d3-12e1-5448-8b84-49fda6c9be49' => [
-        'Travelers never think that they are the foreigners.',
-        'Mason Cooley',
+    '4064be29-14e0-5aca-9515-115a58feb89d' => [
+        'There is a role and function for beauty in our time.',
+        'Tadao Ando',
     ],
-    'bdc7dcc1-0bae-575b-abad-ba5a8547ef88' => [
-        'Propaganda has a negative connotation, which it partially deserves, but I think there is some propaganda that is very positive. I feel that if you can do something that gets people\'s attention, then maybe they\'ll go and find out more about the person.',
-        'Shepard Fairey',
+    'fda0e814-7384-5cf7-9643-fb3f23ef4c9e' => [
+        'People rarely succeed unless they have fun in what they are doing.',
+        'Dale Carnegie',
     ],
-    '9d0ce29d-e0aa-5422-af80-7766941dd49a' => [
-        'Change your life today. Don\'t gamble on the future, act now, without delay.',
-        'Simone de Beauvoir',
+    '5f3619c3-c755-5f13-b6a5-63fbeee11819' => [
+        'Good grooming is integral and impeccable style is a must. If you don\'t look the part, no one will want to give you time or money.',
+        'Daymond John',
     ],
-    '8da23109-2329-561a-b18a-4c0a7c4f296b' => [
-        'There\'s a punk-rock attitude, clearly, to \'Hated.\' There\'s even a punk-rock attitude to \'The Hangover,\' I think. We start the movie with a Glenn Danzig song.',
-        'Todd Phillips',
+    'a1eb6132-dd5f-5f10-9bf0-2e2275785c00' => [
+        'I became a librarian at the Sainte-Genevieve Library in Paris. I made this gesture to rid myself of a certain milieu, a certain attitude, to have a clean conscience, but also to make a living. I was twenty-five. I had been told that one must make a living, and I believed it.',
+        'Marcel Duchamp',
     ],
-    'b9a43d74-a58e-5b0b-893d-f60bfad57657' => [
-        'My attitudes have changed, but somebody would have to read all my books to find out how they have.',
-        'Irwin Shaw',
+    '4cb07876-76a8-5edc-b010-77641e33c4bb' => [
+        'My best vacation memory is getting barreled at the beach in Hawaii.',
+        'Troy Polamalu',
     ],
-    'fb0c0310-31bd-5609-a6f0-2a01722f8584' => [
-        'Another thing I like to do is sit back and take in nature. To look at the birds, listen to their singing, go hiking, camping and jogging and running, walking along the beach, playing games and sometimes being alone with the great outdoors. It\'s very special to me.',
-        'Larry Wilcox',
+    'd42c0395-b54e-5a86-814a-c5b3dccaa564' => [
+        'Doubt kills more dreams than failure ever will.',
+        'Karim Seddiki',
     ],
-    'ade417b5-1ab2-5527-9ffd-9a4a8fdd5425' => [
-        'I believe that when you put a smile out there, you get a smile back.',
-        'Heidi Klum',
+    'b47ada99-b9ff-5e03-a153-f0d9d4f7e16c' => [
+        'Try and fail, but don\'t fail to try.',
+        'Stephen Kaggwa',
     ],
-    '4681f0f8-7727-5559-97fa-b808fd260693' => [
-        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
-        'Henry Ford',
+    '04d4e1c5-cc8f-57c0-8b8a-4fe5756f85b4' => [
+        'Dada was an extreme protest against the physical side of painting. It was a metaphysical attitude.',
+        'Marcel Duchamp',
     ],
-    'ac32a1aa-1490-5067-bef9-96d08e11b0c4' => [
-        'You can\'t run a government from one single person. What instead matters is that leadership be about gathering around extraordinary individuals and getting the best out of them.',
-        'Justin Trudeau',
+    '1227757c-5182-5bd0-bbf6-a8d01ca5c1d5' => [
+        'I look around me and nowhere do I see a stamp of disapproval with which nature marked a woman\'s candid brow.',
+        'Franz Grillparzer',
     ],
-    '2ad592c5-fc3e-5b06-b4ba-6042d91fb166' => [
-        'Every day is a new opportunity. You can build on yesterday\'s success or put its failures behind and start over again. That\'s the way life is, with a new game every day, and that\'s the way baseball is.',
-        'Bob Feller',
+    '093d686d-bf12-5727-b658-797742f319e0' => [
+        'Of all the things people have taught me regarding life lessons or anything that would benefit me, I don\'t think anything helped me learn more about life than football. You go through so many different things: adversity, how to handle adversity, how to handle success, how to lead, how to be a teammate, how to communicate.',
+        'Josh McDaniels',
     ],
-    'd5cc1813-aa69-5433-b3cb-55bacb47c3be' => [
-        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
-        'Antony Sher',
+    '1c07c556-38fb-51da-916b-a06b6fe3501c' => [
+        'Poverty is about people lacking the tools they need to get on in life. And solving it is about tackling educational failure, antisocial behaviour, debt problems and addiction, and of course it\'s about work.',
+        'Theresa May',
     ],
-    '0f0b0f09-09a1-5859-87a9-f8dc238fce1b' => [
-        'Sometimes, we find ourselves as conservatives being angry when we should be joyful, finding ourselves being negative when we should be positive, because we have a positive message to send... We ought to be the most compassionate people in the world.',
-        'Kevin Cramer',
+    'd5851be0-d2cd-5af1-8ad3-827efe53fd6a' => [
+        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
+        'Matt Zotti',
     ],
-    '12c670d0-b41c-50c9-a6b3-42e995ee39d3' => [
-        'Airplanes may kill you, but they ain\'t likely to hurt you.',
-        'Satchel Paige',
+    '7bb4cd7b-ef7b-5d57-aadf-46cb9833ae8f' => [
+        'I really have been lucky because I\'ve always had a very healthy attitude to my body.',
+        'Lily James',
     ],
-    'af063b39-5160-56af-b5fc-757ef15909a0' => [
-        'It\'s incredible to see the creativity, beauty and hardships people capture when filmmaking is opened up and shared with the world.',
-        'Jehane Noujaim',
+    'f42158b3-0fc2-59a3-a4d1-7316eccb3c07' => [
+        'Today a minimum wage earner has to work a day and a half just to pay for a full tank of gas. That is simply shameful.',
+        'Bill Pascrell',
     ],
-    'aeea0939-70a8-5d54-98cc-2e894660a1cf' => [
-        'Success isn\'t always going to be a huge contract; success is going to be if you just live out your purpose in life.',
-        'Allan Houston',
+    'e09ea044-d239-5eb6-890b-5bb6c40b233b' => [
+        'It is never too late to be what you might have been.',
+        'George Eliot',
     ],
-    'ac2fac16-05fa-5670-bf8f-9f1214a5254a' => [
-        'Action is the foundational key to all success.',
-        'Pablo Picasso',
+    'b74d92e1-77ec-551b-a956-427736c7d532' => [
+        'I mean, I look at my dad. He was twenty when he started having a family, and he was always the coolest dad. He did everything for his kids, and he never made us feel like he was pressured. I know that it must be a great feeling to be a guy like that.',
+        'Adam Sandler',
     ],
-    '0c937dac-c345-57f4-96da-cbb34e11ec75' => [
-        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
-        'Stephen Covey',
+    '684721d2-c76e-5b0b-bdb4-6f961f0d167d' => [
+        'It\'s so important to realize that every time you get upset, it drains your emotional energy. Losing your cool makes you tired. Getting angry a lot messes with your health.',
+        'Joyce Meyer',
     ],
-    '53b95bc8-3cdf-54de-9317-9b77d6c6e05f' => [
-        'Any race I go into, I\'ve always got the attitude of throwing myself into and wanting nothing but No. 1.',
-        'Caroline Buchanan',
+    '20c7cd2f-7225-598c-bbc9-15eac5a63ac3' => [
+        'Gardens are not made by singing \'Oh, how beautiful,\' and sitting in the shade.',
+        'Rudyard Kipling',
     ],
-    '862b591e-9606-5ac7-ad09-93a8d33848a4' => [
-        'Creating a better world requires teamwork, partnerships, and collaboration, as we need an entire army of companies to work together to build a better world within the next few decades. This means corporations must embrace the benefits of cooperating with one another.',
-        'Simon Mainwaring',
+    '690ff275-cab9-5abf-b2ec-9922167e10dc' => [
+        'I view art as an inspirational tool.',
+        'Thomas Kincade',
     ],
-    '65167acb-cac3-5bf0-b0f0-de8dc4489e1b' => [
-        'Common sense is the collection of prejudices acquired by age eighteen.',
-        'Albert Einstein',
+    'c9e3161f-95bd-52f8-8756-0d02acbd688f' => [
+        'I think anyone who\'s perfectly happy isn\'t particularly funny.',
+        'Joan Rivers',
     ],
-    '445a05e3-31e1-5399-8053-5566c3cbdf14' => [
-        'Comedians like to see people smile. With acting, I love giving people a feeling, an emotion. I like to give people a feeling. When they come away from my scene, I want them to think.',
-        'Keke Palmer',
+    '74499484-f8ff-5f1a-be3b-7de29e730f11' => [
+        'All those who are around me are the bridge to my success, so they are all important.',
+        'Manny Pacquiao',
     ],
-    '794d50bf-285e-5991-908a-f59b70ac9067' => [
-        'An American orchestra doesn\'t want to play more than it has to. I respectfully disagree with that attitude.',
-        'Zubin Mehta',
+    '8d42e2f7-98dc-5a73-a742-0bf7d16c9c90' => [
+        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
+        'Milton Berle',
     ],
-    '4d893c6c-97d0-5c49-bba1-1cc166a2d095' => [
-        'Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.',
-        'Chanakya',
+    '096627b6-a487-5ab5-a598-c8f66001b7f4' => [
+        'Everywhere I travel around my home state of Wyoming - but also around the country - I continue to hear, \'How can Washington make us buy something we don\'t want to buy, a product? They can\'t tell us to buy breakfast cereal or something else - how can they do that?\'',
+        'John Barrasso',
     ],
-    'ac55d65e-ec7f-582c-a278-f84292e1308d' => [
-        'There is no racial or ethnic involvement in Thanksgiving, and people who may be very distant from the Christian system can see the beauty and the positive spirit that comes from the holiday.',
-        'John Clayton',
+    'f35aca9a-0953-5355-bb9f-0a50021dc455' => [
+        'People ask me all the time, \'What keeps you up at night?\' And I say, \'Spicy Mexican food, weapons of mass destruction, and cyber attacks.\'',
+        'Dutch Ruppersberger',
     ],
-    '32e81f46-4a09-5215-b5f6-1a9ac03858ec' => [
-        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
-        'Kenichi Fukui',
+    'f5c062f8-5233-5efd-af3d-c6ec6ac77c2e' => [
+        'O Lord, help me to be pure, but not yet.',
+        'Saint Augustine',
     ],
-    '670b2ec7-b88e-58d3-ae0c-cf76360c1462' => [
-        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
-        'Calvin Trillin',
+    'b5e24e32-6b0c-58bc-a465-cc4527c4458f' => [
+        'The one phrase you can use is that success has a thousand fathers, and failure is an orphan.',
+        'Alan Price',
     ],
-    '2094ad5b-da27-5560-95e9-70d40464a346' => [
-        'Work is the meat of life, pleasure the dessert.',
-        'B. C. Forbes',
+    '4305c5b1-bd68-54e7-ab2a-375d735eeab2' => [
+        'Successful people are not gifted; they just work hard, then succeed on purpose.',
+        'G.K.Nielson',
     ],
-    'a73268e8-3e76-57fb-ad5c-dd634cb2189f' => [
-        'Never do things others can do and will do, if there are things others cannot do or will not do.',
-        'Amelia Earhart',
+    '59b03dea-ce22-5ea1-ab17-c845b29537a5' => [
+        'I\'ve learned to start from a really sound argument, boil down the essence of what you\'re trying to say, then build your humor around that, rather than starting with, \'This sounds funny,\' and going from there.',
+        'Hasan Minhaj',
     ],
-    '6952b01f-3af9-5d24-b2be-2a986fd03ca8' => [
-        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
-        'Ajahn Chah',
+    '59e56608-6edf-55e3-b2f5-4769cada47f6' => [
+        'I am learning that in life it is OK to travel in darkness, not knowing what your next move is.',
+        'Cobie Smulders',
     ],
-    '97b293fc-cc61-5c7d-b51f-b26c7b5c7acf' => [
-        'We are ramping up security in the United States but also looking at visa applicants, visa waiver applicants - and looking at travel manifests on the airplanes trying to come into the United States.',
-        'Mike McCaul',
+    '8743c758-1998-5588-a14f-5d0843c0e8cb' => [
+        'In the end, you make your reputation and you have your success based upon credibility and being able to provide people who are really hungry for information what they want.',
+        'Brit Hume',
     ],
-    '1f17eff0-71c6-552f-a9d9-156b4a577db4' => [
-        'Fear stops people from accomplishing their goals.',
-        'Unknown',
+    '513407a3-643a-5711-91f2-0ba166f6da77' => [
+        'Gorgeous hair is the best revenge.',
+        'Ivana Trump',
     ],
-    'beb8e8b7-756e-5091-bcb0-0e416ae88690' => [
-        'Genuine sincerity opens people\'s hearts, while manipulation causes them to close.',
-        'Daisaku Ikeda',
+    '52534313-937f-5117-9d20-0a09411b9c1c' => [
+        'Can anything be sadder than work left unfinished? Yes, work never begun.',
+        'Christina Rossetti',
     ],
-    'a274a905-0d3e-5aa1-bc1a-e96b2f8c29a9' => [
-        'I am a racer. I\'m not a race car driver. I am a racer. I race. That\'s what I do. I don\'t go on vacations. I don\'t take my family on vacations because I don\'t have a family. My family is the racing family.',
-        'Tony Stewart',
+    'c901cd57-84fb-5434-a7df-c668e7f23a15' => [
+        'Natural beauty really entices men. They will tell you this time and time again, and studies consistently prove it.',
+        'Helen Fisher',
     ],
-    '8ab9cf65-a3fb-5d01-9af0-e4c10c9b7688' => [
-        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
-        'Henry Louis Gates',
+    'fe7ca935-97c2-5e46-bd75-ab7c63f4797b' => [
+        'I am certain there is too much certainty in the world.',
+        'Michael Crichton',
     ],
-    'ff4128cc-f673-5fb2-9f07-54a28af705fa' => [
-        'Hawaii is a beautiful place to bring up a family.',
-        'Henry Ian Cusick',
+    '8fcdd85c-dea5-58c2-a440-d5da07c12481' => [
+        'To have success in your professional life is not so hard. To succeed as a man is more difficult.',
+        'Yann Arthus-Bertrand',
     ],
-    '566bc696-d415-56d5-88b3-5c7542d9ab5e' => [
-        'If you put all your strength and faith and vigor into a job and try to do the best you can, the money will come.',
-        'Lawrence Welk',
+    '0fa14d60-6833-525b-8090-8a9cd777535f' => [
+        'Children are the most honest critics. They will say \'You\'re funny\', but also \'You\'re pathetic - go away.\'',
+        'Dylan Moran',
     ],
-    '79d3a047-83a7-53b3-af9a-32e6f3154a1f' => [
-        'A novel is a work of poetry. In order to write it, one must have tranquility of spirit and of impression.',
-        'Fyodor Dostoevsky',
+    'f6db6862-c91c-5a4b-b0da-fb12b8abd136' => [
+        'I\'m taking a bit of a wait-and-see attitude towards 3D.',
+        'Christopher Nolan',
     ],
-    'edebb99f-107d-584f-b34e-d268158b0b54' => [
-        'Maintaining a positive working relationship with Mexico\'s leadership will also be crucial to increasing communication and trade. I plan to personally maintain those relationships.',
-        'Doug Ducey',
+    '1f7699c9-a349-5169-ad35-121bba930174' => [
+        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
+        'Susan Straight',
     ],
-    'bf6caccd-7c2a-54d8-ac1d-af1a502027ca' => [
-        'What really went wrong is that General Motors has had this philosophy from the beginning that what\'s good for General Motors is good for the country. So, their attitude was, \'We\'ll build it and you buy it. We\'ll tell you what to buy. You just buy it.\'',
-        'Michael Moore',
+    'c526c578-53fc-57d2-91fd-91d360fc431b' => [
+        'It\'s often been said that you learn more from losing than you do from winning. I think, if you\'re wise, you learn from both. You learn a lot from a loss. You learn what is it that we\'re not doing to get to where we want to go. It really gets your attention and it really motivates the work ethic of your team when you\'re not doing well.',
+        'Morgan Wootten',
     ],
-    'f3d97fca-f004-52ce-90fa-6a8e1ae13cb1' => [
-        'I\'m not anti-fashion, but I\'ve always had a bit of a punk attitude. That\'s important, I think. I do my own thing.',
-        'Sade Adu',
+    '923990da-3006-57ae-b12f-b6f718ddaab4' => [
+        'I just want to go in with the right attitude and from Day 1 make a difference.',
+        'Freddy Adu',
     ],
-    'eaaf42f5-45f8-58e8-9173-ebde4aee4057' => [
-        'Knowledge doesn\'t really form part of human nature. Conflict, combat, the outcome of the combat, and, consequently, risk and chance are what gives rise to knowledge. Knowledge is not instinctive; it is counter instinctive, just as it is not natural but counter natural.',
-        'Michel Foucault',
+    'fc16756e-47c5-58f1-b443-554760551a54' => [
+        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
+        'Jay Garner',
     ],
-    '7392f6be-f2c7-5224-9aab-0d8917ef4ea1' => [
-        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
-        'Adrienne Bailon',
+    'b5ce6fb9-a22d-5e18-a793-51dd85a174e9' => [
+        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
+        'Jim Gaffigan',
     ],
 ];

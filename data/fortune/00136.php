@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '10661226-7ec5-5c4d-818e-52d1395c6125' => [
-        'Weve got to have a dream if we are going to make a dream come true.',
-        'Walt Disney',
+    'cbea37f9-e5fd-5c91-ad7e-642602c218a2' => [
+        'We cannot put off living until we are ready.',
+        'Johann Wolfgang von Goethe',
     ],
-    '6c41e66f-7219-596c-b8be-1065fbc28a8b' => [
-        'I\'m not going to take this defeatist attitude and listen to all this crap any more from all these people who have nothing except doomsday to predict.',
-        'Carroll Shelby',
+    '2623f0db-7706-57c0-8399-c941eff7f0a7' => [
+        'For everything bad, there\'s a million really exciting things, whether it\'s someone puts out a really great book, there\'s a new movie, there\'s a new detective, the sky is unbelievably golden, or you have the best cup of coffee you ever had in your life.',
+        'Patti Smith',
     ],
-    '7b9c8daf-d6e2-500f-8e7a-38b93534b952' => [
-        'I have undertaken vengeance. I want Liberty and Equality to reign in Saint-Domingue. I work to bring them into existence. Unite yourselves to us, brothers, and fight with us for the same cause.',
-        'Toussaint Louverture',
+    '7948f36c-64f0-5c59-8019-f7f5e05dac7c' => [
+        'A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.',
+        'Isaac Asimov',
     ],
-    'c8b9bdc1-1786-502e-a0ea-1bed50af3653' => [
-        'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
-        'Oprah Winfrey',
+    '5b41d71b-3f91-5cc6-9e44-98114c95e087' => [
+        'Anything you really want, you can attain, if you really go after it.',
+        'Wayne Dyer',
     ],
-    'b8d239ad-15c5-5b7e-8e7d-7d104567537b' => [
-        'I have two rules for a great book: make me think and make me smile.',
-        'Adam Grant',
+    'b4abd7e8-56df-5c33-b4eb-1928b6f85f58' => [
+        'The jealous are possessed by a mad devil and a dull spirit at the same time.',
+        'Johann Kaspar Lavater',
     ],
-    'dac02cd1-ace6-5267-a6b9-2489288e96f8' => [
-        'The indispensable first step to getting the things you want out of life is this: decide what you want.',
-        'William Wordsworth',
+    '3040887f-1d93-52db-9c1e-45dc93843574' => [
+        'Even if one tree falls down it wouldn\'t affect the entire forest.',
+        'Chen Shui-bian',
     ],
-    '3933a46e-363d-56d1-ae62-818d61c8a515' => [
-        'I was just a goofy little funny kid, who was always getting sent to the principal. It wasn\'t serious because I was smart. I wasn\'t like a true troublemaker, just rambunctious - like, talkative and trying to be funny. That was me in middle-school.',
-        'J. Cole',
-    ],
-    'a07a004e-cdb7-5480-85fd-28ffc587d0b7' => [
-        'I\'m happy to be everybody\'s gay best friend.',
-        'Andy Cohen',
-    ],
-    '92e42447-0701-5eb8-8f10-f1b5049ddf98' => [
-        'I heard that people were really interested in the new haircut, which I think is so funny. Great haircut, I really like it. It goes great with the time period. And I was super, super, super-happy to have my bangs swept to the side rather than straight in front of me, which I dealt with for three seasons. I\'m very, very much done with that.',
-        'Elisabeth Moss',
-    ],
-    '2111ae37-12f7-5950-beea-555ddb8e53ca' => [
-        'An important finding is that by determining the genome sequences of an entire family, one can identify many DNA sequencing errors and thus greatly increase the accuracy of the data. This will ultimately help us understand the role of genetic variations in the diagnosis, treatment, and prevention of disease.',
-        'Leroy Hood',
-    ],
-    '385bebbd-5acb-5cb2-9d9f-c882d75b50ef' => [
-        'We cannot do everything at once, but we can do something at once.',
-        'Calvin Coolidge',
-    ],
-    '90bd7af9-148e-5a1c-8464-9e7c3b291b06' => [
-        'Go after what you really love and find a way to make that work for you, and then you\'ll be a happy person.',
-        'Tom Petty',
-    ],
-    '2b100016-081c-530a-9a6e-e359fe7341d8' => [
-        'As we get older, we get better at choosing in ways that will make us happy. We do a better job at picking activities that make us happy, and at spending time with people who make us happy. We\'re also better at letting things go.',
-        'Sheena Iyengar',
-    ],
-    '88755c66-8645-503d-86e2-f8bebb63403b' => [
-        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
-        'Miley Cyrus',
-    ],
-    '3d73d92c-90b6-5da1-a63f-ab6cb2455325' => [
-        'Weather forecast for tonight: dark.',
-        'George Carlin',
-    ],
-    '802b3d1e-7245-5548-ace5-108a748af379' => [
-        'As soon as beauty is sought not from religion and love, but for pleasure, it degrades the seeker.',
-        'Annie Dillard',
-    ],
-    '554d5d47-ed27-5236-913c-8e1098264209' => [
-        'I watched some serious \'80s television. \'Alice,\' \'Good Times,\' \'The Jeffersons,\' \'Family Ties,\' \'Cheers\'... every night it was eat dinner, watch \'Cheers.\' I was actually on \'Jeopardy\' with Rebecca Lobo and Dot Richardson, and we were laughing because I was just nailing every random \'80s trivia question - sitcom, theme music, movie, you name it.',
-        'Summer Sanders',
-    ],
-    'eca88839-45de-577d-8837-8a1bae1ae6c7' => [
-        'The foolish man seeks happiness in the distance, the wise grows it under his feet.',
-        'James Oppenheim',
-    ],
-    'e28ab997-9009-5457-a20a-492095ef72c5' => [
-        'However things may seem, no evil thing is success and no good thing is failure.',
-        'Henry Wadsworth Longfellow',
-    ],
-    '35cca867-231f-5518-829c-bd51aded0e21' => [
-        'If opportunity doesn\'t knock, build a door.',
-        'Milton Berle',
-    ],
-    '290cf823-2ade-5b6b-bc3b-8a28d19bdb5e' => [
-        'What was really funny is that as I got older all those guys who called me a sissy in junior high school wanted me to be their best friend because they wanted to meet all the girls that I knew in figure skating.',
-        'Scott Hamilton',
-    ],
-    '4021a867-a4af-5851-86e3-42e54c511df6' => [
-        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
-        'Rowan Atkinson',
-    ],
-    'cf9d7520-f7ab-5ade-b919-bc29df2a4a78' => [
-        'Gentleness doesn\'t get work done unless you happen to be a hen laying eggs.',
-        'Coco Chanel',
-    ],
-    'f2354bd8-5a5d-5160-a121-5e40d424a002' => [
-        'We create success or failure on the course primarily by our thoughts.',
-        'Gary Player',
-    ],
-    'c083c36c-f669-516c-ab49-aa985a1de92a' => [
-        'I coach soccer, and my wife and I are very involved in our kids\' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.',
-        'Patrick Lencioni',
-    ],
-    'be770bdd-4a79-5aad-a111-b485e7de41fd' => [
-        'Space is an inspirational concept that allows you to dream big.',
-        'Peter Diamandis',
-    ],
-    'f6158a99-22ab-541a-9436-907fdef016a1' => [
-        'Christmas to a child is the first terrible proof that to travel hopefully is better than to arrive.',
-        'Stephen Fry',
-    ],
-    '04b2e544-d0cf-5ad2-a39e-2d37c66f3185' => [
-        'No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.',
-        'Buddha',
-    ],
-    'f9906a40-cc20-50d5-b030-8b003fcd235f' => [
-        'Our family life was certainly not intellectual.',
-        'Douglass North',
-    ],
-    '2e5c3aa9-cc13-5b7c-aee4-33d4c12803ad' => [
-        'There is a huge difference between failing and failure. Failing is trying something that you learn doesn\'t work. Failure is throwing in the towel and giving up. True success comes from failing repeatedly and as quickly as possible, before your cash or your willpower runs out.',
-        'Jay Samit',
-    ],
-    '804b4300-9b7b-5980-add4-f1ed1958a738' => [
-        'Build a better mousetrap and the world will beat a path to your door.',
-        'Ralph Emerson',
-    ],
-    '6174a48f-249c-597f-ae3e-fd70c15b014d' => [
-        'There is no failure except in no longer trying.',
-        'Elbert Hubbard',
-    ],
-    'f7a9298a-67e4-54ce-8153-6e4f75a1d1c6' => [
-        'Do not look for approval except for the consciousness of doing your best.',
-        'Andrew Carnegie',
-    ],
-    '3b26b729-2234-5020-ba72-1e8cc8e38019' => [
-        'I have seen many storms in my life. Most storms have caught me by surprise, so I had to learn very quickly to look further and understand that I am not capable of controlling the weather, to exercise the art of patience and to respect the fury of nature.',
-        'Walter Elliot',
-    ],
-    '4b964bb0-7bcd-5842-a0ba-31a1915a013d' => [
-        'If you have no respect for your own values how can you be worthy of respect from others.',
-        'Byron Pulsifer',
-    ],
-    'c73acf69-f99f-5bd7-9f98-74929e8be38e' => [
-        'Nature works with five polymers. Only five polymers. In the natural world, life builds from the bottom up, and it builds in resilience and multiple uses.',
-        'Janine Benyus',
-    ],
-    '0ec5ac8e-3d4f-52ff-9882-4fee35426a85' => [
-        'Through devotion, your family cares become more peaceful, mutual love between husband and wife becomes more sincere, the service we owe to the prince more faithful, and our work, no matter what it is, becomes more pleasant and agreeable.',
-        'Saint Francis de Sales',
-    ],
-    'e3c141a0-392e-5e31-92ba-a357209d3fd7' => [
-        'An arrogant person considers himself perfect. This is the chief harm of arrogance. It interferes with a person\'s main task in life - becoming a better person.',
-        'Ernest Holmes',
-    ],
-    'f18b38ab-eeb5-50aa-ad21-498fe2a2425f' => [
-        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
-        'Langston Hughes',
+    '7eb84b28-0462-5459-b2f6-59315d386175' => [
+        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
+        'Fritz Scholder',
     ],
     '65f7c312-aa7f-549f-89ba-df9d7b6c9af7' => [
         'I love to write about Nabokov and also to think about him. I love his attitude that he is incomparable, his lofty judgments and general scorn of other writers - not all of them, of course.',
         'James Salter',
     ],
-    '6aac4488-f42b-581f-98ed-1a45194e0287' => [
-        'Whatever you wanna be, just, at the end of the day, if you\'re being a good person, which is not hard to be, and you\'re putting positive energy into the world, and you\'re appreciative and loving to the people around you that care about you and everybody in general, then it\'ll work out.',
-        'Gnash',
+    'add983a8-4338-53b0-b71c-632eef4ad003' => [
+        'Correction does much, but encouragement does more.',
+        'Johann Wolfgang von Goethe',
     ],
-    'd49c265a-3492-55ad-b4bf-b16377481eed' => [
-        'My attitude on skis is different now. I have learned to put less pressure on myself and on the edges of my skis when I\'m racing, to be keep myself more under control.',
-        'Hermann Maier',
+    '2f86e9f2-1ebe-5436-949b-9ba0ab291fad' => [
+        'Start every day off with a smile and get it over with.',
+        'W. C. Fields',
     ],
-    'f7fec8c2-04c0-5c4b-92b0-edffbbb352cd' => [
-        'When a parent shows up with an attitude of entitlement, understand that under it is a boatload of anxiety.',
-        'Robert Evans',
+    'a2fb9d9b-7373-5c64-8538-10880fae4fa1' => [
+        'All wealth is the product of labor.',
+        'John Locke',
     ],
-    '4482e45c-22ab-5351-a286-15e109fb749b' => [
-        'I love to travel, but sometimes it\'s nice to stay in one place.',
-        'Gustavo Dudamel',
+    '97a18365-5083-51e7-95a5-d7828faa8a61' => [
+        'Failure is a bruise, not a tattoo.',
+        'Jon Sinclair',
     ],
-    'ffdd5d43-4150-59c5-8f97-e8591eeb780c' => [
-        'Let life happen to you. Believe me: life is in the right, always.',
-        'Viktor E. Frankl',
+    '48aa79c0-5d0b-5aed-9edf-7cf2fa080959' => [
+        'I travel like a maniac. I travel more than anyone I know. I love learning the languages.',
+        'Quincy Jones',
     ],
-    'd0205dfe-13cc-5f00-86d7-935b875022a2' => [
-        'A man should never neglect his family for business.',
-        'Walt Disney',
+    'ac34c7bb-454a-5b39-8ecf-223d90caea60' => [
+        'Listening to the stories my colleagues are researching and grappling with - in terms of access to documents, psychological understanding of their subjects, artful composition and determination to extrapolate from an individual\'s life lessons and insights that we can all learn from - I am each time overwhelmed by joy.',
+        'Nigel Hamilton',
     ],
-    '7a6a63fc-1632-5ba9-bc10-1a0aecb8084d' => [
-        'The beginning is always today.',
-        'Mary Wollstonecraft',
+    '4ab86731-48bb-53e9-a60d-5332f0bf4953' => [
+        'Character is the ability of a person to see a positive end of things. This is the hope that a man of character has.',
+        'Tom Landry',
     ],
-    '342d0cb3-2ebf-5af8-94d4-f4175bce35e4' => [
-        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
-        'Miranda Kerr',
+    'c71e6932-7c29-5bd5-ae78-b86b859e04fe' => [
+        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
+        'Helen Rowland',
     ],
-    '6760c7e2-f90a-586c-87dc-52a3a061cc6e' => [
-        'Spending time outdoors makes you feel great.',
-        'Elizabeth Hurley',
+    'b618c332-6117-511f-befc-beac9e4979e5' => [
+        'Most smiles are started by another smile.',
+        'Frank A. Clark',
     ],
-    '971a4b98-5f04-54b3-85b4-3916ae9779d8' => [
-        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
-        'Bill Gates',
+    'fac9139c-90b3-5327-98c9-5293f0a838e1' => [
+        'Today we are searching for things in nature that are hidden behind the veil of appearance... We look for and paint this inner, spiritual side of nature.',
+        'Franz Marc',
+    ],
+    '599d6d4d-047d-55d6-b500-bb7cf332d62b' => [
+        'Money won\'t create success, the freedom to make it will.',
+        'Nelson Mandela',
+    ],
+    '26a1ef1d-d5f1-5df6-be7a-af4783301c7d' => [
+        'Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.',
+        'Andy Warhol',
+    ],
+    '88878b63-b943-55ef-ade7-630e69609ea8' => [
+        'Everyone and everything that shows up in our life is a reflection of something that is happening inside of us.',
+        'Frank Abagnale',
+    ],
+    'aa548393-aabc-5b96-936e-e207395c883b' => [
+        'Ya gots to work with what you gots to work with.',
+        'Stevie Wonder',
+    ],
+    '18fd3565-ddc1-5c41-8e2e-64bf539b5237' => [
+        'I think you can be depressed and flourish, I think you can have cancer and flourish, I think you can be divorced and flourish. When we believed that happiness was only smiling and good mood, that wasn\'t very good for people like me, people in the lower half of positive affectivity.',
+        'Martin Seligman',
+    ],
+    '71f1db7c-746d-5436-9449-bf46685fa1cb' => [
+        'The president felt that it was important to send an ordinary citizen to experience the excitement of space travel as a representative for all Americans.',
+        'Christa McAuliffe',
+    ],
+    '5220a2fe-886e-5e13-9bf8-bc1e592206a2' => [
+        'Most of what we call management consists of making it difficult for people to get their work done.',
+        'Peter Drucker',
+    ],
+    '59dc1309-f564-520a-9a85-ad81ea6225fe' => [
+        'Be of service. Whether you make yourself available to a friend or co-worker, or you make time every month to do volunteer work, there is nothing that harvests more of a feeling of empowerment than being of service to someone in need.',
+        'Gillian Anderson',
+    ],
+    '7b9eb051-5c9e-5460-b5fc-b54d1c8ccb0c' => [
+        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
+        'Ryszard Kapuscinski',
+    ],
+    '0c24b887-969d-5d6d-ac42-93842c44ccc6' => [
+        'I\'m hoping that these next 20 years will show what we did 20 years ago in sequencing the first human genome, was the beginning of the health revolution that will have more positive impact in people\'s lives than any other health event in history.',
+        'Craig Venter',
+    ],
+    '9ee46908-69c4-50ff-8724-b6ecb6e5abfb' => [
+        'But the only comparison that I want to Lenny Bruce is that I\'m funny. I\'m Freddie Prinze, Puerto Rican all the way.',
+        'Freddie Prinze',
+    ],
+    '30a088cc-9469-5fab-914a-033301245f75' => [
+        'Luck is great, but most of life is hard work.',
+        'Iain Duncan Smith',
+    ],
+    '3505df38-c8d7-51b3-9f6d-6b6934c886b3' => [
+        'The deepest craving of human nature is the need to be appreciated.',
+        'William James',
+    ],
+    '43622d8b-e22c-568d-994c-4f6d388dcf21' => [
+        'Success can make you go one of two ways. It can make you a prima donna - or it can smooth the edges, take away the insecurities, let the nice things come out.',
+        'Barbara Walters',
+    ],
+    '56c8ca8d-c124-56c7-bae1-33c0325dc1d1' => [
+        'Rocket scientists agree that we have about reached the limit of our ability to travel in space using chemical rockets. To achieve anything near the speed of light we will need a new energy source and a new propellant. Nuclear fission is not an option.',
+        'Wilson Greatbatch',
+    ],
+    '4ff343f8-97ec-54c6-bbfa-597cb38e0482' => [
+        'The Journey of Reconciliation was organized not only to devise techniques for eliminating Jim Crow in travel, but also as a training ground for similar peaceful projects against discrimination in such major areas as employment and in the armed services.',
+        'Bayard Rustin',
+    ],
+    '33ae9255-babb-52d0-8c47-fb502005866d' => [
+        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
+        'Elizabeth Olsen',
+    ],
+    'dd234ba3-7905-59dd-8639-89ccac3893b1' => [
+        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
+        'John C. Mather',
+    ],
+    '789e7b5a-d414-5119-b42c-3a8ce675ab52' => [
+        'Nothing is so beautiful as spring - when weeds, in wheels, shoot long and lovely and lush; Thrush\'s eggs look little low heavens, and thrush through the echoing timber does so rinse and wring the ear, it strikes like lightning to hear him sing.',
+        'Gerard Manley Hopkins',
+    ],
+    'a6a7daad-28c9-5978-a57c-2bed50f4b57b' => [
+        'One who is too insistent on his own views, finds few to agree with him.',
+        'Lao Tzu',
+    ],
+    'a25ed52e-018b-5ddf-abe2-1addbff7f941' => [
+        'Time moves in one direction, memory in another.',
+        'William Gibson',
+    ],
+    '0527974b-1482-594d-bf83-24c43e0d3912' => [
+        'Why do they call it rush hour when nothing moves?',
+        'Robin Williams',
+    ],
+    'da02fc81-4246-5249-86f2-43299911a4b4' => [
+        'The glamour of twentieth-century air travel helped to persuade once-fearful travelers to take to the skies and encouraged parochial Americans to go out and see the world.',
+        'Virginia Postrel',
+    ],
+    'd695c854-94bf-55d6-bb7e-b5173b882f09' => [
+        'When I was drafted to Smackdown, I was like, \'Hell yes, I\'m going to captain this ship.\' Then I was like, \'Oh, wait, you\'re losing your best friend and travel partner and the person you enjoy having matches with the absolute most.\' That\'s Charlotte. We travel together, and she is my best friend.',
+        'Becky Lynch',
+    ],
+    'bb6d7ed6-b5bb-57c8-a54c-c4172d1601b3' => [
+        'The attitude of giving a full commitment to the partnership will usually result in getting the same commitment in return.',
+        'Denise Morrison',
+    ],
+    '08ed2111-7ae2-53cd-a5d7-0ce560919a70' => [
+        'Makeup is not a mask that covers up your beauty; it\'s a weapon that helps you express who you are from the inside.',
+        'Michelle Phan',
+    ],
+    '518362cc-60ac-5159-9d5e-c8bbb64ed36c' => [
+        'I do find the sibling connection endlessly fascinating, as I do all family dynamics. I like how siblings seem to create their own parentless mini-civilization within a family, one that has its own laws, myths, language, humor, its own loyalties and treacheries.',
+        'Jandy Nelson',
+    ],
+    '0f3d5c75-da0b-545d-a604-e7609c22ef0b' => [
+        'We Generate Fears While We Sit. We Overcome Them By Action.',
+        'Dr. Henry Link',
+    ],
+    '335f3928-6390-5dc9-84dd-3e6148288d83' => [
+        'How one handles success or failure is determined by their early childhood.',
+        'Harold Ramis',
+    ],
+    'a1682e57-da34-5031-8e9d-cb517854fc44' => [
+        'Freedom is the right to live as we wish.',
+        'Epictetus',
+    ],
+    'f6e3edea-36d9-5eb3-aa68-2bb1ddd3a534' => [
+        'I\'ve always had that attitude that things happen for a reason.',
+        'Ryne Sandberg',
+    ],
+    'f8a70c72-163c-560a-87f0-7a00f1088f8f' => [
+        'Unless I can come in in the morning and smile, walk in the lobby and say, \'Good morning!\' - if I am stressed - I am not going to do a good job. Everybody is watching us. They are feeding off of our energy.',
+        'Angela Ahrendts',
     ],
 ];

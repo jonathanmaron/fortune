@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '82275857-4f6a-5db5-96ab-ce485b9648a9' => [
-        'Excellence is not a skill. It is an attitude.',
-        'Ralph Marston',
+    '47fdc574-4da5-5993-822a-cf6e766cfa70' => [
+        'The mystic cords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the angels of our nature.',
+        'Abraham Lincoln',
     ],
-    'd6ffb1da-8347-5759-bf7b-82ca5e58a83d' => [
-        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
-        'Thomas J. Watson',
+    'e98564de-7be1-5e06-b4e0-42354e2011f7' => [
+        'My culture comes from everywhere. I\'m sick of this notion of nationality, that if you\'re brought up in the same city or same country you\'re the same. Even three kids brought up in the same family with the same genes, they are not the same. Just consider a human a human.',
+        'Marjane Satrapi',
     ],
-    'f866f6a3-c28d-503d-9850-8df26d503f23' => [
-        'I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority.',
-        'E. B. White',
+    '90654589-e7aa-50d6-8d63-3aa6c638d355' => [
+        'There are one hundred men seeking security to one able man who is willing to risk his fortune.',
+        'J. Paul Getty',
     ],
-    '479b93e4-3464-59be-bb50-f6db7bb4f7eb' => [
-        'Britishness is just a way of putting things together and a certain don\'t care attitude about clothes. You don\'t care, you just do it and it looks great.',
-        'Vivienne Westwood',
+    '34a74e5c-f29a-5b86-9edd-57c121053768' => [
+        'The way to Heaven is ascending; we must be content to travel uphill, though it be hard and tiresome, and contrary to the natural bias of our flesh.',
+        'Jonathan Edwards',
     ],
-    'b77ba7da-4d32-5f22-9d45-922e8f82f5f8' => [
-        'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.',
-        'Elbert Hubbard',
+    '66c595ad-4566-5af9-95fb-ebfab27b93aa' => [
+        'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.',
+        'Lao Tzu',
     ],
-    'f840ed7f-c476-5602-be52-111987333601' => [
-        'Beauty is everywhere a welcome guest.',
-        'Johann Wolfgang von Goethe',
+    '20ad308e-aecd-570b-b209-7170e8d9eb8a' => [
+        'Many people spend more time in planning the wedding than they do in planning the marriage.',
+        'Zig Ziglar',
     ],
-    '51e3fab5-f61a-5932-84b7-15b493bdae4f' => [
-        'We have become aware of the responsibility for our attitude towards the dark pages in our history. We have understood that bad service is done to the nation by those who are impelling to renounce that past.',
-        'Aleksander Kwasniewski',
-    ],
-    '55f98ff6-a34c-5930-98be-096ec8400157' => [
-        'Animals are sentient, intelligent, perceptive, funny and entertaining. We owe them a duty of care as we do to children.',
-        'Michael Morpurgo',
-    ],
-    '1e4080e6-da83-5288-8cc8-368558bc2ed8' => [
-        'Rest is not idleness, and to lie sometimes on the grass under trees on a summer\'s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.',
-        'John Lubbock',
-    ],
-    '3c3de9b1-1d8d-5a74-9d6c-57ec8d246520' => [
-        'Not everything in old age is grim. I haven\'t walked through an airport for years, and wheelchairs are the way to travel.',
-        'Donald Hall',
-    ],
-    '5235db47-a14d-5502-aa0b-6cd0e36d2ca9' => [
-        'I think I usually have quite ordinary dreams. Sometimes my dreams take me to other dimensions. I can travel in my mind especially when I\'m dreaming I focus my mind on what I want to dream. If I want to fly, I focus on flying.',
-        'Uri Geller',
-    ],
-    'ed2df4e3-0c60-5179-8b77-c891045cca3e' => [
-        'I couldn\'t go now to a brand that had a niche attitude like... gothic. I couldn\'t do that. Well, I could do it, but I wouldn\'t find it interesting, challenging.',
-        'Raf Simons',
-    ],
-    '59432e68-30a4-5106-816d-674ab773f990' => [
-        'My family background was deeply Christian.',
-        'Abbe Pierre',
-    ],
-    'c3b7586b-fd18-5675-99f0-029d3ae22896' => [
-        'The only place success comes before work is in the dictionary.',
-        'Vince Lombardi',
-    ],
-    '657e7f80-acde-5810-8f9e-5a564ad16a48' => [
-        'Even with protection, even with death threats, I can publish, I can travel and I can live the life that I want and not the one my parents want or some imam somewhere thinks I should live.',
-        'Ayaan Hirsi Ali',
-    ],
-    '0527974b-1482-594d-bf83-24c43e0d3912' => [
-        'Why do they call it rush hour when nothing moves?',
-        'Robin Williams',
-    ],
-    'e878be84-56b5-5140-ac12-09d868c03b96' => [
-        'The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides.',
-        'Jules Verne',
-    ],
-    '4b425a3b-ae43-5b31-a523-2f761f1a79c2' => [
-        'It can\'t be spring if your heart is filled with past failures.',
-        'Byron Pulsifer',
-    ],
-    '07227a47-b2b8-526a-a508-435c782ed4f8' => [
-        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
-        'Judy Sheindlin',
-    ],
-    'b5139c43-90c1-5026-8e43-8540f7ebe1a1' => [
-        'We do what we do because we believe.',
-        'Unknown',
-    ],
-    '91165df5-0a14-5cdf-98ee-2d36c3c27630' => [
-        'Dirty martinis and music - that\'s the big motto in our family. We get the booze going, and the music starts playing. Always old-school hip-hop. Jay-Z. Tribe Called Quest. The Pharcyde. My parents love that stuff.',
-        'Matt Harvey',
-    ],
-    '90cdd2e7-330f-5c2c-8603-7f307ca848f9' => [
-        'A man ought to live so that everybody knows he is a Christian... and most of all, his family ought to know.',
-        'Dwight L. Moody',
-    ],
-    '067ce970-5a62-50c6-a7ea-7303f3f0dd38' => [
-        'We\'ve persevered because of a belief we share with the Iraqi people - a belief that out of the ashes of war, a new beginning could be born in this cradle of civilization. Through this remarkable chapter in the history of the United States and Iraq, we have met our responsibility. Now, it\'s time to turn the page.',
-        'Barack Obama',
-    ],
-    'ef5bc526-f1c7-5e5c-8d65-cea6a2a9293b' => [
-        'I favor pocket-sized hard drives that travel between home and office, syncing with computers on both ends.',
-        'Barton Gellman',
-    ],
-    '5727650c-bdd0-5c87-802b-21c952cbe969' => [
-        'I woke up one morning thinking about wolves and realized that wolf packs function as families. Everyone has a role, and if you act within the parameters of your role, the whole pack succeeds, and when that falls apart, so does the pack.',
-        'Jodi Picoult',
-    ],
-    '3960865d-ed06-5a47-bac0-a563cc98d080' => [
-        'It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.',
-        'John Paul Jones',
-    ],
-    '3bc6c5d1-e701-5e6e-80e9-a54c52a100e9' => [
-        'Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.',
-        'Jonathan Swift',
-    ],
-    'e2f73cf8-9477-5336-91ae-204ef6c4d2b1' => [
-        'We have it in our power to begin the world over again.',
-        'Thomas Paine',
-    ],
-    '17c976ce-2024-5de1-ba4e-003866b38c6a' => [
-        'Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.',
-        'John Ruskin',
-    ],
-    '63aec17c-b81f-51e7-8c2a-20bdb3396791' => [
-        'The best way to predict the future is to study the past, or prognosticate.',
-        'Robert Kiyosaki',
-    ],
-    'ed676735-7fe4-5c14-b8ec-5d727fc5ca7d' => [
-        'Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.',
+    'c2757a5e-8653-5f8a-80b5-e6ebb156c4e5' => [
+        'When something is important enough, you do it even if the odds are not in your favor.',
         'Elon Musk',
     ],
-    '3885b990-e493-5b94-b255-a064a1730413' => [
-        'Leap, and the net will appear.',
-        'John Burroughs',
+    '213a0462-84a0-54b0-89db-69d50bbd619d' => [
+        'Research indicates that employees have three prime needs: Interesting work, recognition for doing a good job, and being let in on things that are going on in the company.',
+        'Zig Ziglar',
     ],
-    '8c3a63db-28cc-56f5-859a-6f20f19af441' => [
-        'Youth is really in your attitude, not in what you look like.',
-        'Walt Handelsman',
+    '99729a61-6a63-56e5-b8e3-1e600138d7ad' => [
+        'When I was at the Royal Ballet School, I remember receiving my first eyeshadow palette from Marks &amp; Spencer as a gift. It sparked my interest in beauty, which peaked when I became more involved in theatre and got to experience so many stunning image transformations to suit different productions.',
+        'Darcey Bussell',
     ],
-    '05fd3dfc-4175-54f6-aa5c-9dcb67dc7b21' => [
-        'Positive thinking is the notion that if you think good thoughts, things will work out well. Optimism is the feeling of thinking things will be well and be hopeful.',
-        'Martin Seligman',
+    '8333c47f-bccd-5f56-97d6-9a8a8136470d' => [
+        'There is nothing funny about Halloween. This sarcastic festival reflects, rather, an infernal demand for revenge by children on the adult world.',
+        'Jean Baudrillard',
     ],
-    '5351f8bc-74b1-50f7-b96b-499a2884d763' => [
-        'I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.',
-        'Georg Lichtenberg',
+    '09c27bc7-f7ce-5d96-a69e-48fdd04bb913' => [
+        'Life is always going to be stranger than fiction, because fiction has to be convincing, and life doesn\'t.',
+        'Hillary Clinton',
     ],
-    '6788875f-8cdf-5c81-a4a3-769470323339' => [
-        'Quality means doing it right when no one is looking.',
-        'Henry Ford',
+    '75133637-78ef-5394-b5e5-d92c76ae8ec3' => [
+        'We\'re humans. Why always turn human attitude into political behaviours? I hate that.',
+        'Ingrid Betancourt',
     ],
-    '1734a108-8893-56db-8c91-97246e03e569' => [
-        'The first condition of understanding a foreign country is to smell it.',
-        'Rudyard Kipling',
+    '6ebcdde1-5d77-56f3-a2ef-d5f6346fba22' => [
+        'Ours is the century of enforced travel of disappearances. The century of people helplessly seeing others, who were close to them, disappear over the horizon.',
+        'John Berger',
     ],
-    'a2ab0dd0-8987-56f9-b146-ff2ab09de7d7' => [
-        'Animals represent the abstract notion of acceptance. Living with these funny creatures - you kind of have to accept them. It\'s like a test in a way.',
-        'Shaun Tan',
+    '8adc4d57-5bc1-5143-bbc1-0556916ff018' => [
+        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
+        'Nikolai Gogol',
     ],
-    '1c5bcb52-15c9-53ef-a466-bbb0d288a967' => [
-        'Deacon Jones has been the most inspirational person in my football career.',
-        'Jack Youngblood',
+    'b6b98e17-f40a-5830-a248-ec9893b62c2b' => [
+        'Go put your creed into the deed. Nor speak with double tongue.',
+        'Ralph Emerson',
     ],
-    'a1362bd7-5682-562c-8b19-5465b5237e15' => [
-        'Individuals need to be willing to face truth about their attitudes, behaviors, even what we want out of life.',
-        'Joyce Meyer',
+    '23bb5dc7-a63a-5cac-8ef0-9274991914e3' => [
+        'I want to give kids that fall-off-the-bed-laughing feeling. Either that, or the sixth-grade feeling that life is hard - sometimes unbearably hard - and it is ultimately about death. But in the meantime, life can be really funny, too.',
+        'Kate Klise',
     ],
-    '5d780233-305c-590a-a2cb-376163449c9c' => [
-        'If you can dream it, you can do it.',
-        'Walt Disney',
+    'b5f3c6c5-6c07-5f0e-b7d2-ce86586ca9ff' => [
+        'I just love where I am right now in my career. I love country music. I don\'t ever feel restricted by the genre. I\'ve been able to have a solid career that we\'ve built one step at a time and a family. I know that I\'m in a good place.',
+        'Martina McBride',
     ],
-    '78c6e611-6ef8-53fc-979e-a9f05a47b338' => [
-        'I\'m a family man, and I couldn\'t be happier. My wife and I have been blessed with an incredible family, and my kids are my life.',
-        'Scottie Pippen',
+    '0142ded5-0369-5b1e-a186-be3d2a2d7c54' => [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
     ],
-    'e8d8aadd-cca6-595d-aa2c-d07d38e9c660' => [
-        'We cannot change our memories, but we can change their meaning and the power they have over us.',
-        'David Seamans',
+    '8e2435e7-7b65-579a-a225-d6c26d4ea252' => [
+        'Where there is humility, there is more success, and lasting success.',
+        'Patrick Lencioni',
     ],
-    '6210704d-0e96-52ab-ae59-168fd0333a87' => [
-        'Green is the prime color of the world, and that from which its loveliness arises.',
-        'Pedro Calderon de la Barca',
+    '1ce524f2-05c0-5965-b80e-f82279bfee2c' => [
+        'I think it\'s very important to have a feedback loop, where you\'re constantly thinking about what you\'ve done and how you could be doing it better. I think that\'s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.',
+        'Elon Musk',
     ],
-    'abe10697-e689-5635-941b-30afdda4a040' => [
-        'Fashion is quite inclusive and good at embracing different things and different forms of beauty. It\'s a very liberal industry. You can be yourself. Just not overweight.',
-        'Andrej Pejic',
+    '16271750-de77-5e29-b33a-bb17db2e68c9' => [
+        'When you\'re surrounded by feathers and sequins and ridiculous Lycra outfits, it\'s impossible not to have a smile on your face.',
+        'Catherine Martin',
     ],
-    '3c04196a-8b4e-557d-b176-182ff93b536c' => [
-        'Do not wait for leaders; do it alone, person to person.',
-        'Mother Teresa',
+    'd28055de-a771-5a57-8e27-ef98cefcee4f' => [
+        'Learn to get in touch with the silence within yourself, and know that everything in life has purpose. There are no mistakes, no coincidences, all events are blessings given to us to learn from.',
+        'Cesare Pavese',
     ],
-    '87bb6972-1204-526e-bddf-b09a59d615e4' => [
-        'There\'s no reason to hold yourself back and say you can\'t do something in life unless you go for it and try to do it.',
+    '7b5eb8b3-bcb5-5ee0-b32b-c21077630897' => [
+        'To accomplish great things, we must dream as well as act.',
+        'Anatole France',
+    ],
+    'fbb74cbd-f692-5cde-8770-770c74105df5' => [
+        'My deepest impulses are optimistic, an attitude that seems to me as spiritually necessary and proper as it is intellectually suspect.',
+        'Ellen Willis',
+    ],
+    'a96c3a99-5ca5-5751-9ed1-3f43f378b77b' => [
+        'The sailor\'s life is at the best a life of danger. He pursues honor on the mountain wave and finds it in the battle and in the storm, and never did more distinguished chivalry display itself than in the conduct of our seamen during the late war.',
+        'John Tyler',
+    ],
+    'a695d0a3-114e-570f-bb5e-a1d8a2f734c2' => [
+        'Today\'s youth are told to get rich or die trying and they really shouldn\'t take that attitude forward with them.',
+        'Kareem Abdul-Jabbar',
+    ],
+    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
+        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
         'Laura Esquivel',
     ],
-    '88ac7266-0a76-5d92-9520-0b92ff85bcf3' => [
-        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
-        'A. R. Rahman',
+    '75847e41-551e-5202-9e93-e16f2423cc04' => [
+        'I don\'t expect to live forever, but I do intend to hang on as long as possible.',
+        'Socrates',
     ],
-    'c3a7783a-fb1c-5240-84b3-892c951d8fb8' => [
-        '\'Get along, go along\' is not an inspirational philosophy, and only God knows how much moral cowardice it has covered up over the years. Serve your time, collect your chits, and cash \'em in for your home state? No, I\'d say we could ask for more than that from our senators.',
-        'Molly Ivins',
+    'e64d3ebd-3935-5348-a0c2-880ac2869a0b' => [
+        'As a teenager, I used to travel everywhere with my guitar. I appreciated the fact it was with me, but it was always an absolute pain to carry around - even though, in those days, you could take in on a plane as hand luggage.',
+        'Greg Wise',
     ],
-    'aaefbc35-25ab-5e79-a3cf-23c85f56c90f' => [
-        'Success is counted sweetest by those who never succeed.',
-        'Emily Dickinson',
+    '67272376-fe1b-5b31-a477-439c2eb5e8ae' => [
+        'To me, if life boils down to one thing, it\'s movement. To live is to keep moving.',
+        'Buddha',
+    ],
+    '10e29fba-5993-5328-8ef1-9edeea0c332d' => [
+        'The best fiction is geared towards conflict. We learn most about our characters through tension, when they are put up against insurmountable obstacles. This is true in real life.',
+        'Sufjan Stevens',
+    ],
+    'c424f04a-09ef-5659-a039-92d435aa235c' => [
+        'There are millions of Americans outside Washington who are tired of stale political arguments and are moving this country forward. They believe, and I believe, that here in America, our success should depend not on accident of birth, but the strength of our work ethic and the scope of our dreams.',
+        'Barack Obama',
+    ],
+    'd009fa15-4ab6-503d-9669-475f4a2a24be' => [
+        'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.',
+        'Franklin Roosevelt',
+    ],
+    'bb9a0c83-1562-5ab3-834f-da1a80289960' => [
+        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
+        'Martha Stewart',
+    ],
+    '7b40a6a3-13a0-568d-8921-9c7f9067439c' => [
+        'If you\'re not really having a good time, it\'s not worth it.',
+        'Kyle Chandler',
+    ],
+    '441053c8-db78-5f37-8bce-e86b2dd6b5f9' => [
+        'I enjoy nothing more than spending time with my loved ones, young and old, and at least once a year we get together for a formal family photograph.',
+        'Elliott Erwitt',
+    ],
+    '97027997-779e-565d-b6f1-5ff92cb27050' => [
+        'Not how long, but how well you have lived is the main thing.',
+        'Seneca',
+    ],
+    '8aa2d0e9-f782-5502-80e6-b1cd21268b7f' => [
+        'It\'s funny, but when I arrived in California to start college I was much more interested in becoming a surfer and cruise along in life from one beach to the next. I didn\'t plan out any huge career for myself.',
+        'Benicio Del Toro',
+    ],
+    'c33fbaee-ff4f-52da-90e4-4f038f24ae1d' => [
+        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
+        'Satya Nadella',
+    ],
+    '65df8ff6-7f3b-5c3a-ae80-b2d32587cdab' => [
+        'Real shapes and real patterns are things you would observe in nature, like the marks on the back of a cobra\'s hood or the markings on a fish or a lizard. Imaginary shapes are just that, symbols that come to a person in dreams or reveries and are charged with meaning.',
+        'Jim Woodring',
+    ],
+    'a3f5d5cb-8318-5305-a8b0-8cb561bf3d5c' => [
+        'Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.',
+        'Harry Burchell Mathews',
+    ],
+    '57a3528b-4570-54ef-87a2-be0d37c86ff1' => [
+        'If you look at the history of technology over a couple hundred years, it\'s all about time compression and making the globe smaller. It\'s had positive effects, all the ones that we know. So we\'re much less likely to have the kind of terrible misunderstandings that led to World War I, for example.',
+        'Eric Schmidt',
+    ],
+    'cb69ac1b-a4e2-535c-99e3-d2bf885e0bed' => [
+        'The test of the artist does not lie in the will with which he goes to work, but in the excellence of the work he produces.',
+        'Thomas Aquinas',
+    ],
+    '8b9c9c73-40ab-56be-a73e-e8e29dec6921' => [
+        'My eyes are different sizes, my nose is too broad at the bridge and squishes up when I laugh, and my lips are sorta funny when I smile.',
+        'Terry Farrell',
+    ],
+    'ae9a0afa-bb59-5554-83a2-7ff93346c9e0' => [
+        'Trust your hunches. They\'re usually based on facts filed away just below the conscious level.',
+        'Joyce Brothers',
+    ],
+    '005c9f27-7dba-5d75-b16e-cb487749ec8c' => [
+        'Youth is the spirit of adventure and awakening. It is a time of physical emerging when the body attains the vigor and good health that may ignore the caution of temperance. Youth is a period of timelessness when the horizons of age seem too distant to be noticed.',
+        'Ezra Taft Benson',
+    ],
+    'c00c704d-03df-52ac-a52c-14169baa757e' => [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
+    ],
+    'f3bde814-a25c-572c-b7f4-de1075c55896' => [
+        'I want to be a young dad. By 25 or 26 I want to see myself, like, married or start looking for a family.',
+        'Justin Bieber',
+    ],
+    '77ff765b-7bb6-5653-b120-ce967e3cd655' => [
+        'If you work for it, you\'ll deserve what comes. Hard work.',
+        'DeMar DeRozan',
+    ],
+    'ba829930-3076-5644-9ad3-0f9103cb3a5f' => [
+        'Just because a situation is grim doesn\'t mean you don\'t have every right to smile.',
+        'Rashida Jones',
     ],
 ];

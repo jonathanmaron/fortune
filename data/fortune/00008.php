@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '9c4634d1-5cad-55ed-ba7b-0f9f269aa690' => [
-        'It remains to consider what attitude thoughtful men and Christian believers should take respecting them, and how they stand related to beliefs of another order.',
-        'Asa Gray',
+    '18c5216a-0fbc-52c8-906b-338099ccd866' => [
+        'My beauty icons are women whose images are self-created.',
+        'Dita Von Teese',
     ],
-    '94d8592d-2071-5248-8164-56e2a9a18e40' => [
-        'The cure for boredom is curiosity. There is no cure for curiosity.',
-        'Ellen Parr',
+    'f405dfb7-48eb-57a5-960b-b6305d4781c8' => [
+        'My one regret in life is that I am not someone else.',
+        'Woody Allen',
     ],
-    'c5ed4e19-c3bf-5a91-8c6f-6882022739bf' => [
-        'Success is all about persistence and doing the right thing for the long term.',
-        'Bruce Rauner',
+    'e96e05c5-0726-5517-915b-20e1f6b3b2ab' => [
+        'The key to success is to focus our conscious mind on things we desire not things we fear.',
+        'Brian Tracy',
     ],
-    '04f8ce40-fe96-5b0e-8ed9-019739fd9779' => [
-        'Success is not assured, but America is resolute: this is the best chance for peace we are likely to see for some years to come - and we are acting to help Israelis and Palestinians seize this chance.',
-        'Condoleezza Rice',
+    '96f908fc-0ea8-58fc-888d-c8289e93733d' => [
+        'Occurrences in this domain are beyond the reach of exact prediction because of the variety of factors in operation, not because of any lack of order in nature.',
+        'Albert Einstein',
     ],
-    'ec3864d0-db4a-5b6a-abc6-fd09063c4f65' => [
-        'I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.',
-        'Robert Schumann',
+    '4a490bad-1735-5e30-9094-2785059b8cc4' => [
+        'I came on to the film with a very happy-go-lucky attitude which I think my character, Charlie, did when she went into the house. I expected it to be good, and then slowly things started to change for us all.',
+        'Jennifer Sky',
     ],
-    'c608a484-dee8-5307-9796-6aee8f3ef5fb' => [
-        'For something to be useful to the spirit is not very valuable to get your covered wagon across the desert. We have adopted that attitude so thoroughly that any American father whose son tells him he wants to write poetry will be embarrassed.',
-        'Miller Williams',
+    '71a4cd23-95e9-5db7-89b0-b6045f39f3f3' => [
+        'By nature, I\'m a very positive person, and because I\'m happy in myself, and in my life, and I\'ve got a great husband, and beautiful children, and I have a job that I love that calls for a certain amount of emotional expression, I get to realise a lot of my dreams and aspirations.',
+        'Kate Winslet',
     ],
-    'e10a034b-e9b1-5841-8b88-f41e5150588b' => [
-        'Somehow I can\'t believe that there are any heights that can\'t be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy.',
-        'Walt Disney',
+    '0352e5d6-e345-5020-b613-033c10a79026' => [
+        'The weaker the country, the stronger the smile.',
+        'Howard E. Koch',
     ],
-    '544ef256-f93d-5f3d-b419-67cb15e6b109' => [
-        'Earthshaking fire from the center of the Earth will cause tremors around the New City. Two great rocks will war for a long time, then Arethusa will redden a new river.',
-        'Nostradamus',
+    'cee2e44b-d4dd-5cd0-9ef3-e7ef625a298f' => [
+        'Success seems to be largely a matter of hanging on after others have let go.',
+        'William Feather',
     ],
-    'd908dba1-75f9-5986-9957-e248c63b1ba8' => [
-        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
-        'Brad Pitt',
+    '4734f682-87a4-5964-b3d5-556ea03a8c5e' => [
+        'I\'m opening up my heart to the idea of dating. It\'s funny - my friends would always come to me for romantic advice. I know nothing, and things have changed since I was dating in high school! I\'m really trying hard to spend this time working on myself.',
+        'Olivia Wilde',
     ],
-    'c69be48d-28c2-5936-a698-45354ef173f1' => [
-        'I am so happy to be alive. That\'s the one thing I\'d like for people to know. Sometimes people walk by and slip up and say the wrong thing about me, and I\'ll smile. They wonder why am I smiling. Because I\'m happy that I\'m alive.',
-        'George Foreman',
+    'e881d1bc-d290-5230-a37b-c84103951303' => [
+        'Start by doing what\'s necessary; then do what\'s possible; and suddenly you are doing the impossible.',
+        'Francis of Assisi',
     ],
-    '119d5960-41f5-5e8a-bdc4-b21daad58812' => [
-        'The old attitude toward newspapers was that they were completely disposable - today\'s newspaper is tomorrow\'s fish wrap.',
-        'Ray Guy',
+    '2fa1804b-7c92-53f9-ab40-bbe2ad83a085' => [
+        'When you grow up in poverty, suffer from abuse, live in a violent neighborhood, come from a broken home, lack positive role models, are told you\'ll never amount to anything, etc, the challenges are enormous.',
+        'Christine Tsai',
     ],
-    '3acf7799-b5a6-51e1-a442-202bc1b59fd7' => [
-        'I suppose leadership at one time meant muscles; but today it means getting along with people.',
-        'Mahatma Gandhi',
+    '5bbfe7b9-b75d-54dc-b12e-63ea360f26f1' => [
+        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
+        'Phyllis Diller',
     ],
-    '3be7953c-f18d-5e7f-96cc-7ab172093b28' => [
-        'A people without a positive history is like a vehicle without an engine.',
-        'Steven Biko',
+    '1c3d0453-f4da-5ce0-8671-f9b414cdd76d' => [
+        'Happiness is dependent on self-discipline. We are the biggest obstacles to our own happiness. It is much easier to do battle with society and with others than to fight our own nature.',
+        'Dennis Prager',
     ],
-    'c7c048b4-a7c7-575e-98f3-165317dc8e94' => [
-        'I don\'t think I would do a straight late-night talk show, like a \'Tonight Show\' kind of thing. But I\'m open to whatever is done well. I don\'t have any agenda. I\'m not like Fugazi - I\'m not trying to be just so punk rock until I die. Whatever is funny is good.',
-        'Eric Andre',
+    '61d8a92e-909a-5727-8a1b-344005c19599' => [
+        'Fact: From quitting smoking to skiing, we succeed to the degree we try, fail, and learn. Studies show that people who worry about mistakes shut down, but those who are relaxed about doing badly soon learn to do well. Success is built on failure.',
+        'Martha Beck',
     ],
-    'c51857d6-7e6f-5dca-bc29-e910e32420f8' => [
-        'Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.',
-        'Pablo Picasso',
+    '88fcc70b-8dde-5947-b228-ea633dcb6b27' => [
+        'Labor gives birth to ideas.',
+        'Jim Rohn',
     ],
-    '5e47e048-b9fe-5072-9f5e-22321c60ea0e' => [
-        'I arise full of eagerness and energy, knowing well what achievement lies ahead of me.',
-        'Zane Grey',
+    '956a6f0a-9784-56ff-8124-e58bd4b69c9d' => [
+        'Our business in life is not to succeed, but to continue to fail in good spirits.',
+        'Leo Tolstoy',
     ],
-    'e4b31d71-38a8-53a2-b35b-29c5d612b3ea' => [
-        'When I drank, I had a very different attitude towards my playing. It was sloppier but I kind of liked it that way. It was like the alcohol was telling my mind what to do.',
-        'Mick Mars',
+    '7ebf7562-594a-5c7e-af39-eb35aaae2882' => [
+        'It can be easy to buy into anything. I would lose focus if I went with that attitude of wanting to be famous.',
+        'Tristan MacManus',
     ],
-    '87d1bca5-601b-5b3f-9f79-f901eb8e5620' => [
-        'It\'s easy to get wrapped up in sharing everyday life with a partner. It\'s fun to get lost in love and romance. It\'s the best. But holding on to yourself while doing that is the most important thing.',
-        'Brittany Murphy',
+    '9c486f51-3205-5752-8059-9ab6d4c1923e' => [
+        'When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
+        'Harriet Beecher Stowe',
     ],
-    'a0bf552a-23cf-555c-847c-5a5b5c6cf195' => [
-        'Great minds are related to the brief span of time during which they live as great buildings are to a little square in which they stand: you cannot see them in all their magnitude because you are standing too close to them.',
-        'Arthur Schopenhauer',
+    '0c671444-a3cb-5762-a62a-f46d5876f2dc' => [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
     ],
-    '13f92ac5-5178-5bf3-873d-b731788306e4' => [
-        'Success is usually the culmination of controlling failure.',
-        'Sylvester Stallone',
+    'e683b8d3-51f0-5a7e-b7fc-7f23b181de8c' => [
+        'I was kind of like the Rhea Perlman of the bar. I was like Carla on \'Cheers.\' People were more afraid of me. There was a point where I got a little surly. There were only so many chicken wings I could serve before losing the smile on my face.',
+        'Melissa Rauch',
     ],
-    '70897bf6-099a-5d09-ae30-6ab00169f4bc' => [
-        'Bite off more than you can chew, then chew it.',
-        'Ella Williams',
+    'c3a01ec6-ac90-512d-9b8c-50bf862b7f4d' => [
+        'Even in decline, a virtuous man increases the beauty of his behavior. A burning stick, though turned to the ground, has its flame drawn upwards.',
+        'Saskya Pandita',
     ],
-    '7466deb0-882d-5cb8-b615-d48ae3700b33' => [
-        'I had an amazing experience working with great people. I had a great family, a typical family with drama in certain areas, and that\'s pretty much everywhere in everyone\'s life.',
-        'Tina Yothers',
+    '7df14f05-4a0a-5070-8be9-67c0a3defdb7' => [
+        'We will see a breakdown of the family and family values if we decide to approve same-sex marriage, and if we decide to establish homosexuality as an acceptable alternative lifestyle with all the benefits that go with equating it with the heterosexual lifestyle.',
+        'Jerry Falwell',
     ],
-    'ce86b242-e798-515d-8368-70d3b090cb6d' => [
-        'Conversation would be vastly improved by the constant use of four simple words: I do not know.',
-        'Andre Maurois',
+    '1889f915-e5b3-5cca-9644-7cf1a6c67392' => [
+        'Socialism has no moral justification whatsoever; poor people are not morally superior to rich people, nor are they owed anything by rich people simply because of their lack of success. Charity is not a socialist concept - it is a religious one, an acknowledgment of God\'s sovereignty over property, a sovereignty the Left utterly rejects.',
+        'Ben Shapiro',
     ],
-    '880795fd-817f-57df-ab11-681a5158d454' => [
-        'Nature teaches more than she preaches. There are no sermons in stones. It is easier to get a spark out of a stone than a moral.',
-        'John Burroughs',
+    '47dc2b73-26d6-5077-9c37-932f2eed8058' => [
+        'If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.',
+        'Epictetus',
     ],
-    '363c7fe4-bd09-514c-9cb2-285c914e52a1' => [
-        'I want to challenge myself to see where my limit is and experiment with a lot of different films. A lot of artists from Asia focus too much on their Asian background. I don\'t want to let go of my background, but to be a success in the U.S., which is my goal, I realize I need to surround myself with American filmmakers and producers.',
-        'Rain',
+    'a50699d5-7b87-5205-ab5d-0e71444726ef' => [
+        'Comedy is tragedy - plus time.',
+        'Carol Burnett',
     ],
-    '99b34c11-3efc-5d2b-8d11-faa3cf79a292' => [
-        'Don\'t do anything by half. If you love someone, love them with all your soul. When you go to work, work your ass off. When you hate someone, hate them until it hurts.',
-        'Henry Rollins',
+    '3323b379-a641-5bfb-a626-db18b6321a1b' => [
+        'I was born in South Africa during apartheid, a system of laws that made it illegal for people to mix in South Africa. And this was obviously awkward because I grew up in a mixed family. My mother\'s a black woman, South African Xhosa woman... and my father\'s Swiss, from Switzerland.',
+        'Trevor Noah',
     ],
-    '9c4329b7-30e4-5ebb-ab70-0edaa875a79d' => [
-        'I\'ve always been about the power of a woman - accentuating the positive, deleting the negative, whether you\'re talking her body, her voice or her leadership.',
-        'Donna Karan',
+    '84a54f20-92ab-566c-a094-1b26a9c936fb' => [
+        'It\'s better to waste money, than it is to waste time. You can always get more money.',
+        'Hal Sparks',
     ],
-    '3c851443-250b-5c7e-91c5-d06c1c154c3b' => [
-        'The best thing about animals is that they don\'t talk much.',
-        'Thornton Wilder',
+    '25535bda-deef-55ec-94f6-891c6ba902b4' => [
+        'The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another\'s, smile at someone and receive a smile in return, are to me continual spiritual exercises.',
+        'Leo Buscaglia',
     ],
-    'fdb9f57c-4754-51d5-8f5b-ef493de5a12f' => [
-        'To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.',
-        'Byron Pulsifer',
+    'a90101cc-7938-522b-80a9-b9108bc0a218' => [
+        'I became interested in photography during my first visit to the United States. I was a student at a university in Holland. I was overwhelmed by the beauty of the American West. That was when I learned about the tradition of nature in American photography.',
+        'Frans Lanting',
     ],
-    'ec0881d5-2a67-51aa-9b8b-76a023781e93' => [
-        'Those who say we should dismantle the role of Poet Laureate altogether, the trick they miss is that being called this thing, with the weight of tradition behind it, and with the association of the Royal family, does allow you to have conversations and to open doors, and wallets, for the good of poetry in a way that nothing else would allow.',
-        'Andrew Motion',
+    '60a75a4f-f797-5dd5-a32b-c3d2079b1f87' => [
+        'It is a great day anytime I can bring a smile to a girl or boy, knowing that I am helping to inspire them to always dream big.',
+        'Normani Kordei',
     ],
-    'dd7bd7ba-588b-5f79-92ab-744a8a0e48f9' => [
-        'An award means a lot to me. It brings happiness along with a kind of fear. It brings fear because the award is the responsibility which audiences have put on us. So a singer winning an award should always try to give best of him to the audiences.',
-        'Shreya Ghoshal',
+    'd2a560e4-19e7-5987-b2a6-33f63cd3310d' => [
+        'Sometimes the best way to solve your own problems is to help someone else.',
+        'Iroh',
     ],
-    '8e00b4d4-984b-5bd0-9826-ea6190cd6901' => [
-        'For most Americans, Friday afternoons are filled with positive anticipation of the weekend. In Washington, it\'s where government officials dump stories they want to bury. Good news gets dropped on Monday so bureaucrats can talk about it all week.',
-        'John Sununu',
+    '86a72950-7fef-52a5-8330-f1901c6ddf08' => [
+        'If there\'s any message to my work, it is ultimately that it\'s OK to be different, that it\'s good to be different, that we should question ourselves before we pass judgment on someone who looks different, behaves different, talks different, is a different color.',
+        'Johnny Depp',
     ],
-    '32a2c986-b335-54c1-b0a4-ca41df0e293e' => [
-        'The beauty is that through disappointment you can gain clarity, and with clarity comes conviction and true originality.',
-        'Conan O\'Brien',
+    'a289e56b-a1a5-5cf8-8377-3800c5f52b45' => [
+        'Like all great travellers, I have seen more than I remember, and remember more than I have seen.',
+        'Benjamin Disraeli',
     ],
-    'fc501838-df5a-5b2e-ab3c-97285bd5bd19' => [
-        'Anyone who keeps the ability to see beauty never grows old.',
-        'Franz Kafka',
+    '46505a42-43b5-539d-872f-3b179fa18ff3' => [
+        'Christmas is the day that holds all time together.',
+        'Alexander Smith',
     ],
-    'de0bdb42-0511-5c1e-9b70-30593c85bc6d' => [
-        'The world is a slightly better place for having improvisation in it than it was before. There\'s something about it that says something positive about the human spirit, that a bunch of people can get together and by following a few simple traffic rules can create art and can entertain an audience and can thrill and exalt each other.',
-        'Del Close',
+    '42bb4656-2cac-584d-a784-50b6bffc8765' => [
+        'True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.',
+        'Manny Pacquiao',
     ],
-    '87529d02-d923-51d3-bc1a-0c37c4486408' => [
-        'When push comes to shove, it ain\'t the science that\'s going to lift you up - it\'s the belief, the spiritual side of life, that\'s going to lift you up, no matter what religion you are.',
-        'Kirstie Alley',
+    'e0854a74-2ed6-50b0-ad76-08ea04d009fd' => [
+        'Video games are a waste of time for men with nothing else to do. Real brains don\'t do that.',
+        'Ray Bradbury',
     ],
-    '47b42c8f-ccd0-5c2f-9986-c7bdcd7486e4' => [
-        'A women\'s greatest asset is her beauty.',
-        'Alex Comfort',
+    '2df0ddc9-a0b4-55c1-8fee-82d90534bedc' => [
+        'In motivating people, you\'ve got to engage their minds and their hearts. I motivate people, I hope, by example - and perhaps by excitement, by having productive ideas to make others feel involved.',
+        'Rupert Murdoch',
     ],
-    'b8a3b05d-ec61-504c-b51d-b98d2ebda6a8' => [
-        'I don\'t believe in an outside agent that creates the world, then walks away. But I feel very strongly there is an intelligence at work in every flower, in every blade of grass, in every cell of my body. And it is that intelligence that, I wouldn\'t say created the universe. It is creating the universe. It\'s an ongoing process.',
-        'Eckhart Tolle',
+    '446683fb-4ba2-518f-b0d0-e87d0c7ffb5e' => [
+        'Success is that old ABC - ability, breaks, and courage.',
+        'Charles Luckman',
     ],
-    '713a079d-46c8-56cb-8fe8-72fbff9c33d8' => [
-        'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',
-        'JR',
+    '9da72f27-e33a-53ff-af23-01d5e73ea23d' => [
+        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
+        'Kailash Satyarthi',
     ],
-    '68b7a447-6ab4-59ae-a8c4-b0829a494c49' => [
-        'The best teamwork comes from men who are working independently toward one goal in unison.',
-        'James Cash Penney',
+    '038a68ed-b93b-5cbf-88c7-567d8a17f503' => [
+        'When men have a smile on their faces, that does a lot for me.',
+        'Michelle Yeoh',
     ],
-    'bef1a2cd-6600-58f3-953a-23f6da2dd6e4' => [
-        'Nature is neutral.',
-        'Adlai E. Stevenson',
+    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
+        'A river cuts through a rock not because of its power but its persistence.',
+        'Anonymous',
     ],
-    '341686be-8a9c-58cf-b2f7-80d6107869e0' => [
-        'My mom\'s one of the toughest ladies I know. I\'ve seen her lose both her brothers, both her parents. She\'s been through a lot, and to see her get up every day and put a smile on her face, that shows nothing but strength.',
-        'DeMar DeRozan',
+    '1d1cabba-54c9-5d3e-94ea-a86f750be721' => [
+        'My powers are ordinary. Only my application brings me success.',
+        'Isaac Newton',
     ],
-    'dbb5c09c-f82e-58d3-948c-a8d042208a8d' => [
-        'I don\'t talk about success. I don\'t know what it is. Wait until I\'m dead.',
-        'Imogen Cunningham',
+    '5ea3067b-9aea-5af0-8c9a-7d28ca6d3625' => [
+        'I just like the continue doing what I\'ve been doing. A melange of funny, straight drama, television, movies, a little theater here and there wouldn\'t hurt. So if I can keep doing that, I\'ll be a very happy person.',
+        'Mary Tyler Moore',
     ],
-    '21b0b29d-301e-521a-8424-80f91622909a' => [
-        'You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.',
-        'Anatole France',
+    '39a68dd8-08ab-5892-b5ad-4a8fa974dd2c' => [
+        'No matter what you\'ve done for yourself or for humanity, if you can\'t look back on having given love and attention to your own family, what have you really accomplished?',
+        'Lee Iacocca',
     ],
-    '21adf302-fab7-5653-a52a-21990c78941d' => [
-        'Don\'t wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success.',
-        'Eckhart Tolle',
+    '9064a764-6596-5a3e-9fd0-006226050cdf' => [
+        'Riding a bicycle is the summit of human endeavour - an almost neutral environmental effect coupled with the ability to travel substantial distances without disturbing anybody. The bike is the perfect marriage of technology and human energy.',
+        'Jeremy Corbyn',
     ],
-    '346ccd04-602b-5f36-98d9-236cc0875996' => [
-        'A true friend is the most precious of all possessions and the one we take the least thought about acquiring.',
-        'Francois de La Rochefoucauld',
+    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
+        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
+        'John P. Kotter',
     ],
-    'b1ea371f-dd17-5e74-839e-a40ed7637477' => [
-        'It always takes two. For relationships to work, for them to break apart, for them to be fixed.',
-        'Emily Giffin',
+    'bd39cfea-7407-5814-8e21-d1d12bdab7a9' => [
+        'As a former waitress myself, I know firsthand how a simple smile from someone can improve your day and how a single harsh word can destroy it. Being courteous and thoughtful costs you nothing and can sometimes pay you dividends in unexpected ways.',
+        'Susanna Kearsley',
     ],
-    '2036a6ed-6378-5047-bc92-945ccc0e5efa' => [
-        'My dad is my best friend, my father, and my boss. When I do something that is exciting and he likes it, it feels three times as good as you can imagine.',
-        'David Lauren',
+    'ec668b6f-2205-5b47-b211-dc9d3379cb7f' => [
+        'Don\'t think of it as failure. Think of it as time-released success.',
+        'Robert Orben',
     ],
-    'e4871fac-db1a-50c5-8de4-b29f2c4eaacb' => [
-        'Beauty, to me is about being comfortable in your own skin.',
-        'Gwyneth Paltrow',
+    '846e5507-af27-5418-ba16-c553d6ec2376' => [
+        'The greatest good you can do for another is not just to share your riches but to reveal to him his own.',
+        'Benjamin Disraeli',
     ],
-    '31d60b1c-c0f7-5771-b95f-df7d2384961d' => [
-        'In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.',
-        'Buddha',
+    '92cf5eb0-6c2a-59ea-9124-9591112c4126' => [
+        'A great secret of success is to go through life as a man who never gets used up.',
+        'Albert Schweitzer',
     ],
 ];

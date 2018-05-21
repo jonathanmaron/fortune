@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'f762b35c-ae39-5fe7-abe2-95fc7fb8e454' => [
-        'Snowboarding\'s tough, because you\'ve got to go to the mountains. For me, I love the skateboard season because I get to hangout at home and still be skating. I don\'t have to travel to Norway or Japan or these crazy places to be snowboarding.',
-        'Shaun White',
+    '4feb96bc-272b-5404-9cfe-3824612bdce2' => [
+        'The one who always loses, is the only person who gets the reward.',
+        'Claire Charmont',
     ],
-    '15fbf254-10e5-5706-9a87-22ebe0727858' => [
-        'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
-        'Ray Kroc',
+    'e230c006-c3a7-5ce9-ad75-b57dc6c16559' => [
+        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
+        'Jasmine Guy',
     ],
-    '94d6e3cd-16c4-5fc3-8481-55109f6e8d90' => [
-        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
-        'Sallust',
+    '1160c2ba-dd56-5146-994a-144fda6bb9a6' => [
+        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
+        'Ralph Waldo Emerson',
     ],
-    'dc381c81-f05c-526d-9be0-786618bc2e4c' => [
-        'How sweet it is!',
-        'Harry Houdini',
+    '2390cf4f-5d51-5e22-8fb9-a30e0bc66a0f' => [
+        'Timing has always been a key element in my life. I have been blessed to have been in the right place at the right time.',
+        'Buzz Aldrin',
     ],
-    'ab22d6ea-b2f8-5070-8513-02302ef52cfd' => [
-        'Never give in and never give up.',
-        'Hubert H. Humphrey',
-    ],
-    'ebbfa48f-eb61-562b-80e7-97416f1227cf' => [
-        'Every man\'s dream is to be able to sink into the arms of a woman without also falling into her hands.',
-        'Jerry Lewis',
-    ],
-    'cebdd381-cdc2-5c44-bc5f-4d6a1fe25fd4' => [
-        'Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.',
-        'Richard Bach',
-    ],
-    '2890749c-23a0-5280-a290-c2af446dfce1' => [
-        'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.',
-        'Henry Rollins',
-    ],
-    '97e77ba5-f097-5e7e-a668-b546c8dd67a1' => [
-        'Where men of judgment creep and feel their way, The positive pronounce without dismay.',
-        'William Cowper',
-    ],
-    '8309960d-93d0-53a7-b13d-27e25ef35eba' => [
-        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
-        'Julie Delpy',
-    ],
-    'c39f142e-e300-5d89-993d-3ee40d027530' => [
-        'By nature, I really am a fairly bouncy and sunny individual.',
-        'Julie Andrews',
-    ],
-    'ebc44843-5cba-54d4-b672-aa5e5a6e3acf' => [
-        'I always said punk was an attitude. It was never about having a Mohican haircut or wearing a ripped T-shirt. It was all about destruction, and the creative potential within that.',
-        'Malcolm Mclaren',
-    ],
-    '02bfd30d-8032-5535-a17b-4b9a25370f9c' => [
-        'Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource - the minds of our children.',
-        'Walt Disney',
-    ],
-    '8c157d33-cc7e-5ba2-9f4d-69cd67c08aa3' => [
-        'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-        'H. G. Wells',
-    ],
-    '89cba993-3e20-5dc8-8c76-daa7af31eabb' => [
-        'Some people think football is a matter of life and death. I assure you, it\'s much more serious than that.',
-        'Jesus Christ',
-    ],
-    'be6708be-9e38-5257-a1cb-101c3ce6ef5e' => [
-        'There is no point to samba if it doesn\'t make you smile.',
-        'Alma Guillermoprieto',
-    ],
-    '03057bfe-b008-58be-9cb8-9151bdfad6b9' => [
-        'You can\'t beat the beehive for glam punkette attitude.',
-        'Rob Sheffield',
-    ],
-    'b666a8bc-07aa-534e-81c9-997201f20cd3' => [
-        'Man never made any material as resilient as the human spirit.',
-        'Bernard Williams',
-    ],
-    'c0829526-3476-558d-8401-b5ab356cc3fe' => [
-        'The first time I got pregnant, I was a young girl - I was 17 years old. Although I knew right away that I wanted to keep my child, being a pregnant teen was an extremely scary experience for me. Luckily, my family and friends were very supportive and were there for me every step of the way.',
-        'Paula Garces',
-    ],
-    'b10ee7a5-b7e1-5430-90cd-05c55d914176' => [
-        'If you could only love enough, you could be the most powerful person in the world.',
-        'Emmet Fox',
-    ],
-    'cb42646e-d644-5310-ba16-f6bb2309f931' => [
-        'Success is not forever and failure isn\'t fatal.',
-        'Don Shula',
-    ],
-    '2889ebff-88d8-5682-92bb-28694958c690' => [
-        'Bitcoin is mostly about anonymous transactions, and I don\'t think over time that\'s a good way to go. I\'m a huge believe in digital currency... but doing it on an anonymous basis I think that leads to some abuses, so I\'m not involved in Bitcoin.',
-        'Bill Gates',
-    ],
-    'd029ffd0-115f-58fd-891f-a3873fc84fdf' => [
-        'Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent\'s pressure, and the temporary failures.',
-        'Vince Lombardi',
-    ],
-    '26ec29a8-6343-557b-998f-7bba58223bcd' => [
-        'I travel with a bunch of battery packs because I don\'t always have time to charge my phone at the hotel room when I\'m traveling. I always change them, so I never run out of battery.',
-        'Avicii',
-    ],
-    '0ee0d0f1-2d44-5a51-a64e-3b6f41308674' => [
-        'Everything I do in life is framed through the view of a businessman. That\'s my instinct. If I go into a pharmacy to buy shaving cream, then I\'m going to look for the best deal on shaving cream.',
-        'Donald Trump',
-    ],
-    '1e9dbe3f-2164-57f1-b72e-557cd8845d33' => [
-        'We know we cannot underestimate the importance of emergency planning in our region, nor can we assume we\'ll have ample warning time. If an earthquake or terrorist attack hits, we won\'t necessarily have advance alerts or opportunities to double- and triple-check our plans.',
-        'Ellen Tauscher',
-    ],
-    'bc22d91c-29c3-5b7e-b1af-2a36d33af1b3' => [
-        'We live in a world of constant juxtaposition between joy that\'s possible and pain that\'s all too common. We hope for love and success and abundance, but we never quite forget that there is always lurking the possibility of disaster.',
-        'Marianne Williamson',
-    ],
-    '9c9de8a2-9e13-59e0-bf8d-856b0a7d0f42' => [
-        'There are no plans that always work in life. For me, the secret to happiness is being positive and looking at the brighter side of my life.',
-        'Karisma Kapoor',
-    ],
-    'd919adad-9770-5317-9825-099944cc6081' => [
-        'I can\'t travel without Sudoku.',
-        'Robert Ballard',
-    ],
-    'cbf4bf84-505c-5f90-83b6-b23542054c43' => [
-        'Honestly, it\'s not the medals that I feel so proud of. It\'s the way I conducted myself as an athlete, the hard work that I put forward.',
-        'Kyle Shewfelt',
-    ],
-    'a0d1b40c-47ad-51f1-9602-28cac66674fd' => [
-        'Be willing to step outside your comfort zone once in a while; take the risks in life that seem worth taking. The ride might not be as predictable if you\'d just planted your feet and stayed put, but it will be a heck of a lot more interesting.',
-        'Woody Hayes',
-    ],
-    '3b695791-e8ad-5147-8d78-ae188864ffda' => [
-        'I was successful materially, but I know life is much more than worldly success. I saw all these blessings God had given me. The way to give thanks is obedience to God.',
-        'Hakeem Olajuwon',
-    ],
-    'ce7051d7-3d06-511d-a0ad-bb1e343ab6f9' => [
-        'Love is the attempt to form a friendship inspired by beauty.',
-        'Marcus Tullius Cicero',
-    ],
-    '4b13da66-70ff-5596-83c5-bb3e72d156a5' => [
-        'Creativity comes from trust. Trust your instincts. And never hope more than you work.',
-        'Rita Mae Brown',
-    ],
-    '15903e21-e9e6-5c23-b452-202ab6ec8cb6' => [
-        'Success or failure depends more upon attitude than upon capacity successful men act as though they have accomplished or are enjoying something. Soon it becomes a reality. Act, look, feel successful, conduct yourself accordingly, and you will be amazed at the positive results.',
-        'William James',
-    ],
-    '2cb0e4ef-8fd3-515d-a130-3b9efdd3ae6e' => [
-        'Empathy is the faculty to resonate with the feelings of others. When we meet someone who is joyful, we smile. When we witness someone in pain, we suffer in resonance with his or her suffering.',
-        'Matthieu Ricard',
-    ],
-    'dd1afac3-de29-58b6-874f-ffcf3a64ac57' => [
-        'When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.',
-        'Helen Keller',
-    ],
-    '5a9c20f2-549c-545c-a4bf-5dc5f5e3346c' => [
-        'My dad\'s a photographer, and my sister is a writer and a poet. My little brother is a mandolin player - he\'s a bluegrass musician. It\'s always been a part of the family.',
-        'Timothy Simons',
-    ],
-    'f3a434f4-74e9-5c31-a51f-60bf71303904' => [
-        'Football is my profession now. I\'m getting married in August... It\'s a new experience for me as someone just getting out of college. I still have the same attitude about football I always had. I play hard. I enjoy practice. I\'d rather be throwing in passing drills than sitting around and watching TV.',
-        'Doug Flutie',
-    ],
-    '59ba46b2-02e8-5072-9701-a60a98523266' => [
-        'Waste your money and you\'re only out of money, but waste your time and you\'ve lost a part of your life.',
-        'Michael LeBoeuf',
-    ],
-    'f414a3fc-7b02-5b53-b6c5-4732788325da' => [
-        'On earth there is no heaven, but there are pieces of it.',
-        'Jules Renard',
-    ],
-    'bd9d6c54-583f-597a-90be-3aa44d73601d' => [
-        'There\'s no explanation for success. Success just comes out of life.',
-        'Meat Loaf',
-    ],
-    'a86e5f7f-a8e6-52c3-9997-ad9a38675f19' => [
-        'Success is not only one thing. It\'s not only having a nice house in Beverly Hills and driving a nice Mercedes.',
-        'Malik Bendjelloul',
-    ],
-    '31fbab98-a9bc-577f-b9e4-0d004cbe343f' => [
-        'I like joy; I want to be joyous; I want to have fun on the set; I want to wear beautiful clothes and look pretty. I want to smile, and I want to make people laugh. And that\'s all I want. I like it. I like being happy. I want to make others happy.',
-        'Doris Day',
-    ],
-    'c0cc6848-da17-5ed9-b4ec-8eb1829af570' => [
-        'Yes sir, I am a tortured man for all seasons, as they say, and I have powerful friends in high places. Birds sing where I walk, and children smile when they see me coming.',
-        'Hunter S. Thompson',
-    ],
-    'ec883059-2729-5398-87a8-63df6019f23c' => [
-        'Most people work just hard enough not to get fired and get paid just enough money not to quit.',
-        'George Carlin',
-    ],
-    'b061980b-c9a6-55bb-8772-edb76bcc3aac' => [
-        'If you want to be the best, you have to do things that other people aren\'t willing to do.',
-        'Michael Phelps',
-    ],
-    '5ee0a5cf-c2a5-52a0-b5c2-079715c67615' => [
-        'What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people\'s lives.',
+    '0fd94379-8245-5a79-b41f-777384b525f6' => [
+        'Challenges are gifts that force us to search for a new center of gravity. Don\'t fight them. Just find a new way to stand.',
         'Oprah Winfrey',
     ],
-    '164e1a1b-4668-5ce8-9862-bc0172e67447' => [
-        'To be upset over what you don\'t have is to waste what you do have.',
-        'Ken S. Keyes',
+    'bf162056-6f79-55d0-b7e8-8430708d141b' => [
+        'I can\'t be around someone who is negative because I am such a positive person. If you are mean, then we don\'t speak.',
+        'Trevor Jackson',
     ],
-    '2d78e9a2-5d0b-54e8-b736-f07c9815a36c' => [
-        'Where there is love there is life.',
-        'Jerry Lewis',
+    'bb2e45ae-702b-53a2-9abc-f4e3d01776ef' => [
+        'I took some time out for life.',
+        'James L. Brooks',
+    ],
+    'c770cb8f-cf85-5063-8644-2bfcc301a1b6' => [
+        'I did an A Level in Theatre Studies and had a really inspirational teacher, and then I just went on to university.',
+        'Jessica Raine',
+    ],
+    '5a189467-5ff0-509f-95df-fc0b362cff31' => [
+        'The bad news is time flies. The good news is you\'re the pilot.',
+        'Michael Atshuler',
+    ],
+    'd7e128e1-58a7-567b-86dc-bd17aaa03758' => [
+        'My love for cooking began when I was young. Because my parents were in the army, they were both really busy. A lot of times I\'d have to cook for the family; I\'d rotate with my siblings. It started out as a chore, but as I got older, my mom started to see that I was really good at it. I became her sous chef.',
+        'Tia Mowry',
+    ],
+    '129a3775-14f3-5827-9384-2489304c75ef' => [
+        'Life is full of adventure. There\'s no such thing as a clear pathway.',
+        'Arthur Schopenhauer',
+    ],
+    'f54bc720-31ff-586b-93e9-c147dbe9a708' => [
+        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
+        'Bernard Berenson',
+    ],
+    '3a609b9c-409a-5037-a7cd-ce773ab8b0b2' => [
+        'There is a beauty and clarity that comes from simplicity that we sometimes do not appreciate in our thirst for intricate solutions.',
+        'Dieter F. Uchtdorf',
+    ],
+    '7feb016f-8eb6-5cd9-91a2-3aa587881cc4' => [
+        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
+        'Oliver Holmes',
+    ],
+    '33b9ffb8-b456-5223-9c84-ff58aabb1c9b' => [
+        'There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen.',
+        'Jim Lovell',
+    ],
+    'e6db0ca8-9253-596e-abd4-aa9e04c6c961' => [
+        'I\'ll stick to finding the funny in the ordinary because my life is pretty ordinary and so are the lives of my friends - and my friends are hilarious.',
+        'Issa Rae',
+    ],
+    '74028239-849f-57a8-800a-d9813859f8d9' => [
+        'As long as I love Beauty I am young.',
+        'W. H. Davies',
+    ],
+    '3b609fb1-c54a-5fd7-8511-8e92456f5917' => [
+        'The past cannot be changed. The future is yet in your power.',
+        'Unknown',
+    ],
+    '2e82b8d6-750c-5a0a-9887-41bbf7132216' => [
+        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
+        'Don Miguel Ruiz',
+    ],
+    '61b51fc4-9d2e-58cf-ac58-154e6ee5921b' => [
+        'Funny is only something that others know about you - you can\'t be funny by yourself.',
+        'Chris Rock',
+    ],
+    '51c9aeec-1ca2-585d-9e4b-83fd2365c1b0' => [
+        'Never cut a tree down in the wintertime. Never make a negative decision in the low time. Never make your most important decisions when you are in your worst moods. Wait. Be patient. The storm will pass. The spring will come.',
+        'Robert H. Schuller',
+    ],
+    '8a1f65b0-a8af-5e8d-b2e3-2bcfdc6394b6' => [
+        'Eternity: a moment standing still for ever.',
+        'James Montgomery',
+    ],
+    'f57f898f-2d6c-512c-b8c4-49e82ba9158f' => [
+        'What is the good of your stars and trees, your sunrise and the wind, if they do not enter into our daily lives?',
+        'E. M. Forster',
+    ],
+    '3dc904c6-27f4-5d83-86ae-36c83924e317' => [
+        'Success is nothing if you don\'t have the right people to share it with; you\'re just gonna end up lonely.',
+        'Selena Gomez',
+    ],
+    '80e6f0ac-493c-5317-a5ac-bfe4c11969aa' => [
+        'Beauty is not something you can count on. Usually, when people say you are beautiful, it is when there is a harmony between the inside and the outside.',
+        'Emmanuelle Beart',
+    ],
+    '39869762-f668-540d-bb7b-0d113bdb2b51' => [
+        'I always knew I was a writer. And I always thought to myself, \'Well, why not me?\' Someone has to be on the best-seller list, \'Why not me?\' Someone has to write for the \'New Yorker,\' \'Why not me?\' And I didn\'t really get much positive reinforcement as a kid, so I thought, \'Well let me show you what I can do.\'',
+        'Elizabeth Wurtzel',
+    ],
+    '20eaee42-d384-5555-a2b9-9e428a23e7e2' => [
+        'Now the point of comedy is not just looking funny, it\'s use of language. We have at our disposal a great language... and the imaginative, creative use of that language can be at the service of humour.',
+        'Barry Humphries',
+    ],
+    'd5ee66b7-7707-5759-b5f0-b4fe5e4a32b1' => [
+        'I play a female Indiana Jones, a professor who hunts down precious objects, like a bowl that belonged to the Buddha. They tailored the role to me: I wanted to be smart, funny, and to kick some ass.',
+        'Tia Carrere',
+    ],
+    'b5efe50f-e568-5c12-bfeb-700aa9771e0c' => [
+        'No one is so completely disenchanted with the world, or knows it so thoroughly, or is so utterly disgusted with it, that when it begins to smile upon him he does not become partially reconciled to it.',
+        'Giacomo Leopardi',
+    ],
+    '7d92731c-f71a-505f-aafa-f4792101c5fd' => [
+        'I think that it\'s when we step out of the road, step outside the box, become our own person, and we walk fearlessly down paths other people wouldn\'t look at, that true progress comes. And sometimes true beauty as well.',
+        'John McAfee',
+    ],
+    '4e1052ae-c09b-5113-bf01-8def9090c888' => [
+        'Alas! how little does the memory of these human inhabitants enhance the beauty of the landscape!',
+        'Henry David Thoreau',
+    ],
+    '7c66ba79-1844-554b-9cc3-71fd2b071944' => [
+        'A manager is responsible for the application and performance of knowledge.',
+        'Peter Drucker',
+    ],
+    '6ac85270-cc40-54b8-bb58-7ba85079f97f' => [
+        'When I\'m ready, I plan to adopt. I still believe in family.',
+        'LaToya Jackson',
+    ],
+    '4be7dd94-da1f-5759-adda-0a3713bcefcc' => [
+        'I am living out my adolescent dream of travel and adventure.',
+        'Tim Cahill',
+    ],
+    'ea8d1613-47e3-5e5f-b832-e7457899fdb8' => [
+        'I try to give positive energy in all my shows.',
+        'Curtis Jones',
+    ],
+    'f074bd2d-fc1a-57b9-a7fd-31f94c2eba11' => [
+        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
+        'John de Mol, Jr.',
+    ],
+    '65bcdd48-ea2b-519a-a813-e8f20fddf94b' => [
+        'Land really is the best art.',
+        'Andy Warhol',
+    ],
+    'ed09d0a1-d885-5e07-984f-3b0c19e97b16' => [
+        'Grace is in garments, in movements, in manners; beauty in the nude, and in forms. This is true of bodies; but when we speak of feelings, beauty is in their spirituality, and grace in their moderation.',
+        'Joseph Joubert',
+    ],
+    '4d931c15-26d8-509a-9dde-cafb08bbe62d' => [
+        'Nature\'s music is never over; her silences are pauses, not conclusions.',
+        'Mary Webb',
+    ],
+    'aa9cb3c1-4b64-530b-92af-6601ccc7b901' => [
+        'I am an enthusiast, but not a crank in the sense that I have some pet theories as to the proper construction of a flying machine. I wish to avail myself of all that is already known and then, if possible, add my mite to help on the future worker who will attain final success.',
+        'Wilbur Wright',
+    ],
+    '465b81ec-6f44-5cd3-9218-9ca8f04cd71f' => [
+        'With modeling, you pose. You want to look your best all the time. With acting, you have to be aware of the camera, but the more you show your imperfections, the better you\'re going to be.',
+        'Diane Kruger',
+    ],
+    '95cbb6cf-e08e-5aea-9879-19393e41e535' => [
+        'Our greatness lies not so much in being able to remake the world as being able to remake ourselves.',
+        'Mahatma Gandhi',
+    ],
+    '2982dd18-c051-5db8-965c-d02108ff5de6' => [
+        'In order to carry a positive action we must develop here a positive vision.',
+        'Dalai Lama',
+    ],
+    '78a9274e-b5f3-5034-8231-c16b5c0ae23e' => [
+        'Time and space - time to be alone, space to move about - these may well become the great scarcities of tomorrow.',
+        'Edwin Way Teale',
+    ],
+    'd6452ade-6ee2-535f-b6cf-2c262ee1ead2' => [
+        'My success isn\'t a result of arrogance - it\'s a result of belief.',
+        'Conor McGregor',
+    ],
+    '01bd61ac-caeb-5101-b78f-237630451804' => [
+        'Life is a moderately good play with a badly written third act.',
+        'Kid Cudi',
+    ],
+    'a065dd2e-b933-5baf-b645-28828d3506c9' => [
+        'Culture is the habit of being pleased with the best and knowing why.',
+        'Henry Van Dyke',
+    ],
+    '09d6cfbd-a46a-51ac-8696-d89913782afc' => [
+        'I don\'t look at negative comments because my parents and family don\'t let me. My big sister controls my Instagram, and my big brother controls my Twitter. I also don\'t really Google myself or anything like that.',
+        'Millie Bobby Brown',
+    ],
+    '5a84f8be-ec8c-548f-b4c7-a7eebb682a99' => [
+        'Seeing Michelle Obama\'s bright color choices, and how she made people smile and reinforced Obama\'s platforms of hope and change, was inspiring.',
+        'Lilly Pulitzer',
+    ],
+    '87d1bca5-601b-5b3f-9f79-f901eb8e5620' => [
+        'It\'s easy to get wrapped up in sharing everyday life with a partner. It\'s fun to get lost in love and romance. It\'s the best. But holding on to yourself while doing that is the most important thing.',
+        'Brittany Murphy',
     ],
 ];

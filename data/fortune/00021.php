@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'b74f6d67-c586-5dec-a061-8664a2d530dc' => [
-        'Tackle the difficult things first in the morning; make changes in the way you network. Treat everyone with respect and dignity. This stops you from cynicism and negativity. End your day with that same attitude you started. Renew your contract with a day well completed.',
-        'Rick Pitino',
+    '0e481ffd-fd8f-5bab-8f03-3a46469caaf0' => [
+        'To be successful in coaching you have to treat your team like a family. The leader needs backing from everyone.',
+        'Morgan Wootten',
     ],
-    'd967b31b-f9dd-563c-9275-c30b2d374748' => [
-        'Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.',
-        'Harriet Lerner',
-    ],
-    '7344d92e-af2d-5f22-a52c-e89b7068dc5f' => [
-        'Think little goals and expect little achievements. Think big goals and win big success.',
-        'David Joseph Schwartz',
-    ],
-    'b351771e-75cf-56c8-b98c-ae7afff5c4ab' => [
-        'All the privileged can travel, see different worlds; not everyone can. I think it is important for people to have an interesting locale nearby.',
-        'Zaha Hadid',
-    ],
-    'c22621ae-9283-5588-9804-a7d3d7bff14f' => [
-        'Let me be a free man - free to travel, free to stop, free to work.',
-        'Chief Joseph',
-    ],
-    '8b7e0e00-9169-5b80-b1f9-c876f9e4e608' => [
-        'The last thing left in nature is the beauty of women.',
-        'Peter Beard',
-    ],
-    'a4fcea60-9ef6-5041-8ffb-cf8eea78f6d3' => [
-        'Purity and simplicity are the two wings with which man soars above the earth and all temporary nature.',
-        'Thomas a Kempis',
-    ],
-    '434a4acb-f4a1-5ade-b007-1dbbaac12e20' => [
-        'You can\'t be suspicious of a tree, or accuse a bird or a squirrel of subversion or challenge the ideology of a violet.',
-        'Hal Borland',
-    ],
-    'c57857e8-7c2f-5011-9995-35e14acf4fcf' => [
-        'Maybe that is why kids like Dumbledore: because he is funny rather than a miserable old sod with a long white beard.',
-        'Michael Gambon',
-    ],
-    '73ca76fa-b258-5be7-b70e-0c4a582f8d1f' => [
-        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
-        'Pope Francis',
-    ],
-    '0e92c1d1-0f06-5282-81f2-e03e01d77325' => [
-        'A professional is someone who can do his best work when he doesn\'t feel like it.',
-        'Alistair Cooke',
-    ],
-    '482e1c5b-8c4f-5b58-b3b1-9e8dd1dd3fba' => [
-        'Spirit of place! It is for this we travel, to surprise its subtlety; and where it is a strong and dominant angel, that place, seen once, abides entire in the memory with all its own accidents, its habits, its breath, its name.',
-        'Alice Meynell',
-    ],
-    '236a3e3a-d7b2-5803-ad9d-70662e363125' => [
-        'The success of a film at the box office will ensure happiness to the entire unit, but individual awards are like vitamin shots that will help boost the morale of an actor.',
-        'Akkineni Nagarjuna',
-    ],
-    'd450ac8f-06fb-54d0-b002-6444fac6e0fe' => [
-        'Travel and society polish one, but a rolling stone gathers no moss, and a little moss is a good thing on a man.',
-        'John Burroughs',
-    ],
-    'b32bf368-390e-5b9c-a87d-4e3770959476' => [
-        'The attempt to redefine the family as a purely voluntary arrangement grows out of the modern delusion that people can keep all their options open all the time.',
-        'Christopher Lasch',
-    ],
-    'c38288c4-74a1-5190-b3b2-2a086cb33e7a' => [
-        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
-        'Stephen Hawking',
-    ],
-    '10a520bd-02e5-5845-a3de-7e82fea51e2a' => [
-        'For me, running against the Poles and Czechs would be like running against high school kids. And I hate all this gung-ho, run-for-the-red-white-and-blue attitude that the AAU spouts. If that\'s important to some people, fine, more power to \'em. But, damn it, I wish they\'d leave me alone to do what I want to do - run against the best.',
-        'Steve Prefontaine',
-    ],
-    'c0528449-bcb4-5049-8ad7-b9c3ab28b20f' => [
-        'Teaching\'s hard! You need different skills: positive reinforcement, keeping students from getting bored, commanding their attention in a certain way.',
-        'Bill Gates',
-    ],
-    '51f52b60-1fa1-52ca-9708-fd58b8cb5f0b' => [
-        'Suffering is the positive element in this world, indeed it is the only link between this world and the positive.',
-        'Franz Kafka',
-    ],
-    '1c64a5bf-c39a-5f9a-a598-7c3f3b6b9730' => [
-        'Either move or be moved.',
-        'Ezra Pound',
-    ],
-    'a1b7080f-ffb9-502f-b41a-abb26107fc5c' => [
-        'I work very hard, and I play very hard. I\'m grateful for life. And I live it - I believe life loves the liver of it. I live it.',
-        'Maya Angelou',
-    ],
-    '53d1f43b-7351-50e9-b4a1-a0f83aab6584' => [
-        'I recognize in thieves, traitors and murderers, in the ruthless and the cunning, a deep beauty - a sunken beauty.',
-        'Jean Genet',
-    ],
-    'b6b4d70d-6d8b-50d4-ba01-8f30d199a0f1' => [
-        'Frisbeetarianism is the belief that when you die, your soul goes up on the roof and gets stuck.',
-        'George Carlin',
-    ],
-    'f074bd2d-fc1a-57b9-a7fd-31f94c2eba11' => [
-        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
-        'John de Mol, Jr.',
-    ],
-    'a593a0bd-cfae-5d59-b47f-7590c05a1384' => [
-        'President Obama has basically avoided or not done any attempt to intervene in any positive way in the housing market. I think in the financial crisis that\'s been a shame.',
-        'Glenn Hubbard',
-    ],
-    'c3f132e6-c362-53e7-935f-db0a02df4add' => [
-        'Birds have wings; they\'re free; they can fly where they want when they want. They have the kind of mobility many people envy.',
-        'Roger Tory Peterson',
-    ],
-    '1e5d72a4-e931-5e7f-ad3a-00250713518b' => [
-        'Family are the people that can hurt you the most.',
-        'Mahershala Ali',
-    ],
-    '77bc2661-822d-5c4e-a6b6-173c7f427105' => [
-        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
-        'Anonymous',
-    ],
-    '1d9a1bb4-9494-587f-bea4-d37f673f195c' => [
-        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
-        'Jeremy Corbyn',
-    ],
-    '0c809cc8-a6f9-5e63-a4f6-f90facd00919' => [
-        'People are craving this great progress in electronics, going after computers, the Internet, etc. It\'s a giant progress technologically. But they must have a balance of soul, a balance for human beauty. That means art has an important role.',
-        'Mstislav Rostropovich',
-    ],
-    '2f86ebba-2a8d-50ca-915b-8b64bbb8e496' => [
-        'All the universe is full of the lives of perfect creatures.',
-        'Konstantin Tsiolkovsky',
-    ],
-    '10aeebd6-4745-5a75-9e62-a88d2bf14e47' => [
-        'When Fortune smiles, I smile to think how quickly she will frown.',
-        'Robert Southwell',
-    ],
-    '51dd4c46-9c1b-5db3-a53b-cd1ccbbad3dd' => [
-        'Life is far too important a thing ever to talk seriously about.',
-        'Aristotle',
-    ],
-    'e923fe19-e931-5e9f-bc52-6c4e2f58c7cc' => [
-        'I have a deep tribal sense. I grew up in a synagogue that my ancestors built. I sat in the third row. My family was decent. They were good people; they were handshake people. So I never had a sense of rebellion.',
-        'Leonard Cohen',
-    ],
-    '056f5c58-69b3-5619-8de4-5f8600a01cbe' => [
-        'I think luck is the sense to recognize an opportunity and the ability to take advantage of it... The man who can smile at his breaks and grab his chances gets on.',
-        'Samuel Goldwyn',
-    ],
-    'cac551fa-02d1-51bf-81b4-71e07b716658' => [
-        'It\'s the writers\' job to make it positive. It\'s my job to make it real.',
-        'Lee Pace',
-    ],
-    'c887e7eb-3d2e-55ab-935e-0ab6bc2a62e8' => [
-        'Chilling out on the bed in your hotel room watching television, while wearing your own pajamas, is sometimes the best part of a vacation.',
-        'Laura Marano',
-    ],
-    '0dbeae9d-e40a-51ea-9ff9-242cd58acd47' => [
-        'What is tolerance? It is the consequence of humanity. We are all formed of frailty and error; let us pardon reciprocally each other\'s folly - that is the first law of nature.',
-        'Voltaire',
-    ],
-    '13734e72-ba0d-5329-b445-eb269d112e74' => [
-        'Reach for the stars.',
-        'Christa McAuliffe',
-    ],
-    'ee73e711-21b2-5ae0-a9fc-8468d89d3387' => [
-        'To get the full value of joy you must have someone to divide it with.',
+    '267d8412-7bf1-575e-b815-b05ec78861fb' => [
+        'Work is a necessary evil to be avoided.',
         'Mark Twain',
     ],
-    '1a01e25d-47bd-5c29-b28c-e7d4e426b6ce' => [
-        'Rare is the union of beauty and purity.',
-        'Juvenal',
+    'b8d3cafc-3c0f-577d-add5-ec49066b67cc' => [
+        'But when I really look back on my life, being really honest about it and now that I\'ve got the chance to travel the world, seeing how a lot of little kids grow up - my life wasn\'t so bad.',
+        'Coolio',
     ],
-    'cb1d564d-998b-51c8-a229-bea973479732' => [
-        'If we want to travel into the future, we just need to go fast. Really fast. And I think the only way we\'re ever likely to do that is by going into space.',
-        'Stephen Hawking',
+    'ac4b9641-11b1-5647-a596-29a24850c35f' => [
+        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
+        'Shania Twain',
     ],
-    '256b8084-e398-5608-8c75-6867883ae304' => [
-        'A problem is a chance for you to do your best.',
-        'Duke Ellington',
+    'ee93c1af-9670-5374-b310-1d99675763fd' => [
+        'Here you do have forests, where pigs could be raised by letting them root about in the forests for a good part of the year. Therefore, you have a different attitude toward them compared with what continues to exist in the Middle East.',
+        'Marvin Harris',
     ],
-    'c47a2182-ca8e-53c0-88d4-165e022ea102' => [
-        'A body smiles, like, 72 times a day. Where does that smile go? That\'s what I want to know.',
-        'Goldie Hawn',
+    'e71f2bcc-6e20-58ae-8691-b2b9f233f15c' => [
+        'Infuse your life with action. Don\'t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.',
+        'Bradley Whitford',
     ],
-    'aa1b1c30-bc62-5b05-8b24-c4b9301134f5' => [
-        'Vitality shows in not only the ability to persist but the ability to start over.',
-        'F. Scott Fitzgerald',
+    'a3cba9b1-bec4-5fdb-bc51-fcfe2f5f8ba7' => [
+        'Since traveling is such a big part of my life when I am working, I like to vacation relatively close to home. Florida is a great place for me to go and relax. It\'s so close, which is perfect because it\'s the minimal travel time.',
+        'Hilary Rhoda',
     ],
-    '5bdead59-48aa-5730-9b26-790109af772a' => [
-        'I never travel without my diary. One should always have something sensational to read in the train.',
-        'Oscar Wilde',
+    'c87966e5-c4d4-5e8d-8944-c30bfa70468e' => [
+        'I grew up upper-class. Private school. My dad had a Jaguar. We\'re African-American, and we work together as a family, so people assume we\'re like the Jacksons. But I didn\'t have parents using me to get out of a bad situation.',
+        'Beyonce Knowles',
     ],
-    '84e6d06b-bb45-5692-9111-fdddaae48991' => [
-        'Time is more valuable than money, because time is irreplaceable.',
-        'John C. Maxwell',
+    '3bece62c-c376-560e-a597-b2ccddba528a' => [
+        'I am obsessed with beauty. I want everything to be perfect, and of course it isn\'t. And that\'s a tough place to be because you\'re never satisfied.',
+        'Robert Mapplethorpe',
     ],
-    'a1e91a2b-2b40-5ffb-92b0-b56350b0fc5c' => [
-        'It is on our failures that we base a new and different and better success.',
-        'Havelock Ellis',
+    '74e79507-3d13-579e-9304-2055a7928a81' => [
+        'Life is the art of drawing sufficient conclusions from insufficient premises.',
+        'Big Boi',
     ],
-    '4c28471b-8f5b-5c8c-ac83-c6f3050259a0' => [
-        'Fortune always favors the brave, and never helps a man who does not help himself.',
-        'P.T. Barnum',
+    'f4f2c405-9cbc-534e-b24b-242a64fde56c' => [
+        'And when I was young, my family was perfectly nice. I write a lot about it, as you noticed. But it was rather limited. I think, I don\'t think anyone in my family would really feel I\'d done them an injustice by saying that. We didn\'t see many people. There were many books. It was as if I wanted to get away from home.',
+        'Christopher Hitchens',
     ],
-    '27278c46-e766-5921-9eba-279274109f6f' => [
-        'The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.',
-        'Christopher McCandless',
+    'a878d7e1-aa3d-54e4-9c10-d36ee4811e80' => [
+        'It\'s toughest to forgive ourselves. So it\'s probably best to start with other people. It\'s almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself.',
+        'Patty Duke',
+    ],
+    '78cae4e2-ffd1-5755-987a-e3af6212c14f' => [
+        'The funny thing about insane people is that it is kind of the opposite of being a celebrity. Nobody envies you.',
+        'Robert M. Pirsig',
+    ],
+    '7eaa904e-284d-5b5c-a1e7-9740f3bf6d12' => [
+        'When it comes to social consequences, they\'ve got all different people acting in different ways, very difficult to even have a proper criterion of success. So, it\'s a difficult task.',
+        'George Soros',
+    ],
+    '36ba7cca-b9cd-5d4a-9ec5-24b2c30923e3' => [
+        'I think nudity is funny, especially when it\'s inappropriate.',
+        'Chelsea Handler',
+    ],
+    'e7695f96-10ae-5e86-8513-841697a1ef16' => [
+        'Nothing else matters so much as long as you can come home and be with your family.',
+        'Patrick Dempsey',
+    ],
+    '686943c9-ca5c-539d-9a41-2fb5d23a5e4a' => [
+        'It\'s true, Christmas can feel like a lot of work, particularly for mothers. But when you look back on all the Christmases in your life, you\'ll find you\'ve created family traditions and lasting memories. Those memories, good and bad, are really what help to keep a family together over the long haul.',
+        'Caroline Kennedy',
+    ],
+    'fee36e87-9110-526d-ab1a-4881d0ae0b2a' => [
+        'If what I have to do is share a sandwich to lift someone\'s spirits, put a smile on their face - the worst thing that happens is I go broke!',
+        'Jose Andres',
+    ],
+    '07882646-dc44-5535-8e18-2963cc8fb8e4' => [
+        'Travel around the world is amazing. New people. New-found family, really.',
+        'Dhani Jones',
+    ],
+    'e8f647e0-581e-5033-9cfd-bcc92bce5ba5' => [
+        'The worst tragedy that could have befallen me was my success. I knew right away that I was through - cast out.',
+        'Jonas Salk',
+    ],
+    'a2aee279-f3cd-541b-8b62-b1ff55099e87' => [
+        'When I travel, I always take my Winsor &amp; Newton watercolor kit, which is the size of a pack of cigarettes when folded up. I bought my first one in the 1980s. It was handy to bring on trips, and I packed it into a leather pouch along with a couple of brushes, a pencil, an eraser and paper.',
+        'Susan Minot',
+    ],
+    'bc2385aa-64d1-5dbc-8235-966ce9b9efc2' => [
+        'My goal is to be able to provide for myself and not have to worry about the daily expenses. I do want to be able to benefit from my work and make a good living, but I love it so much that I would do it for free.',
+        'Jenn Proske',
+    ],
+    '3758fa27-56aa-5fb1-9b78-a340b37969fa' => [
+        'Nature is a mutable cloud which is always and never the same.',
+        'Ralph Waldo Emerson',
+    ],
+    '13c6455e-b835-55a4-a26d-df173397be70' => [
+        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
+        'Wilfrid Laurier',
+    ],
+    '9714f03e-cafa-57ab-964c-848d2209b648' => [
+        'Great talent finds happiness in execution.',
+        'Johann Wolfgang von Goethe',
+    ],
+    '587888e8-418b-5c00-80b8-5320b0be71c5' => [
+        'If you can figure out my success on the screen, you\'re a better man than I.',
+        'Alan Ladd',
+    ],
+    'c35fe2cb-552f-5a28-a629-3805f4e19b38' => [
+        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
+        'William J. H. Boetcker',
+    ],
+    'ba3d787d-8999-5e29-9097-99f3c0f0c304' => [
+        'All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.',
+        'Albert Camus',
+    ],
+    'c42c20e0-46ac-550f-9409-f88df65a710b' => [
+        'The earth has received the embrace of the sun and we shall see the results of that love.',
+        'Sitting Bull',
+    ],
+    '843ec787-39c3-5e84-9d8a-51a73d01c489' => [
+        'The history of the relationship between comedy and swimming is short indeed. Of course it is always funny when someone falls into water, but that\'s about it.',
+        'Arthur Smith',
+    ],
+    'd3636648-c852-5d8b-9e76-608afea2f68e' => [
+        'The most beautiful as well as the most ugly inclinations of man are not part of a fixed biologically given human nature, but result from the social process which creates man.',
+        'Erich Fromm',
+    ],
+    'e6fc009c-f94c-5498-8eba-701f1f34de74' => [
+        'Anything that won\'t sell, I don\'t want to invent. Its sale is proof of utility, and utility is success.',
+        'Thomas A. Edison',
+    ],
+    'ce399b86-e579-586a-bcbc-20c738f951ee' => [
+        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
+        'Robert Stevenson',
+    ],
+    '631ad5a2-d360-52bc-b29b-d71c71579a43' => [
+        'Transformation is a process, and as life happens there are tons of ups and downs. It\'s a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.',
+        'Peter Marshall',
+    ],
+    '63f19236-3ff8-5e7a-8649-2f67bd3e4d91' => [
+        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
+        'Alan Greenspan',
+    ],
+    '572b727f-f8a7-559b-a49f-59c23d2fab77' => [
+        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
+        'George Sand',
+    ],
+    'f20e64c3-5743-557e-bc47-5e30fd217965' => [
+        'Perhaps one of the only positive pieces of advice that I was ever given was that supplied by an old courtier who observed: Only two rules really count. Never miss an opportunity to relieve yourself; never miss a chance to sit down and rest your feet.',
+        'Edward VIII',
+    ],
+    'a466c56b-b84c-5015-bbb3-eefe16eb4e16' => [
+        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
+        'Kumar Mangalam Birla',
+    ],
+    '27f01cb9-a8c9-5025-a822-800c1699dfcc' => [
+        'When you\'re a man, you want to make decisions for your family, and sometimes the lady doesn\'t see what you see.',
+        'Future',
+    ],
+    '58a7d3d7-511d-5ae1-8e9a-7eee9347aa78' => [
+        'When you have seen one ant, one bird, one tree, you have not seen them all.',
+        'E. O. Wilson',
+    ],
+    'd57cf8be-e11e-5656-9488-bc0e7ba7527d' => [
+        'As a cure for worrying, work is better than whiskey.',
+        'Ralph Waldo Emerson',
+    ],
+    '367f65be-0a60-5020-9846-0197a445bcf9' => [
+        'I never thought of myself as like, a funny person.',
+        'Lena Dunham',
+    ],
+    '35b2efe7-0f2d-5745-8822-2eff1a4a607a' => [
+        'My ultimate goal is to end up being happy. Most of the time.',
+        'Taylor Swift',
+    ],
+    '5ea33b65-f631-53a3-b2ef-3a9232a92e05' => [
+        'What is important is the reliability of my posts being there to greet my fans with a smile or a giggle every morning. That\'s how we keep on growing.',
+        'George Takei',
+    ],
+    '12966cbc-b86f-5a79-8523-fe960af70a86' => [
+        'Live like you\'ll die tomorrow, work like you don\'t need the money, and dance like nobody\'s watching.',
+        'Bob Fosse',
+    ],
+    'ec06b54f-c1ab-5fb9-a007-1a463dcda27a' => [
+        'I spent two years in the Army. And my older brother, who was also a great positive influence on me, encouraged me to think about law school, and I said - well, I didn\'t have any money.',
+        'George J. Mitchell',
+    ],
+    '6a47d77f-ce35-58ee-be30-d638f4c56f68' => [
+        'I travel continuously, and I see many cities, but there is nowhere like London.',
+        'Norman Foster',
+    ],
+    '077300f5-45a1-5a72-8a80-87012b67d5ec' => [
+        'My dream is of a place and a time where America will once again be seen as the last best hope of earth.',
+        'Abraham Lincoln',
+    ],
+    'f44a41ff-ca53-5c16-b747-50418bf6707b' => [
+        'What would life be if we had no courage to attempt anything?',
+        'Elon Musk',
+    ],
+    '8ac8ef9d-3dd1-5ade-b754-4c843545cd0e' => [
+        'I sang in the choir for years, even though my family belonged to another church.',
+        'Paul Lynde',
     ],
 ];

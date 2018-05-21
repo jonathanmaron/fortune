@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '07f5c26d-dc0a-5fc4-8e52-70031740ef3b' => [
-        'I wanted to travel from the beginning. As a kid, I used to dream about airplanes, before I ever flew in one.',
-        'Mary Ellen Mark',
+    '6256f6f2-c501-5bc5-a0b9-325a1e5659e5' => [
+        'Life is not a matter of holding good cards, but sometimes, playing a poor hand well.',
+        'Thomas Jefferson',
     ],
-    '4070708a-65a7-5537-b243-4ebc4ab81869' => [
-        'When you have a great and difficult task, something perhaps almost impossible, if you only work a little at a time, every day a little, suddenly the work will finish itself.',
-        'Isak Dinesen',
+    'e2dcf912-74ba-5ccd-b95e-39cba3e9467e' => [
+        'I can tell you for sure: people who are at their peak right now will not sustain that. You can\'t. It\'s against the law of nature.',
+        'Bryan Cranston',
     ],
-    '9c1fdd12-efe1-5641-95db-2242db862d95' => [
-        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
-        'David McCallum',
+    '3f8cc65a-94e2-5aa0-a74c-0db3aa20a840' => [
+        '\'Halal in the Family\' will expose a broad audience to some of the realities of being Muslim in America. By using satire, we will encourage people to reconsider their assumptions about Muslims, while providing a balm to those experiencing anti-Muslim bias. I also hope those Uncles and Aunties out there will crack a smile!',
+        'Aasif Mandvi',
     ],
-    '0ef0c37b-5ce1-58a4-8247-84a94ae29410' => [
-        'Nothing can resist the person who smiles at life - I don\'t mean the ironic and disillusioned smile of my grandfather, but the triumphant smile of the person who knows that he will survive, or that at least he will be saved by what seems to be destroying him.',
-        'Pierre Teilhard de Chardin',
+    '184d0504-4231-5eb4-8410-864a8f67b417' => [
+        'There\'s something magical about spending a Sunday night watching real people at a deli, then watching fake people pretending to be real on TV, then engaging in (arguably) false interaction with (arguably) real people on the Internet. Never at any prior point in time has this been possible.',
+        'Diablo Cody',
     ],
-    '40bef118-fb0a-5784-828f-8da405c56318' => [
-        'Sunset is still my favorite color, and rainbow is second.',
-        'Mattie Stepanek',
+    '0de4f49d-4027-54d0-86a6-59b3c98fce96' => [
+        'I may not have gone where I intended to go, but I think I have ended up where I needed to be.',
+        'Douglas Adams',
     ],
-    'd3454757-935a-53f0-8bd2-8cb4f1b404b2' => [
-        'Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.',
-        'Phyllis Diller',
+    '59b040af-a8b0-58bf-a5ed-3e29a3f29731' => [
+        'I\'ll always use the negativity as more motivation to work even harder and become even stronger.',
+        'Tim Tebow',
     ],
-    '6328d2d9-8e00-5dde-b98a-946c08e94285' => [
-        'The negative is just as important as the positive.',
-        'Ellsworth Kelly',
+    '35123fa5-65e0-5989-8976-68a72fa682fc' => [
+        'Society develops wit, but its contemplation alone forms genius.',
+        'Madame de Stael',
     ],
-    '252814b2-0d87-59c8-9083-587685ebfaac' => [
-        'During the Great Depression, when people laughed their worries disappeared. Audiences loved these funny men. I decided to become one.',
-        'Jerry Stiller',
+    'f15289fe-cc21-55c0-b215-4ff86541eb41' => [
+        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
+        'Michelangelo',
     ],
-    '14b95bae-3a88-512f-a0cc-7410b00e145f' => [
-        'Everything that irritates us about others can lead us to a better understanding of ourselves.',
-        'Carl Jung',
+    '424c063a-efaa-5805-b5fe-02bc622a8a76' => [
+        'Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.',
+        'Margaret Laurence',
     ],
-    '9a4480c9-da6f-5d64-990b-2dfd09c18e69' => [
-        'Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.',
-        'Johann Wolfgang Von Goethe',
+    'f7a9298a-67e4-54ce-8153-6e4f75a1d1c6' => [
+        'Do not look for approval except for the consciousness of doing your best.',
+        'Andrew Carnegie',
     ],
-    '251b7bf8-1e15-5093-a842-8d2fa02a6ae5' => [
-        'It\'s sort of a mental attitude about critical thinking and curiosity. It\'s about mindset of looking at the world in a playful and curious and creative way.',
-        'Adam Savage',
+    'c7fcc2cf-f9be-520f-b343-c4e35d77178f' => [
+        'With my boyfriend, we can make sexist jokes to each other because we know it\'s absolutely not true. If I get home from a long day and he says: \'Go on, get in the kitchen,\' it\'s funny because we know it\'s not our lives.',
+        'Emily Browning',
     ],
-    '984b515a-b408-5f44-bf19-fe634574f56c' => [
-        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
-        'June Jordan',
+    '3125bb41-ec76-540f-acf7-aa9b0cb89bc5' => [
+        'Looking at flowers, simple things in life. I don\'t need to look at gold and a castle; sometimes its very simple things that are very beautiful. I am keeping my eyes fresh to find beauty in many places, and in gold, too, sometimes!',
+        'Francois Nars',
     ],
-    '0b465184-ae29-5eae-900e-622bd353e178' => [
-        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
-        'Earl Hines',
+    '2821fd15-a652-5f2c-bb94-44235f330822' => [
+        'We have talked long enough in this country about equal rights. It is time now to write the next chapter - and to write it in the books of law.',
+        'Lyndon B. Johnson',
     ],
-    'f7cd0841-b1bb-5c5c-ad10-dba3cea62496' => [
-        'I take work very seriously and telling the truth in my job and professionalism.',
-        'Brittany Murphy',
-    ],
-    '2ad93d2a-17bf-597b-a76b-de55c4926092' => [
-        'Do the right thing. It will gratify some people and astonish the rest',
-        'Mark Twain',
-    ],
-    'af568417-6208-5df4-9851-507b3210aa62' => [
-        'The left dismisses talk about the collapse of family life and talks instead about the emergence of the growing new diversity of family types.',
-        'Christopher Lasch',
-    ],
-    'ec670458-0bb4-5412-b0eb-6cb06cd52f65' => [
-        'Life gives you plenty of time to do whatever you want to do if you stay in the present moment.',
-        'Deepak Chopra',
-    ],
-    '293f50fd-79fd-5493-8897-f1db490d3aaf' => [
-        'The weak can never forgive. Forgiveness is the attribute of the strong.',
-        'Mohandas Gandhi',
-    ],
-    '6e8db6ee-6c5c-5a2b-aca8-2ba666ce62af' => [
-        'One can not be an American by going about saying that one is an American. It is necessary to feel America, like America, love America and then work.',
-        'Georgia O\'Keeffe',
-    ],
-    '5abc31a9-cb37-5d3c-9a8e-48acc4fa6b3f' => [
-        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
-        'Kurt Fuller',
-    ],
-    'a06e7566-8dec-5d0c-8226-f3e8dc8aeb92' => [
-        'A positive attitude is not going to save you. What it\'s going to do is, everyday, between now and the day you die, whether that\'s a short time from now or a long time from now, that every day, you\'re going to actually live.',
-        'Elizabeth Edwards',
-    ],
-    '510c5bc3-6292-5923-9f08-c080bf43f97a' => [
-        'France has been very good for me. It has given me a very worldly-cool attitude.',
-        'Marianne Faithfull',
-    ],
-    '3b04875e-f799-567e-9251-1d8354992897' => [
-        'The best way to inspire people to superior performance is to convince them by everything you do and by your everyday attitude that you are wholeheartedly supporting them.',
-        'Harold S. Geneen',
-    ],
-    '8374ea61-4292-5852-8661-b69415a43395' => [
-        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
-        'Jaime King',
+    '4f6b9b82-1b29-50c3-a87f-0af6b903a416' => [
+        'Jesus wept; Voltaire smiled. From that divine tear and from that human smile is derived the grace of present civilization.',
+        'Victor Hugo',
     ],
     '78208f6d-c012-58f5-a44e-ecd072866a46' => [
         'None of us can claim to be fair and square in love - and I\'m definitely not a hypocrite! Humans are built to evolve with time. It depends on the nature of the relationship you share with a person. It is there today, tomorrow it may be gone; c\'est la vie.',
         'Randeep Hooda',
     ],
-    'fcbb5d18-8d1e-51eb-9170-367926b8a121' => [
-        'It is spectacular. From about five minutes in, when we knew for sure that we were going to have the weather to go, the smile on my face just got bigger and bigger, and I was just beaming through the whole launch. I mean, it is just an amazing ride.',
-        'Chris Hadfield',
+    'dd04be0f-443f-57df-ade6-9a002bfc43d9' => [
+        'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
+        'Henry Ward Beecher',
     ],
-    '7aadd7ec-5d43-5f5b-a49f-2992b95997ff' => [
-        'You don\'t manage people; you manage things. You lead people.',
-        'Grace Hopper',
+    '71b82409-7ee6-5158-b314-0b48451b1fc3' => [
+        'If you wish to be a writer, write.',
+        'Epictetus',
     ],
-    'c5bed387-1620-5280-a715-839cec23f256' => [
-        'We have a president who stole the presidency through family ties, arrogance and intimidation, employing Republican operatives to exercise the tactics of voter fraud by disenfranchising thousands of blacks, elderly Jews and other minorities.',
-        'Barbra Streisand',
+    '177a8a2c-9c02-5e27-b5df-3a2d2de31f90' => [
+        'Life is too short for long-term grudges.',
+        'Magdalena Neuner',
     ],
-    '1ee0372b-d7d0-5d27-9d1b-c13582e7270d' => [
-        'Solitary trees, if they grow at all, grow strong.',
-        'Winston Churchill',
+    '206e3877-7cee-5dec-b416-104a1f93f9db' => [
+        'It is very important to know who you are. To make decisions. To show who you are.',
+        'Malala Yousafzai',
     ],
-    'f18da2ba-533f-5af8-9aa4-4cbda6b6796b' => [
-        'The best books... are those that tell you what you know already.',
-        'George Orwell',
+    '44f6b876-f7a7-5a67-aca5-a29253f7fbd6' => [
+        'I\'m a positive guy, even if I don\'t smile a lot.',
+        'James Arthur',
     ],
-    '7ca09ae1-17ea-589c-8e39-4de47ca4cf3b' => [
-        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
-        'Mac DeMarco',
+    '180de020-28ad-5ac9-9b33-facab0a42a86' => [
+        'Excellence is the best deterrent to racism or sexism.',
+        'Oprah Winfrey',
     ],
-    'fb6f617f-a58f-5056-8cdc-1b502957597b' => [
-        'It\'s funny - I read that women look to chiseled-faced guys for one-night stands, and to round-faced guys for marriage. When I\'m rounder in the face, I like to say, \'This is my long-term look.\' Or \'This is my wife-and-kids look right here.\'',
-        'Garrett Hedlund',
+    'a9c1b967-9d88-543f-ad24-6a268a9748d0' => [
+        'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
+        'Thomas A. Edison',
     ],
-    '34d70279-c061-59c5-a88b-40cae0fd28cf' => [
-        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
-        'Miranda Hart',
+    '9fd4b244-8e54-587d-9942-665c47875938' => [
+        'Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.',
+        'Wayne Dyer',
     ],
-    '1394bb8a-e0e3-57fe-a8f2-2574dce0f706' => [
-        'Water is life, and clean water means health.',
-        'Lawrence Welk',
+    '662174b4-9000-56cf-a249-41fbc6193911' => [
+        'Humans have a light side and a dark side, and it\'s up to us to choose which way we\'re going to live our lives. Even if you start out on the dark side, it doesn\'t mean you have to continue your journey that way. You always have time to turn it around.',
+        'Taraji P. Henson',
     ],
-    '7bc0005a-6108-5448-9e5c-bb5bd108cc9f' => [
-        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
-        'Calvin Coolidge',
+    '1478bfa2-7b70-5c29-830e-34df60c0e884' => [
+        'A great work is made out of a combination of obedience and liberty.',
+        'Nadia Boulanger',
     ],
-    'dcb2f02c-f836-5b53-9ab8-d7888cdc8dbf' => [
-        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
-        'Nostradamus',
+    '5decfd23-f9ed-5cd4-9660-d4aec52aac45' => [
+        'I have no time for those who say there is no way Scotland could go it alone. I know first-hand the contribution Scotland and Scots make to Britain\'s success - so for me there\'s no question about whether Scotland could be an independent nation.',
+        'David Cameron',
     ],
-    '6f225176-b63d-58a7-ba60-dccf193af9f8' => [
-        'The physical ego serves as its own worst enemy when, by delusive material behavior, it eclipses its true nature as the ever blessed soul.',
-        'Paramahansa Yogananda',
+    'bc037bb2-bdb3-5388-bab9-1d8967ce0f12' => [
+        'If you ask me what I came into this life to do, I will tell you: I came to live out loud.',
+        'Emile Zola',
     ],
-    '09d4230a-bccb-578f-a467-2f1236764aa8' => [
-        'Best of all is it to preserve everything in a pure, still heart, and let there be for every pulse a thanksgiving, and for every breath a song.',
-        'Konrad von Gesner',
+    '867169a9-9bce-5c34-98c8-2e4a9996ae90' => [
+        'The funniest racism is the racism between minorities. It\'s something you don\'t see dramatized, but almost every minority I know who\'s my age, they have these funny stories about their parents stereotyping other minorities.',
+        'Mindy Kaling',
     ],
-    '6ee35112-387d-5451-95ab-ce687d276b86' => [
-        'I\'m attracted to women who are smart and funny and ambitious and have lives of their own and great families. Isn\'t that what attracts anyone?',
-        'Tom Brady',
+    '8309960d-93d0-53a7-b13d-27e25ef35eba' => [
+        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
+        'Julie Delpy',
     ],
-    '5d596137-7500-55d9-86ff-beadb6d17e61' => [
-        'A few of the sublimest geniuses of Rome and Athens had some faint discoveries of the spiritual nature of the human soul, and formed some probable conjectures, that man was designed for a future state of existence.',
-        'David Brainerd',
+    '0bfb8aa6-cc30-5eff-ac93-921448cf502a' => [
+        'Christmas, my child, is love in action. Every time we love, every time we give, it\'s Christmas.',
+        'Dale Evans',
     ],
-    '01cb75ec-5d72-55cd-89fe-40cef6611d27' => [
-        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
-        'Diana Galbadon',
+    '8ee747ce-8b4c-55f8-9a70-f72398b65dda' => [
+        'If journalism is good, it is controversial, by its nature.',
+        'Julian Assange',
     ],
-    '247edb38-1ec0-5d67-824c-b6a4720d4eba' => [
-        'The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.',
-        'Dalai Lama',
+    '379c5092-0847-5427-b591-b313c3e60aee' => [
+        'I might have some character traits that some might see as innocence or naive. That\'s because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life.',
+        'Tobey Maguire',
     ],
-    'efb2d302-4086-537d-b983-91276a72bca2' => [
-        'When you realize who the good people are in your life, you\'re so lucky.',
-        'Brian Baumgartner',
+    '82375a3e-5fce-54e9-abf7-abc5a880ac90' => [
+        'I want to do what I love, which is act, and hopefully through that, leave a positive impact somehow, someway, with somebody.',
+        'Justin Lee',
     ],
-    '811631a4-b55a-5558-b267-7cf1698c796b' => [
-        'I love life because what more is there?',
-        'Albert Einstein',
+    '96201c10-295a-5de1-aa21-45df77439483' => [
+        'When someone has cancer, the whole family and everyone who loves them does, too.',
+        'Terri Clark',
     ],
-    '8b625ff1-fe49-523a-8374-7d89e4d25f8f' => [
-        'You get the best out of others when you get the best out of yourself.',
-        'Harvey S. Firestone',
+    'cbe437dc-1964-5943-be1d-1e497f4090eb' => [
+        'You know what? I\'m not always in a positive, happy place. But I\'m able to concentrate enough to come up with a really good song.',
+        'Brian Wilson',
     ],
-    '1b2b3a0d-6d98-5327-b8e0-c00b0f6e200e' => [
-        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
-        'Carol Burnett',
+    '9aec634b-8dc5-557a-b804-274062ac2d5e' => [
+        'For the Trump brand name, when we build, we want only the best buildings in the world. We travel a lot to see real estate projects worldwide, and we always study what can be done better. There\'s no question about it: a Trump Tower has to have the very best quality, amenities and facilities. People want that ultra-luxurious lifestyle.',
+        'Eric Trump',
     ],
-    'a69a40e5-33f1-5933-a34f-37338071b7ea' => [
-        'Don\'t go through life, grow through life.',
-        'Tim Gunn',
+    '4681f0f8-7727-5559-97fa-b808fd260693' => [
+        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
+        'Henry Ford',
     ],
-    'd29def56-1069-5a30-9d88-0b2df4875223' => [
-        'Weddings seem to be magnets for mishap and for whatever craziness lurks in family closets. In more ways than one, weddings bring out the ding-dong in everybody involved.',
-        'Robert Fulghum',
+    '067137c1-e523-5855-89eb-608cecd8ace3' => [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
     ],
-    '69859c75-210f-5356-a14a-c65505a7067d' => [
-        'Academic success depends on research and publications.',
-        'Philip Zimbardo',
+    'b33ad614-08b5-5853-a8e8-1ef04290885a' => [
+        'Human bodies are designed for regular physical activity. The sedentary nature of much of modern life probably plays a significant role in the epidemic incidence of depression today. Many studies show that depressed patients who stick to a regimen of aerobic exercise improve as much as those treated with medication.',
+        'Andrew Weil',
     ],
-    'c3ba92f2-2142-50ee-af87-aa491ab755bd' => [
-        'Find ecstasy in life; the mere sense of living is joy enough.',
-        'Nick Vujicic',
+    'd8774637-8fe2-59a2-a306-aab18ae87be2' => [
+        'The perception of beauty is a moral test.',
+        'Henry David Thoreau',
+    ],
+    'c8df5fb9-1207-5896-982b-5b23ce8e3ab0' => [
+        'This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet.',
+        'Rabindranath Tagore',
+    ],
+    '7bb7bfbc-7fbc-59b8-9ca5-2846b836eac4' => [
+        'Poor, dear, silly Spring, preparing her annual surprise!',
+        'Wallace Stevens',
+    ],
+    'c4d7ad58-b549-559c-9a6a-2a117e20a8cb' => [
+        'With Fresh Healthy Vending growing by the day, my role is ever-evolving, just as the company is, and I intend to take on any necessary responsibilities in order to make a positive impact and spread a message we all believe in so strongly.',
+        'Steve Finley',
+    ],
+    '04087b54-718b-540a-ad67-0eeba2daca4d' => [
+        'The hardest years in life are those between ten and seventy.',
+        'Rod Stewart',
+    ],
+    'a838cb28-5502-5265-8fd6-c72cecd2f802' => [
+        'One of the sad truths about leadership is that, the higher up the ladder you travel, the less you know.',
+        'Margaret Heffernan',
+    ],
+    '306ce0da-4fc3-575a-b1e3-b30f9f07447f' => [
+        'Prosperity depends more on wanting what you have than having what you want.',
+        'Geoffrey F. Abert',
+    ],
+    'eabe7d7a-da9a-5b46-ad11-9446bf60d11e' => [
+        'You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen.',
+        'Meister Eckhart',
+    ],
+    'cb6f73a5-7ef7-5237-a072-6e5cba5c4b7a' => [
+        'Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.',
+        'Baruch Spinoza',
+    ],
+    'e2e8b46d-ea73-5514-8681-538b90d3410b' => [
+        'I launched Chefs for Humanity, a national nonprofit, with my voice, heart and money from my own pocket. Money gives you the ability to make a difference in the world and, when used in a positive way, is a lot of fun.',
+        'Cat Cora',
+    ],
+    '827ea106-8072-5467-805c-711a3cd5a389' => [
+        'For the naysayers that claimed \'American Family\' revealed us to be vacant, unloving, uncaring morons of the materialistic \'70s, this image will be proven wrong when Mom and Dad remarry... Make no mistake. This is not to emphasize the sadness of my demise but rather emphasize the love of my family and friends.',
+        'Lance Loud',
     ],
 ];

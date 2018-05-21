@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'caf00b21-6a8d-5657-aa52-530a2d8ca389' => [
-        'Being fully present is the best guarantee for a bright future.',
-        'Guy Finley',
+    '83176024-d132-5b2c-8087-859e60f06e60' => [
+        'If I have made an appointment with you, I owe you punctuality, I have no right to throw away your time, if I do my own.',
+        'Richard Cecil',
     ],
-    '807c7a85-d07b-5b76-9e0b-a4606d3865d9' => [
-        'Travel is so important in its capacity to expand the mind. It\'s exciting to start as young as possible - you get to see how other cultures live, challenge your senses, and try different cuisines.',
-        'Natalie Dormer',
+    'c0af1b27-fefe-5e90-b407-22df584ef44b' => [
+        'Even with, or perhaps, because of, this background, I have over the past few years sensed a very dramatic change in attitude on the part of Prince Edward Islanders towards the on-going rush for so-called modernization.',
+        'Alex Campbell',
     ],
-    '461b0338-979e-5e1c-82b4-d59f92b505b2' => [
-        'We must use time as a tool, not as a couch.',
-        'John F. Kennedy',
+    'e2905699-fc66-59d3-b24d-e36b8d5c46e9' => [
+        'If I have free time, I want to go to the beach, walk around a shopping mall, go grocery shopping. Live a little bit of life.',
+        'James Wan',
     ],
-    'eee64ae8-33b7-573c-8081-0087226963a4' => [
-        'We should not say that one man\'s hour is worth another man\'s hour, but rather that one man during an hour is worth just as much as another man during an hour. Time is everything, man is nothing: he is at the most time\'s carcass.',
-        'Karl Marx',
+    '52fa7b30-162b-585b-b9db-21c065c0878e' => [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
     ],
-    'f96f73c8-9360-5ad4-a87f-2e4213ee9e85' => [
-        'Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people.',
-        'Fred Rogers',
+    'effdb86f-4738-5bc5-a044-506b5d63e770' => [
+        'My father and his eight siblings grew up in the kind of poverty that Americans don\'t like to talk about unless a natural disaster like Hurricane Katrina strikes, and then the conversation only lasts as long as the news cycle. His family squatted in shacks. The children scavenged for food.',
+        'Karin Slaughter',
     ],
-    '59b0f280-449a-5a18-a79c-1b0bcea55171' => [
-        'Perspective is everything when you are experiencing the challenges of life.',
-        'Katrina Kaif',
+    'e42f2932-a42a-503d-af00-8fd39899ff6b' => [
+        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
+        'Rudolf Steiner',
     ],
-    'd76db164-cdb7-5543-8e4a-6cf5337135ac' => [
-        'Nothing is art if it does not come from nature.',
-        'Antoni Gaudi',
+    'c55d4de4-0c7e-5c4c-a2ce-91c599b7ba28' => [
+        'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
+        'Robert Fulghum',
     ],
-    '7d71271c-9ab5-5177-b18c-0cb122c64a55' => [
-        'Some of the most important conversations I\'ve ever had occurred at my family\'s dinner table.',
-        'Bob Ehrlich',
+    '523f7375-fa1e-5f18-9ead-26fb3969875d' => [
+        'The secret of a happy marriage is finding the right person. You know they\'re right if you love to be with them all the time.',
+        'Julia Child',
     ],
-    '95d87b4e-b849-5942-ac22-3e3ab2bf5cd8' => [
-        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
-        'Kate Bosworth',
+    '92ef15c1-1b8b-5a63-9148-a52ded6d04e7' => [
+        'What we achieve inwardly will change outer reality.',
+        'Plutarch',
     ],
-    'b52afcad-3613-5487-9c27-b09689b7822f' => [
-        'Women didn\'t want to be on the stage with other women because they didn\'t want their bodies to be compared. They didn\'t want another female act opening for them because of this weird competitive and tokenistic attitude.',
-        'Kathleen Hanna',
+    '12b1e091-5d75-5ad7-bfbe-150724f5c1ce' => [
+        'It takes half your life before you discover life is a do-it-yourself project.',
+        'Eckhart Tolle',
     ],
-    'aa031382-1396-5a8a-a0f6-38eabe1ec6a5' => [
-        'Fate is in your hands and no one elses',
-        'Byron Pulsifer',
+    '69e55eb6-c3e9-5812-92d8-ef0a9e316120' => [
+        'I think it\'s evident that expensive neighborhoods in Seattle are surrounded by natural beauty. That elevates city life. So if we can make cities more attractive in the long run, we can be smarter about issues like development, zoning and economics.',
+        'Stone Gossard',
     ],
-    '1b344930-9973-5c10-b974-81c9c0bf52db' => [
-        'I don\'t need you to remind me of my age. I have a bladder to do that for me.',
-        'Stephen Fry',
+    '3b2958f2-b0e0-5d27-aead-572d873d8fb0' => [
+        'Extra dimensional theories are sometimes considered science fiction with equations. I think that\'s a wrong attitude. I think extra dimensions are with us, they are with us to stay, and they entered physics a long time ago. They are not going to go away.',
+        'Leonard Susskind',
     ],
-    'ef18551d-9fb6-5c13-a397-79916057fac5' => [
-        'If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.',
-        'Henry David Thoreau',
+    '92173352-1493-59a4-85d5-d37b4501c9fa' => [
+        'If you can\'t relax during your interview, then nothing you do to prepare will matter. Being yourself is essential to the selection process, and interviewers will feel it if you\'re too nervous. Showing fear or anxiety appears weak compared to a relaxed smile and genuine confidence.',
+        'Travis Bradberry',
     ],
-    '92766988-e196-5a0b-9345-0a2aa12f76cf' => [
-        'Most companies target women as end users, but few are effectively utilizing female employees when it comes to innovating for female consumers. When women are empowered in the design and innovation process, the likelihood of success in the marketplace improves by 144%!',
-        'Indra Nooyi',
+    '7b43b3c2-ab54-51aa-ad64-3ff7a3e9a111' => [
+        'One of the most obvious parts of my character is the smile, and if I wasn\'t comfortable in myself then I wouldn\'t be able to smile so much.',
+        'Max Walker',
     ],
-    '17d0b7de-26bb-57cd-8f77-8e39ba79e186' => [
-        'When I haven\'t been working I\'ve tried to travel a lot.',
-        'Emma Watson',
+    '18a4ace4-e3e0-5395-b561-8f77691e4bd4' => [
+        'Some pursue happiness, others create it.',
+        'Unknown',
     ],
-    '8de3dc37-d2a6-5199-b50b-5dc73dd1ceb8' => [
-        'Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.',
-        'Imelda Staunton',
+    '7e69505a-4b41-5d0e-a194-687698e64fa0' => [
+        'The greatest teacher I know is the job itself.',
+        'James Cash Penney',
     ],
-    '3e019ac7-35c6-5e8d-b557-08027a0d3ca9' => [
-        'I think the thing about that was I was always willing to work; I was not the fastest or biggest player but I was determined to be the best football player I could be on the football field and I think I was able to accomplish that through hard work.',
-        'Jerry Rice',
-    ],
-    '3219dbfc-f4b8-5f53-a7f3-d37bb7b82349' => [
-        'It\'s important to maintain an attractive smile as you age. A lighter, less beige, more white tooth color is key, but no Chiclets.',
-        'Evelyn Lauder',
-    ],
-    'd9ec23df-0709-5894-b501-0d0853d60a5c' => [
-        'Success is more dangerous than failure, the ripples break over a wider coastline.',
-        'Graham Greene',
-    ],
-    '053205f4-9010-5d54-bbb2-34097211de76' => [
-        'Spontaneity is what travel is all about.',
-        'Zach Anner',
-    ],
-    'f8b31c38-1698-58de-9525-a93d127aba9a' => [
-        'I don\'t have much positive to say about motor neuron disease, but it taught me not to pity myself because others were worse off, and to get on with what I still could do. I\'m happier now than before I developed the condition.',
+    'b02361a4-2c7c-522b-801d-97a717e9beef' => [
+        'I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We\'ve created life in our own image.',
         'Stephen Hawking',
     ],
-    '65c1a1e2-28f3-5e0f-875f-45c6a80f1d3e' => [
-        'What finally is beauty? Certainly nothing that can be calculated or measured. It is always something imponderable, something that lies between things.',
-        'Ludwig Mies van der Rohe',
+    'a6994bec-4ad3-5a3c-86da-aa040efc70dd' => [
+        'The two impulses in travel are to get away from home, and the other is to pursue something - a landscape, people, an exotic place. Certainly finding a place that you like or discovering something unusual is a very sustaining thing in travel.',
+        'Paul Theroux',
     ],
-    '3344dd8f-f615-5044-9b48-ae0f4a29016e' => [
-        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
-        'Robert Kiyosaki',
+    '6955fa09-cad5-501c-840d-f92d68d419e7' => [
+        'If you could cross a lion and a monkey, that\'s what I\'d be, because monkeys are funny and lions are strong.',
+        'Marlon Wayans',
     ],
-    'a23c9f13-7414-520a-8b89-309c7077ba37' => [
-        'If you don\'t like how things are, change it! You\'re not a tree.',
-        'Jim Rohn',
+    '8b5736e5-15b8-5529-9b0f-82afd834c067' => [
+        'Fourth of July. My birthday is July first, and my best friend\'s birthday is July fifth, so it\'s always been a favorite holiday. It\'s all about having a cooler full of sodas, hot dogs, and just hanging out and shooting off firecrackers, being low-key, watching the fireworks.',
+        'Hilarie Burton',
     ],
-    '624f6ea7-a85a-5c33-81eb-bceb314bcd77' => [
-        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
-        'Ayelet Waldman',
+    '8650258c-2b7e-558c-910b-1985517c5d4f' => [
+        'Each day provides its own gifts.',
+        'Marcus Aurelius',
     ],
-    '80e6f0ac-493c-5317-a5ac-bfe4c11969aa' => [
-        'Beauty is not something you can count on. Usually, when people say you are beautiful, it is when there is a harmony between the inside and the outside.',
-        'Emmanuelle Beart',
+    'df940673-578a-53c8-a315-282679f30a7f' => [
+        'When you realize how perfect everything is you will tilt your head back and laugh at the sky.',
+        'Buddha',
     ],
-    '80ececdb-b48e-5bca-8470-8fa0d5a3d139' => [
-        'Age and size are only numbers. It\'s the attitude you bring to clothes that make the difference.',
-        'Donna Karan',
+    '0895a6c3-9ad0-534b-96a3-8762cc15ca58' => [
+        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
+        'Paula Deen',
     ],
-    '7d52f821-e308-5e37-95e5-3cf7ba78f13e' => [
-        'It gets kinda monotonous, but that\'s television. There are plus sides and down sides. The positive side is that you have steady work for nine months of the year for however many years your show is on TV,.',
-        'Alexis Bledel',
+    '8a024e89-2ef5-5c24-ae36-60a20875506a' => [
+        'When I finally got the chance to do \'The People v. O.J. Simpson,\' my peers embraced me with the same attitude. They didn\'t make me feel small or insignificant. They treated me as a peer. It was a wonderful experience.',
+        'Sterling K. Brown',
     ],
-    'b544d53c-3600-52a9-b4e9-528db16f44ed' => [
-        'My father considered a walk among the mountains as the equivalent of churchgoing.',
-        'Aldous Huxley',
+    'd39ac914-0931-559e-8911-ef702724de94' => [
+        'Perhaps travel cannot prevent bigotry, but by demonstrating that all peoples cry, laugh, eat, worry, and die, it can introduce the idea that if we try and understand each other, we may even become friends.',
+        'Maya Angelou',
     ],
-    'f595e2eb-9c57-5ffa-bf72-4d15fef086ae' => [
-        'I\'m selfish, impatient, and a little insecure. I make mistakes, I\'m out of control, and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best.',
-        'Marilyn Monroe',
+    'b1efcf5b-da5f-512e-b473-aeb7d2e7b2be' => [
+        'I love \'Braxton Family Values!\' I love seeing a strong family unit striving for success while dealing with everyday struggles like everyone else. Whatever drama they find themselves in, they find a way to solve it and get back to the importance of family. A positive show for sure.',
+        'Drew Sidora',
     ],
-    '0fd3d9f7-f298-5ffb-a23e-04e59396b556' => [
-        'During the past few decades, modern technology, with radio, TV, air travel, and satellites, has woven a network of communication which puts each part of the world in to almost instant contact with all the other parts.',
-        'David Bohm',
+    '541b64ce-25d7-51d5-9305-6e566b40595d' => [
+        'The mystery is what prompted men to leave caves, to come out of the womb of nature.',
+        'Stephen Gardiner',
     ],
-    'd05f91be-0f95-5287-92e9-32a3e474b78e' => [
-        'The winner\'s edge is not in a gifted birth, a high IQ, or in talent. The winner\'s edge is all in the attitude, not aptitude. Attitude is the criterion for success.',
-        'Denis Waitley',
+    '61ee7f92-801d-5da9-a7ab-97a938d1525d' => [
+        'I write what I think is funny and I write from a sense of popping a balloon or a sense of injustice, whether it\'s about yourself, or whether it\'s about something else. It\'s my worldview; it doesn\'t mean that everybody has to agree with it.',
+        'Denis Leary',
     ],
-    '5c35ba88-6f9d-563c-aa60-62b4057aa5d7' => [
-        'Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.',
-        'Peter Drucker',
+    '6086421b-3a72-56fe-8df6-96d73a19082f' => [
+        'You must do the things you think you cannot do.',
+        'Eleanor Roosevelt',
     ],
-    '064e708a-feee-5a8f-a3d3-35cba052f7bc' => [
-        'California is a fine place to live - if you happen to be an orange.',
-        'Fred Allen',
+    'ba7075bb-76fb-57d8-a826-5382f6da91d5' => [
+        'I would say I\'m an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life.',
+        'Chris Brown',
     ],
-    'ec73f379-69b2-5d7f-892a-61c49a34294b' => [
-        'I don\'t see the desert as barren at all; I see it as full and ripe. It doesn\'t need to be flattered with rain. It certainly needs rain, but it does with what it has, and creates amazing beauty.',
-        'Joy Harjo',
+    '71135886-1a09-5e01-b5e0-9df8f4d0ca13' => [
+        'Over and over I marvel at the blessings of my life: Each year has grown better than the last.',
+        'Philip Green',
     ],
-    'c51b3467-681d-5ee2-86f9-e6d74ae52b4f' => [
-        'The person born with a talent they are meant to use will find their greatest happiness in using it.',
-        'Johann Wolfgang von Goethe',
+    '262afe9f-51f5-5862-a067-2ea5a8fa6055' => [
+        'It is the nature of the self to manifest itself, In every atom slumbers the might of the self.',
+        'Muhammad Iqbal',
     ],
-    '7485c793-755d-5ba2-95a9-7e5ca3b4e3be' => [
-        'When a small child, I thought that success spelled happiness. I was wrong, happiness is like a butterfly which appears and delights us for one brief moment, but soon flits away.',
-        'Anna Pavlova',
+    '9cccd9f8-ce23-5722-aeb2-38fee38b99d6' => [
+        'What I love best in life is new starts.',
+        'Karl Lagerfeld',
     ],
-    '81490196-fecb-52a3-977b-1ed7f4c34674' => [
-        'Honor lies in honest toil.',
-        'Grover Cleveland',
+    '6fed641c-3ab6-5c3f-8a85-09c8948affe2' => [
+        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
+        'Nick Saban',
     ],
-    '24a0bc36-bb52-55c8-b071-dd8257c3947b' => [
-        'We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.',
-        'Anthony Davis',
+    'f00918ef-66ce-5435-a886-785ff1209989' => [
+        'Everyone can identify with a fragrant garden, with beauty of sunset, with the quiet of nature, with a warm and cozy cottage.',
+        'Thomas Kincade',
     ],
-    '7c6cc51e-665c-5efd-87f3-20aa73bb88e2' => [
-        'My Christmas present to myself each year is to see how much air travel can open up the world and take me to places as far from sheltered California and Japan as possible.',
-        'Pico Iyer',
+    'fc150544-fcf3-5d1f-aecf-cf164066674f' => [
+        'The best math lesson we can teach college students this year is to subtract a tuition increase and benefit from the dividends of higher education.',
+        'Jodi Rell',
     ],
-    '7a57bffc-bfc0-5683-b487-38a195a40f56' => [
-        'I love mankind; it\'s people I can\'t stand.',
-        'Charles M. Schulz',
+    'd9aaa41c-cee7-5f66-b53f-41df38109a45' => [
+        'If you cannot work on the marriage or the women is a moron, staying married and cheating makes the most sense because divorce is disruptive to the family life and your bank account.',
+        'Al Goldstein',
     ],
-    'ae994931-4ab1-5698-a59c-a699e25c56d9' => [
-        'Travel, in the younger sort, is a part of education; in the elder, a part of experience.',
-        'Francis Bacon',
+    'd55cc16d-1f54-525b-aa5a-1eef504e84ff' => [
+        'People grow through experience if they meet life honestly and courageously. This is how character is built.',
+        'Bobby Brown',
     ],
-    'bada2b87-29ce-596e-929b-e43cf83d5f1e' => [
-        'When you think about the day-to-day, positive impact on the lives of U.S. citizens, there is no relationship that we have in the world that is more important than our relationship with Canada.',
-        'Paul Cellucci',
+    '75b494c4-2fe9-5109-82a2-2a17c417be00' => [
+        'I try and have a relaxed attitude and stay quite switched off until about an hour before kick-off.',
+        'Roy Keane',
     ],
-    'e42a8986-b9c4-5d05-bc55-db13061ac83a' => [
-        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
-        'Jeffrey Gitomer',
+    '379a4af7-ee3c-52aa-93de-6b522ab7b5ac' => [
+        'He is able who thinks he is able.',
+        'Buddha',
     ],
-    '279e6dcf-8469-576a-8ddd-ee7d5cbfda52' => [
-        'I think I have a mental nappy attitude.',
-        'Paul Mooney',
+    '381da02c-25a6-588e-a380-9eb830425fad' => [
+        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
+        'Pauline Neville-Jones',
     ],
-    'f18d910f-cfe7-5c18-a375-41ad58dbfc49' => [
-        'I know you\'ve heard it a thousand times before. But it\'s true - hard work pays off. If you want to be good, you have to practice, practice, practice. If you don\'t love something, then don\'t do it.',
-        'Ray Bradbury',
+    '0fd51063-30a1-55eb-86cb-460005a9752e' => [
+        'If I write a book where all I\'ve ever experienced is success, people won\'t take a positive lesson from it. In being candid, I have to own up to my own failures, both in my marriage and in my work environment.',
+        'Sonia Sotomayor',
     ],
-    'd6fcdbe1-c42a-565e-9e3f-75f3f1452366' => [
-        'I travel way too much to have any pets. But if I could have one, I\'d want a quokka. They\'re basically small kangaroos native to Western Australia.',
-        'Justine Larbalestier',
+    '93adeaa1-ae95-5ff9-b952-646820fd135a' => [
+        'If I could offer but one helpful hint to young Hoosiers hoping to better their odds for success in life, I would simply note the importance of thoughtful reading.',
+        'Richard Lugar',
     ],
-    '6c00af8c-488c-5aaa-90b4-ee03526e8518' => [
-        'One picture is worth 1,000 denials.',
-        'Ronald Reagan',
+    '3c8ac793-1a58-5250-8167-3ef1b0385a1d' => [
+        'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
+        'Mario Andretti',
     ],
-    'c0b25595-6064-523f-925f-8682de160e48' => [
-        'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
-        'Thomas Jefferson',
+    'bf686a61-1555-5d1f-8fdd-51fa3c7da2dd' => [
+        'An English man does not travel to see English men.',
+        'Laurence Sterne',
     ],
-    '3170f441-f648-5a9e-a73b-99ebd72cbf33' => [
-        'If you get hungry mid-day, a banana is the best snack at your desk, after a workout, or in between classes. Fruit is a very good snack in general.',
-        'Marcus Samuelsson',
+    '2d768799-a55c-5d7f-9d0d-fb99d2b682a5' => [
+        'Perhaps nature is our best assurance of immortality.',
+        'Eleanor Roosevelt',
+    ],
+    '1d40a1c0-a9b2-5c3a-8257-885b7fee7eac' => [
+        'I love being funny! I started in the theater when I was 9 and, believe it or not, always played the funny part!',
+        'Robert Knepper',
+    ],
+    'cb43c1df-b70b-51a4-9eee-dc24d8989c6c' => [
+        'My initial goal for the 1984 opening ceremonies was a show that would be majestic, inspirational, and emotional - a 20 goosebump experience.',
+        'David L. Wolper',
+    ],
+    'ed83b9b0-5560-52db-aad9-c8eaeb10c593' => [
+        'One man is as good as another until he has written a book.',
+        'Benjamin Jowett',
+    ],
+    'cc786690-29de-5bf9-ad75-c6da431cb884' => [
+        'There is definitely something sexy about a girl with an attitude and a pair of leather pants.',
+        'Eliza Dushku',
     ],
 ];

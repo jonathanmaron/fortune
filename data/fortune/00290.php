@@ -3,16 +3,16 @@
 declare(strict_types=1);
 
 return [
-    'feb6518a-0ad2-5a1c-86bf-96b895f6c6f3' => [
-        'First gain the victory and then make the best use of it you can.',
-        'Horatio Nelson',
+    'aea2da35-909c-5249-8962-a313cfde0aa0' => [
+        'If you\'re trying to achieve, there will be roadblocks. I\'ve had them; everybody has had them. But obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
+        'Michael Jordan',
     ],
-    '288638d8-0df7-5725-99ce-b87ffd7f5e37' => [
-        'If a man has been his mother\'s undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it.',
-        'Sigmund Freud',
+    'cfa56016-9b53-5381-b072-074f75d7acf1' => [
+        'To be happy, it first takes being comfortable being in your own shoes. The rest can work up from there.',
+        'Sophia Bush',
     ],
-    'ce4e7cfc-4fe5-5d85-a027-4d4833764fba' => [
-        'I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.',
-        'Cass Sunstein',
+    'bf2362c7-c01b-5294-a6ff-abfa580e8919' => [
+        'When the traveler goes alone he gets acquainted with himself.',
+        'Liberty Hyde Bailey',
     ],
 ];

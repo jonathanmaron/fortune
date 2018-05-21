@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '9a467a54-98a4-5e8a-8bfa-ce62393a3148' => [
-        'First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.',
-        'Napoleon Hill',
+    '9da134f8-0136-5cf3-9b19-4ba3a6768bc6' => [
+        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
+        'Barbara Baron',
     ],
-    '0b914db4-c31a-55e8-8099-4be71448051b' => [
-        'It\'s a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.',
-        'Daniel Kahneman',
+    '758e3eeb-7e6e-5e8a-813d-17ec5a88a9b2' => [
+        'As soon as you are trying to be funny or dramatic, that\'s when things start feeling fake and boring.',
+        'Joseph Gordon-Levitt',
     ],
-    '166b22cd-7624-5a6d-ae38-67fb3f4d0ae7' => [
-        'Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration; but the soldier\'s occupation we cannot say is gone until human nature is gone.',
-        'Rutherford B. Hayes',
+    'db22182a-54dd-59a2-bfc1-6ef087dbec95' => [
+        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
+        'Pam Brown',
     ],
-    'a89e80e9-c9b0-5bc3-9c60-bca2ad49c883' => [
-        'The nose of a mob is its imagination. By this, at any time, it can be quietly led.',
-        'Edgar Allan Poe',
+    'd7b82f7c-054e-505c-a7bb-698a7c56136d' => [
+        'One man cannot practice many arts with success.',
+        'Plato',
     ],
-    '13808590-e7e1-5884-8d46-ab81f1278765' => [
-        'Life is about not knowing, having to change, taking the moment and making the best of it, without knowing what\'s going to happen next.',
-        'Gilda Radner',
+    '4fc5addd-39e4-55d6-aa30-ad8f20bf9f5d' => [
+        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
+        'Ben Harney',
     ],
-    '34a95fb1-9769-5444-bd5d-d0202c2bb310' => [
-        'I am not a big fan of positive thinking. The term suggests that there is something negative that you have to counteract by being positive. That is an artificial duality.',
-        'Srikumar Rao',
+    'e7220a3a-192e-5d39-b677-193f35065c25' => [
+        'The human body is the best picture of the human soul.',
+        'Ludwig Wittgenstein',
     ],
-    'a8587d00-2930-5025-9a38-b0551a271a95' => [
-        'Luck? I don\'t know anything about luck. I\'ve never banked on it and I\'m afraid of people who do. Luck to me is something else: Hard work - and realizing what is opportunity and what isn\'t.',
-        'Lucille Ball',
+    '497aa976-6382-549c-bfb9-40ecfaafe614' => [
+        'One of the things the \'Tao of Travel\' shows is how unforthcoming most travel writers are, how most travelers are. They don\'t tell you who they were traveling with, and they\'re not very reliable about things that happened to them.',
+        'Paul Theroux',
     ],
-    'fd526e5b-a976-5b0b-9df6-a915930a0d19' => [
-        'The science of psychology has been far more successful on the negative than on the positive side... It has revealed to us much about man\'s shortcomings, his illnesses, his sins, but little about his potentialities, his virtues, his achievable aspirations, or his psychological health.',
-        'Abraham Maslow',
+    '1b56f616-9d91-5acc-9e2e-af0d7231678a' => [
+        'There never was a good knife made of bad steel.',
+        'Benjamin Franklin',
     ],
-    '3ae65886-42ed-5d2d-91ab-252ac48416c6' => [
-        'Actually, I\'m an overnight success, but it took twenty years.',
-        'Monty Hall',
+    '9f58dbdf-7d9c-51b3-81a7-b98d76b5d9e9' => [
+        'Love is a strange emotion. It is ever evolving. Lust is transient. With time, one realizes that love and togetherness are two different things. Very few people are lucky enough to experience the two emotions simultaneously.',
+        'Randeep Hooda',
     ],
-    '9d81f925-fbb6-50ad-950c-761abe17a1b1' => [
-        'Success is often the result of taking a misstep in the right direction.',
-        'Al Bernstein',
+    'd9a9d757-36c5-5d40-87ff-25f0ce73d2c0' => [
+        'Dream small dreams. If you make them too big, you get overwhelmed and you don\'t do anything. If you make small goals and accomplish them, it gives you the confidence to go on to higher goals.',
+        'John H. Johnson',
     ],
-    'd9019084-dac2-5e91-b9d4-83068a602f09' => [
-        'Smile at a stranger. See what happens.',
-        'Patti LuPone',
+    'bc2208b3-a3d0-5226-82f9-57a4332e09de' => [
+        'Directing a movie is a little bit like being back in student government and putting on the homecoming dance. You\'re like, \'You put up the streamers, and you hire the DJ, and you get the punch bowl.\' Some people are just like, \'This dance sucks.\' And you\'re like, \'No no, this dance is awesome!\' You have to be really positive.',
+        'Mike Birbiglia',
     ],
-    'ebaf9b1a-a4a8-5cfa-8654-49817a5cb4e6' => [
-        'Beauty is boring because it is predictable.',
-        'Umberto Eco',
+    '16ba43ed-a481-5e24-963f-3f0bfecd2b36' => [
+        'I always try to stay aggressive. I always use my strengths and always work on my weaknesses to get better. That\'s just who I am.',
+        'Kristaps Porzingis',
     ],
-    'd369cd77-763d-5bd2-9c6f-f9d8b3a14d05' => [
-        'Each day is the scholar of yesterday.',
-        'Sophia Bush',
+    'bb7da54d-b688-5cf4-8155-948368a9ae79' => [
+        'I am much pleased to find how very well I stand work &amp; how my powers of attention &amp; continued effort increase.',
+        'Ada Lovelace',
     ],
-    '7fb15477-b5f0-59c6-a465-9436e2a9417c' => [
-        'When I was in college, I was in the theater department, which for anyone who has been involved in any kind of theater program, you know that it\'s really wacky and tight-knit, a real family. Me and my good friends from college would do random shows and plays that were sometimes serious, but most of the time really goofy and funny.',
-        'Darren Criss',
+    '52171d8f-de3a-5c82-90a6-454553e24bdd' => [
+        'I\'m happy to be on a winning team. My individual success, that lasts for a short period of time. The success of being a part of the South, of Atlanta, which is now the hot bed of music, that\'s what\'s gonna last the longest. The fact that I contributed to planting our flag and moving music to my city, that\'s what I\'m most proud of.',
+        'T.I.',
     ],
-    '7f702f08-8acb-50e1-a858-c3df296f9cf4' => [
-        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
-        'Evelyn Lauder',
+    'fc501838-df5a-5b2e-ab3c-97285bd5bd19' => [
+        'Anyone who keeps the ability to see beauty never grows old.',
+        'Franz Kafka',
     ],
-    '88db1662-3c92-5e25-bb93-3670744de48c' => [
-        'Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.',
-        'Katrina Kaif',
+    '7b24bcab-e2d6-5f29-9e1d-2c463674ef51' => [
+        'We depend on our rivers and dams for energy, transportation, irrigation and recreation and I will continue this year to fight for what\'s best for the Pacific Northwest.',
+        'Cathy McMorris Rodgers',
     ],
-    '8bae93b5-6aec-540f-a683-dfae6b31c4b9' => [
-        'I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.',
-        'Elisabeth Kubler-Ross',
+    '1822f6e2-085b-5b10-ae49-e6457b11700a' => [
+        'He that is giddy thinks the world turns round.',
+        'William Shakespeare',
     ],
-    'c5479626-0ea3-50b4-b63f-c37527e1cc1a' => [
-        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
-        'Todd Rundgren',
+    '6a3cf524-d809-5a87-b716-e47aa26bdd06' => [
+        'My own personal popularity can have no influence over me when the dictates of my best judgment and the obligations of an oath require of me a particular course. Under such circumstances, whether I sink or swim on the tide of popular favor is, to me, a matter of inferior consideration.',
+        'John Tyler',
     ],
-    '9b2aa55d-5a58-55df-b207-117d2d796f98' => [
-        'Your goals don\'t care how you feel.',
-        'Unknown',
+    '3ee5eb4a-509b-5253-925d-17191db50e05' => [
+        'Any time I need to get a serious attitude adjustment, I put on one of their records, and there are examples there for all time to keep us honest and keep us reaching; they\'ll never be eclipsed.',
+        'Benny Green',
     ],
-    'be763c94-da44-5ceb-b753-82cb3928d7c0' => [
-        'I have the best roommates in the world! It creates a fun sense of family... and that\'s really important to me. Things can get so lonely without it.',
-        'Kristen Bell',
+    '00c372dc-550e-5619-8f20-bda7b86ba6da' => [
+        'Success isn\'t about the end result, it\'s about what you learn along the way.',
+        'Vera Wang',
     ],
-    'dd38bfe2-e3c7-50e9-95cf-26d9b332194e' => [
-        'The pursuit, even of the best things, ought to be calm and tranquil.',
-        'Marcus Tullius Cicero',
+    'e2608d49-7c1e-53dd-b5c2-49648b9775d3' => [
+        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
+        'Byron Pulsifer',
     ],
-    '84583f54-5987-528d-89f1-1d577152e421' => [
-        'Hard work pays off - hard work beats talent any day, but if you\'re talented and work hard, it\'s hard to be beat.',
-        'Robert Griffin III',
+    '96edb52f-fe9b-5f7a-9821-9ecb20dcf4d2' => [
+        'In general, men are wired to notice obvious signs that convey interest in mating - a warm smile, for example - and ignore other subtleties, like if your lipstick is faded.',
+        'Helen Fisher',
     ],
-    'ef04a934-c2ce-5d10-ba38-19fbfc75071d' => [
-        'Nature is my springboard. From her I get my initial impetus. I have tried to relate the visible drama of mountains, trees, and bleached fields with the fantasy of wind blowing and changing colors and forms.',
-        'Milton Avery',
+    '9d97e9e3-56a9-552e-ad47-937b4e0392bf' => [
+        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
+        'G. K. Chesterton',
     ],
-    '04e71e3a-256d-5243-a51f-3d19c230b44b' => [
-        'I\'m a bit of a P. T. Barnum. I make stars out of everyone.',
-        'Donald Trump',
+    '13f26d85-46ba-50ec-83c7-bf588b039d5c' => [
+        'I may not be the number one movie star, or my films might not be doing too good. I am grateful for what life has offered me. I have got a great family, parents are together, have a great sister, I get to holiday. All these things make me grateful towards life, for everything. I always say - have an attitude of gratitude.',
+        'Sonam Kapoor',
     ],
-    'd2aca22d-7eb9-5bc1-a25d-bd73fba4a971' => [
-        'When I was younger, my family would go camping and fishing on our ranches. My dad loves being around all kinds of animals. He\'s the one who got me to be a really big animal lover.',
-        'Paris Hilton',
+    'ec3f3749-7a8a-5569-bb2d-fbeb5049fc12' => [
+        'Cats are intended to teach us that not everything in nature has a function.',
+        'Garrison Keillor',
     ],
-    '73f69016-ba72-5128-8705-e14293e8acdb' => [
-        'The machine does not isolate man from the great problems of nature but plunges him more deeply into them.',
-        'Antoine de Saint-Exupery',
+    '9fb24247-19f4-5e7f-9e20-a750d2f54435' => [
+        'Endurance is nobler than strength, and patience than beauty.',
+        'John Ruskin',
     ],
-    'a1048004-910d-59a6-adbb-d3d9ce1d7adb' => [
-        'The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoy every day, enjoying to work hard, trying to be a better player than before.',
-        'Rafael Nadal',
+    '8834a8ec-9c4a-5a4c-a7b6-6c33ef2aafc0' => [
+        'There\'s so much to appreciate about my life every single day, and I make a big point of taking time to smell the roses and noticing how lucky I am. I never want to take that for granted.',
+        'Josie Maran',
     ],
-    '427e7673-a1ed-50dc-81a7-714d4e48836a' => [
-        'We know beauty when we see it, and our reactions are remarkably consistent. Beauty is not just a social construct, and not every girl is beautiful just the way she is.',
-        'Virginia Postrel',
+    '85fc834e-d3db-5aa4-8a4e-349d7515c45d' => [
+        'Many of the familiar little things that we use every day have typically evolved over a period of time to a state of familiarity. They balance form and function, elegance and economy, success and failure in ways that are not only acceptable, but also admirable.',
+        'Henry Petroski',
     ],
-    '486165ba-c8bc-561e-9474-a0f450645b60' => [
-        'I am trying to show the world that we are all human beings and that color is not important. What is important is the quality of our work.',
-        'Alvin Ailey',
+    'bdf06661-601f-5c76-af78-cb6827eede62' => [
+        'One travels to run away from routine, that dreadful routine that kills all imagination and all our capacity for enthusiasm.',
+        'Ella Maillart',
     ],
-    'de4d4cfa-f977-52ae-b767-c1ba83d601e8' => [
-        'My life is my message.',
-        'Justin Timberlake',
+    '017882df-3f48-550e-89bd-54d9dc3a489a' => [
+        'I come from that society and there is a common thread, specifically family values - the idea that you do anything for your family, and the unconditional love for one\'s children.',
+        'Ednita Nazario',
     ],
-    '41c52f19-05e7-5769-9249-38517af4524d' => [
-        'I think a lot of the guys I know and a lot of people I\'ve talked to, what they want is very often what most people want, a kind of simple life, a livelihood, a family, people who care about them, people they can care about. I think vets on the whole want the same things that everybody else does.',
-        'Kevin Powers',
+    'f4357277-1649-56f7-b7c0-f62244735b37' => [
+        'Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.',
+        'Marcus Aurelius',
     ],
-    'b2afd0c6-5978-53f1-bb8f-9bbd60073669' => [
-        'I always want to find the best burger in town.',
-        'Dennis Quaid',
+    '3935131c-f561-512a-a3e0-ca4defa09aba' => [
+        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
+        'Hannah Arendt',
     ],
-    'd8b8be45-7e54-5d34-b473-05438b15480b' => [
-        'An intelligent man is sometimes forced to be drunk to spend time with his fools.',
-        'Ernest Hemingway',
+    'a382dcd4-4412-5084-a973-5c7a06e5038f' => [
+        'Civilization began the first time an angry person cast a word instead of a rock.',
+        'Sigmund Freud',
     ],
-    '7f12339f-8d20-5084-a4ac-c733d0ea8c07' => [
-        'Bald as the bare mountain tops are bald, with a baldness full of grandeur.',
-        'Matthew Arnold',
+    'b98c9a3e-adb3-5a0b-87b2-0890dc0b8189' => [
+        'We\'ve certainly learned a lot of lessons from Katrina, from Rita. Rita was better than Katrina. We\'re doing a better job planning. We\'re closer - more closely aligned with the Department of Defense. These things would be positive things if we were to have another attack.',
+        'Michael Chertoff',
     ],
-    '76d262b1-40cc-5d05-8d1f-6aaf35134c71' => [
-        'A good compromise is one where everybody makes a contribution.',
-        'Angela Merkel',
+    'e143959e-0dfe-555b-af2d-9b60a8d09a48' => [
+        'Nobody needs a smile so much as the one who has none to give. So get used to smiling heart-warming smiles, and you will spread sunshine in a sometimes dreary world.',
+        'Lawrence G. Lovasik',
     ],
-    '4c3408a1-e78c-549c-ad13-9194cb16c121' => [
-        'There is no spot of ground, however arid, bare or ugly, that cannot be tamed into such a state as may give an impression of beauty and delight.',
-        'Gertrude Jekyll',
+    '81068193-207f-5240-932c-5f7715fa374b' => [
+        'You know, it\'s funny... when you\'re making money, people don\'t think you\'re playing jazz. Now when you\'re not making money, people think that you\'re a good jazz musician.',
+        'Pete Fountain',
     ],
-    '84272025-0152-5576-9707-55aa98e1de6b' => [
-        'You\'re beautiful, like a May fly.',
-        'Ernest Hemingway',
+    '4f9d3f17-5c9c-57a1-946d-bba7fd122607' => [
+        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
+        'Maria Bartiromo',
     ],
-    '2e17d87c-8791-559a-9a3e-54be8f66c6c7' => [
-        'It\'s obviously funny to be a meme, so I could be down with it in that regard, but it also belittles one\'s art.',
-        'Grimes',
+    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
+        'Only the educated are free.',
+        'Epictetus',
     ],
-    'f2dfa713-74d2-51aa-ac29-8f59da017463' => [
-        'A person with a new idea is a crank until the idea succeeds.',
-        'Mark Twain',
+    '3dfacea1-b573-561e-885e-db5c45c734fc' => [
+        'For greed all nature is too little.',
+        'Lucius Annaeus Seneca',
     ],
-    '8dd51818-be0d-588b-b62c-a2e4785c2171' => [
-        'Glory is attained from hard work, step by step.',
-        'Ma Long',
+    '75073295-08da-5295-b76e-67b7e7910b31' => [
+        'My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain.',
+        'Tony Robbins',
     ],
-    '1f759b5f-1563-5987-a515-0c52e3650d4d' => [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
+    'd2f6824a-25a5-5321-a5fa-5c7dc4e2e380' => [
+        'A manager is a guide. He takes a group of people and says, \'With you I can make us a success; I can show you the way.\'',
+        'Arsene Wenger',
     ],
-    'e2691b9c-6f18-5fae-a69e-b4952cde4d39' => [
-        'Nature... is nothing but the inner voice of self-interest.',
-        'Charles Baudelaire',
+    '90cdd2e7-330f-5c2c-8603-7f307ca848f9' => [
+        'A man ought to live so that everybody knows he is a Christian... and most of all, his family ought to know.',
+        'Dwight L. Moody',
     ],
-    '75af9a31-3f72-526e-b265-39f5eba2c1d8' => [
-        'Life it is not just a series of calculations and a sum total of statistics, it\'s about experience, it\'s about participation, it is something more complex and more interesting than what is obvious.',
-        'E. B. White',
+    'a5457a76-fc4f-59ee-8fc3-319cae9c7f5c' => [
+        'Life\'s tragedy is that we get old too soon and wise too late.',
+        'Ella Woodward',
     ],
-    'd0786d0c-f536-5b4f-b687-98e49f073dc0' => [
-        'When a man and a woman have an overwhelming passion for each other, it seems to me, in spite of such obstacles dividing them as parents or husband, that they belong to each other in the name of Nature, and are lovers by Divine right, in spite of human convention or the laws.',
-        'Nicolas Chamfort',
+    'eca88839-45de-577d-8837-8a1bae1ae6c7' => [
+        'The foolish man seeks happiness in the distance, the wise grows it under his feet.',
+        'James Oppenheim',
     ],
-    '3c8d808a-d4b4-5414-966f-5c30492c9e3f' => [
-        'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-        'Ken Venturi',
+    'f0fbd035-7ed2-5f80-bff2-5298c1107187' => [
+        'Strength does not come from physical capacity. It comes from an indomitable will.',
+        'Mahatma Gandhi',
     ],
-    '0785fc36-ce33-532d-8866-06ef79216b22' => [
-        'Success is tricky to deal with, both professionally and in your personal life.',
-        'Ewan McGregor',
+    '6cfe50f2-5540-5815-b94f-fc77333c9af3' => [
+        "I always did something I was a little not ready to do. I think that's how you grow. When there's that moment of, \u{2018}Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough.",
+        'Marissa Mayer',
     ],
-    '58b504fc-ae82-5291-a3df-a75dfbd8ffe6' => [
-        'Both of our children are adopted, and my wife and I didn\'t go out of ways to find kids that looked like us. We were just happy to have some kids. And people tell me all the time that they look like us, and that\'s because they learn to smile and laugh and move their head a certain way from studying their parents\' faces.',
-        'John Wells',
+    '53773859-7d1c-570c-8c68-77da236f6929' => [
+        'It\'s amazing how a competitive nature can turn a negative into something positive.',
+        'Barry Mann',
     ],
-    'aaf80cc5-3e61-5d77-9737-9f83f52870c4' => [
-        'If you\'re not comfortable with public speaking - and nobody starts out comfortable; you have to learn how to be comfortable - practice. I cannot overstate the importance of practicing. Get some close friends or family members to help evaluate you, or somebody at work that you trust.',
-        'Hillary Clinton',
+    '1cfd3677-2c9f-502e-9e71-8e5feb9c5349' => [
+        'I always wanted to be somebody, but now I realize I should have been more specific.',
+        'Lily Tomlin',
     ],
-    'd751058d-1202-585f-846d-ace6a981447c' => [
-        'I\'m really careful about not slamming my politics home in my shows, but I don\'t try to hide, either. The arts can be a great way to bring people together. I don\'t preach from the stage. I try to stay positive on solutions.',
-        'Bonnie Raitt',
+    '86663265-f81b-51d7-872d-9c2b7a6c4cf3' => [
+        'It\'s the price of success: people start to think you\'re omnipotent.',
+        'Ben Bernanke',
     ],
-    '0987f0f1-ddaf-56a2-bfc6-74a587962008' => [
-        'It is human nature to instinctively rebel at obscurity or ordinariness.',
-        'Taylor Caldwell',
+    '17b530ff-82c3-5e3e-a610-bcb6d939b899' => [
+        'In matters of conscience, first thoughts are best. In matters of prudence, last thoughts are best.',
+        'Robert Hall',
     ],
 ];

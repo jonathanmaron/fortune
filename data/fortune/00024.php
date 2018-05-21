@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '22ad5df4-8640-5885-b745-1a8c25489b07' => [
-        'Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.',
-        'Nikola Tesla',
-    ],
-    'ae6476e7-0e76-5f84-abfd-8d4583de52e4' => [
-        'The cat is such a perfect symbol of beauty and superiority that it seems scarcely possible for any true aesthete and civilised cynic to do other than worship it.',
-        'H. P. Lovecraft',
-    ],
-    '451e7e14-16db-5f20-adde-7d3c2ef6b609' => [
-        'Why is Cloud 9 so amazing? What is wrong with Cloud 8? That joke came off the top of my head, and the top of my head ain\'t funny!',
-        'Mitch Hedberg',
-    ],
-    '326a4e2b-034b-5572-9b24-7ebf6803b7d0' => [
-        'Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.',
-        'Helen Keller',
-    ],
-    '4dcb8e6e-0331-5cf8-83df-64590b53cb3e' => [
-        'Mushrooms are miniature pharmaceutical factories, and of the thousands of mushroom species in nature, our ancestors and modern scientists have identified several dozen that have a unique combination of talents that improve our health.',
-        'Paul Stamets',
-    ],
-    'bcf3d47d-9d9b-560b-a2a0-8fb641c2aa42' => [
-        'Every time we\'ve moved ahead in IBM, it was because someone was willing to take a chance, put his head on the block, and try something new.',
-        'Thomas J. Watson',
-    ],
-    '4b50d2d1-8377-5308-86b8-d8d5ae839f83' => [
-        'I am an artist... I am here to live out loud.',
-        'Josh Turner',
-    ],
-    '998313bf-9900-5c63-8fdc-104484a3d44c' => [
-        'I just think that there\'s so much judgment in the world, whether it\'s coming from women in general or from men onto women - it\'s a lot. And when it comes to being a mom, I wish everyone could band together and realize that everyone has different beliefs, different styles, and different things that work for them and their family.',
-        'Hilary Duff',
-    ],
-    '97d2f8be-1873-5574-9506-f40cc3ee6c71' => [
-        'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.',
-        'Colin Powell',
+    'aef82f8f-57ab-5d15-b454-dc081e7c8910' => [
+        'Some might complain that nuclear disarmament is little more than a dream. But that ignores the very tangible benefits disarmament would bring for all humankind. Its success would strengthen international peace and security. It would free up vast and much-needed resources for social and economic development. It would advance the rule of law.',
+        'Ban Ki-moon',
     ],
     'c49a3626-a338-5a88-929b-6d01a22f0872' => [
         'Many of my friends back in New York and elsewhere have a glib or dismissive attitude toward Los Angeles. It\'s a place of strip malls and traffic and not much else, in their opinion.',
         'Moby',
     ],
-    '66101463-b797-518f-837b-5b7f3605bb6f' => [
-        'When leaders know how to lead great meetings, there\'s less time wasted and less frustration. We have more energy to do the work that matters, realize our full potential, and do great things.',
-        'Justin Rosenstein',
+    '683e9db8-6bf5-5089-8ae9-36b8719b68d9' => [
+        'I hate to travel with stuff.',
+        'Manolo Blahnik',
     ],
-    'ed32e643-aee2-53f4-a0c9-c7023b36426b' => [
-        'I travel a lot; I hate having my life disrupted by routine.',
-        'Caskie Stinnett',
+    '181eac97-9198-5a03-81fc-4859e71c1ea6' => [
+        'Enjoy failure and learn from it. You can never learn from success.',
+        'James Dyson',
     ],
-    '81c7524e-e63f-5c2f-b943-9c07059174f4' => [
-        'Happiness lies in the joy of achievement and the thrill of creative effort.',
-        'Franklin D. Roosevelt',
+    'ad1e8989-f448-5c33-a24d-a0ecf4ffc25c' => [
+        'Sometimes, comics will make the observation that it\'s not jokes that are funny, it\'s characters that are funny. And isn\'t that true! That\'s why I always kill jokes. I\'m terrible at them, because I get the joke right, but I can\'t get the character right, and it just goes down like a lead balloon.',
+        'David Mitchell',
     ],
-    '55622479-e71b-5a00-af94-21d80b843139' => [
-        'Scientists are not delinquents. Our work has changed the conditions in which men live, but the use made of these changes is the problem of governments, not of scientists.',
-        'J. Robert Oppenheimer',
+    'c81e3a1b-df36-5425-9267-04784f987b4a' => [
+        'I truly believe that everything that we do and everyone that we meet is put in our path for a purpose. There are no accidents; we\'re all teachers - if we\'re willing to pay attention to the lessons we learn, trust our positive instincts and not be afraid to take risks or wait for some miracle to come knocking at our door.',
+        'Marla Gibbs',
     ],
-    'a084eaa0-595f-572d-aabd-c6b997492567' => [
-        'The time I kill is killing me.',
-        'Mason Cooley',
+    '6774cc7d-560b-56a2-b7ec-6717fa83a774' => [
+        'We need time to defuse, to contemplate. Just as in sleep our brains relax and give us dreams, so at some time in the day we need to disconnect, reconnect, and look around us.',
+        'Laurie Colwin',
     ],
-    '0fd04462-8ca0-5a32-a76a-f72bc923cd0b' => [
-        'Yesterday is not ours to recover, but tomorrow is ours to win or lose.',
-        'Lyndon B. Johnson',
+    '6dabd862-74ac-5670-aeac-ce285bc18905' => [
+        'There\'s no secret about success. Did you ever know a successful man who didn\'t tell you about it?',
+        'Kin Hubbard',
     ],
-    '6ee9585b-f270-55a3-b8f6-b82adf0e3a87' => [
-        'The surface of American society is covered with a layer of democratic paint, but from time to time one can see the old aristocratic colours breaking through.',
-        'Alexis de Tocqueville',
+    '33a32f12-0e26-59e7-8838-70c84d206ae7' => [
+        'The best comfort food will always be greens, cornbread, and fried chicken.',
+        'Maya Angelou',
     ],
-    'a49dc203-a913-58ac-a4e1-fa34c73adf59' => [
-        'The best move you can make in negotiation is to think of an incentive the other person hasn\'t even thought of - and then meet it.',
-        'Eli Broad',
+    '5ccaa389-b501-5301-be99-93dec929d89e' => [
+        'Funny enough, there have been puppets in everything I\'ve written because I have a huge love of puppets. There\'s a big puppet musical at the end of \'Sarah Marshall.\' I wrote \'The Muppets.\'',
+        'Jason Segel',
     ],
-    'ebb117f1-d9ce-5ab2-a5a1-6863d070089b' => [
-        'The thing that surprised me the most is just how much money women that weren\'t rich were paying for their hair. When you\'re in a beauty parlor in Harlem next to abandoned buildings and somebody\'s paying five grand for a weave, that\'s a bit much.',
-        'Chris Rock',
+    '74c8109f-ae9b-5d3d-a495-cfc1279e847a' => [
+        'We should be the pro-legal immigration party. A party that has a positive platform and agenda on how we can create a legal immigration system that works for immigrants and works for America.',
+        'Marco Rubio',
     ],
-    '95d05b9b-8620-5be8-84e7-e643cc420728' => [
-        'It is time we recognised the huge contribution that migration has made to the economic growth of this country.',
-        'Jeremy Corbyn',
+    'b485bd9b-675c-548a-8b99-487e08564a47' => [
+        'Don\'t miss all the beautiful colors of the rainbow looking for that pot of gold.',
+        'Unknown',
     ],
-    '28a1bd1c-48af-5991-aa88-2f7e1667aafd' => [
-        'As a single mother of four, my mother taught me that you always want to show up strong for the moments that really matter with family, friends, and community. I now recognize how her strength helped shape the person I am today and the mother that I have become.',
-        'Andie MacDowell',
+    'c07ec7c6-ac14-5c4b-9810-d490ea21efc8' => [
+        'TV deals in very broad strokes. Like, \'Oh, that\'s my dumb friend\', or, \'That\'s my funny friend.\' A true best friend, a sidekick, has to be a little deeper then that. You have to feel like there\'s nothing either character won\'t do. That someone really, really has their back.',
+        'Willie Garson',
     ],
-    'b28de7de-1883-51f0-9fc0-c5cd5ac94b29' => [
-        'The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success \'permanently\' is to reset your financial thermostat. But it is your choice whether you choose to change.',
-        'T. Harv Eker',
+    '6dcf6187-bf5a-5305-9ea3-c864ad19901c' => [
+        'Work harder than anybody you\'ve ever seen. That\'s what I believe.',
+        'Meek Mill',
     ],
-    '662800f9-b50d-57a7-9281-4e78de4c9e06' => [
-        'Over time, naturally, you lose your innocence from gaining knowledge. You can\'t be innocent forever, but there\'s something in innocence you need to regain to be creative.',
-        'Albert Hammond, Jr.',
+    'acfb6013-20de-5b1a-8d57-596a5ccb32f2' => [
+        'A work of art when placed in a gallery loses its charge, and becomes a portable object or surface disengaged from the outside world.',
+        'Robert Smithson',
     ],
-    '56a18a1b-a874-50b4-b2ba-43302f4da541' => [
-        'I\'m just trying to be the me that I am and not all of this other crap. I just want to be the family man, and if somehow I can make the money to get my ranch and get the hell away from everybody else, that would be awesome.',
-        'Chris Kyle',
+    '86003e64-ea8e-55a8-85c8-d34599053d7f' => [
+        'By plucking her petals, you do not gather the beauty of the flower.',
+        'Rabindranath Tagore',
     ],
-    '833225d8-f95a-52fa-ae66-d5bbabb2b7b1' => [
-        'I think that one of the main privileges of what I do, which I am just starting to learn, is to have the ability to travel all over the world and experience different cultures.',
-        'Chris Cornell',
+    'b472c8cd-01c5-5860-8a3a-0ccbf5e9d28d' => [
+        'To fulfill a dream, to be allowed to sweat over lonely labor, to be given a chance to create, is the meat and potatoes of life. The money is the gravy.',
+        'Bette Davis',
     ],
-    '00e4b527-e57b-5524-a18e-b1228d4ade84' => [
-        'Problems or successes, they all are the results of our own actions. Karma. The philosophy of action is that no one else is the giver of peace or happiness. One\'s own karma, one\'s own actions are responsible to come to bring either happiness or success or whatever.',
-        'Maharishi Mahesh Yogi',
+    '414c1396-80e3-5fdf-a348-826d6d8bc2ed' => [
+        'There is great beauty in going through life without anxiety or fear. Half our fears are baseless, and the other half discreditable.',
+        'Christian Nestell Bovee',
     ],
-    'ddd20c94-f912-559c-b4fe-da3156df80e4' => [
-        'Men judge us by the success of our efforts. God looks at the efforts themselves.',
-        'Charlotte Bronte',
+    '81e25440-5c3c-5a61-a357-66dd0c16ad30' => [
+        'I think it takes a strong man to be in a relationship with a strong woman. A lot of people hear the word \'diva\' and think of it as a negative. I see it as a positive. I want somebody who knows what they want out of life and isn\'t afraid to show it.',
+        'Nick Cannon',
     ],
-    '9da71f96-37bf-5502-ae49-dc1bbd7d6ef5' => [
-        'His smile is like the silver plate on a coffin.',
-        'John Philpot Curran',
+    'b8ca37b2-99b3-545c-9415-3da058e0c0a5' => [
+        'Less make-up is better, and it\'s always better to let your natural beauty shine. Essentially, be happy with your appearance.',
+        'Park Shin-hye',
     ],
-    'f6215fd7-a0d1-56d2-abc0-28198b45b2a3' => [
-        'Food, love, career, and mothers, the four major guilt groups.',
-        'Cathy Guisewite',
+    '263c0cfd-5fba-58d8-ab98-97c9415687c8' => [
+        'Just remember, you can\'t climb the ladder of success with your hands in your pockets.',
+        'Arnold Schwarzenegger',
     ],
-    '3f42c764-93e9-58e3-8507-9df5c31f865a' => [
-        'You have to trust in something - your gut, destiny, life, karma, whatever.This approach has never let me down.',
-        'Steve Jobs',
+    'e9213887-9806-5744-8880-5833b2c6e9eb' => [
+        'I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.',
+        'Roger Tory Peterson',
     ],
-    'd1b595cc-cfa0-5136-9af1-a11941e73885' => [
-        'You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.',
-        'Naguib Mahfouz',
+    '7727c364-b931-5068-ab68-18ba7410d0c2' => [
+        'Of course I used to smile and laugh in 1976, but not when I was competing. Please show me somebody who laughs when they are concentrating; I always smiled.',
+        'Nadia Comaneci',
     ],
-    'b4273db2-6c5f-54d2-8bad-3d5611d029e2' => [
-        'The winner ain\'t the one with the fastest car it\'s the one who refuses to lose.',
-        'Dale Earnhardt',
+    '40aaf322-a27e-521d-90c1-487233bebb95' => [
+        'In truth, I am a single mother. But I don\'t feel alone at all in parenting my daughter. Krishna has a whole other side of her family who loves her, too. And so Krishna is parented by me, but also by her grandmother and aunts and cousins and uncles and friends.',
+        'Padma Lakshmi',
     ],
-    '91eb4cbb-f1bd-5a6a-81a1-509fe8c1a65a' => [
-        'The traveller has reached the end of the journey!',
-        'Edmund Burke',
+    '5dc015bd-ee3f-56fd-9ccb-5d1d343edb70' => [
+        'Before \'Gangnam Style\' I was not a good attitude artist.',
+        'Psy',
     ],
-    'd488ce1f-908f-5a7e-bb92-f99cf5e48d8a' => [
-        'I don\'t want to miss out on the chance of having a good time.',
-        'Victor Webster',
+    '655214d3-10af-552d-9d78-3a1c9f21d5d7' => [
+        'It\'s harder to be a success, globally, and be artistic. Harder to have that balance than just to be artistic when nobody understands you.',
+        'Andre Benjamin',
     ],
-    'f8ef62de-1fb0-5186-bc73-3d58ade7eb77' => [
-        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
-        'Edward James Olmos',
+    '2add02d2-3fa4-5004-93c8-43f8e19174e8' => [
+        'The minute you settle for less than you deserve, you get even less than you settled for.',
+        'Maureen Dowd',
     ],
-    'b02456ba-a36a-56bc-8b5d-d90cfe66f970' => [
-        'Having haters is just a part of the business, and the more haters you have, the more people like you - that\'s how I view it, because I try to see the positive in things.',
-        'Nick Jonas',
+    '9302c674-ad15-5c00-8370-451af322b759' => [
+        'Tommie Aaron taught me how to have a good attitude, to be easy going and not get uptight.',
+        'Dale Murphy',
     ],
-    '57931d00-6cb0-5063-8048-43fba79d3391' => [
-        'Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.',
-        'Colin Powell',
+    '42eed0d1-35f2-5f61-8ee4-8135f19d136c' => [
+        'Covetousness is both the beginning and the end of the devil\'s alphabet - the first vice in corrupt nature that moves, and the last which dies.',
+        'Michel de Montaigne',
     ],
-    '51f058c6-558d-566e-ba9a-e12f68bd1e4e' => [
-        'If interstellar travel is as time- or energy- demanding as the above figures indicate, it is far from obvious what the motive for colonization might be.',
-        'Barney Oliver',
+    '8fc4aafe-62aa-5cab-93b9-265a17c87872' => [
+        'The real sin against life is to abuse and destroy beauty, even one\'s own even more, one\'s own, for that has been put in our care and we are responsible for its well-being.',
+        'Katherine Anne Porter',
     ],
-    'e02b2783-db09-5b78-bd87-f727c29fda53' => [
-        'The policeman must be a minister, a social worker, a diplomat, a tough guy, and a gentleman. And, of course, he\'d have to be a genius... For he will have to feed a family on a policeman\'s salary.',
-        'Paul Harvey',
+    '5bc9a400-ae12-545f-9aa5-158d7e11d0ae' => [
+        'Hence, within the space of two generations there has been a complete revolution in the attitude of the trades-unions toward the women working in their trades.',
+        'Florence Kelley',
     ],
-    'ce7e6e94-b826-5cbe-a7c1-e0f49141d403' => [
-        'I\'m a huge reggae fan. I want to go to Jamaica and make, like, Bob Marley \'One Love\' positive songs. That\'s what the world needs.',
-        'Jenny Lewis',
+    '597c6ee8-1ee3-537a-9fd8-ec8ffccd8afc' => [
+        'Believe that you can do it cause you can do it.',
+        'Bob Ross',
     ],
-    '3932b230-c079-54aa-b3e3-2c10b707c4e4' => [
-        'I\'ve got a pretty iconoclastic attitude about all institutions myself. And I just think the church was corrupted right after Christ was killed.',
-        'Harry Dean Stanton',
+    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
+        'There is always room at the top.',
+        'Daniel Webster',
     ],
-    'f0b13861-a25d-5c31-9100-fc2671f34bac' => [
-        'The measure of success is happiness and peace of mind.',
-        'Bobby Davro',
+    'f7a51691-cb37-563f-8b56-d278feca5a03' => [
+        'The greatest pleasure of life is love.',
+        'Shailene Woodley',
     ],
-    '81f10fec-c42b-5d32-88e1-e92a79f90160' => [
-        'Everyone is looking for the hack, the secret to success without hard work.',
-        'Sam Altman',
+    '043446c9-4e6a-563e-913b-a8080ccefdfd' => [
+        'I think a lot of stuff I find funny is from day dreaming.',
+        'Demetri Martin',
     ],
-    'f9b362bb-4dc8-5b7c-be6b-3b5b1cf3a26d' => [
-        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
-        'Eliot Spitzer',
+    'b3413924-dad0-59cf-b4d9-db88c056781f' => [
+        'What matters to me is that I do what I think is right and I see, I\'m a numbers guy, that\'s my attitude. I know we have a debt tsunami coming, we are bankrupting this country and I\'m in a position where I can actually advance ideas to prevent that from happening. That\'s exactly what I should be doing.',
+        'Paul Ryan',
     ],
-    'f8b43538-bbbe-5f2b-a8d7-8ec8e856c275' => [
-        'There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed.',
-        'Ray Goforth',
+    '13bf6740-7f64-58df-952d-ec639c3b515b' => [
+        'What I believe unites the people of this nation, regardless of race or region or party, young or old, rich or poor, is the simple, profound belief in opportunity for all - the notion that if you work hard and take responsibility, you can get ahead.',
+        'Barack Obama',
     ],
-    '5475b16a-ad2e-5334-9d00-fd0e3a926455' => [
-        'I have long recognized a link between fitness and mental health and I think we need to encourage young people to take part in sports and team activities because we know it has such positive results.',
-        'Tipper Gore',
+    'ed0fa02f-6fe9-5d13-a068-8f6d3a95a8ca' => [
+        'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
+        "Henri-Fr\u{e9}d\u{e9}ric Amiel",
     ],
-    'f11a0d67-9ec5-54ea-867d-61c85af05fc0' => [
-        'I just wanted to be a businessman, and to me, the best way to understand business was to be an accountant.',
-        'Aubrey McClendon',
+    'd9d115c3-5dcf-5dea-86c4-f71bbaf80a45' => [
+        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
+        'Barry Sanders',
     ],
-    '4added2e-3034-52ed-b312-3c8218ca8681' => [
-        'I had to come from something, come from a place that was negative and positive but the majority of it is a negative place.',
-        'Kendrick Lamar',
+    'c6179fd3-4aa5-5a7f-82d0-42552d27e90a' => [
+        'When I was a boy the Dead Sea was only sick.',
+        'George Burns',
     ],
-    '0862e9b4-483f-52e5-b919-4fe0d19b30e0' => [
-        'I\'m a huge sun baby. As soon as the sun comes out, my smile gets bigger, so I\'m constantly smiling in L.A. It\'s a fantastic place to be.',
-        'Ricky Whittle',
+    '8df79f21-f18b-57d3-8154-f215c920f596' => [
+        'Getting sober just exploded my life. Now I have a much clearer sense of myself and what I can and can\'t do. I am more successful than I have ever been. I feel very positive where I never did before, and I think that\'s all a direct result of getting sober.',
+        'Jamie Lee Curtis',
     ],
-    '3954670f-0504-560d-8428-c544aae26285' => [
-        'I have a political attitude, but I\'m certainly not a politician.',
-        'Kgalema Motlanthe',
+    'a84490fb-623c-50c2-8845-a857efcfcd1c' => [
+        'Canada was built around a very simple premise. A promise that you can work hard and succeed and build a future for yourselves and your kids, and that future for your kids would be better than the one you had.',
+        'Justin Trudeau',
+    ],
+    'cd0498c6-c690-59a9-a489-38c961af2087' => [
+        'Time travel and teleportation will have to wait. It may take centuries to master these technology. But within the coming decades, we will understand dark matter, perhaps test string theory, find planets which can harbor life, and maybe have Brain 2.0, i.e. our consciousness on a disk which will survive even after we die.',
+        'Michio Kaku',
+    ],
+    'c91d1b03-ed91-588b-a353-b0119a3fe151' => [
+        'Desire is the most important factor in the success of any athlete.',
+        'Bill Shoemaker',
+    ],
+    '84e7d053-c332-53f3-8bed-97300d65d894' => [
+        'When I say that human beings are just gene machines, one shouldn\'t put too much emphasis on the word \'just.\' There is a very great deal of complication, and indeed beauty in being a gene machine.',
+        'Richard Dawkins',
+    ],
+    '2f6c62fb-653e-5ad4-9f96-9ec4f75ab4df' => [
+        'It always seems impossible until it\'s done.',
+        'Nelson Mandela',
+    ],
+    '4c19b6fa-002f-5e40-8f58-c10476a33a1f' => [
+        'Brand is not a product, that\'s for sure; it\'s not one item. It\'s an idea, it\'s a theory, it\'s a meaning, it\'s how you carry yourself. It\'s aspirational, it\'s inspirational.',
+        'Kevin Plank',
+    ],
+    '82e59777-93d7-5622-9d05-c782666331fe' => [
+        'Do, or do not. There is no try.',
+        'Yoda',
+    ],
+    'c538264d-ae54-56b3-9205-4bfc94971bee' => [
+        'Don\'t be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes.',
+        'Camille Pissarro',
+    ],
+    'bdb4425e-f52d-507a-99e4-4b2ba3cbc0c7' => [
+        'The very nature of finance is that it cannot be profitable unless it is significantly leveraged... and as long as there is debt, there can be failure and contagion.',
+        'Alan Greenspan',
     ],
 ];

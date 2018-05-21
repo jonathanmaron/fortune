@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '34a74e5c-f29a-5b86-9edd-57c121053768' => [
-        'The way to Heaven is ascending; we must be content to travel uphill, though it be hard and tiresome, and contrary to the natural bias of our flesh.',
-        'Jonathan Edwards',
+    '61f6785e-fdb8-55b5-a8e2-c81e8b5225a7' => [
+        'Anyone who says they\'re not afraid at the time of a hurricane is either a fool or a liar, or a little bit of both.',
+        'Anderson Cooper',
     ],
-    '1b8e6f8e-c15b-5752-8674-ae52a132663b' => [
-        'Times and conditions change so rapidly that we must keep our aim constantly focused on the future.',
-        'Walt Disney',
+    '4f2c7f46-0090-5daa-bbbc-03f7ce4ec923' => [
+        'My progress was rendered delightful by the sylvan elegance of the groves, chearful meadows, and high distant forests, which in grand order presented themselves to view.',
+        'William Bartram',
     ],
-    '3bc5073e-7a85-5cfb-b277-bb829198ff6d' => [
-        'I have great respect for the men and women that have fought for this country. I have family, I have friends that have gone and fought for this country. And they fight for freedom, they fight for the people, they fight for liberty and justice, for everyone.',
-        'Colin Kaepernick',
+    '508e7ea7-eea1-5224-9fa2-ee0afa0a22ce' => [
+        'The workingmen have perceived that women are in the field of industry to stay; and they see, too, that there can not be two standards of work and wages for any trade without constant menace to the higher standard.',
+        'Florence Kelley',
     ],
-    'f42d4d0c-7622-560f-acc5-11c1faa708bd' => [
-        'Good Deeds Day is based on a simple idea that every person can do a good deed for the benefit of others and the planet. Even a smile that brightens someone else\'s day is a good deed. I initiated Good Deeds Day to spread the message that everyone can give of themselves, according to their heart\'s desire.',
-        'Shari Arison',
+    '0a2c3bd6-2b53-58c6-ac1f-de4b2370484d' => [
+        'The last time I saw him he was walking down lover\'s lane holding his own hand.',
+        'Fred Allen',
     ],
-    'cddf271c-54ed-5645-bc8f-90f97c872dac' => [
-        'Negligence is the rust of the soul, that corrodes through all her best resolves.',
-        'Owen Feltham',
+    '78b35a32-0325-594b-b461-5f068a86114d' => [
+        'Working with Julie Andrews is like getting hit over the head with a valentine.',
+        'Christopher Plummer',
     ],
-    '43e4363f-c6dd-5289-9688-8145568d4d09' => [
-        'They say that time changes things, but you actually have to change them yourself.',
-        'Andy Warhol',
+    'b67857f4-98a2-5b47-8161-ddce4b4a85b6' => [
+        'The best way to travel abroad is to live with the locals.',
+        'Zach Braff',
     ],
-    'bac8b2f6-4671-5060-9e10-0b65b901c510' => [
-        'What people don\'t understand is joining a gang ain\'t bad, it\'s cool, it\'s fine. When you in the hood, joining a gang it\'s cool because all your friends are in the gang, all your family\'s in the gang. We\'re not just killing people every night, we\'re just hanging out, having a good time.',
-        'Snoop Dogg',
+    '22467cb5-1fe8-5d1f-9825-b6db942fd643' => [
+        'I believe that life is short, and there is too much time wasted bearing grudges, and I like to move on.',
+        'Sam Taylor-Johnson',
     ],
-    '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
-        'In three words I can sum up everything I\'ve learned about life: it goes on.',
-        'Philip Sidney',
+    'd5323d7f-ece2-515a-af06-797a5b17121e' => [
+        'Today it is time for every child to have a right to life, right to freedom, right to health, right to education, safety, the right to dignity, right to equality, and right to peace.',
+        'Kailash Satyarthi',
     ],
-    '638a7c4f-6c81-522a-b6bc-30ef93c3065f' => [
-        'Strength does not come from winning. Your struggles develop your strengths.',
-        'Arnold Schwarzenegger',
+    '15903e21-e9e6-5c23-b452-202ab6ec8cb6' => [
+        'Success or failure depends more upon attitude than upon capacity successful men act as though they have accomplished or are enjoying something. Soon it becomes a reality. Act, look, feel successful, conduct yourself accordingly, and you will be amazed at the positive results.',
+        'William James',
     ],
-    '45a4875c-682e-5783-9fe5-e0dc746a2165' => [
-        'It has been my observation that most people get ahead during the time that others waste.',
-        'Henry Ford',
+    '7f70d715-8f68-5503-8c9a-2468b13ae213' => [
+        'Traveling, you realize that differences are lost: each city takes to resembling all cities, places exchange their form, order, distances, a shapeless dust cloud invades the continents.',
+        'Italo Calvino',
     ],
-    '847a803d-96f3-50f4-9a9c-20d9f9412384' => [
-        'Happiness is having a large, loving, caring, close-knit family in another city.',
-        'George Burns',
+    '2d29e7b2-17c3-5449-9621-f955d4d61658' => [
+        'Gotta stay in the gym, stay funny, stay sharp. I just love working.',
+        'Marlon Wayans',
     ],
-    '2b9c5edd-77e2-595b-b1aa-33b59998f967' => [
-        'In order to win, you must expect to win.',
-        'Richard Bach',
-    ],
-    '2efbca63-0800-51ba-b357-189988618f02' => [
-        'Coming together is a beginning; keeping together is progress; working together is success.',
-        'Henry Ford',
-    ],
-    '955936bc-5be1-56ac-b36e-96a36eb31cf4' => [
-        'I am just happy to be part of the Nike family.',
-        'LeBron James',
-    ],
-    '020142bd-1381-5534-a8c8-e4d47153490d' => [
-        'I accidentally entered a youth pageant when I was 14. That\'s like a beauty pageant, but without the beauty. It was terrible.',
-        'Zooey Deschanel',
-    ],
-    '5ea80afb-94d1-5604-b426-4f5eaa9d4b98' => [
-        'My brother is my best friend.',
-        'Erinn Smart',
-    ],
-    '8762ed97-9a5b-5115-82e6-09a6cbf887f8' => [
-        'Whenever I gaze up at the moon, I feel like I\'m on a time machine. I am back to that precious pinpoint of time, standing on the foreboding - yet beautiful - Sea of Tranquility. I could see our shining blue planet Earth poised in the darkness of space.',
-        'Buzz Aldrin',
-    ],
-    '935050b3-a1ec-5734-8c4d-4bf54bf0a6cf' => [
-        'I made myself famous by writing \'songs\' and lyrics about the beauty of the things I did and ugliness, too.',
-        'Jack Kerouac',
-    ],
-    '9ce18e8c-edf1-538a-b0d3-281e0e8230fa' => [
-        'Festivals are fun for kids, fun for parents and offer a welcome break from the stresses of the nuclear family. The sheer quantities of people make life easier: loads of adults for the adults to talk to and loads of kids for the kids to play with.',
-        'Tom Hodgkinson',
-    ],
-    'ac46a802-c3a2-52a8-9f65-b806085fbf0e' => [
-        'Jazz music is America\'s past and its potential, summed up and sanctified and accessible to anybody who learns to listen to, feel, and understand it. The music can connect us to our earlier selves and to our better selves-to-come. It can remind us of where we fit on the time line of human achievement, an ultimate value of art.',
-        'Wynton Marsalis',
-    ],
-    '9770703c-ef57-52e1-8527-711ece152d9e' => [
-        'It takes both courage and talent to stand up in front of fellow human beings and make them crack a smile, and at the same time keep it clean.',
-        'Ray Comfort',
-    ],
-    'b652a349-a13c-5e99-a09d-62a1be3443e3' => [
-        'Anything in any way beautiful derives its beauty from itself and asks nothing beyond itself. Praise is no part of it, for nothing is made worse or better by praise.',
-        'Marcus Aurelius',
-    ],
-    '6e0f97c4-3b95-561b-836b-e5d087c39f00' => [
-        'The fame of heroes owes little to the extent of their conquests and all to the success of the tributes paid to them.',
-        'Jean Genet',
-    ],
-    '1e3af9e2-2a56-56b1-aa1e-229ef17cdedd' => [
-        'In the first six to twelve months of a war with the United States and Great Britain I will run wild and win victory upon victory. But then, if the war continues after that, I have no expectation of success.',
-        'Isoroku Yamamoto',
-    ],
-    'ee2f44d6-5f48-55a2-abaf-60f6ec8eb467' => [
-        'Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.',
-        'Unknown',
-    ],
-    '63d00100-4d00-5fe3-88dd-19993ba748a8' => [
-        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
-        'Anne Morrow Lindbergh',
-    ],
-    'ac23744a-62b4-5978-b0b4-d918b3994061' => [
-        'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
-        'David Brinkley',
-    ],
-    '0f8016be-2659-5711-b7aa-852bc29033a9' => [
-        'The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you\'re free.',
-        'Ray Manzarek',
-    ],
-    '1cfd708d-d038-5b28-b9e6-a8099fbd72fd' => [
-        'As we grow as unique persons, we learn to respect the uniqueness of others.',
-        'Robert Schuller',
-    ],
-    '2fe2362e-2abf-57ec-b01f-78f31c449315' => [
-        'Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.',
-        'Franz Kafka',
-    ],
-    '6ebcdde1-5d77-56f3-a2ef-d5f6346fba22' => [
-        'Ours is the century of enforced travel of disappearances. The century of people helplessly seeing others, who were close to them, disappear over the horizon.',
-        'John Berger',
-    ],
-    '56e11f70-393b-5834-8ae5-e075efb368d5' => [
-        'Push yourself because no one else is going to do it for you.',
-        'Unknown',
-    ],
-    '9080c340-1016-5146-806a-711bb8d29c59' => [
-        'It is your work in life that is the ultimate seduction.',
-        'Pablo Picasso',
-    ],
-    '5d2378fa-8a0e-5486-892b-72be5c79f7bc' => [
-        'Life has no limitations, except the ones you make.',
-        'Christina Milian',
-    ],
-    'ed6dd0f7-7466-507f-925f-4c7757abef44' => [
-        'Our many different cultures notwithstanding, there\'s something about the holidays that makes the planet communal. Even nations that do not celebrate Christmas can\'t help but be caught up in the collective spirit of their neighbors, as twinkling lights dot the landscape and carols fill the air. It\'s an inspiring time of the year.',
-        'Marlo Thomas',
-    ],
-    '0f2a71b1-29a9-5296-af55-1ad83ae27e60' => [
-        'He conquers who endures.',
-        'Persius',
-    ],
-    'edd2ce2c-ee76-5962-97c9-5f8919f6b0be' => [
-        'Without social cohesion, the human race wouldn\'t be here: We\'re not formidable enough to survive without the tactics, rules and strategies that allow people to work together.',
-        'Peter Guber',
-    ],
-    'ab443b40-5ab7-599b-aa66-a44d5ee7fc8d' => [
-        'I believe that the greatest gift you can give your family and the world is a healthy you.',
-        'Joyce Meyer',
-    ],
-    '518ffde9-f89a-596d-aa58-1955448649c0' => [
-        'Live as if you were living a second time, and as though you had acted wrongly the first time.',
-        'Viktor E. Frankl',
-    ],
-    'a245f512-cc33-5958-acbb-6f4346d5689d' => [
-        'I\'m working myself to death.',
-        'Alan Ladd',
-    ],
-    '96f908fc-0ea8-58fc-888d-c8289e93733d' => [
-        'Occurrences in this domain are beyond the reach of exact prediction because of the variety of factors in operation, not because of any lack of order in nature.',
+    '31855548-d6aa-55c4-8424-2bed3974f4a4' => [
+        'Each life is made up of mistakes and learning, waiting and growing, practicing patience and being persistent.',
         'Albert Einstein',
     ],
-    'e7164648-a6b7-51d3-94b1-f1c8f8cb36f8' => [
-        'The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.',
-        'Helen Keller',
+    'a8d98027-ef0c-58f8-9c13-c76e3006fc52' => [
+        'The whole secret of a successful life is to find out what is one\'s destiny to do, and then do it.',
+        'Henry Ford',
     ],
-    '9c99d5a9-6bc9-5976-b238-4edcae8e6908' => [
-        'When I was a kid I used to pray every night for a new bicycle. Then I realised that the Lord doesn\'t work that way so I stole one and asked Him to forgive me.',
-        'Emo Philips',
+    'ec6db5ce-39a1-5428-8948-fd215f32c7b9' => [
+        'Competence, like truth, beauty, and contact lenses, is in the eye of the beholder.',
+        'Laurence J. Peter',
     ],
-    'ef8b1d73-d873-562c-ba30-038ce236f08e' => [
-        'My mother is a big believer in being responsible for your own happiness. She always talked about finding joy in small moments and insisted that we stop and take in the beauty of an ordinary day. When I stop the car to make my kids really see a sunset, I hear my mother\'s voice and smile.',
-        'Jennifer Garner',
+    'b1c48f94-98fe-5a8b-b24d-e071ea1093e3' => [
+        'There are no lines in nature, only areas of colour, one against another.',
+        'Edouard Manet',
     ],
-    '5b9d847c-6b4a-5315-a6bb-d21dbbbb706d' => [
-        'You will never win if you never begin.',
-        'Helen Rowland',
+    'e29b6653-3cdb-5be6-96db-de7eebe99113' => [
+        'Be thankful when you don\'t know something for it gives you the opportunity to learn.',
+        'Unknown',
     ],
-    '7b24bcab-e2d6-5f29-9e1d-2c463674ef51' => [
-        'We depend on our rivers and dams for energy, transportation, irrigation and recreation and I will continue this year to fight for what\'s best for the Pacific Northwest.',
-        'Cathy McMorris Rodgers',
+    '87257c54-eabc-5795-ae09-dd8860f6ce4d' => [
+        'Success for me its to raise happy, healthy human beings.',
+        'Kelly LeBrock',
     ],
-    '29656dfc-dd3a-5fb9-b52e-07b7f05cb860' => [
-        'I retire with a smile on my face, in good health, and ready to spend autumns at my kids\' games instead of my own. I\'m excited to start the next chapter of my life.',
-        'Drew Bledsoe',
+    '7622fcd2-2478-5b40-b28f-ac1e2ed7c374' => [
+        'Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.',
+        'Winston Churchill',
     ],
-    '1856def2-2989-5b18-aa7c-1cab6567adc3' => [
-        'Let the refining and improving of your own life keep you so busy that you have little time to criticize others.',
-        'H. Jackson Brown, Jr.',
+    '2c263bf3-6f03-5944-b8af-30b13178511b' => [
+        'The only guaranteed way to make something not very funny is to make it vague.',
+        'Thomas Lennon',
     ],
-    'cf1cbb91-ccc4-5f28-9b9d-7104bd0a59f7' => [
-        'We all have life storms, and when we get the rough times and we recover from them, we should celebrate that we got through it. No matter how bad it may seem, there\'s always something beautiful that you can find.',
-        'Walter Payton',
+    'd403bf7d-ca2a-564e-b47e-ec40eb46cf68' => [
+        'I don\'t care how handsome or fabulous or funny the groom is, or how sweet and accommodating the bride, or vice versa. Marriage is hard.',
+        'Jenna McCarthy',
     ],
-    '249174a0-1d0d-5a0f-afd4-7e47bd9231f8' => [
-        'Is it right to probe so deeply into Nature\'s secrets? The question must here be raised whether it will benefit mankind, or whether the knowledge will be harmful.',
-        'Pierre Curie',
+    'ab7d2176-a231-5fb8-bfcf-a24b856b6017' => [
+        'Women are, in my view, natural peacemakers. As givers and nurturers of life, through their focus on human relationships and their engagement with the demanding work of raising children and protecting family life, they develop a deep sense of empathy that cuts through to underlying human realities.',
+        'Daisaku Ikeda',
+    ],
+    '76c758fc-f757-5dae-ba3e-830042f1dd51' => [
+        'See the positive side, the potential, and make an effort.',
+        'Dalai Lama',
+    ],
+    '65dbf8a3-c9fc-5d9d-bc5b-faa0d4aa31b4' => [
+        'The only thing wrong with immortality is that it tends to go on forever.',
+        'Herb Caen',
+    ],
+    '714da0eb-06a5-52e8-8502-c233a2b9dced' => [
+        'I had everything I\'d hoped for, but I wasn\'t being myself. So I decided to be honest about who I was. It was strange: The people who loved me for being funny suddenly didn\'t like me for being... me.',
+        'Ellen DeGeneres',
+    ],
+    'd33ea448-c379-5308-b338-55be684f1bfb' => [
+        'I don\'t want to waste anyone\'s time or money. I want to give people some truth and positive heart lift.',
+        'Mos Def',
+    ],
+    '004acea7-244b-576c-b99b-94d2bb75701e' => [
+        'Surround yourself with the best people you can find, delegate authority, and don\'t interfere as long as the policy you\'ve decided upon is being carried out.',
+        'Ronald Reagan',
+    ],
+    '658f8cf8-35dd-51d4-a910-1d2c8ba9a553' => [
+        'I\'m looking for the best person irregardless of political party, of race or religion, or color of their skin. Those things don\'t matter to me. I want someone who\'s qualified, who has a qualification to character and the integrity to do the things that have to be done to save this world.',
+        'Edward Brooke',
+    ],
+    'f414a3fc-7b02-5b53-b6c5-4732788325da' => [
+        'On earth there is no heaven, but there are pieces of it.',
+        'Jules Renard',
+    ],
+    'bcaef577-3c47-509f-8ec2-9f1eb4abec63' => [
+        'If you go to work on your goals, your goals will go to work on you. If you go to work on your plan, your plan will go to work on you. Whatever good things we build end up building us.',
+        'Jim Rohn',
+    ],
+    '15c9d1f3-60a2-5b43-b61b-ad416b54b4aa' => [
+        'Things turn out best for the people who make the best of the way things turn out.',
+        'John Wooden',
+    ],
+    '0e4c1cfe-af3f-5eb7-bdc5-3572e3a1907e' => [
+        'Learn from me, if not by my precepts, then by my example, how dangerous is the pursuit of knowledge and how much happier is that man who believes his native town to be the world than he who aspires to be greater than his nature will allow.',
+        'Mary Wollstonecraft',
+    ],
+    '5cad1400-67ed-550e-9d4a-502ba5bf0340' => [
+        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
+        'Yoko Ono',
+    ],
+    'b8409c4e-4016-531a-98df-e091af1bd8ea' => [
+        'If you put off everything till you\'re sure of it, you\'ll never get anything done.',
+        'Norman Vincent Peale',
+    ],
+    '6d0ce6fe-3b8d-5e14-a68a-616cc4357a10' => [
+        'I always like to arrive at the airport early to enjoy breakfast and lounge about so that when I get on the plane all my travel fever has disappeared.',
+        'Julian Fellowes',
+    ],
+    '17efa961-9cf5-531e-aa1a-1a8e069d60dd' => [
+        'I think the attitude I was trying to learn myself was to really try hard, to give a great effort, to really care, and to let the results go where they are going to go. But at the same time, I don\'t have to be happy, and I shouldn\'t be happy, with less than my best.',
+        'Tom Lehman',
+    ],
+    '557b7932-b93d-53d4-b76a-b61e718c1922' => [
+        'Pay attention to the beauty surrounding you.',
+        'Anne Lamott',
+    ],
+    'c7dd305d-474f-58aa-974a-5faa6f49fea5' => [
+        'I always like a woman in power in politics. I think they\'re pretty inspirational in terms of looks to begin with. It\'s very calculated.',
+        'Chris Benz',
+    ],
+    'b7e6565a-047a-5ab5-9402-a0bc268956af' => [
+        'Flaming enthusiasm, backed up by horse sense and persistence, is the quality that most frequently makes for success.',
+        'Dale Carnegie',
+    ],
+    'b6269d00-588b-5037-be97-d3c65d0aca4c' => [
+        'I\'m having a great time. It\'s like I\'m on some ridiculous big roller coaster not knowing what\'s happening next, but just having a great time on the ride.',
+        'Samantha Mumba',
+    ],
+    'a219dff2-41ba-5c20-98d7-dc79e1008b34' => [
+        'I\'m a great believer in luck and I find the harder I work, the more I have of it.',
+        'Thomas Jefferson',
+    ],
+    '3987fc7b-4279-59af-a9ea-7ec9170e6669' => [
+        'Transformation doesn\'t take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.',
+        'Byron Pulsifer',
+    ],
+    'b0f9ac80-5a20-5f2b-975c-26a26de3a440' => [
+        'History is the only true teacher, the revolution the best school for the proletariat.',
+        'Rosa Luxemburg',
+    ],
+    '5826ff09-71f4-52b5-a0fe-7e02294d76d0' => [
+        'I found it interesting that as people become more technically oriented all over the world, at the same time people are becoming increasingly spiritual. The success of the Da Vinci code - even though it was a great yawn - also showed people\'s interest in religion.',
+        'Barbara Walters',
+    ],
+    '3fa49c7f-453c-5da2-a9b1-fb35dad28095' => [
+        'To climb steep hills requires a slow pace at first.',
+        'William Shakespeare',
+    ],
+    '53aebffa-d6dc-5cf4-9a2f-31efc848aa87' => [
+        'To me, the world\'s rather beautiful if you look at it. Especially nature.',
+        'David Hockney',
+    ],
+    '624b2acf-0dd8-5587-88b5-5adbd945b1e2' => [
+        'The less effort, the faster and more powerful you will be.',
+        'Bruce Lee',
+    ],
+    '70682c04-689d-57e9-9075-bc575506afe3' => [
+        'A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.',
+        'Mary Kay Ash',
+    ],
+    '2c4b62f0-0978-5167-8071-93dc22f074eb' => [
+        'The people who influence you are the people who believe in you.',
+        'Henry Drummond',
+    ],
+    '969faf40-c12e-5b49-9f3c-ce4400609e1d' => [
+        'Best thing that\'s happened this year? Maybe Hostel. It was a great experience. I loved it.',
+        'Jay Hernandez',
+    ],
+    'dcab1f2f-4a33-5fa2-9ee4-f2ca30083592' => [
+        'Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns.',
+        'Gary Hamel',
     ],
 ];

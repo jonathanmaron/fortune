@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '2879002b-0f6d-5465-b422-6af9505cd75a' => [
-        'It\'s a funny thing about life; if you refuse to accept anything but the best, you very often get it.',
-        'W. Somerset Maugham',
+    '2c6d99ad-4675-5501-916e-a27e83c0f5e6' => [
+        'Winning is fun, but those moments that you can touch someone\'s life in a very positive way are better.',
+        'Tim Howard',
     ],
-    '5123633d-61d5-5c54-82ba-4eeb6c09ef57' => [
-        'People often expect me to be very serious, but it\'s not like my record company told me not to smile in photographs, because I was like that anyway.',
-        'Jose Gonzalez',
+    '0d453b5a-2214-595a-be81-54d82a25efe1' => [
+        'Happiness is not something you postpone for the future; it is something you design for the present.',
+        'Jim Rohn',
     ],
-    'ec81c2c0-2acd-538a-aecb-1d4c2e25e689' => [
-        'I am I plus my circumstances.',
-        'Kim Kardashian',
+    '4b9563c3-1738-56d4-8953-73f8601259eb' => [
+        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
+        'Patty Duke',
     ],
-    '4f41aed7-4cf9-5eab-b8e9-fdcf22663286' => [
-        'My mother graduated from high school at 15 and went to work to support the family because the eldest son went to college.',
-        'Ruth Bader Ginsburg',
+    'b3e3e48d-d0b7-59ba-a956-c85b4305f87b' => [
+        'What I wish I had, is that I wish I was a little more Greek, in that I wish I could lose my North American driven attitude and that I could be a little bit more poetic and laissez faire.',
+        'Nia Vardalos',
     ],
-    'bfbfbea1-ad21-52aa-aefa-51c5c09f33b5' => [
-        'I think Dr. King, if he were alive today, he wouldn\'t disrespect the flag or the anthem; he would use his words and his voice to send a message for positive change.',
-        'Kimberly Guilfoyle',
+    'e3c141a0-392e-5e31-92ba-a357209d3fd7' => [
+        'An arrogant person considers himself perfect. This is the chief harm of arrogance. It interferes with a person\'s main task in life - becoming a better person.',
+        'Ernest Holmes',
     ],
-    '58c2f974-0b93-53e8-b59d-e3e3738590c2' => [
-        'Christmas is far and away my favorite holiday. I love everything about it, from the event that inspired it, hoping for a white one, to wrapping presents. But mostly I love having family and friends gathered, and sharing traditions.',
-        'Ellen Hopkins',
+    '743b4e59-e8cd-5073-83dd-41713f65042e' => [
+        'The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with.',
+        'Sammy Davis, Jr.',
     ],
-    '07e92070-e6d8-57a5-88a1-c4133e6cb22c' => [
-        'Smiling is definitely one of the best beauty remedies. If you have a good sense of humor and a good approach to life, that\'s beautiful.',
-        'Rashida Jones',
+    'c955d477-8b9d-515f-ba59-3f63e8df3a06' => [
+        'Personal satisfaction is the most important ingredient of success.',
+        'Denis Waitley',
     ],
-    '8de9a066-ceee-5735-a3d1-a8fb98f9470f' => [
-        'One study found that people who smile in childhood photographs are less likely to get a divorce.',
-        'Jenna McCarthy',
+    '77560598-b2c9-5e0b-a0e9-c3970b060f2e' => [
+        'Don\'t waste time on jealousy. Sometimes you\'re ahead, sometimes you\'re behind.',
+        'Mary Schmich',
     ],
-    'ef305460-9ec5-51f6-afb9-8bcc9953086b' => [
-        'It is not the years in your life but the life in your years that counts.',
-        'Malala Yousafzai',
+    '888bcce3-29e4-52f9-8e85-338ccecc7598' => [
+        'You, Eternal Trinity, are my Creator, and I am the work of Your hands, and I know through the new creation which You have given me in the blood of Your Son, that You are enamored of the beauty of Your workmanship.',
+        'Catherine of Siena',
     ],
-    '8f22fdc9-dec1-5875-bbd3-48a5c9ad1444' => [
-        'I\'m not trying to win an award for being the best vegetarian, just want to be healthy. Take a salt bath. Do things that my parents were never able to do. I\'m blessed to do anything I want, so I decide to take the best care of my body and my family in the same way. Holistically. Vitally.',
-        'Erykah Badu',
+    '1a440dc4-37a5-5eaa-b4a4-b708950467b7' => [
+        'Sometimes Queens\' music is dark, but somehow it\'s ok to deliver it with a smile on your face because thing\'s are still going to kick in.',
+        'Josh Homme',
     ],
-    'c42fc641-e478-59eb-b760-741ca14fdd63' => [
-        'Death is pitch-dark, but colors are light. To be a painter, one must work with rays of light.',
-        'Edvard Munch',
+    'b64fa004-8af0-5aaa-86b7-3fa9708f6943' => [
+        'Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.',
+        'Norman Vincent Peale',
     ],
-    '937dd6cc-fd14-5580-be0f-9b4f471c519b' => [
-        'Food is an important part of a balanced diet.',
-        'Fran Lebowitz',
+    '2f268bdb-5209-5ac5-9b32-1a20387b5801' => [
+        'My wife was the first romantic partner who understood both American and native parts of me - not so much the positive stuff, but the damage.',
+        'Sherman Alexie',
     ],
-    'c0c7597a-ef3a-573c-81fc-608e969e3ab5' => [
-        'The learner always begins by finding fault, but the scholar sees the positive merit in everything.',
-        'Georg Wilhelm Friedrich Hegel',
-    ],
-    '2f2d7d13-fca7-5c80-b4f8-718e8b3c4bd1' => [
-        'Hard work keeps the wrinkles out of the mind and spirit.',
-        'Helena Rubinstein',
-    ],
-    'bc8ba2d2-9e2b-52d3-a430-56482222d307' => [
-        'Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.',
-        'Bob Proctor',
-    ],
-    '85ad8a48-1241-535a-be8c-0f7c73e9e645' => [
-        'Sometimes we let life guide us, and other times we take life by the horns. But one thing is for sure: no matter how organized we are, or how well we plan, we can always expect the unexpected.',
-        'Jurgen Klopp',
-    ],
-    '00d307cc-9cf6-5359-9ed1-e2eefa8cac1f' => [
-        'The Wright brothers flew right through the smoke screen of impossibility.',
-        'Charles Kettering',
-    ],
-    '39b1390c-5102-50e5-b856-0ca4948a9462' => [
-        'I think it\'s brought the world a lot closer together, and will continue to do that. There are downsides to everything; there are unintended consequences to everything. The most corrosive piece of technology that I\'ve ever seen is called television - but then, again, television, at its best, is magnificent.',
-        'Steve Jobs',
-    ],
-    '01d97159-a5f3-5592-a326-73faaf75260a' => [
-        'Problems are not stop signs, they are guidelines.',
-        'Robert H. Schuller',
-    ],
-    'f866e922-2650-5ca2-b8ae-d7ada0caa01f' => [
-        'Trawl through the world of blogs and tweets, and you will find readers complaining when they stumble upon a word they don\'t recognise, an attitude that doesn\'t accord with their own, a passage of thought they find hard work, a joke they don\'t get or of which they don\'t approve.',
-        'Howard Jacobson',
-    ],
-    '3f8eb13f-c5fb-5160-9c8c-3ef859402f1f' => [
-        'There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.',
-        'Neil deGrasse Tyson',
-    ],
-    '9e62a162-5eb8-51a8-a22f-85707ebe9e44' => [
-        'To forgive is to set a prisoner free and realize that prisoner was you.',
-        'Lewis B. Smedes',
-    ],
-    '64334dd3-e095-5e9d-9ce5-edfc14866ac2' => [
-        'Instead of trying to make your life perfect, give yourself the freedom to make it an adventure, and go ever upward.',
-        'Sophocles',
-    ],
-    '91ec3e7b-38f6-56d1-ba24-5b9eca6b2f60' => [
-        'It\'s inspirational to see someone who is dying smile.',
-        'Arlen Specter',
-    ],
-    'b627c718-24d1-568a-a43c-9878ceb8c4ee' => [
-        'I used to have all these plans and think \'Ah, I have my whole life figured out\', but then I realized no matter how much I plan: life happens! So I find myself living day to day trying to do my best, embracing every moment as a learning opportunity and chance to get to know myself a little more.',
-        'Q\'orianka Kilcher',
-    ],
-    '964003c9-0116-5cf1-96f5-f1e9728d17ba' => [
-        'When Bill Clinton ran in \'92, and I listened to him, and I had of course known of his record from Arkansas, I found him extraordinarily inspirational, and I voted Democratic.',
-        'Wesley Clark',
-    ],
-    'cc387df6-570e-551e-92c5-66a1c5dd5630' => [
-        'The evangelical Christian faith I\'d grown up with sustained me. It demanded that I refuse the drugs and alcohol on offer in our southwestern Ohio town, that I treat my friends and family kindly, and that I work hard in school. Most of all, when times were toughest, it gave me reason to hope.',
-        'J. D. Vance',
-    ],
-    '6774cc7d-560b-56a2-b7ec-6717fa83a774' => [
-        'We need time to defuse, to contemplate. Just as in sleep our brains relax and give us dreams, so at some time in the day we need to disconnect, reconnect, and look around us.',
-        'Laurie Colwin',
-    ],
-    '457106cd-6ed1-5e9c-8164-4c62d56369e0' => [
-        'When I go to the clinic next and sit with a tube in my arm and watch the poison go in, I\'m in an attitude of abject passivity. It doesn\'t feel like fighting at all; it just feels like submitting.',
-        'Christopher Hitchens',
-    ],
-    'fb39ef76-bb81-59bf-8613-b694e1d102d3' => [
-        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
-        'Amelia Barr',
-    ],
-    '7c548417-ab9f-53ae-b6fa-811657b45e31' => [
-        'The greatest mistake you can make in life is to be continually fearing you will make one.',
-        'Elbert Hubbard',
-    ],
-    '4b32e743-4b2b-53cf-b2a1-3215790625c9' => [
-        'My father used to always say to me that, you know, if a guy goes out to steal a loaf of bread to feed his family, they\'ll give him 10 years, but a guy can do white-collar crime and steal the money of thousands and he\'ll get probation and a slap on the wrist.',
-        'Jesse Ventura',
-    ],
-    '6dbadd26-f716-547f-b119-0169a6b36359' => [
-        'Telecom is a dramatic success in India and our view is, respecting the political process, and respecting the fact that these are sovereign decisions, is that, approaching India as a friend.',
-        'John W. Snow',
-    ],
-    'eaa9b4b1-8c00-5127-b2de-c4570180301c' => [
-        'I\'ve always believed that if you put in the work, the results will come.',
-        'Michael Jordan',
-    ],
-    'd3d93910-1a25-5096-8ef0-a19d2d79d5a6' => [
-        'Death Row inmates are almost twice as expensive to house each year as other inmates. Death penalty trials are much costlier than trials where execution is not a potential punishment and consume more time from judges, public defenders, and other legal personnel.',
-        'Reid Hoffman',
-    ],
-    '0c74434c-b5e2-5c2a-baec-e2d47fd148c3' => [
-        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
-        'Phillip Noyce',
-    ],
-    '9f0c8abb-2572-564f-827e-429be9004ade' => [
-        'We are all here for a spell, get all the good laughs you can.',
-        'Richard Dawkins',
-    ],
-    '3a300419-8818-5e00-bb84-39d8578870d9' => [
-        'My mother and father, with my newborn brother and me in the backseat of the 1938 Ford sedan that would be our family car for the next decade, moved to that hastily constructed Army ammunition depot called Igloo, on the alkaline and sagebrush landscape of far southwestern South Dakota. I was three years old.',
-        'Tom Brokaw',
-    ],
-    '3221cc15-e48f-5bb8-b967-bac23b94290c' => [
-        'Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.',
-        'William Arthur Ward',
-    ],
-    '7e372d11-9235-55bd-9470-d87d56c025d5' => [
-        'You\'re only as good as your last haircut.',
-        'Fran Lebowitz',
-    ],
-    '184c7dae-37fa-5e4e-9827-8fb584e292ab' => [
-        'My family was my guide to my reality.',
-        'Haywood Nelson',
-    ],
-    'cbff0a2c-f8df-51f1-980e-ae86b5f7a63b' => [
-        'Champions extend their limits and make things happen.',
-        'Amit Ray',
-    ],
-    'da7cff83-2097-5fb9-9c97-647af1160ca5' => [
-        'When checking in at an airport, no matter how rude the check-in person is to you, always smile and be nice because you don\'t know what kind of day they\'ve had. You are going on holiday and they\'re stuck wherever they are. Be nice to them because they can re-route your baggage to wherever they feel like.',
-        'Ross Kemp',
-    ],
-    'b7e9ddc2-838f-56e6-bacf-bc3b8012813d' => [
-        'If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.',
+    '00f685b1-a1f9-51d4-9d32-05567ff5ef45' => [
+        'Your work is to discover your work and then with all your heart to give yourself to it.',
         'Buddha',
     ],
-    'ac2ce116-12aa-59e5-9221-861663bca619' => [
-        'Love what you do. There\'s always going to be someone else who\'s smarter than you, but there\'s no substitute for passion. People who are passionate always work the hardest, and that sets them apart.',
-        'Ivanka Trump',
+    '3f614b0b-3a01-58b7-99ef-cddeb277f5c7' => [
+        'I think the word \'pregnant\' is funny.',
+        'Tracy Morgan',
     ],
-    '171c18fe-fee4-5e09-8e83-d16bc1ac7cb9' => [
-        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
-        'George Bernard Shaw',
+    '9d091bce-e06e-5383-84e5-e16e92ec8dff' => [
+        'No matter how good you are at planning, the pressure never goes away. So I don\'t fight it. I feed off it. I turn pressure into motivation to do my best.',
+        'Ben Carson',
     ],
-    'c3dfde8b-22f9-51b9-9c45-c85138e2b74c' => [
-        'It\'s so funny whenever things come full circle.',
-        'Swoosie Kurtz',
+    '87693092-ced2-5d3f-88f1-31189f76fbbd' => [
+        'I would like to make a building as intellectually driven as it is sculptural and as positive as it would be acceptable to hope.',
+        'Frank Gehry',
     ],
-    'd91901ba-bcf6-54f1-acbc-48390371f19d' => [
-        'The quality of your life is determined by the quality of your relationships. The quality of your business is no different.',
-        'Kareena Kapoor Khan',
+    '2d4c4aef-18c4-5d0e-93fe-420a3f7471bc' => [
+        'Before the sacred, people lose all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by my declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
+        'Max Stirner',
     ],
-    '3196acb8-ce9e-50de-a9d8-9fc3ff0cd246' => [
-        'There are certain expectations that are put on you as a child actor, but mainly it\'s just turn up and say your lines with a lot of energy and a cute smile.',
-        'Naomie Harris',
+    'dda71c16-2f7c-578d-82c6-d95a31b31fe8' => [
+        'Your success depends mainly upon what you think of yourself and whether you believe in yourself.',
+        'William J. H. Boetcker',
     ],
-    'ba6ac464-e381-553e-b1d7-1e4363cd6c5d' => [
-        'Take care of your life and the Lord will take care of your death.',
-        'Steve Jobs',
+    'a302ea73-a1a0-5e5f-acc5-449b28fda3f5' => [
+        'Don\'t let what you can\'t do stop you from doing what you can do.',
+        'Unknown',
+    ],
+    '3967f472-5288-5777-87bc-5e45bd4d2fbd' => [
+        'We\'re all moving at such a high rate that we have to grab the frozen dinners and the McDonald\'s. We can\'t make it a way of life - we have to get back to real, simple, clean good foods. It will save our lives on so many levels; not just spina bifida, but obesity, diabetes, everything. Food is our medicine.',
+        'Bernie Siegel',
+    ],
+    '8596a1d5-b47a-5095-b1e3-8f0b0ff8d2ef' => [
+        'The richness of life lies in memories we have forgotten.',
+        'Gretchen Rubin',
+    ],
+    'b1f6d623-7a0e-5445-9ba3-ffce046ad8cf' => [
+        'You keep shooting. You hope it goes in, and you smile.',
+        'Teemu Selanne',
+    ],
+    '07ae9c7c-7e4b-51c0-b267-55c5446dffd3' => [
+        'Solitude is very different from a \'time-out\' from our busy lives. Solitude is the very ground from which community grows. Whenever we pray alone, study, read, write, or simply spend quiet time away from the places where we interact with each other directly, we are potentially opened for a deeper intimacy with each other.',
+        'Henri Nouwen',
+    ],
+    '23806c33-b7a4-548d-9744-6c8377a10242' => [
+        'A good laugh is sunshine in the house.',
+        'William Makepeace Thackeray',
+    ],
+    '3b9135f5-847c-5893-b840-66b800ebac72' => [
+        'I\'m lucky in having found the perfect partner to spend my life with.',
+        'Henry Drummond',
+    ],
+    'f2c17f09-5bf9-5352-9a55-560097f08362' => [
+        'Today is life-the only life you are sure of. Make the most of today. Get interested in something. Shake yourself awake. Develop a hobby. Let the winds of enthusiasm sweep through you. Live today with gusto.',
+        'Cristiano Ronaldo',
+    ],
+    'f87bf17f-34e1-53c1-9374-5f7537a3d4ff' => [
+        'To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.',
+        'Byron Pulsifer',
+    ],
+    '864b6115-4060-5875-8f4f-67150c36d19d' => [
+        'I love what I do, and when you love what you do, you want to be the best at it.',
+        'Jay-Z',
+    ],
+    '4d893c6c-97d0-5c49-bba1-1cc166a2d095' => [
+        'Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.',
+        'Chanakya',
+    ],
+    'db19ca68-26f2-58c2-a9f8-9c209338d696' => [
+        'To finally become world champion after losing out in three previous finals is very satisfying. It shows that if you stick to your goals and work hard, you can achieve them in the end.',
+        'Nicola Adams',
+    ],
+    'bf6caccd-7c2a-54d8-ac1d-af1a502027ca' => [
+        'What really went wrong is that General Motors has had this philosophy from the beginning that what\'s good for General Motors is good for the country. So, their attitude was, \'We\'ll build it and you buy it. We\'ll tell you what to buy. You just buy it.\'',
+        'Michael Moore',
+    ],
+    '9906e074-4c29-5e7b-ac98-9342dbb3d3cd' => [
+        'Go see \'Hidden Figures,\' and take a young person! It will give a more positive outlook on what is possible if you work hard, do your best, and are prepared.',
+        'Katherine Johnson',
+    ],
+    '7da217d0-3985-5ae8-888e-31bc04fed121' => [
+        'We who work in technology have nurtured an especially rare gift: the opportunity to effect change at an unprecedented scale and rate. Technology, community, and capitalism combine to make Silicon Valley the potential epicenter of vast positive change.',
+        'Justin Rosenstein',
+    ],
+    'd3454757-935a-53f0-8bd2-8cb4f1b404b2' => [
+        'Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.',
+        'Phyllis Diller',
+    ],
+    '230ea271-d9f9-5c31-ae71-6a36a89d3a64' => [
+        'One thing I never want to be accused of is not working.',
+        'Don Shula',
+    ],
+    '98caf143-b3ee-5a62-b0b1-938701d35ec1' => [
+        'Good luck is another name for tenacity of purpose.',
+        'Ralph Emerson',
+    ],
+    '1537a42c-6412-53a0-a373-eff00588f2b1' => [
+        'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
+        'Rose George',
+    ],
+    '1cc210ed-7154-5cd3-8c1d-866ac5b828a3' => [
+        'The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.',
+        'Aldous Huxley',
+    ],
+    'a4ea9297-ca24-551c-9c71-07aeea6b22b0' => [
+        'It always seems impossible until it is done.',
+        'Nelson Mandela',
+    ],
+    'f5bc9101-fc2a-530a-bc2f-089625c6e0ff' => [
+        'The superior man is modest in his speech, but exceeds in his actions.',
+        'Confucius',
+    ],
+    '30dede14-927e-5ca7-934c-87eba1f4c848' => [
+        'We are here to make another world.',
+        'W. Edwards Deming',
+    ],
+    '725575b2-ed86-5cfd-b05b-5edade528957' => [
+        'When I think of myself at 15, even 17, I could simply not have done this work on an international level and travel all the time, take care of myself and not feel lost. I feel very happy that this is happening now, and not 10 years ago, as I feel stronger as a person.',
+        'Saskia de Brauw',
+    ],
+    'b5ac55f4-f5ed-5763-ab11-f2a8fc0f707c' => [
+        'I find the positive in the negative all the time. Any time you give something power, it wins, and it can continuously happen, so I just let negative people know they have no place in my life. They have no place around my children.',
+        'Monica Denise Brown',
+    ],
+    'd6ffb1da-8347-5759-bf7b-82ca5e58a83d' => [
+        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
+        'Thomas J. Watson',
+    ],
+    '49cbd8d7-95e6-579d-b04e-ad853bc7f2a0' => [
+        'It\'s a funny show. The characters are surprisingly likable, given how ugly they are. We\'ve got this huge cast of characters that we can move around. And over the last few seasons, we\'ve explored some of the secondary characters\' personal lives a bit more.',
+        'Matt Groening',
+    ],
+    'ca2da402-03a0-5143-bcc1-b286faf15732' => [
+        'Things do not change, we change.',
+        'Henry Thoreau',
+    ],
+    '6b20a606-5997-5281-b1ef-1943066e9e04' => [
+        'Art is contemplation. It is the pleasure of the mind which searches into nature and which there divines the spirit of which nature herself is animated.',
+        'Auguste Rodin',
+    ],
+    'c408e17c-bd7d-5978-9379-3389758f3b8d' => [
+        'I hated the ballet, but I liked performing. I did 20 shows, and I couldn\'t get the smile off my face.',
+        'Ansel Elgort',
+    ],
+    'eb93a2ec-e7b3-5b6e-800b-554833c14326' => [
+        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
+        'James Best',
+    ],
+    '73aa8e9f-5eaa-5540-99fb-afb2d94afa76' => [
+        'I am shocked at the attitude of our American troops. They have no respect for death, the courage of an enemy soldier, or many of the ordinary decencies of life.',
+        'Charles Lindbergh',
     ],
 ];

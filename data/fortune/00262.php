@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '8adf4797-dea1-55c9-b145-51db42590d5c' => [
-        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
+    '9b53458b-05f6-5d36-9fc1-145673e38217' => [
+        'Perhaps the greatest social service that can be rendered by anybody to the country and to mankind is to bring up a family.',
+        'George Bernard Shaw',
+    ],
+    'b60c46bc-e5d6-5018-b95b-bc8fbace40bf' => [
+        'The true secret of happiness lies in taking a genuine interest in all the details of daily life.',
         'Confucius',
     ],
-    'db250b56-f30e-5f1c-804d-09f762e60b6f' => [
-        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.',
-        'Babatunde Olatunji',
+    '2cd1d234-1e71-59ec-9ac1-a64b102e139e' => [
+        'I follow the most random people on Twitter. I follow famous people like Khloe Kardashian, who surprisingly makes really funny tweets all the time.',
+        'Chloe Grace Moretz',
     ],
-    'e145a317-d630-5d8b-b247-150c228cfd87' => [
-        '...but if a thing is humanly possible, consider it to be within your reach.',
-        'Marcus Aurelius',
+    'c89845af-5f38-5b7e-b5c1-791b6066d3b3' => [
+        'I\'ve given it my all. I\'ve done my best. Now, I\'m ready with my family to begin the next phase of our lives.',
+        'Richard M. Daley',
     ],
-    '9d3de392-627e-5754-90cb-500389308156' => [
-        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
-        'Orison Swett Marden',
-    ],
-    'c7fc7681-be26-5183-95ff-e2c917c35001' => [
-        'I\'ve never been married, but I tell people I\'m divorced so they won\'t think something is wrong with me.',
-        'Elayne Boosler',
-    ],
-    'b17f8982-446a-59b7-a3e9-7680b6b9749e' => [
-        'Being yourself is one of the hardest things because it\'s scary. You always wonder whether you\'ll be accepted for who you really are. I decided to call my record \'Inside Out\' because that\'s my motto about life. I don\'t think you ever succeed at trying to be anyone else but who you truly are.',
-        'Iris Murdoch',
-    ],
-    'a91139c6-bc33-5fd2-9fcc-965e5a6af681' => [
-        'In Einstein\'s equation, time is a river. It speeds up, meanders, and slows down. The new wrinkle is that it can have whirlpools and fork into two rivers. So, if the river of time can be bent into a pretzel, create whirlpools and fork into two rivers, then time travel cannot be ruled out.',
-        'Michio Kaku',
-    ],
-    '1d72ceb3-18ca-5fbc-ada5-ac45b0081d27' => [
-        'My mother taught me to be honest, to be selfless, and to touch people in a positive way.',
-        'Scott Eastwood',
-    ],
-    '6fcde010-e12e-59de-8d4f-68ff71f4ef15' => [
-        'I never had a policy; I have just tried to do my very best each and every day.',
-        'Abraham Lincoln',
-    ],
-    '27b0bcc8-5b78-5843-bd1a-8808aabf2920' => [
-        'I had hoped when my life was chronicled, it would be an inspirational story.',
-        'Om Puri',
-    ],
-    'bc98a3fa-9a65-5385-bc16-5daa120e2003' => [
-        'Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.',
-        'Henry Van Dyke',
-    ],
-    '61b6e1b1-78f7-5ccf-b9d4-3276cb1f9af1' => [
-        'Open your eyes, look within. Are you satisfied with the life you\'re living?',
+    'd8bbc1a0-e0ed-533b-83a5-075a76720cd8' => [
+        'Whatever your life\'s work is, do it well. A man should do his job so well that the living, the dead, and the unborn could do it no better.',
         'Martin Luther King, Jr.',
     ],
-    '862ff6e3-d6f7-5431-a062-29257ac382bf' => [
-        'In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don\'t try to control. In work, do what you enjoy. In family life, be completely present.',
-        'Lao Tzu',
+    'e941c9a6-5c97-5116-9f95-4fc1012e4a8c' => [
+        'Today, smartphones, tablets, and the Internet have allowed people to conduct business from anywhere at any time. But as we continue to progress, many families find it harder to balance the ever-increasing demands of their work with their desire to care for and be with their family.',
+        'Renee Ellmers',
     ],
-    'f70d3b15-924b-5f66-8168-6ac403761d41' => [
-        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
-        'Elayne Boosler',
+    'aeacaee6-9a82-5da9-8474-28c7e14245d3' => [
+        'I\'ve always fed off negativity and wanting people to hate me. That attitude really fueled me for my entire career. So being a guy that people like and want to cheer for is the weird part.',
+        'Dean Ambrose',
     ],
-    '6094ff06-e229-5a67-b710-9089a1cac6fa' => [
-        'To the artist there is never anything ugly in nature.',
-        'Auguste Rodin',
+    'f95fc112-1c58-59ba-a913-2276258051f3' => [
+        'Gardening is not trivial. If you believe that it is, closely examine why you feel that way. You may discover that this attitude has been forced upon you by mass media and the crass culture it creates and maintains. The fact is, gardening is just the opposite - it is, or should be, a central, basic expression of human life.',
+        'Andrew Weil',
     ],
-    'ee4dff51-9e3f-52b9-86d5-65b37b310b15' => [
-        'Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not.',
-        'Galileo Galilei',
+    'e5121efc-489d-542f-bdd1-38cc85c440ee' => [
+        'It\'s funny; as I get older I\'m reverting to my roots - I want to plant stuff.',
+        'Melissa McCarthy',
     ],
-    'a4dad036-8457-5409-8ed5-1f3ad912b3eb' => [
-        'A place for everything, everything in its place.',
-        'Benjamin Franklin',
+    'e5e54130-87fb-5b07-b303-a0c7d869e316' => [
+        'My uncle Sammy was an angry man. He had printed on his tombstone: What are you looking at?',
+        'Margaret Smith',
     ],
-    '2a2166c1-4427-5bf9-bd4a-d81edd8f2827' => [
-        'My attitude is, a monument, a statue, ought to signify unity instead of division.',
-        'Bill Nelson',
+    '3e019ac7-35c6-5e8d-b557-08027a0d3ca9' => [
+        'I think the thing about that was I was always willing to work; I was not the fastest or biggest player but I was determined to be the best football player I could be on the football field and I think I was able to accomplish that through hard work.',
+        'Jerry Rice',
     ],
-    '20715c92-d683-5776-a2fe-568e2ddd0658' => [
-        'Air travel is the safest form of travel aside from walking; even then, the chances of being hit by a public bus at 30,000 feet are remarkably slim. I also have no problem with confined spaces. Or heights. What I am afraid of is speed.',
-        'Sloane Crosley',
+    '89c00e63-6a07-58d5-ad9a-498bff112fcb' => [
+        'The diversity of India, of our civilization, is actually a thing of beauty, which is something we are extremely proud of.',
+        'Narendra Modi',
     ],
-    '38b3e7b4-9f19-574d-ad4a-1e56ea3c1664' => [
-        'I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.',
-        'Buddha',
+    '1bfcc60c-fc83-5b3c-b286-1f7a0e989a4a' => [
+        'Let go of your attachment to being right, and suddenly your mind is more open. You\'re able to benefit from the unique viewpoints of others, without being crippled by your own judgement.',
+        'Ralph Marston',
     ],
-    '6070f867-2bf4-549f-a921-4a7f1131b731' => [
-        'Music is the mediator between the spiritual and the sensual life.',
-        'Jack Canfield',
+    '5d8133d3-333f-5fee-8d76-c2080733adb9' => [
+        'Part of the beauty of the show in a way is that he\'s not perfect, but you can always count on him to do the right thing in a pinch. That\'s why he inspires people and inspires me.',
+        'Stephen Collins',
     ],
-    '11e4d23c-8127-5397-8c3a-85f68529c308' => [
-        'All nature is but art unknown to thee.',
-        'Alexander Pope',
+    'ae97770d-8118-5940-b76d-7d6960d580af' => [
+        'When you feel great, you emanate a certain energy that translates as beautiful. I don\'t care if you have the standard beauty or not; it\'s that X-factor that comes through, and the basis of that is good health.',
+        'Christie Brinkley',
     ],
-    'b63b707e-06cc-5a1a-a6ce-1b8832ab2a96' => [
-        'The last couple relationships I had were long distance. It\'s not like I can make much of an effort to travel and see anybody. The guy had to do all the work, unfortunately.',
-        'Holly Madison',
+    'b820ff32-2ab1-50fc-bc92-fbdadd963c0a' => [
+        'I don\'t know if the term \'liberation theology,\' which can be interpreted in a very positive sense, will help us much. What\'s important is the common rationality to which the church offers a fundamental contribution, and which must always help in the education of conscience, both for public and for private life.',
+        'Pope Benedict XVI',
     ],
-    'c8f46e7c-4105-5bcb-b785-11d9ddc9e40f' => [
-        'Friends are the best to turn to when you\'re having a rough day.',
-        'Justin Bieber',
+    'f88b4254-e4b7-5053-9ee9-dda39620e493' => [
+        'Success is getting what you want. Happiness is wanting what you get.',
+        'Dale Carnegie',
     ],
-    '8f8088d4-13a1-5b75-82d4-4c5cadf6aeaa' => [
-        'Life is one big road with lots of signs. So when you riding through the ruts, don\'t complicate your mind. Flee from hate, mischief and jealousy. Don\'t bury your thoughts, put your vision to reality. Wake Up and Live!',
-        'Woodrow Wilson',
+    'b604564d-4f0b-5f0c-a951-3cb19bdd2901' => [
+        'I slow down when hiking. The rhythm of nature is more leisurely. The sun comes up, it moves across the sky, and you begin to synchronize to that rhythm.',
+        'John Mackey',
     ],
-    'baa47ece-ee8c-5e7f-8387-f7b4f75ea2f6' => [
-        'Evening is a time of real experimentation. You never want to look the same way.',
-        'Donna Karan',
+    'eedf39bd-4738-5d43-b9f5-d51f09db93fe' => [
+        'Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.',
+        'Epictetus',
     ],
-    'd33e3bb8-9586-5c35-b913-ecc8705f2dec' => [
-        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
-        'Winston Churchill',
+    '2a5b4aee-f0ab-5d44-aab4-6691ddf2aa57' => [
+        'Gymnastics demands so much of our time. We train all week and travel and compete on weekends. The people you\'re surrounded by really become your second family, your best friends, your sisters. My coach was like a second mother for me.',
+        'Amanda Borden',
     ],
-    '5055c99e-a8c8-528b-9fd3-b7f8aa4c1d1e' => [
-        'For the record, our democracy is revered around the world. And free elections are the best way on Earth to choose our leaders. This is how we elected John F. Kennedy; Ronald Reagan; two George Bushes; Bill Clinton; and Barack Obama. It has worked for decades.',
-        'Michelle Obama',
+    '41c37ddf-6577-5a2c-81cc-4d678d949a5c' => [
+        'Brotherhood means laying down your life for somebody, really willing to sacrifice yourself for somebody else.',
+        'Billy Graham',
     ],
-    'd2e6cdc2-f19c-508b-805a-285329f4553c' => [
-        'To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.',
-        'Buddha',
+    '4703a956-2352-5202-a6cb-3f9827736e75' => [
+        'Life will always be to a large extent what we ourselves make it.',
+        'Katherine Jenkins',
     ],
-    '696170be-9fa7-517b-9934-9426521be574' => [
-        'Sometimes my mistake has been hesitancy about acting on the decisions I\'ve made. When\'s the best time to invest? It\'s today, not tomorrow.',
-        'Charles Schwab',
+    '6e81f338-295a-52bb-a57a-1d53575753d0' => [
+        'There are elements of intrinsic beauty in the simplification of a house built on the log cabin idea.',
+        'Gustav Stickley',
     ],
-    '322693e2-614a-5d2a-be82-ff5232c8912c' => [
-        'I thought, \'It doesn\'t matter what that woman is wearing,\' but then I realised actually it\'s our job as designers to make women smile; to bring them the chocolate without the calories.',
-        'Alber Elbaz',
+    '897d6535-5329-5c9b-a067-2e04ab9e47fb' => [
+        'I\'m going to marry a Jewish woman because I like the idea of getting up Sunday morning and going to the deli.',
+        'Michael J. Fox',
     ],
-    '335246a3-63bb-58bd-b7fb-95174fef3600' => [
-        'The art of life is to know how to enjoy a little and to endure very much.',
-        'Nikola Tesla',
+    '3ce7ff0a-e4ff-5b5b-a6a6-5c4b0b9781e5' => [
+        'Whether it\'s the best of times or the worst of times, it\'s the only time we\'ve got.',
+        'Art Buchwald',
     ],
-    '8a7b24be-9cab-534b-87c3-798419ae0f19' => [
-        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
-        'Dalai Lama',
+    'ba9a621a-c27c-5841-b56f-f91b25a91fae' => [
+        'In the end we retain from our studies only that which we practically apply.',
+        'Johann Wolfgang von Goethe',
     ],
-    '4c671d62-9b23-50f6-babb-853c1d4bc7c3' => [
-        'I\'m coming to this world not to work. I want to come to this world to enjoy my life. I don\'t want to die in my office. I want to die on the beaches.',
-        'Jack Ma',
+    '0561461b-2106-5716-812b-5abb1ff32b9d' => [
+        'The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn\'t intended.',
+        'Robert Frost',
     ],
-    '96a06214-f215-533a-8922-8481adb5f707' => [
-        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
-        'Adora Svitak',
+    '776f645f-b295-5401-b894-468aeb95365f' => [
+        'If you travel to Germany, it\'s still absolutely Germany. If you travel to Sweden, it still has a Swedish identity.',
+        'Morrissey',
     ],
-    '67b92d5e-f542-58a1-a778-ac7de0f946f3' => [
-        'There\'s inevitably something missing when you grow up in this kind of an environment when your parents travel a lot. When your father is famous, you are looked at and expected of. There are standards you need to meet.',
-        'Natalie Cole',
+    '9bd7e116-b7fd-5378-afec-aa50c9805fa3' => [
+        'I\'ve played a ghost, cat, snake. I\'ve been funny, sad. I\'ve been filmed flying on screen. So why not spend time on something else? I don\'t need to accept everything I\'m offered.',
+        'Maggie Cheung',
     ],
-    '945ed9d9-a208-5750-b4ab-5bf84071ef9b' => [
-        'Good things happen to those who hustle.',
-        'Anais Nin',
+    'b40d46a1-52c7-590a-a7da-9c7a71797df2' => [
+        'It doesn\'t matter if you\'re a man or a woman - stay alert and focused on your surroundings. Travel with friends. Know where you are at all times, and never let your guard down.',
+        'Kimberly Guilfoyle',
     ],
-    'e9408b3d-5e50-5bec-8351-9cce7368f6a8' => [
-        'One of the things that\'s unique about Louisiana politics is that people here have a much more realistic attitude about who their politicians are. They know they are human and not saints or Mormons or Eagle Scouts.',
-        'Mark Frost',
+    '024fda3c-cd80-501d-8def-8dc0064e591e' => [
+        'When we hear the word \'beauty\', we inevitably think that beauty belongs in a special elite realm where only the extraordinary dwells. Yet without realizing it, each day each one of us is visited by beauty. When you actually listen to people, it is surprising how often beauty is mentioned. A world without beauty would be unbearable.',
+        'John O\'Donohue',
     ],
-    '559760fc-0987-5603-8feb-43da8bd2f63b' => [
-        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
-        'Ahmet Davutoglu',
+    '40fa1377-0324-5457-80bc-3d9ef028f848' => [
+        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
+        'Brian Greene',
     ],
-    '46aad356-45aa-5088-90c5-51bc5e0cdf51' => [
-        'For American foreign aid to become more effective, it must embrace the power of partnerships, access the transformative nature of free enterprise, and leverage the abundant resources that can come from the private sector.',
-        'Mitt Romney',
+    '9c057794-8011-57e3-9990-08e96109fd4f' => [
+        'You\'re not gonna get through life without being worshipful or devoted to something. You\'re either devoted to your job, or to your desires. So the best way to spend your life is to try to be devoted to prayer, to Allah.',
+        'Mos Def',
     ],
-    'a466c56b-b84c-5015-bbb3-eefe16eb4e16' => [
-        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
-        'Kumar Mangalam Birla',
+    'e2259fdb-074e-5665-a3d7-3eb63cb1f7ab' => [
+        'We travel together, passengers on a little spaceship, dependent on its vulnerable reserves of air and soil, all committed, for our safety, to its security and peace. Preserved from annihilation only by the care, the work and the love we give our fragile craft.',
+        'Adlai E. Stevenson',
     ],
-    '5571223f-2a7d-574c-898d-7c8e0e8e7a7e' => [
-        'The dog that trots about finds a bone.',
-        'Golda Meir',
+    'e2d0565c-ef0e-57f4-9d71-8a25a5d62c03' => [
+        'Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success.',
+        'Bo Bennett',
     ],
-    'a573b786-e8ca-5dca-9f4b-82708a1a17e5' => [
-        'Nature is something outside our body, but the mind is within us.',
-        'Bhumibol Adulyadej',
+    '03c6220f-05b7-5a41-a240-070ba33c7b85' => [
+        'The harder you fall, the higher you bounce.',
+        'Unknown',
     ],
-    '2044b3e7-8109-5632-9e65-691659a75d35' => [
-        'Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening - and it is without a doubt the greatest game mankind has ever invented.',
-        'Arnold Palmer',
+    '892014cc-384c-5587-a4db-77e8f9ab3a27' => [
+        'The best thing about the future is that it comes only one day at a time.',
+        'Dean Acheson',
     ],
-    '9ad0be84-3bb8-5d8f-a2ea-524d68869cb3' => [
-        'Live your beliefs and you can turn the world around.',
-        'Henry David Thoreau',
+    '72a17421-0edf-5c0d-ba85-710f7426b85a' => [
+        'I was born in Paris in the mid-1960s, and by the time I was 12 I had started going to the movies by myself. Most of the movies of that period never appealed to me. I didn\'t like the \'naturalism,\' the sad or the \'down-to-earth\' characters. What I wanted from film was fantasy, dreams, funny situations, extravagant decor - and beautiful women.',
+        'Christian Louboutin',
     ],
-    'd680d8f5-c06e-57b7-87a8-8c35292c3a86' => [
-        'To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.',
-        'Mahummad Ali',
+    'a27b6674-7651-5f5a-a663-fe845420d443' => [
+        'A mockumentary is supposed to be real, and we were frustrated with mockumentaries on TV, which are so rampant because of the success of \'The Office.\' It\'s not real. You watch and ask why is there even a crew there. They never set it up in the narrative. You have a documentary crew following families for reasons we don\'t understand.',
+        'Benny Fine',
     ],
-    '755ef5a5-9610-5d85-8ae9-136783f32152' => [
-        'You see some of these actors, they have a permanent smile on their face. How can they do that? It really fascinates me.',
-        'Agnes Bruckner',
+    '32e1cd4a-9910-50da-9f29-daaef8a1d37e' => [
+        'There comes a time when people get tired of being pushed out of the glittering sunlight of life\'s July and left standing amid the piercing chill of an alpine November.',
+        'Martin Luther King, Jr.',
     ],
-    '2d768799-a55c-5d7f-9d0d-fb99d2b682a5' => [
-        'Perhaps nature is our best assurance of immortality.',
-        'Eleanor Roosevelt',
+    '54611914-10d8-5c86-ad0b-83f26f1c3ff2' => [
+        'Just live life. That\'s the best way to learn how to act. Just live.',
+        'Rory Culkin',
     ],
-    '335f3928-6390-5dc9-84dd-3e6148288d83' => [
-        'How one handles success or failure is determined by their early childhood.',
-        'Harold Ramis',
+    'b212c5df-1a60-52e9-821c-8bc936a2d1e0' => [
+        'When you stop chasing the wrong things, you give the right things a chance to catch you.',
+        'Lolly Daskal',
     ],
-    '2627c210-e793-530c-8151-27f56e1bf34c' => [
-        'Knock the \'t\' off the \'can\'t\'',
-        'George Reeves',
+    '3843a889-9060-58e7-8c0e-56c401df7ba8' => [
+        'When you are a photographer, you work all the time, because your eye is the first camera.',
+        'Patrick Demarchelier',
+    ],
+    '5eacf65d-80ef-5880-831e-282686a724b1' => [
+        'Sometimes you need to push people into the deep for some people will never learn to swim if they\'ve never been taught how it feels to drown',
+        'Shaan Ahmed',
+    ],
+    '1f397c60-4d56-5df0-b520-964477ba638f' => [
+        'Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.',
+        'Marcus Aurelius',
+    ],
+    '9797f5a9-daab-5acf-a909-fe0316a4b0f2' => [
+        'I love sleep. My life has the tendency to fall apart when I\'m awake, you know?',
+        'Matt Cameron',
+    ],
+    'effb68bd-43b3-5853-affc-f9d31a3b3371' => [
+        'The truth is that since childhood I had cultivated an existential independence. It came from perceiving the adults around me as unreliable, and without it I felt I wouldn\'t have survived. I cared deeply for everyone in my family, but in the end I depended on myself.',
+        'Sonia Sotomayor',
+    ],
+    '1ee33c70-9a1c-58cb-96e0-18cefbe50b6e' => [
+        'The job market of the future will consist of those jobs that robots cannot perform. Our blue-collar work is pattern recognition, making sense of what you see. Gardeners will still have jobs because every garden is different. The same goes for construction workers. The losers are white-collar workers, low-level accountants, brokers, and agents.',
+        'Michio Kaku',
+    ],
+    '55e13591-c61d-5bbb-8075-c03127275e34' => [
+        'I think Clinton, after getting into office and into Washington, was shocked at being bludgeoned. So he spent time trying to be all things to all people - one way guaranteed not to be successful or respected in a lion\'s den. You can\'t just play around with all those big cats - you\'ve got to take somebody on.',
+        'Maya Angelou',
+    ],
+    '5a990192-12e4-5b33-b21b-a354beb81824' => [
+        'By their very nature, heuristic shortcuts will produce biases, and that is true for both humans and artificial intelligence, but the heuristics of AI are not necessarily the human ones.',
+        'Daniel Kahneman',
     ],
 ];

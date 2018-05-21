@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '785ff830-86e3-587f-8b32-29b3c6e7a4f8' => [
-        'I am little concerned with beauty or perfection. I don\'t care for the great centuries. All I care about is life, struggle, intensity.',
-        'Emile Zola',
+    '5d27b99c-8938-582e-9f81-9471a6818be5' => [
+        'Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.',
+        'Margaret Cousins',
     ],
-    '5b9fc73d-680c-53e9-89a5-d3f84a036c11' => [
-        'An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion.',
-        'Charles Baudelaire',
+    '5e92d246-011a-5376-8523-15f807088ee5' => [
+        'In marriage do thou be wise: prefer the person before money, virtue before beauty, the mind before the body; then thou hast a wife, a friend, a companion, a second self.',
+        'William Penn',
     ],
-    '71863a6a-aeae-5cf7-ba9f-6b23a2fd7c08' => [
-        'Revenge is a kind of wild justice, which the more a man\'s nature runs to, the more ought law to weed it out.',
-        'Francis Bacon',
+    '1f75d69d-e1b2-5793-a750-8f763664c051' => [
+        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
+        'Curtis Jackson',
     ],
-    '44852dee-4803-5913-a509-3e59f6bc7a7d' => [
-        'Gratitude is the fairest blossom which springs from the soul.',
-        'Henry Beecher',
+    '8e7e1896-6ad3-53bf-adb7-3c90f8ef16ca' => [
+        'Here is my prescription to heal all wounds. Watch the film \'Funny Girl\' at least five times, eat at least 45 chocolate bars, and hang out with all those friends you blew off to hang out with your ex. I truly believe that, through a combination of Nutella, old pals and Barbra Streisand, we can achieve happiness and, very probably, world peace.',
+        'Beth Ditto',
     ],
-    'a265683a-3d71-5ab6-afe4-944f3551437a' => [
-        'If you violate Nature\'s laws you are your own prosecuting attorney, judge, jury, and hangman.',
-        'Luther Burbank',
+    'bb657fa5-8f45-5d9b-8837-8ee8504e8f78' => [
+        'Surely it is time to examine into the meaning of words and the nature of things, and to arrive at simple facts, not received upon the dictum of learned authorities, but upon attentive personal observation of what is passing around us.',
+        'Frances Wright',
     ],
-    'a2b94d59-ca08-528a-8fae-36560f626e9d' => [
-        'Occasionally I find a travel book that is both illuminating and entertaining, where vivid writing and research replace self-indulgence and sloppy prose.',
-        'Arthur Smith',
+    'a8e4e164-b701-5b88-8c31-f813cd8bc67c' => [
+        'As a football team, you head into the season the same way with confidence and a positive mindset that you are going to win a bunch of football games.',
+        'Matthew Stafford',
     ],
-    'b64d92b9-badc-505c-9b82-969f4eccf8ff' => [
-        'In my mind I\'m a blind man doin\' time.',
-        'Tupac Shakur',
+    '777c6a70-bf2b-5571-9711-4bc366b8341a' => [
+        'If you work hard and you do your best, you can do anything.',
+        'Erin Heatherton',
     ],
-    '5e64dfcb-af64-5ce0-af3a-57ef917f2139' => [
-        'I\'m very apolitical. I mean, after having covered politicians so much all my life, I basically have no belief in politics. But it\'s more of an attitude and a discipline in the way you approach life, I think, than it is just what lever you pull in a voting booth.',
-        'Liz Trotta',
+    '0567224f-f293-5200-ba34-f04b29e613b4' => [
+        'Experience keeps a dear school, but fools will learn in no other.',
+        'Benjamin Franklin',
     ],
-    '7d1ce933-6a37-5e56-8356-84d27196c13f' => [
-        'My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you I the best place for the next moment.',
-        'Oprah Winfrey',
+    '41dcf209-5700-5ec6-80ee-fac5f577c467' => [
+        'I just realized the best way to live your life is to just be you, as cliche as it sounds. I grew up trying to please everyone.',
+        'Yuna',
     ],
-    'fef2658f-95fc-517d-bd40-172bc6df23ce' => [
-        'Our strength grows out of our weaknesses.',
-        'Ralph Waldo Emerson',
+    'cb056fd8-e9dd-567c-8f4f-18a964f2e679' => [
+        'To find joy in work is to discover the fountain of youth.',
+        'Pearl S. Buck',
     ],
-    '772b4d6d-55c2-5f38-bf5c-d034fc6ff96e' => [
-        'The best vision is insight.',
-        'Malcolm Forbes',
+    'd1f9477b-dac9-58e2-b80d-4cc42d25406c' => [
+        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
+        'Barbara Bush',
     ],
-    '3e2ffddb-6ccd-51f5-86e3-e8f128058b9b' => [
-        'Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.',
-        'Carl Jung',
+    '7e78ce24-8c3b-5cd3-94da-751d2a3333ec' => [
+        'Sultan Mehmet had good relations with the Medici family and other powerful Italian clans, especially in Venice and Florence, and at his request, they sent him artists and craftsmen by the dozen.',
+        'Stephen Kinzer',
     ],
-    '8c4583d8-e6eb-54f1-a267-3e041d2b2c59' => [
-        'It is conventional to call \'monster\' any blending of dissonant elements. I call \'monster\' every original inexhaustible beauty.',
-        'Alfred Jarry',
+    'c472ba55-cfa5-58d7-9465-12ccd283ce89' => [
+        'Rarely do members of the same family grow up under the same roof.',
+        'Richard Bach',
     ],
-    '3656554a-7bee-5aa5-b159-7197a02ea522' => [
-        'Baseball gives every American boy a chance to excel, not just to be as good as someone else but to be better than someone else. This is the nature of man and the name of the game.',
-        'Ted Williams',
+    '2a280138-3905-5a17-96b7-dd250249eac3' => [
+        'History is a cyclic poem written by time upon the memories of man.',
+        'Percy Bysshe Shelley',
     ],
-    'a5a5e0f2-13cc-5f85-9af7-82cf57e66d8c' => [
-        'What beauty is, I know not, though it adheres to many things.',
-        'Albrecht Durer',
+    '4183b224-4dea-5b0a-8fe1-72bf43540fb6' => [
+        'The first \'D\' is to dream: dream big - not for yourself, but for the country and for the world. The second \'D\' is to discover: discover your full potential and the opportunities that surround you; and the third \'D\' is to do. \'Do\' means to act on your dreams and make best use of the opportunities you have discovered.',
+        'Kailash Satyarthi',
     ],
-    '66bf2412-7c86-51a8-a4d0-b58dc611b1d0' => [
-        'Peace is a never-ending process, the work of many decisions by many people in many countries. It is an attitude, a way of life, a way of solving problems and resolving conflicts.',
-        "\u{d3}scar Arias",
+    'c8ee5bcc-72f7-5490-901a-087311e9c4ea' => [
+        'I would rather die of passion than of boredom.',
+        'Vincent van Gogh',
     ],
-    '98b4d00f-4a91-53ff-a88d-e2d45051439f' => [
-        'Live life to the fullest, and focus on the positive.',
-        'George S. Patton',
+    'e02d7dd4-d678-54f2-93f7-5e836887d6d7' => [
+        'I was impressed by Hendrix. Not so much by his playing, as his attitude - he wasn\'t a great player, but everything else about him was brilliant.',
+        'Ritchie Blackmore',
     ],
-    '5c9fa59e-78e7-5ef6-bf29-9ce458ab1624' => [
-        'The Chinese people have only family and clan groups; there is no national spirit. Consequently, in spite of four hundred million people gathered together in one China, we are, in fact, but a sheet of loose sand.',
-        'Sun Yat-sen',
+    '917e606c-2d5e-5080-a575-347f5186ef1f' => [
+        'The boundary between what can be and your life, is your ideas',
+        'Pat Waldron',
     ],
-    '79dd709a-ce27-5f7a-97ea-03283f2f4aee' => [
-        'To the world you may be one person, but to one person you may be the world.',
-        'Dr. Suess',
+    '069bb6dd-725b-5952-a3b6-592e40325d2e' => [
+        'Our body is a machine for living. It is organized for that, it is its nature. Let life go on in it unhindered and let it defend itself.',
+        'Leo Tolstoy',
     ],
-    '277782e7-f0cf-5b52-96f2-3adf6e6f0b75' => [
-        'A man is not old as long as he is seeking something.',
-        'Edmond Rostand',
+    '4f8ed9b9-179f-5c53-b96d-be155b73a207' => [
+        'Just try to be the best you can be; never cease trying to be the best you can be. That\'s in your power.',
+        'John Wooden',
     ],
-    '2e82b8d6-750c-5a0a-9887-41bbf7132216' => [
-        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
-        'Don Miguel Ruiz',
+    '2794fe83-e641-5a61-91d3-bb11f995aee6' => [
+        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
+        'James D. Watson',
     ],
-    'cc786690-29de-5bf9-ad75-c6da431cb884' => [
-        'There is definitely something sexy about a girl with an attitude and a pair of leather pants.',
-        'Eliza Dushku',
+    '90f1c646-b151-54a7-afa2-12ba3fa58251' => [
+        'If you look around, complacency is the great disease of your autumn years, and I work hard to prevent that.',
+        'Nick Cave',
     ],
-    'c63d242d-ef7c-5c1e-9946-572ef17c189b' => [
-        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
-        'Marcel Duchamp',
+    'e3684a4e-709c-50d8-809a-8d6519a23fb8' => [
+        'Through Kurt I saw the beauty of minimalism and the importance of music that\'s stripped down.',
+        'Dave Grohl',
     ],
-    'abefd787-1a37-5255-bf88-fbed9d615725' => [
-        'We love life, not because we are used to living but because we are used to loving.',
-        'Ashley Smith',
+    'ebafaec8-642e-59d9-a005-4af380d30622' => [
+        'Sometimes a loss is the best thing that can happen. It teaches you what you should have done next time.',
+        'Snoop Dogg',
     ],
-    'e13cf17f-1c6a-5cd0-86e1-19d3dedc7b04' => [
-        'With every inch of land on Earth now catalogued by our satellites, the stars are the next place we as a species must travel. And with a booming world population that will hit 9.1 billion in 2050, large-scale space travel may become a necessity.',
-        'Ben Parr',
+    'bf0eb6ea-2c0c-56b3-a783-3a80b2982566' => [
+        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
+        'Mary Ritter Beard',
     ],
-    '1650934a-ced0-58e0-97f8-dfc2f84cdebf' => [
-        'Life is a succession of moments, to live each one is to succeed.',
-        'Eckhart Tolle',
+    '2617342b-bca3-5a65-adf0-3fc46374a309' => [
+        'I\'m attracted to soccer\'s capacity for beauty. When well played, the game is a dance with a ball.',
+        'Eduardo Galeano',
     ],
-    '9ab4c6f1-b7c4-5462-809d-9724b086d44c' => [
-        'I am a hopeless romantic who falls in lust and gets in trouble. I love my work and am very productive, yet I always find time to play.',
-        'Maksim Chmerkovskiy',
+    'd6380c21-4bbb-526a-9e93-06323ff7bc1f' => [
+        'There\'s a time in your life where you\'re not quite sure where you are. You think everything\'s perfect, but it\'s not perfect... Then one day you wake up and you can\'t quite picture yourself in the situation you\'re in. But the secret is, if you can picture yourself doing anything in life, you can do it.',
+        'Tom DeLonge',
     ],
-    '63c12eec-f040-59be-8bf8-718f799beedc' => [
-        'I am the best in baseball.',
-        'Reggie Jackson',
+    '9cbf8e12-dc1d-5195-866b-4919c564e634' => [
+        'In most professions, if you stay at the office an extra four hours every day, you\'re gonna impress the boss. You\'re gonna get that promotion; you\'re gonna get that raise. You\'re gonna at least have job security. But with acting, if you\'re really ambitious and you have a good work ethic and are really good at your job, it might not really matter.',
+        'Jason Bateman',
     ],
-    'b72c1e37-36bc-552c-953a-95eb8a6c5923' => [
-        'How inscrutable and incomprehensible are the hidden works of Nature!',
-        'Antonie van Leeuwenhoek',
+    '7fcae8a3-bf40-55d2-9d26-f1fa99ca3b29' => [
+        'Today or any day that phone may ring and bring good news.',
+        'Ethel Waters',
     ],
-    '1b64bdb3-d721-5145-92e6-f291d1adbff9' => [
-        'The higher the better. It\'s more about an attitude. High heels empower women in a way.',
-        'Christian Louboutin',
+    '42fc32ad-f47f-5b68-8d2a-7b18ba9fc0fd' => [
+        'The ladder of success in Hollywood is usually a press agent, actor, director, producer, leading man; and you are a star if you sleep with each of them in that order. Crude, but true.',
+        'Hedy Lamarr',
     ],
-    '623336a3-a75c-5f43-97b3-5596fe2bc04f' => [
-        'You\'ve got to know what you want. This is central to acting on your intentions. When you know what you want, you realize that all there is left then is time management. You\'ll manage your time to achieve your goals because you clearly know what you\'re trying to achieve in your life.',
-        'Patch Adams',
+    '32e08e12-f43d-5afd-8b53-25a4756fb48d' => [
+        'I love hanging out with friends and family.',
+        'Ashley Wagner',
     ],
-    '45869bb7-fc4d-55dc-80ac-05bb40edad9a' => [
-        'Thus they have an idol that they petition for victory in war; another for success in their labors; and so for everything in which they seek or desire prosperity, they have their idols, which they honor and serve.',
-        'Hernan Cortes',
+    '3e0c6cb9-a35d-53f5-8d79-3f4574fb01ce' => [
+        'More people smile at me now I\'m richer.',
+        'Mo Ibrahim',
     ],
-    '2ea3e453-9c50-5c6d-92f8-bcb6c46fdd9a' => [
-        'I love things made out of animals. It\'s just so funny to think of someone saying, \'I need a letter opener. I guess I\'ll have to kill a deer.',
-        'David Sedaris',
+    '8df6de54-f0f3-50a8-a4e5-29620c7a3ed6' => [
+        'Life is a journey and it\'s about growing and changing and coming to terms with who and what you are and loving who and what you are.',
+        'Buddha',
     ],
-    '40aaf322-a27e-521d-90c1-487233bebb95' => [
-        'In truth, I am a single mother. But I don\'t feel alone at all in parenting my daughter. Krishna has a whole other side of her family who loves her, too. And so Krishna is parented by me, but also by her grandmother and aunts and cousins and uncles and friends.',
-        'Padma Lakshmi',
+    '3726680b-c9c1-5c72-9ef4-1dc645c18ef9' => [
+        'The discovery of agriculture was the first big step toward a civilized life.',
+        'Ranbir Kapoor',
     ],
-    'da91f39a-559f-50ae-a3b6-b3474535a5c7' => [
-        'The dearest days in one\'s life are those that seem very far and very near at once.',
-        'Pope Francis',
+    '16e9d0e9-d6e8-58d8-85d5-9580793c53ae' => [
+        'My parents were, had a marriage of passion, and the passion was about their religious beliefs. They were both immigrant families that - well, my father\'s family came as Puritans to Massachusetts.',
+        'Phil Jackson',
     ],
-    '0be8ac2b-f52d-5905-a411-80602a473ee9' => [
-        'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
-        'Stephen Hawking',
+    'f3a1ac05-186e-5755-8b0a-c647180d7580' => [
+        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
+        'Herb Caen',
     ],
-    'f058e410-2306-580f-ab96-c9f0bbfdc612' => [
-        'When I learned to sign and speak at the same time, the whole world opened up to me. That\'s the beauty of encouraging kids who are deaf to use whatever it takes to communicate.',
-        'Marlee Matlin',
+    '52c5356a-1848-59d8-892e-c712ea0ea7c3' => [
+        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
+        'Francis Chan',
     ],
-    'c27cf03d-2961-5a6b-9a18-2606ccb81a97' => [
-        'Steroids do not guarantee you\'re going to have success. I think a lot of people think that they will, but they don\'t.',
-        'Tony Gwynn',
+    '5b357c63-6e18-5b64-aec3-f70b25db8a63' => [
+        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
+        'Steve Stoute',
     ],
-    'd6f71f39-8ef9-562d-83c3-8f8816f8646d' => [
-        'The best way to avoid falling prey to the opinions of others is to realize that other people\'s opinions are just that - opinions. Regardless of how great or terrible they think you are, that\'s only their opinion. Your true self-worth comes from within.',
-        'Travis Bradberry',
+    '335246a3-63bb-58bd-b7fb-95174fef3600' => [
+        'The art of life is to know how to enjoy a little and to endure very much.',
+        'Nikola Tesla',
     ],
-    '2cadfa2f-31e7-5f99-b37b-d8ba673167a4' => [
-        'To those who would call me a thug or worse because I show passion on a football field - don\'t judge a person\'s character by what they do between the lines. Judge a man by what he does off the field, what he does for his community, what he does for his family.',
-        'Richard Sherman',
+    '707c17e5-8004-55e0-b739-ef78ed21da12' => [
+        'I am a control freak, but not when I travel. For some reason when I travel, I am able to surrender more than in my real life. I am able to let go. I think it\'s why I like it so much.',
+        'Chelsea Cain',
     ],
-    'a8e8c54b-9482-5ede-a715-c519882af789' => [
-        'I do think that travel can be part of a journey of inner maturation, but you\'ve got to do it right.',
-        'Alain de Botton',
+    'd6aec0ea-5120-565b-a964-13beebbcd3c4' => [
+        'I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time.',
+        'Charles Dickens',
     ],
-    '3266dba8-9071-56e8-a3b0-5cf50b3ba693' => [
-        'As a father, you want the best for your son, quite obviously. You want to create the best memories for your son.',
-        'Bill Goldberg',
+    'd8443414-1ef4-57f3-8791-7a746ffdf570' => [
+        'Airline glamour never promised anything as mundane as elbow room, much less a flat bed, a massage, or an arugula salad. It promised a better world. Service and dress reflected the more formal era, but no one expected air travel to be comfortable. It was amazing just to have hot food above the clouds.',
+        'Virginia Postrel',
     ],
-    '211fe6b9-b402-5695-bad0-e790d88a8988' => [
-        'Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can\'t ride you unless your back is bent.',
-        'Martin Luther King, Jr.',
+    '39a2e26d-8cfc-5139-8390-deac46b876d7' => [
+        'I\'m really interested in the collaborative thing. It\'s what makes it scary because you never know what it\'s going to end up like. But you hope. You put yourself in the hands of the best people you can find, and you\'re completely dependent on the kindness of strangers and their commitment. It\'s like this mutual delusion.',
+        'Meryl Streep',
     ],
-    '5283671a-560a-5217-b240-0a5c32495aba' => [
-        'Expert: a man who makes three correct guesses consecutively.',
-        'Laurence J. Peter',
+    '96c0f863-6bc4-59bc-96a9-3bbdee4ec194' => [
+        'Selling wine is all about sizing people up, and it takes a certain amount of chutzpah. The tableside bottle sell is a very funny thing - you take a look at the guy\'s blazer, what kind of shoes he\'s wearing, what kind of broad he\'s with. Is he trying to be a hero?',
+        'Joe Bastianich',
     ],
-    'e45db11d-f774-5583-bf36-47da8ec9eac0' => [
-        'I have a new philosophy. I\'m only going to dread one day at a time.',
-        'Charles M. Schulz',
+    'e5504638-a6b1-5ccd-be4b-e24be4049a05' => [
+        'I love everybody. One of the great things about me is that I have a very positive attitude.',
+        'Imelda Marcos',
     ],
-    'be1e9c8c-cb6d-5713-8c63-0ed16dc3618a' => [
-        'All the best people in life seem to like LINUX.',
-        'Steve Wozniak',
+    '4ee138d9-732e-5058-a9a6-d8850756adc9' => [
+        'Action will remove the doubts that theory cannot solve.',
+        'Tehyi Hsieh',
     ],
-    'e2a2df5f-55aa-5878-97cb-238273896e8f' => [
-        'That\'s who my mom is. She\'s a listener and a doer. She\'s a woman driven by compassion, by faith, by a fierce sense of justice and a heart full of love. So, this November, I\'m voting for a woman who is my role model, as a mother, and as an advocate. A woman who has spent her entire life fighting for families and children.',
-        'Bob Marley',
+    '7cbe66b8-0151-5e60-86e8-c8aae492aa06' => [
+        'I loved working on \'Happy Gilmore\' because I love to travel to new places and we got to go to British Columbia. Any Adam Sandler film is fun to work on because it is a reunion of the boys club of guys that have worked together in the past.',
+        'Kevin Nealon',
     ],
-    '1f6fbf28-15c6-578f-8923-a5ae43de1eda' => [
-        'Far away there in the sunshine are my highest aspirations. I may not reach them, but I can look up and see their beauty, believe in them, and try to follow where they lead.',
-        'Louisa May Alcott',
+    '44b2d3d7-7766-527d-82a2-fa42a71b21ca' => [
+        'I come from a blue collar family, but my personal life isn\'t. I didn\'t get the gene that my grandfather had in spades. He was a local hero. Built the church that I went to. Built the house I grew up in. Steamfitter, pipefitter, electrician, mechanic and plumber. I wanted to do those things. But it just didn\'t come easy.',
+        'Mike Rowe',
     ],
-    'fce1668c-19b1-561d-9053-dbe7685bdc31' => [
-        'You have to train your brain to be positive just like you work out your body.',
-        'Shawn Achor',
+    'c8a08e54-fbf5-522c-8883-3e79f8610f60' => [
+        'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
+        'Paula Cole',
     ],
-    'f2297cf1-4043-5115-9dc7-b6f1d09f560f' => [
-        'Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk.',
-        'Doug Larson',
+    'e7ac3e8b-ba18-5eef-85fe-06381128ecb3' => [
+        'I am not trendy. I am not \'in fashion.\' I am simply a positive human being who has a positive outlook on life.',
+        'Thierry Mugler',
     ],
 ];

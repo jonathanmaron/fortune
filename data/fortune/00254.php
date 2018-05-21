@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'fa2d4b7d-bdee-5289-89c7-eab8e84e2c06' => [
-        'I used to think that everything was just being funny but now I don\'t know. I mean, how can you tell?',
-        'Andy Warhol',
+    '30c89516-f2b5-597a-bd1d-06f310be2241' => [
+        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
+        'Lascelles Abercrombie',
     ],
-    'd71d06da-58b1-5f7a-81fc-dc5c10192ec8' => [
-        'True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well.',
-        'Bill Owens',
+    'd426ea1a-e21f-5924-8ce1-282bdf0d718d' => [
+        'It\'s how you look at beauty. Is it only an outward appearance with hair and makeup and a hot body, or is it something deeper than that?',
+        'Hilary Swank',
     ],
-    'e73ebac5-7df9-5d98-96d9-460f92340ffe' => [
-        'I couldn\'t wait for success, so I went ahead without it.',
-        'Jonathan Winters',
+    '3cf1e63d-c481-5650-858e-7717ec34f1fe' => [
+        'Beauty itself is but the sensible image of the Infinite.',
+        'Francis Bacon',
     ],
-    'fdb8211c-99c1-5823-a0fe-e52521f98a43' => [
-        'I know that I came into the world with what I call \'big dharma\' - with a blueprint to teach self-reliance and a positive loving approach to large numbers of people all over the globe. I am ever so grateful for the circumstances of my life that allowed me to be pretty much left alone and to develop as I was so intended in this incarnation.',
-        'Wayne Dyer',
+    '064f7f8e-77e7-5e6e-bfac-bec5a6cd8c7d' => [
+        'I don\'t think I could have a genuine relationship with someone who didn\'t love to travel and appreciate new foods. Traveling is a big part of my life, and I want to share that with the people close to me.',
+        'Candice Accola',
     ],
-    '358e5216-3aec-5030-a04b-3926fc1d9d45' => [
-        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
-        'Roger Andrew Taylor',
+    '0c23b04e-8f9f-53c4-a63e-a27a97fecbab' => [
+        'I took the decision that everything I would post would be positive. If you say, \'Ahh, I feel terrible today,\' and you spread that to the eyes and ears of millions of people, that\'s not good.',
+        'Jerome Jarre',
     ],
-    '30f1f506-d880-5b9f-a460-0149efc638ed' => [
-        'The worst times can be the best if you think with positive energy.',
-        'Domenico Dolce',
+    '638f093a-d003-528d-8b06-5c014517eb25' => [
+        'I see travelling as a great learning process, and my biggest dream is to travel the world.',
+        'Pooja Hegde',
     ],
-    'e7965ca1-5b31-59b7-95f3-2e68cfb69dcf' => [
-        'Try to be a rainbow in someone\'s cloud.',
-        'Maya Angelou',
+    'a04e4789-6c7c-53ab-8c64-385d94fe6299' => [
+        'The success of the suffrage movement would injure women spiritually and intellectually, for they would be assuming a burden though they knew themselves unable to bear it. It is the sediment, not the wave, of a sex. It is the antithesis of that highest and sweetest mystery - conviction by submission, and conquest by sacrifice.',
+        'John Boyle O\'Reilly',
     ],
-    'b841f0ca-5b8e-5bf5-b1f2-29932e193198' => [
-        'You Are Never Too Old To Set Another Goal Or To Dream A New Dream.',
-        'C.S. Lewis',
+    '73156cdb-6fd1-5646-984f-ecdd4847760c' => [
+        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
+        'Joey Adams',
     ],
-    '4ae96935-a665-50e2-ba38-6ef984ec592e' => [
-        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
-        'Amy Irving',
+    '8be9c03d-9386-57e2-af25-203de49165d8' => [
+        'Good planning is important. I\'ve also regarded a sense of humor as one of the most important things on a big expedition. When you\'re in a difficult or dangerous situation, or when you\'re depressed about the chances of success, someone who can make you laugh eases the tension.',
+        'Edmund Hillary',
     ],
-    '270d2b9d-f215-560f-bd43-6c15042c6a50' => [
-        'When I was in high school I used to sit by myself in the cafeteria - not necessarily by choice - but I thought it was funny to talk to people that weren\'t there.',
-        'Zach Galifianakis',
+    'ef67fe8f-fbc2-5182-b2bd-f71f0ccf3158' => [
+        'If we get our self-esteem from superficial places, from our popularity, appearance, business success, financial situation, health, any of these, we will be disappointed, because no one can guarantee that we\'ll have them tomorrow.',
+        'Kathy Ireland',
     ],
-    '61e82fe0-2b5c-535b-bd1e-12c471c89ef9' => [
-        'I don\'t think a female running a house is a problem, a broken family. It\'s perceived as one because of the notion that a head is a man.',
-        'Toni Morrison',
+    'c47ada43-a1c3-5b27-869b-5134df72366d' => [
+        'Success depends upon previous preparation, and without such preparation there is sure to be failure.',
+        'Confucius',
     ],
-    'a9dec426-8f3a-5e58-b97c-adec5af88160' => [
-        'This CD became something of a personal journey for me. The tone of the whole CD is uplifting and inspirational. It\'s an upper. We have enough downers in the world.',
-        'Roma Downey',
+    'cad3a6dd-93ee-54f7-a2e6-7ec8ae870719' => [
+        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
-    '390f8520-29f3-5f6b-90e6-6a6364354a40' => [
-        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
-        'Wendell Berry',
+    '62d7df98-de1f-519b-b24e-68675afac2e0' => [
+        'What is social proof? Put simply, it\'s the positive influence created when someone finds out that others are doing something. It\'s also known as informational social influence.',
+        'Aileen Lee',
     ],
-    '52e8cd11-e6b0-5162-9042-4671e0c59788' => [
-        'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
-        'Byron Pulsifer',
+    '4393970a-7880-529a-a49a-6e48f09ae8cb' => [
+        'We act as if that being of a man or that being of a woman is actually an internal reality or something that is simply true about us, a fact about us, but actually it\'s a phenomenon that is being produced all the time and reproduced all the time, so to say gender is performative is to say that nobody really is a gender from the start.',
+        'Judith Butler',
     ],
-    '71cd64a9-ab50-5cad-a835-2785e951cbd1' => [
-        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
-        'Sammy Davis, Jr.',
+    'ee22352f-dad3-5758-a310-091d75de0ae6' => [
+        'You mustn\'t smile when you lose. You have to be sad like other people. You have to win every game.',
+        'Eden Hazard',
     ],
-    'b09c6bad-ad98-5773-942a-d1ecce46f52d' => [
-        'Be prepared, work hard, and hope for a little luck. Recognize that the harder you work and the better prepared you are, the more luck you might have.',
-        'Ed Bradley',
+    'da08e4e3-ed8c-5ef7-bdb3-9e5c71058620' => [
+        'When I was working at the Sprint store, I got laid off. I was bummed out, but I stayed positive. I used the money I had earned while working there to make my first album. Without that job, maybe \'Corazon Sin Cara\' would never had been made. It\'s a very inspirational story.',
+        'Prince Royce',
     ],
-    '658b0478-0758-5e15-9b34-0a64271b0b7a' => [
-        'Negative attitude is nine times more powerful than positive attitude.',
-        'Bikram Choudhury',
+    '53c225c8-6da2-5e72-932d-3034948912d6' => [
+        'For me beauty is valued more than anything - the beauty that is manifest in a curved line or in an act of creativity.',
+        'Oscar Niemeyer',
     ],
-    '0feffa18-4bc9-5582-bc3b-c66fe69839db' => [
-        'In family relationships, \'love\' is really spelled \'t-i-m-e,\' time. Taking time for each other is the key for harmony at home.',
-        'Dieter F. Uchtdorf',
+    'b1ce4180-a5c6-5bfd-99ac-8e87f42764c7' => [
+        'The older you get, the better you have to look, the higher you have to kick, the harder you have to work.',
+        'Salman Khan',
     ],
-    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
-        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
-        'Richard Bach',
+    '00022e91-115d-5a2b-888e-d2d0178270f6' => [
+        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
+        'Zig Ziglar',
     ],
-    'fb65a8c6-9996-50df-807c-1547b4fbb879' => [
-        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
-        'Elizabeth Gilbert',
+    '0cf172ea-c512-5dea-8bbc-114da6f05120' => [
+        'I like to embrace natural beauty. I try to get at least 8 hours of sleep, drinking a lot of water and exercising.',
+        'Tia Mowry',
     ],
-    'c9c6b7e6-0fa5-5ab7-ad16-8f6aa121af8a' => [
-        'I do like alternative rock and rap, but as far as inspirational, then I go full-on orchestra. It fills up your entire being.',
-        'Osric Chau',
+    'aa31adf6-4a19-54f8-946e-c7377fb462dd' => [
+        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
+        'Daryl Hannah',
     ],
-    'c35fe2cb-552f-5a28-a629-3805f4e19b38' => [
-        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
-        'William J. H. Boetcker',
+    'b6aed5a5-f662-5c3b-ab71-2aa6afd957fd' => [
+        'The only thing I can do is fight. Win or lose, I\'m here every damn time.',
+        'Donald Cerrone',
     ],
-    'df5c9f75-c5d6-5adb-9786-f680ef1486ed' => [
-        'When you think positive, good things happen.',
-        'Matt Kemp',
+    '4307fc5d-0b44-557b-8dd8-cf6bb33edf0c' => [
+        'Social distance makes it all the easier to focus on small differences between groups and to put a negative spin on the ways of others and a positive spin on our own.',
+        'Daniel Goleman',
     ],
-    'e4e07ae9-98b5-5de6-9ce3-e34638b98450' => [
-        'The will to succeed is important, but what\'s more important is the will to prepare.',
-        'Bobby Knight',
+    '37d203f5-eafa-5c7f-9ab8-b1ad30a6c69e' => [
+        'People always say golfers don\'t smile. But there is so much psychology in golf so we have to be a bit robotic.',
+        'Lee Westwood',
     ],
-    'cbf1027d-61e5-5712-8f82-df431dcb9981' => [
-        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
-        'Susan B. Anthony',
+    '79392aa4-393c-51be-b1ac-43d42dd290fe' => [
+        'We will see that our new attitude toward liquor has been given to us without any thought or effort on our part. It just comes! That is the miracle of it.',
+        'William Griffith Wilson',
     ],
-    'b41c687b-14be-5d99-bc8f-e337a267c744' => [
-        'My mother was a dominant force in our family. And I always saw her as the leader. And that was great for me as a young woman, because I never saw that women had to be dominated by men.',
-        'Dolores Huerta',
+    '3f755eed-4bea-5ae6-aa21-4b7d30d03167' => [
+        'If it\'s endurable, then endure it. Stop complaining.',
+        'Marcus Aurelius',
     ],
-    'd44381c1-f4bc-5eaa-b35e-0e57acc2d737' => [
-        'The glamour of air travel - its aspirational meaning in the public imagination - disappeared before its luxury did, dissipating as flying gradually became commonplace.',
-        'Virginia Postrel',
+    'b8b86dae-bfed-577a-8d0f-2b42ebfe3d57' => [
+        'I am in the fighting game. I don\'t care about anything else. I don\'t watch the news, I don\'t care about politics, I don\'t care about other sports. I don\'t care about anything I don\'t need to care about. This is my sport: it is my life. I study it; I think about it all the time. Nothing else matters.',
+        'Conor McGregor',
     ],
-    '63ddbed8-53e9-54b5-854e-0810758dc0b8' => [
-        'With improv, it\'s a combination of listening and not trying to be funny.',
-        'Kristen Wiig',
+    'a4c11814-ea4e-56a3-80d8-27af6a01cffa' => [
+        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
+        'Hunter S. Thompson',
     ],
-    '4fb9c76b-18db-55bf-a591-6d6dcc0c7c20' => [
-        'You have to be confident in who you are and what you\'re doing. Of course, you try to evolve. I would never tell you, \'Today is the best I will ever be.\' I\'m always trying to be a better chef, a better dad, a better person.',
-        'Guy Fieri',
+    '58016582-2d52-5295-bcef-574699aa05ae' => [
+        'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
+        'Will Rogers',
     ],
-    '41c659c7-6431-550e-9083-9627d421a8a8' => [
-        'Yeah. I\'ve been pretty fortunate to travel I guess, all around the place.',
-        'Ben E. King',
+    '7e9920af-be34-511b-b470-1644ae662f24' => [
+        'In the early 2000s, people expected that anonymity on the Internet would be positive for the development of democracy in South Korea. In a Confucian culture like South Korea\'s, hierarchy can block the free exchange of opinions in face-to-face situations. The web offered a way around that.',
+        'Kim Young-ha',
     ],
-    '4636822a-52ba-5060-87aa-db838105e2d0' => [
-        'My art is an attempt to reach beyond the surface appearance. I want to see growth in wood, time in stone, nature in a city, and I do not mean its parks but a deeper understanding that a city is nature too-the ground upon which it is built, the stone with which it is made.',
-        'Andy Goldsworthy',
+    '2148833c-7a34-5528-a057-aad19ae19c7d' => [
+        'Beauty is unbearable, drives us to despair, offering us for a minute the glimpse of an eternity that we should like to stretch out over the whole of time.',
+        'Albert Camus',
     ],
-    '721efb63-e299-566b-bea1-4bad4e282cc5' => [
-        'Men want a battle to fight, an adventure to live, and a beauty to rescue. That is what is written in their hearts. That is what little boys play at. That is what men\'s movies are about. You just see it. It is undeniable.',
-        'John Eldredge',
+    'd83b7f16-7dbf-56af-be62-314c8a483e58' => [
+        'When I\'ve had hard times in my life, the one thing about being in TV is that it\'s positive. I withdrew to \'Cheers,\' it was familiar in that it was family. It had a kind of realistic positiveness to it.',
+        'Bruno Heller',
     ],
-    '0c769f91-671a-54a3-ae52-c5042eabd502' => [
-        'We are presented with a unique situation in the black community in that we have embraced the beauty of hip hop, the real rawness of it, the real fun of it, but we also have to address the damage it has done. We have to look at what it\'s done to our black girls, especially when it comes to domestic violence.',
-        'Tamron Hall',
+    'fb39ef76-bb81-59bf-8613-b694e1d102d3' => [
+        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
+        'Amelia Barr',
     ],
-    'b0c79962-6e92-5723-9eae-4b7dd7615fad' => [
-        'No matter how busy you are, you must take time to make the other person feel important.',
-        'Mary Kay Ash',
+    '1c1f4322-b08b-55ba-9d71-3144c0b0f162' => [
+        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
+        'Naveen Jain',
     ],
-    '54bc938c-5086-5add-ab76-a162f0fdcfd2' => [
-        'Peace cannot be kept by force. It can only be achieved by understanding.',
-        'Albert Einstein',
+    '8eaa4ded-1fa4-518f-9ba8-8142b79961e3' => [
+        'Life and death are one thread, the same line viewed from different sides.',
+        'Oscar Wilde',
     ],
-    'a51a36ae-a621-599b-9192-5c8adf26a500' => [
-        'The Senator from Massachusetts has given us ample grounds to doubt the judgment and the attitude he brings to bear on vital issues of national security.',
-        'Dick Cheney',
+    'fb466c0d-222e-55c0-b9fe-16fd296cdf9d' => [
+        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
+        'Joakim Noah',
     ],
-    '216843cf-2ac0-5948-9c20-31c7b0402cba' => [
-        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
-        'W. Clement Stone',
+    '9a97768c-297f-5da3-9672-48d79e649548' => [
+        'Gambling: The sure way of getting nothing for something.',
+        'Wilson Mizner',
     ],
-    'c9c6058b-3c67-5a2d-b312-b7d4168757b9' => [
-        'Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.',
-        'Bruce Lee',
+    '01af21d2-6ea2-5036-a57a-580b30950521' => [
+        'Surprise is the greatest gift which life can grant us.',
+        'Alana Stewart',
     ],
-    'e103002f-a4e3-5326-9143-aeb7b60b7e1b' => [
-        'People who urge you to be realistic generally want you to accept their version of reality.',
-        'Unknown',
+    'd89b14f6-7573-52fd-9696-31c32ab6eaca' => [
+        'People are not lazy. They simply have impotent goals, that is, goals that do not inspire them.',
+        'Tony Robbins',
     ],
-    'a29257d5-ac76-539a-a6bc-c97b8c2ace03' => [
-        'If you can\'t be in awe of Mother Nature, there\'s something wrong with you.',
-        'Alex Trebek',
+    '64d8025c-2f39-5a68-8170-4c9040b84d31' => [
+        'You know, true love really matters, friends really matter, family really matters. Being responsible and disciplined and healthy really matters.',
+        'Courtney Thorne-Smith',
     ],
-    '70249243-9035-51dd-8b6c-8ae109ccc186' => [
-        'Sometimes not telling people anything is a good thing.',
-        'Jason Myers',
+    'f6742fc5-05ea-5d9d-b67c-44affd9a4e74' => [
+        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
+        'Natalie Portman',
     ],
-    'f00c1aed-c436-5ba7-87cd-10aa0f592827' => [
-        'Kind words are the music of the world. They have a power which seems to be beyond natural causes, as if they were some angel\'s song, which had lost its way and come on Earth, and sang on undyingly, smiting the hearts of men with sweetest wounds, and putting for the while an angel\'s nature into us.',
-        'Frederick William Faber',
+    '313f7a4e-d09c-510d-ade1-a41a0d7488df' => [
+        'The inventory process and stepping back in your life can sometimes be a very dark process. But it also can be extremely funny and surprising.',
+        'Craig Charles',
     ],
-    'b562b11e-f0be-5093-88e2-922e6eb6018c' => [
-        'In June as many as a dozen species may burst their buds on a single day. No man can heed all of these anniversaries; no man can ignore all of them.',
-        'Aldo Leopold',
+    '80c7a094-eab8-56f9-9317-9195fdb494ce' => [
+        'In Delhi, where I grew up, commerce is brusque. You don\'t ask each other how your day has been. You might not even smile. I\'m not saying this is ideal - it\'s how it is. You\'re tied together by a transaction. The customer doesn\'t tremble before complaining about how cold his food is.',
+        'Karan Mahajan',
     ],
-    '4e4ac83f-42c4-5a37-8725-e55481796933' => [
-        'If ants are such busy workers, how come they find time to go to all the picnics?',
-        'Marie Dressler',
+    '70aa900f-f83b-5e17-b8db-a4c0263b4544' => [
+        'I\'m a very positive thinker, and I think that is what helps me the most in difficult moments.',
+        'Roger Federer',
     ],
-    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
-        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
-        'Laura Esquivel',
+    '0bb79e71-59f8-5837-b17b-0d5914fc97a3' => [
+        'The most common error made in matters of appearance is the belief that one should disdain the superficial and let the true beauty of one\'s soul shine through. If there are places on your body where this is a possibility, you are not attractive - you are leaking.',
+        'Charles Lamb',
     ],
-    '730d2f39-cc16-51b9-839f-37970181bdb0' => [
-        'I go out there to win. People don\'t care if you die in this business. The only way I get back is with success.',
-        'Michael Bay',
+    '11ddc251-543d-59c5-8248-1239f95fa0bd' => [
+        'Happiness is found in doing, not merely possessing.',
+        'Napoleon Hill',
     ],
-    '430b0fcc-dfe3-58ff-859e-8a73b7ebf929' => [
-        'The ideal attitude is to be physically loose and mentally tight.',
-        'Arthur Ashe',
+    '7ec4eaf8-843d-5c9b-a7b1-8a2b8f012d8b' => [
+        'By four years of age, the average child in a family receiving public assistance has heard about 13 million words, compared to 45 million for a child from a wealthier family. The disadvantages developed during their first four years are usually still present in high school.',
+        'Sal Albanese',
     ],
-    'd2b1d20f-325c-5015-b879-0e85c33504fd' => [
-        'Poetry: the best words in the best order.',
-        'Samuel Taylor Coleridge',
+    '8e64cba0-7564-560d-8345-24b642b5df1f' => [
+        'We feel very honored to have been offered the responsibility to host this great event, Berlin is a wonderful city that is developing at a tremendous rate, and this decision means that we can now prepare to welcome the world\'s best athletes to a fascinating place.',
+        'Otto Schily',
     ],
-    'd4055544-d84a-562f-be2a-f2519248b6e8' => [
-        'Give me the luxuries of life and I will willingly do without the necessities.',
-        'Adam Braun',
+    'f4d2b393-d560-5702-9e91-369501c323b3' => [
+        'There is no higher religion than human service. To work for the common good is the greatest creed.',
+        'Woodrow Wilson',
     ],
-    'c4ef3db5-50a4-5c50-b9aa-06129d925026' => [
-        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
-        'Diane Ackerman',
+    'd77adf01-cd65-5748-9d7b-20cbedab3606' => [
+        'My success is not due to any personal superiority over other people.',
+        'John Philip Sousa',
     ],
 ];

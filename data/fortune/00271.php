@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '33f97548-d501-50d5-9976-c9d5a23a714a' => [
-        'A smile abroad is often a scowl at home.',
-        'Alfred Lord Tennyson',
+    'a8f39e87-c69a-5277-abc3-0a90a408d824' => [
+        'Surround yourself with good people. Whether they\'re the best or not, people are capable of learning if they\'ve got good hearts and they\'re good souls.',
+        'Kid Rock',
     ],
-    '34883812-8907-5d42-9da5-c8757af328d2' => [
-        'Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail.',
-        'Robert Motherwell',
+    'e27ae3dc-1df2-59a9-86f6-71d6d140faf2' => [
+        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
+        'Walt Whitman',
     ],
-    '1a105016-4a63-5227-93c7-e2730e0e9463' => [
-        'I\'ve always been able to transform happiness and pain and sorrow and tears into positive energy.',
-        'Thalia',
+    'd8aa0c9a-b702-5807-900a-3b234ba4bb17' => [
+        'It is better to travel well than to arrive.',
+        'Buddha',
     ],
-    '33ff334a-e5db-5a1a-8901-159d31acf850' => [
-        'You always succeed in producing a result.',
-        'Tony Robbins',
+    '07d1b70d-77c9-5148-a566-763d84adbf6f' => [
+        'The best ideas come as jokes. Make your thinking as funny as possible.',
+        'David Ogilvy',
     ],
-    '2bf7823f-1f89-5e6d-912e-f6b6f5175227' => [
-        'When deeds and words are in accord, the whole world is transformed.',
-        'Chuang Tzu',
+    'bbddae58-5338-57da-b4ff-c352a6285f06' => [
+        'Filipinos want beauty. I have to look beautiful so that the poor Filipinos will have a star to look at from their slums.',
+        'Imelda Marcos',
     ],
-    '3b7efcd2-8349-5964-be2f-6a022e93c58b' => [
-        'Studies have shown that inmate participation in education, vocational and job training, prison work skills development, drug abuse, mental health and other treatment programs, all reduce recidivism, significantly.',
-        'Bobby Scott',
+    'e54d532c-9fcb-528a-9de6-322c6cc67b98' => [
+        'Neither the Christian attitude of love for all mankind nor humane hopes for an organized society must cause us to forget that the \'human stratum\' may not be homogeneous.',
+        'Pierre Teilhard de Chardin',
     ],
-    'fe5ad987-2b07-506f-8ce2-fa65d7d7d01a' => [
-        'I have an interest in understanding evil. Who is the bad guy - the vampire who kills people and sucks their blood, or the survivalists who kill people to save their own lives? Is evil merely a creation of people? Or is there an evil nature? Or is it in the eye of the beholder? I really like these questions.',
-        'Lois Tilton',
+    '5139b9d1-f4c6-509b-ab66-33607a4e1313' => [
+        'Learning without reflection is a waste, reflection without learning is dangerous.',
+        'Confucius',
     ],
-    'efe301ec-5db4-5e6e-a730-833d38c9ffb1' => [
-        'If you\'re a good choice maker, you can choose the best emotional responses and choose the best new life paths, forward and upward.',
-        'Karen Salmansohn',
+    '5a668940-cdea-592e-9861-819a486d4896' => [
+        'I travel all the time, but when I come back to the South, I see such progress. In a real sense, a great deal of the South has been redeemed. People feel freer, more complete, more whole, because of what happened in the movement.',
+        'John Lewis',
     ],
-    'b2219e57-a4da-5fb0-bfde-867e188f0599' => [
-        'What were once only hopes for the future have now come to pass; it is almost exactly 13 years since the overwhelming majority of people in Ireland and Northern Ireland voted in favour of the agreement signed on Good Friday 1998, paving the way for Northern Ireland to become the exciting and inspirational place that it is today.',
-        'Queen Elizabeth II',
+    '7f98cd9f-334f-5188-a76d-81fa4b5e8153' => [
+        'Well, I think that there\'s a very thin dividing line between success and failure. And I think if you start a business without financial backing, you\'re likely to go the wrong side of that dividing line.',
+        'Richard Branson',
     ],
-    '18682d0e-396c-5306-a2b7-e935bb755fb3' => [
-        'When one side benefits more than the other, that\'s a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust.',
-        'Stephen Covey',
+    '02fa9a77-34b4-5fe2-9c7e-feb391c2a4f3' => [
+        'I\'m always trying to make myself laugh. I\'m the most enthusiastic audience I\'m likely to find, so if it doesn\'t make me smile then it probably won\'t work on you. The jokes that only make me shrug get cut.',
+        'Victor LaValle',
     ],
-    '7587e01b-7b2f-5295-896a-f936d22ca5ba' => [
-        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
-        'Mandy Moore',
+    '5ba9edaf-769f-5dc9-84a1-cc2280c29e90' => [
+        'The earth is such a voluminous, sparse, wild place that has its own rhythm that human beings try to control and strategize our way around, but the truth is, if you\'re out someplace like the ocean on a capsized boat, it doesn\'t matter if you have academic degrees, or if you\'re a martial-arts ninja. Nature is a bigger force than you.',
+        'Rachael Taylor',
     ],
-    '46dff4e5-051f-506c-aea9-0ef7fd95c90c' => [
-        'Don\'t be afraid of failure; be afraid of petty success.',
-        'Maude Adams',
+    'a926802d-9a96-51f0-a8d5-e6b70a29e4ce' => [
+        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.',
+        'Margaret Thatcher',
     ],
-    'fa7a020a-d64a-5c8c-8ae0-56d4320dfa91' => [
-        'I love it when people doubt me. It makes me work harder to prove them wrong.',
-        'Derek Jeter',
+    '12e98733-d4ff-558e-8021-b370059489d3' => [
+        'You should tell yourself frequently \'I will only react to constructive suggestions.\' This gives you positive ammunition against your own negative thoughts and those of others.',
+        'Jane Roberts',
     ],
-    'c7a5b4d6-2ac7-50ea-9053-774f88edf303' => [
-        'What is necessary to change a person is to change his awareness of himself.',
-        'Abraham Maslow',
+    '83c4a0be-8746-511b-b0bb-c79e3a1b0b09' => [
+        'It hurts when you have to smile and you don\'t want to smile, but the best thing to do is to smile.',
+        'Mary J. Blige',
     ],
-    '4b504192-ebbd-5b17-9b44-0c3e7be8cde5' => [
-        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
-        'Eckhart Tolle',
-    ],
-    'c68490b9-223e-561e-b557-bc4ead787fd0' => [
-        'Truth is the daughter of time, not of authority.',
-        'Francis Bacon',
-    ],
-    'ab032c88-1ffa-51cd-94b4-f88e77f5dae6' => [
-        'I\'m very much in the trenches, and I don\'t live in the lap of luxury. I come from a working-class military family. We watch the news and read the paper and vote, so there\'s always something to be upset about. I always have a certain amount of angst in my back pocket.',
-        'Pink',
-    ],
-    '35ae4cd7-018e-58d4-bab0-af9bb92b9a8f' => [
-        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
-        'Narciso Rodriguez',
-    ],
-    '077300f5-45a1-5a72-8a80-87012b67d5ec' => [
-        'My dream is of a place and a time where America will once again be seen as the last best hope of earth.',
-        'Abraham Lincoln',
-    ],
-    '8e0e4a05-3fb9-5352-9152-564a7ca49741' => [
-        'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
-        'Proverb',
-    ],
-    '7b9cb479-9fc3-5261-aaca-7d02ad718d01' => [
-        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
-        'Deepika Padukone',
-    ],
-    'f07e09dd-6962-53a5-94c0-e46a20f73417' => [
-        'Cultivation of mind should be the ultimate aim of human existence.',
-        'B. R. Ambedkar',
-    ],
-    'f8e9be08-c7cc-51e6-af06-1271a0b175b9' => [
-        'Fame can be just so annoying because people are so critical of you. You can\'t just say, \'hi\'. You say hi and people whisper\' man did you see the way she said hi? What an attitude.',
-        'Juliette Lewis',
-    ],
-    '84a54f20-92ab-566c-a094-1b26a9c936fb' => [
-        'It\'s better to waste money, than it is to waste time. You can always get more money.',
-        'Hal Sparks',
-    ],
-    'f50212ad-c4a6-5967-abe1-efd86b5ceaf4' => [
-        'If in my youth I had realized that the sustaining splendour of beauty of with which I was in love would one day flood back into my heart, there to ignite a flame that would torture me without end, how gladly would I have put out the light in my eyes.',
-        'Michelangelo',
-    ],
-    '2ae36023-e040-5b92-bc51-a2825340d96c' => [
-        'I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.',
-        'Marianne Vos',
-    ],
-    'e6095d28-e2b9-571d-9237-7144ee66ddeb' => [
-        'The first time I sang in the church choir; two hundred people changed their religion.',
-        'Fred Allen',
-    ],
-    'd0e9739c-b5e4-5b35-9ec8-74c8798e8299' => [
-        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
+    '929498d8-f44f-59f8-a3ad-be1f5b3b339d' => [
+        'You can never quit. Winners never quit, and quitters never win.',
         'Ted Turner',
     ],
-    'f5f34194-2cc6-5c6e-9f88-11695d3b7b21' => [
-        'The whole object of travel is not to set foot on foreign land; it is at last to set foot on one\'s own country as a foreign land.',
-        'Gilbert K. Chesterton',
+    'b67508bb-c37d-5b56-a509-d1a29ddc4665' => [
+        '\'In Search of Excellence\' - even the title - is a reminder that business isn\'t dry, dreary, boring, or by the numbers. Life at work can be cool - and work that\'s cool isn\'t confined to Tiger Woods, Yo-Yo Ma, or Tom Hanks. It\'s available to all of us and any of us.',
+        'Tom Peters',
     ],
-    '377bd71e-4473-59dd-8aae-e9d80f8905ba' => [
-        'Hell is nothing else but nature departed or excluded from the beam of divine light.',
-        'William Law',
+    '9c1fdd12-efe1-5641-95db-2242db862d95' => [
+        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
+        'David McCallum',
     ],
-    '4b796583-4b9b-55cc-9065-c588acfe9741' => [
-        'I trained as a journalist in America where paying sources is frowned upon. Now I work in the U.K. where there is a more flexible attitude.',
-        'Heather Brooke',
+    'ba3efebf-06f4-57a8-ab51-bac1341c54c3' => [
+        'We are here to add what we can to life, not to get what we can from life.',
+        'Franklin D. Roosevelt',
     ],
-    '12e94540-4313-5c2c-830b-13bb49968e41' => [
-        'Don\'t judge each day by the harvest you reap but by the seeds you plant.',
-        'Robert Stevenson',
+    '570ba9f9-35c0-5cc6-b2ef-7c4b0a9e968f' => [
+        'Funny thing is that the poorer people are, the more generous they seem to be.',
+        'Dolly Parton',
     ],
-    '3d2b176d-d570-5f83-98a7-98b4862ea431' => [
-        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
-        'John O\'Donohue',
+    '090e6d3b-e9eb-5090-99df-8409639c75cf' => [
+        'He is a very positive captain; he is proactive as well as reactive. He is keen to read the game, to get in there, and he never stops thinking about the game, the situation, and trying to turn it to his advantage. He has been very good for the game.',
+        'David Gower',
     ],
-    '63288b23-09d3-58aa-9c76-55c5fe86f931' => [
-        'Essentially, all expressions of human nature ever produced, from a caveman\'s paintings to Mozart\'s symphonies and Einstein\'s view of the universe, emerge from the same source: the relentless dynamic toil of large populations of interconnected neurons.',
-        'Miguel Nicolelis',
+    '9845c594-30b2-5034-bc0e-b89c66659162' => [
+        'My father taught my siblings and me the importance of positive values and a strong ethical compass. He showed us how to be resilient, how to deal with challenges, and how to strive for excellence in all that we do. He taught us that there\'s nothing that we cannot accomplish if we marry vision and passion with an enduring work ethic.',
+        'Ivanka Trump',
     ],
-    'bc02a6e9-bbb7-5b30-9277-5a6b1663b63c' => [
-        'Mere goodness can achieve little against the power of nature.',
-        'Georg Wilhelm Friedrich Hegel',
+    'cc0eba41-40fd-5815-8f3d-6bc089f70d43' => [
+        'A smile is the universal welcome.',
+        'Max Eastman',
     ],
-    '537e8c9d-c3c5-512f-898a-a18e2fda980e' => [
-        'You see countries like India really investing in their space program because they see it as inspirational and good for their economy.',
-        'Ellen Stofan',
+    'b7d14858-f15e-51ee-9b2e-48d6c9ded364' => [
+        'Well, certainly one of the ironies of the success of affirmative action is that the middle class within the black community no longer lives within \'black community\' by and large.',
+        'Henry Louis Gates',
     ],
-    '5ebb18c7-8d6b-5f83-9427-8f108070b97d' => [
-        'I travel all over the world, usually 10 months out of the year. I stay at a lot of hotels, and the ones I like best are clean and not complicated. You go to bed and say, \'Wow, I feel comfortable.\'',
-        'Nobu Matsuhisa',
+    '5a2bb66b-79b6-56fb-97b5-ef20c2df420e' => [
+        'When you\'re climbing with someone who always sees the bright spot, even if there is no bright spot, that attitude is really helpful.',
+        'Kevin Jorgeson',
     ],
-    'a5e9d4be-ea83-5cc5-8636-f6e60c0cce48' => [
-        'If you have a secret, people will sit a little bit closer.',
-        'Rob Corddry',
+    'c148c78f-27f8-5654-8766-39350f4ea7bd' => [
+        'I get to travel, see the world, meet people and be independent. I feel blessed.',
+        'Bar Refaeli',
     ],
-    '878c9637-3163-5f2a-81f8-105a80eed919' => [
-        'The only durable sense of success is if you\'ve followed your calling.',
-        'Jim Harrison',
+    'ce9dac48-f5fe-50de-b779-cb98eaca7fe3' => [
+        'People are crazy and times are strange/ I\'m locked in tight, I\'m out of range/ I used to care, but things have changed.',
+        'Bob Dylan',
     ],
-    '5e038bce-4ed9-5d8d-a9bf-fd4d857c4eac' => [
-        'I always had the attitude that I wanted to throw a no-hitter every game.',
-        'Dennis Eckersley',
+    '7a2a15e8-20b2-54d6-980d-032847f3e71e' => [
+        'Success is not the result of spontaneous combustion. You must set yourself on fire.',
+        'Reggie Leach',
     ],
-    'a3348d6e-62c4-5ab8-a6b6-c717db5ac07a' => [
-        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
-        'Mr. T',
+    '0a04ff19-3d44-5fdf-875a-165b69801121' => [
+        'Age does not protect you from love. But love, to some extent, protects you from age.',
+        'Anais Nin',
     ],
-    'cbd29ce5-d99c-5894-aa9f-13d46b205990' => [
-        'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
-        'Meg Whitman',
+    'a27113f2-fd2e-56e5-89b3-0cdfc01f40d5' => [
+        'The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.',
+        'Edward Ericson',
     ],
-    '86e036bd-b4c6-5a5c-95e3-c16f4f762f78' => [
-        'Take a course in good water and air; and in the eternal youth of Nature you may renew your own. Go quietly, alone; no harm will befall you.',
-        'John Muir',
+    'a51ddc5a-7717-5cc5-81a1-6192aab2d0a7' => [
+        'Family and moral values are so central to everything that I am.',
+        'Marian Wright Edelman',
     ],
-    '10745059-e3c5-54ee-a20e-58ef46c31544' => [
-        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
-        'Chelsea Manning',
+    '50498170-a32c-5b98-a624-b1df45753215' => [
+        'Unrest of spirit is a mark of life.',
+        'William Shakespeare',
     ],
-    'e0260fad-5497-5d1a-93c8-c9eb6fe87339' => [
-        'Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.',
-        'Lu Wei',
+    '23f872d3-dacc-5f7c-8483-26a658434614' => [
+        'Nothing in life is to be feared. It is only to be understood.',
+        'Marie Curie',
     ],
-    '2d9b7fe6-40ca-532b-8704-83d2a4d83ed1' => [
-        'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.',
-        'Ovid',
+    '4dcb8e6e-0331-5cf8-83df-64590b53cb3e' => [
+        'Mushrooms are miniature pharmaceutical factories, and of the thousands of mushroom species in nature, our ancestors and modern scientists have identified several dozen that have a unique combination of talents that improve our health.',
+        'Paul Stamets',
     ],
-    '41cae6c4-7bf9-5770-880f-42ee9f092315' => [
-        'I discovered that the horse is life itself, a metaphor but also an example of life\'s mystery and unpredictability, of life\'s generosity and beauty, a worthy object of repeated and ever changing contemplation.',
-        'Jane Smiley',
+    'd187542d-5383-55ff-99b8-f49b931d8ebb' => [
+        'Seek goodness and be goodness. Seek beauty and be beauty. Seek love and be love.',
+        'Bryant H. McGill',
     ],
-    '8e8553ee-0136-5cf9-a35c-8eb226743920' => [
-        'It\'s not who\'s the best - it\'s who can take the most pain.',
-        'Steve Prefontaine',
+    '5c0168d2-5a9d-5581-8ef9-6ab918fda137' => [
+        "Don\u{92}t lose a woman that has seen your flaws and still loves you.",
+        'Nizar Qabbani',
     ],
-    '9b0f656a-0d41-5a58-a7ea-ebfdad927dd3' => [
-        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
-        'Lionel Sosa',
+    '159d17e3-9d29-5e1b-bb44-85852280753e' => [
+        'Our society is not a community, but merely a collection of isolated family units.',
+        'Valerie Solanas',
     ],
-    '92c7bf80-39fb-59f5-aa00-19d4cf6f0a6e' => [
-        'When a work lifts your spirits and inspires bold and noble thoughts in you, do not look for any other standard to judge by: the work is good, the product of a master craftsman.',
-        'Jean de la Bruyere',
+    '1e3af9e2-2a56-56b1-aa1e-229ef17cdedd' => [
+        'In the first six to twelve months of a war with the United States and Great Britain I will run wild and win victory upon victory. But then, if the war continues after that, I have no expectation of success.',
+        'Isoroku Yamamoto',
+    ],
+    '7b7e3af1-1a18-5964-8608-97a6d73358a1' => [
+        'Time changes everything except something within us which is always surprised by change.',
+        'Thomas Hardy',
+    ],
+    '509e8d4a-b672-5f31-b6b0-e3a4ef75de90' => [
+        'Some people are born good-looking. Some have the gift of gab. And some are lucky enough to be born smarter than the rest of us. Whether we like it or not, Mother Nature does not dole these characteristics out evenly.',
+        'Simon Sinek',
+    ],
+    '8abe0a39-402c-55d4-9bd1-3dad097e5c2e' => [
+        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
+        'Paul Walker',
+    ],
+    'f34a7924-d589-56bb-8590-f78c95c1e2cb' => [
+        'A smile is a facelift that\'s in everyone\'s price range!',
+        'Tom Wilson',
+    ],
+    'bb2b844d-9d4b-5170-a412-85a3e3be633f' => [
+        'I\'ve learned to lose with a smile on my face. That\'s what the Oscar teaches you.',
+        'Alejandro Gonzalez Inarritu',
+    ],
+    'dae45047-1486-5b06-8571-de207e4804cd' => [
+        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
+        'Kevin Spacey',
+    ],
+    '68e20ca8-4f21-5836-bca8-1821ff769aeb' => [
+        'Positive social emotions like compassion and empathy are generally good for us, and we want to encourage them. But do we know how to most reliably raise children to care about the suffering of other people? I\'m not sure we do.',
+        'Sam Harris',
+    ],
+    '2340ffc4-6867-56ef-836e-2b220bf33a1e' => [
+        'Why compare yourself with others? No one in the entire world can do a better job of being you than you.',
+        'Unknown',
+    ],
+    'be30ff66-bd4a-5556-a1ab-7ff7794453bf' => [
+        'They thought I was a success as soon as I started paying the bills.',
+        'Mahalia Jackson',
+    ],
+    '5f676f59-6ca0-595a-b476-18f62538b8e4' => [
+        'Life\'s challenges are not supposed to paralyse you, they\'re supposed to help you discover who you are.',
+        'Bernice Reagon',
+    ],
+    '696f402f-b84d-550d-9351-a6b666bd5ce6' => [
+        'But every great scripture, whether Hebrew, Indian, Persian, or Chinese, apart from its religious value will be found to have some rare and special beauty of its own; and in this respect the original Bible stands very high as a monument of sublime poetry and of artistic prose.',
+        'Lafcadio Hearn',
+    ],
+    'd255210d-943e-5e2c-b9cd-7085afac89ed' => [
+        'A work of art is above all an adventure of the mind.',
+        'Eugene Ionesco',
+    ],
+    'ce7ff1c4-2294-5b78-9a90-a049082ac35d' => [
+        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
+        'Louis D. Brandeis',
     ],
 ];

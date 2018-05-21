@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '01bd3273-e50e-5a0c-af4d-131aa12f6726' => [
-        'When life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
-        'Andrea Thompson',
+    'ce1cd413-5cbd-585a-bdbe-2b9674640702' => [
+        'It\'s extremely important just to keep things positive and happy as much as we can... I think it\'s important that singers, actors, or whatever use our voice to spread positive messages as much as we possibly can.',
+        'Shawn Mendes',
     ],
-    '162c8b2e-17f5-5c6c-aa8a-6b9fbcd4571b' => [
-        'Your most important work is always ahead of you, never behind you.',
-        'Stephen Covey',
+    '664d422b-ecb8-523f-9db8-aca80cd21607' => [
+        'When you Google me, you\'ll find a lot of people don\'t like Richard Dreyfuss. Because I\'m cocky and I present a cocky attitude. But no one has ever disagreed with the notion I represent, that we need more civic education. So far there\'s 100 percent support for that.',
+        'Richard Dreyfuss',
     ],
-    'ed037d9f-e7ad-5e86-b2d3-7987679a4e93' => [
-        'There are more important things in life than winning or losing a game.',
-        'Tim Hetherington',
+    'a354cfc0-eb8a-5c87-853d-c83728ab7789' => [
+        'You never know what motivates you.',
+        'Cicely Tyson',
     ],
-    'cbf26480-dc44-5878-8a48-a8ff186d9390' => [
-        'I appreciate the \'Surreal Life.\' I had a really positive experience on that show, and with those people. I found some love in my heart for religion again, and had the support of a new family of friends. I wouldn\'t have had the pleasure of meeting those people, if we were not all placed in that fishbowl.',
-        'Vince Neil',
+    '7e269cec-5828-5031-8213-3d5d408fe109' => [
+        'Whatever the mind of man can conceive and believe, it can achieve.',
+        'Napoleon Hill',
     ],
-    '467930ce-b5a1-5a05-9f32-901f3941b2ab' => [
-        'PETA has a proven track record of success. Each victory PETA wins for the animals is a stepping stone upon which we build a more compassionate world for all beings - and we will never give up our fight until all animals are treated with respect and kindness.',
-        'Bea Arthur',
+    'f65732ec-c626-5d46-ad04-f6cb49f2a29e' => [
+        'The more light you allow within you, the brighter the world you live in will be.',
+        'Shakti Gawain',
     ],
-    '6f6e935f-0963-5fde-9c55-5b78db06eeb2' => [
-        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
-        'Josephine de La Baume',
+    '000a3175-f900-5b9c-931f-4d40eee9c294' => [
+        'What\'s a bigger mystery box than a movie theater? You go to the theater, you\'re just so excited to see anything - the moment the lights go down is often the best part.',
+        'J. J. Abrams',
     ],
-    '324895da-7eba-5fb3-ace9-6d88bd355120' => [
-        'Personality is the most important thing to an actress\'s success.',
-        'Mae West',
+    '701be3a9-6cf9-5079-a961-d3c5d1c8514e' => [
+        'Slow travel now rivals the fly-to-Barcelona-for-lunch culture. Advocates savour the journey, travelling by train or boat or bicycle, or even on foot, rather than crammed into an airplane. They take time to plug into the local culture instead of racing through a list of tourist traps.',
+        'Carl Honore',
     ],
-    'f0187508-a54e-5c60-ba07-a72dd8b47fbb' => [
-        'McDonald\'s has been extraordinary at site selection; it was a pioneer in studying the best places for retail locations. One of the things it did is study very carefully where sprawl was headed.',
-        'Eric Schlosser',
+    'f4f767d1-bbe7-5c36-bca4-15c57c32d346' => [
+        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
+        'Sylvia Mathews Burwell',
     ],
-    'bb8edc9e-7620-5b89-8368-88883a683e2c' => [
-        'When I am wrong, I will learn the lesson and move on to face other challenges. For me, that\'s what creating your own life is. Doing your best work while being your best self.',
-        'Jennifer Lopez',
-    ],
-    '2b255286-6038-5077-95f6-da257b024235' => [
-        'Every man has a sane spot somewhere.',
-        'Robert Louis Stevenson',
-    ],
-    'afa71e53-766a-533a-bae0-e21d4c66921c' => [
-        'I always knew I wanted to play golf and go to college. I try hard to be a positive role model, especially on the golf course. I try to carry myself well, and don\'t do anything outrageous. I try to play the game like a gentleman and give everyone respect. That\'s how the game should be played.',
-        'Dustin Johnson',
-    ],
-    '5eee95d0-91c9-5791-a468-a38273186df7' => [
-        'Two months after I got out of test pilot school, I saw an advert that said NASA was recruiting more astronauts. The best job you could have as a test pilot was being an astronaut, so I volunteered.',
-        'Charles Duke',
-    ],
-    'bbaafc29-9e67-50e5-8357-97b6c8267ea8' => [
-        'I have played on many teams throughout my career, and I know when a team has the tools, and the right positive attitude towards winning.',
-        'Boomer Esiason',
-    ],
-    '713aa568-72c6-5714-a4e8-3ed746dfac8c' => [
-        'There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.',
-        'Linda Hogan',
-    ],
-    'f0afb9fc-f2a0-5f57-8c69-0a2fd385ecc9' => [
-        'No life\'s worth more than any other, no sister worth less than any brother.',
-        'Bruce Lee',
-    ],
-    '7515192c-3615-5e2c-816f-8e968d7ddbbf' => [
-        'That which you create in beauty and goodness and truth lives on for all time to come. Don\'t spend your life accumulating material objects that will only turn to dust and ashes.',
-        'Denis Waitley',
-    ],
-    'aa997411-a4aa-551f-b77a-2232d790f2fd' => [
-        'What happens in the context of war is that, in order for you to make a child into a killer, you destroy everything that they know, which is what happened to me and my town. My family was killed, all of my family, so I had nothing.',
-        'Ishmael Beah',
-    ],
-    'ae2eec32-8b8d-5d7c-94f0-d850876a3ea4' => [
-        'Sunday, for me, is all about being home with the family with no plans.',
-        'John Lasseter',
-    ],
-    '9690cca7-2e3e-5545-8193-a1cadfbbda39' => [
-        'When you run the marathon, you run against the distance, not against the other runners and not against the time.',
-        'Haile Gebrselassie',
-    ],
-    '2d02b29b-7f2b-5e5f-a03b-349df1be0855' => [
-        'The time to hesitate is through.',
-        'Robby Krieger',
-    ],
-    '620a0351-289d-5f01-98a1-523f10befab2' => [
-        'A work well begun is half-ended.',
-        'Plato',
-    ],
-    'd42c0395-b54e-5a86-814a-c5b3dccaa564' => [
-        'Doubt kills more dreams than failure ever will.',
-        'Karim Seddiki',
-    ],
-    'b1bbf6ed-3e01-5d8e-8b45-df670bef0d9c' => [
-        'Music in the soul can be heard by the universe.',
-        'Lao Tzu',
-    ],
-    '03c75b12-a4a5-51af-9a4e-c3eddcfd2dfd' => [
-        'The painter who is familiar with the nature of the sinews, muscles, and tendons, will know very well, in giving movement to a limb, how many and which sinews cause it; and which muscle, by swelling, causes the contraction of that sinew; and which sinews, expanded into the thinnest cartilage, surround and support the said muscle.',
-        'Leonardo da Vinci',
-    ],
-    'e901fdfc-15d6-5695-9649-e0ec3d335856' => [
-        'I get up at 7:30 and work four hours a day. Nine to twelve in the morning, five to six in the evening. Businessmen would achieve better results if they studied human metabolism. No one works well eight hours a day. No one ought to work more than four hours.',
-        'Kurt Vonnegut',
-    ],
-    '169f3e59-454e-53ff-95ba-fde5667e4fd6' => [
-        'Hollywood\'s a very weird place. I think there\'s less of everything except for attitude.',
-        'Dean Cain',
-    ],
-    'a98aba6b-4ca1-5836-8432-df2aa2ba38f9' => [
-        'The idea of having a steady job is appealing.',
-        'Robin Williams',
-    ],
-    '6731a186-7db2-5bd8-a6ea-196ec1e76498' => [
-        'Never regret yesterday. Life is in you today and you make your tomorrow.',
-        'John Milton',
-    ],
-    'ea6f2dcb-d324-539a-aaba-55e66a66dd9b' => [
-        'One person may need (or want) more leisure, another more work; one more adventure, another more security, and so on. It is this diversity that makes a country, indeed a state, a city, a church, or a family, healthy. \'One-size-fits-all,\' and that size determined by the State has a name, and that name is \'slavery.\'',
-        'David Mamet',
-    ],
-    'f5d48406-0356-5e92-ab4e-3ffc527daf77' => [
-        'Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.',
-        'Norman Cousins',
-    ],
-    '34de00f7-1e53-5d50-9498-57ac85db1b84' => [
-        'If we do not voluntarily bring population growth under control in the next one or two decades, the nature will do it for us in the most brutal way, whether we like it or not.',
-        'Henry W. Kendall',
-    ],
-    '854c26ea-f7f7-5a6e-8c23-362d90008ce0' => [
-        'The great thing in life is efficiency. If you amount to anything in the world, your time is valuable, your energy precious. They are your success capital, and you cannot afford to heedlessly throw them away or trifle with them.',
-        'Orison Swett Marden',
-    ],
-    '901a910c-7c2c-537e-ad51-485f76f2fd4e' => [
-        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
-        'Joyce Meyer',
-    ],
-    'a33be87b-f744-51a8-943f-c9f2a17924c6' => [
-        'The world is a book, and those who do not travel read only a page.',
-        'Augustinus Sanctus',
-    ],
-    '306fcff3-6ca2-552b-baeb-22156fe3df36' => [
-        'There\'s no success story. Everybody\'s got a ghetto story. You always want to make it bigger than what it is.',
-        'Bernie Mac',
-    ],
-    '85bdff6c-d7be-5310-bc55-8ffbab834c55' => [
-        'Employees are your most valuable assets. They are the heart and guts of a company. This doesn\'t mean that from time to time, you aren\'t going to do what is good for the company.',
-        'Carlos Ghosn',
-    ],
-    '53c18ee8-d572-5021-8846-1335f2181003' => [
-        'I never expected to see the day when girls would get sunburned in the places they now do.',
-        'Will Rogers',
-    ],
-    '8521e86b-221e-5486-8a86-25efb3456857' => [
-        'The best place to find a helping hand is at the end of your own arm.',
-        'Unknown',
-    ],
-    '397b6ea0-9176-5814-ba5e-98f403762af3' => [
-        'My favorite parable for living a positive and influential life is the Golden Rule: \'Do unto others what you would have them do unto you.\'',
-        'Tony Oller',
-    ],
-    '9e01efc9-5bf1-5820-ab59-07717a50e8ae' => [
-        'Procrastination is the thief of time.',
-        'Edward Young',
-    ],
-    'e07c0502-41b6-5508-8a25-9aca5363cc9d' => [
-        'Happiness comes when your work and words are of benefit to yourself and others.',
-        'Buddha',
-    ],
-    'b51a1970-8eb3-5953-a75e-2cedaf1f8b1b' => [
-        'If life were predictable it would cease to be life, and be without flavor.',
-        'Jim Henson',
-    ],
-    '9c2403d3-6e81-50f5-93b9-14c66f479b04' => [
-        'New beginnings are often disguised as painful endings.',
-        'Lao Tzu',
-    ],
-    '282f1661-8eda-539d-b305-6e76c2ee1c9c' => [
-        'Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.',
-        'William S. Burroughs',
-    ],
-    '8a435a36-109b-5e3b-b13d-11abfc4c8b8b' => [
-        'I am so saddened and grossed out by young women who look like creepy, old aliens because of their new Barbie noses and lips. Is that a smile or a grimace?',
-        'Olivia Wilde',
-    ],
-    'ab7e65ae-7e47-573c-8e19-a071ceddb60b' => [
-        'Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort.',
-        'Charles J. Givens',
+    '611ee4d6-437b-54be-a9fe-384eb5aaf009' => [
+        'Comedy is simply a funny way of being serious.',
+        'Peter Ustinov',
     ],
     '04be6fb1-43fe-5ab7-881a-722bbae155b3' => [
         'Roosevelt\'s declaration that Americans had \'nothing to fear but fear itself\' was a glorious piece of inspirational rhetoric and just as gloriously wrong.',
         'Russell Baker',
     ],
-    '921cc444-6682-5c0b-87cb-a16951f8b8e3' => [
-        'I lead a simple life. I get residuals. I have a family; we\'re doing alright.',
-        'Robert Morse',
+    '8ebcdc68-2517-5baf-8697-dd8c9bbd74da' => [
+        'The best path through life is the highway.',
+        'George Bernard Shaw',
     ],
-    'b73cd10f-821e-5f01-9453-cf7b5544eebc' => [
-        'I come from a poor family.',
-        'Manny Pacquiao',
+    '5704e1e4-ef4d-56f6-b2bd-e10702ec9ace' => [
+        'Success is not a destination, but the road that you\'re on. Being successful means that you\'re working hard and walking your walk every day. You can only live your dream by working hard towards it. That\'s living your dream.',
+        'Marlon Wayans',
     ],
-    '0a2c3bd6-2b53-58c6-ac1f-de4b2370484d' => [
-        'The last time I saw him he was walking down lover\'s lane holding his own hand.',
-        'Fred Allen',
+    'ff4b73e9-8ca2-5bc7-b674-af760bfa4590' => [
+        'When you travel around Moscow, you can see almost every car is using a smartphone where they can see what\'s ahead of them.',
+        'Arkady Volozh',
+    ],
+    '2abcef0e-7911-5783-a4af-812cbfaf4b39' => [
+        'Keep your eyes open to your mercies. The man who forgets to be thankful has fallen asleep in life.',
+        'James E. Faust',
+    ],
+    'd100ebf8-2f68-58ac-9832-c683589195c5' => [
+        'It\'s funny, but you get to a time in your life when you think you have all the friends you will ever have.',
+        'Liam Neeson',
+    ],
+    '34efbb0c-84a2-59d2-b9e7-8ba9e8aa9c9b' => [
+        'My life needs editing.',
+        'Jack Nicholson',
+    ],
+    '9a568933-4726-5b84-beb3-153e972bfd12' => [
+        'Negative freedom is freedom from - freedom from oppression, whether it\'s a colonial power or addiction to alcohol oppressing you. You need to be freed from negative freedom. Positive freedom is freedom for, freedom to be. And that\'s what\'s routinely ignored today.',
+        'Os Guinness',
+    ],
+    '29d88f64-78fc-5185-a133-68dd4504ac74' => [
+        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
+        'Susan B. Anthony',
+    ],
+    '5f1a759a-e20f-5160-99f4-af14cf35f5b1' => [
+        'Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.',
+        'E. F. Schumacher',
+    ],
+    'aaec2853-811e-5b7e-9744-879f413fb494' => [
+        'I am not bothered by the fact that I am unknown. I am bothered when I do not know others.',
+        'Confucius',
+    ],
+    '88035bc5-1b76-5210-b499-3ecadc750114' => [
+        'To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.',
+        'Gilbert K. Chesterton',
+    ],
+    '9ab3e6a2-67a7-568d-8526-c6d902a35ac5' => [
+        'Civilization is a method of living, an attitude of equal respect for all men.',
+        'Jane Addams',
+    ],
+    'f2c4505d-d30f-55ce-9792-993d1755c2bf' => [
+        'Obstacles are necessary for success because in selling, as in all careers of importance, victory comes only after many struggles and countless defeats.',
+        'Og Mandino',
+    ],
+    '058cab39-b1fb-565e-9d83-16e3f18d0089' => [
+        'Visualize this thing that you want, see it, feel it, believe in it. Make your mental blue print, and begin to build.',
+        'R Collier',
+    ],
+    '03c75b12-a4a5-51af-9a4e-c3eddcfd2dfd' => [
+        'The painter who is familiar with the nature of the sinews, muscles, and tendons, will know very well, in giving movement to a limb, how many and which sinews cause it; and which muscle, by swelling, causes the contraction of that sinew; and which sinews, expanded into the thinnest cartilage, surround and support the said muscle.',
+        'Leonardo da Vinci',
+    ],
+    '13afa4d6-b0e7-51f8-b3f4-3236b95adf0f' => [
+        'When the human race neglects its weaker members, when the family neglects its weakest one - it\'s the first blow in a suicidal movement. I see the neglect in cities around the country, in poor white children in West Virginia and Virginia and Kentucky - in the big cities, too, for that matter.',
+        'Maya Angelou',
+    ],
+    'bbdb719b-7988-5ec5-92a9-8b3306260d32' => [
+        'When you begin to touch your heart or let your heart be touched, you begin to discover that it\'s bottomless.',
+        'Pema Chodron',
+    ],
+    '7231f879-cbb1-5255-986a-439abdc4a06d' => [
+        'There is perhaps nothing so bad and so dangerous in life as fear.',
+        'Lindsey Vonn',
+    ],
+    '6f8a3116-e4e3-5afe-b56f-7fc1b67b1612' => [
+        'Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.',
+        'Walt Whitman',
+    ],
+    'f986e975-9abd-5300-a3e3-1ef962c472f6' => [
+        'Let us make our future now, and let us make our dreams tomorrow\'s reality.',
+        'Malala Yousafzai',
+    ],
+    'a9b0ca8b-90d8-5cce-90fa-8a773e5a050c' => [
+        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
+        'Lorrie Moore',
+    ],
+    'a431136d-20e2-547e-81db-66a672aa69fa' => [
+        'It\'s funny, I\'m very analytical in my real life, but in terms of my films, I try to not analyze them at all and let things just go into them and let them be what they are. I mean, people ask me to this day what \'The Squid and the Whale\' stood for, and I have no idea except that it\'s an exhibit in the Natural History Museum.',
+        'Noah Baumbach',
+    ],
+    '2178bd35-9ef4-5938-a828-ba8d1c0c0572' => [
+        'Whether you succeed or not is irrelevant, there is no such thing.  Making your unknown known is the important thing.',
+        'Georgia O\'Keeffe',
+    ],
+    'b392e9bf-eac1-57a0-9c20-8ba0aaa08d26' => [
+        'My very best friend died in a car accident when I was 16 years old. That was the hardest blow emotionally that I have ever had to endure. Suddenly, you realize tomorrow might not come. Now I live by the motto, \'Today is what I have.\'',
+        'Amber Heard',
+    ],
+    'b79fb94a-0234-5946-86b4-9ad89c5d5d94' => [
+        'The good man is the friend of all living things.',
+        'Mahatma Gandhi',
+    ],
+    'aa8c925f-8074-5987-9aeb-23113eaf271b' => [
+        'I do believe in sending positive messages. I am a Christian, so I do believe in a lot of positive messages.',
+        'Quinton Aaron',
+    ],
+    'c133f09d-086a-56fd-ae10-8897f8e65f8d' => [
+        'So I had to be careful. I recognized the responsibility that, whether I liked it or not, I had to accept whatever the obligation was. That was to behave in a manner, to carry myself in such a professional way, as if there ever is a reflection, it\'s a positive one.',
+        'Sidney Poitier',
+    ],
+    '48b38725-d357-5c79-a6d7-553dbcbec473' => [
+        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
+        'Bindi Irwin',
+    ],
+    'a9bbc569-580d-5867-9038-e298f6c6f009' => [
+        'If we went by the world\'s definition of who I\'m supposed to be because I look weird... \'Well, surely, this guy can\'t have a productive life, surely, he doesn\'t have a sense of humor. Surely, he can\'t love life.\' We stereotype people in this world. And so... if the world thinks you\'re not good enough, it\'s a lie, you know. Get a second opinion.',
+        'Eckhart Tolle',
+    ],
+    '7add9521-c337-545f-bf57-27e7fcbf83e3' => [
+        'In the car on my way to premieres and awards shows, I\'ll sit with tissue paper under my armpits so I don\'t soil the delicate dress fabric. The whole time, I\'m telling myself, \'Please don\'t sweat, please don\'t sweat.\' I throw the tissues out right before I step out of the car, and nobody ever knows! I just put on a smile and fake it.',
+        'Jessica Biel',
+    ],
+    'b7029fc1-8a8a-57b0-aa05-2334fe3821d5' => [
+        'So if diva means giving your best, then yes, I guess I am a diva.',
+        'Patti LaBelle',
+    ],
+    'bdd984da-a221-5ab2-bc75-24e8fe9da6ed' => [
+        'Thats the risk you take if you change: that people you\'ve been involved with won\'t like the new you. But other people who do will come along.',
+        'Lisa Alther',
+    ],
+    '0e3882bc-433c-505e-b16e-bddf403caeaf' => [
+        'I\'ll tell you what I\'m grateful for, and that\'s the clarity of understanding that the most important things in life are health, family and friends, and the time to spend on them.',
+        'Kenneth Branagh',
+    ],
+    'aef5260d-e3e5-5f93-95a1-f53b3fe0f669' => [
+        'I felt most proud on the success of the Apollo mission.',
+        'Katherine Johnson',
+    ],
+    'cba59cff-bf27-508d-a6d9-faf04319158b' => [
+        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'Kurt Cobain',
+    ],
+    '904dfd89-4764-51f4-978f-08d32ac46970' => [
+        'Of all human activities, man\'s listening to God is the supreme act of his reasoning and will.',
+        'Pope Paul VI',
+    ],
+    '51952a10-3455-5e05-b64c-4b3e666a3bad' => [
+        'If anybody has a bad day, they\'ll just come to my room because they know I\'ll bring out the positive in everything, or I\'ll make them laugh, or I\'ll be just crazy.',
+        'Simone Biles',
+    ],
+    'b038310d-3fdb-5a75-a5d2-263d4a26a95d' => [
+        'We can best help you to prevent war not by repeating your words and following your methods but by finding new words and creating new methods.',
+        'Virginia Woolf',
+    ],
+    '6eea1e06-4190-569a-befe-fc9dff45790d' => [
+        'Coming in solemn beauty like slow old tunes of Spain.',
+        'John Masefield',
+    ],
+    '68ea429a-0a78-584c-933a-84e70c41de29' => [
+        'We sing inspirational songs, songs of praise and worship, and about how good and how big God is. We are magnifying the Lord.',
+        'Fred Hammond',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '843ec787-39c3-5e84-9d8a-51a73d01c489' => [
-        'The history of the relationship between comedy and swimming is short indeed. Of course it is always funny when someone falls into water, but that\'s about it.',
-        'Arthur Smith',
+    '45a310ac-a54a-536e-af95-5eea625b434d' => [
+        'I had a birthday party with my family and friends at a house, and Chipotle catered. It was beautiful.',
+        'Ansel Elgort',
     ],
-    '8d113987-9a33-5c47-ba79-f8a2126e77c8' => [
-        'Our kindness may be the most persuasive argument for that which we believe.',
-        'Gordon Hinckley',
+    '75a73c55-0adb-52f6-95c9-0eae0e41c127' => [
+        'I thought to be feminine was to give in to straight culture, or the beauty standard, but in my heart I had a flair for fashion and style. They were passions I kept secret because I didn\'t understand I could love clothes and hair and makeup and still like girls.',
+        'Beth Ditto',
     ],
-    'b0f9ac80-5a20-5f2b-975c-26a26de3a440' => [
-        'History is the only true teacher, the revolution the best school for the proletariat.',
-        'Rosa Luxemburg',
+    '1dab47ed-e0fb-52d0-bceb-4e138a14dae0' => [
+        'Never take a solemn oath. People think you mean it.',
+        'Norman Douglas',
     ],
-    '5ddf273c-28ad-521b-99f6-cc0a033cfe77' => [
-        'I spent a lot of time with a crown on my head.',
-        'Halle Berry',
+    'e5ce5f90-1018-5ba6-a1ed-b4fb1e749f07' => [
+        'Umpires are necessary evils. That\'s just the nature of the beast. For years, people have looked on umpiring as a job they could get any postman to do.',
+        'Doug Harvey',
     ],
-    '94d2c8af-86d5-5b16-88e2-3c04cc6a4624' => [
-        'The mind is everything. What you think you become.',
-        'Buddha',
+    'cf1a0deb-fde4-5e4a-bd00-59722446cf59' => [
+        'I want my handbags and my shoes to be stylish but I want to make sure that they\'re versatile. I travel and I have to make sure the pieces I put into my bag can go with a dress or with shorts or jeans.',
+        'Maria Sharapova',
     ],
-    '760677bd-db1c-5d00-a6fa-8e8ea04ae070' => [
-        'What we play is life.',
-        'Jackie Robinson',
+    'dc5e90be-16f7-5853-a576-e27865cd6042' => [
+        'Dont let someone else\'s opinion of you become your reality.',
+        'Les Brown',
     ],
-    '2358b0bc-4f10-525c-8f97-1966141a2661' => [
-        'Latinos, Asians, African-Americans, women - we\'re all trying to find our place in this world of cinema and television and theater. And the great thing with comedy is that most of the time, you could be orange. It doesn\'t matter, as long you\'re funny.',
-        'Sandra Bullock',
+    '67fbd2cf-b9b7-5dba-9d5f-223dddd155e5' => [
+        'To you wives who are constantly complaining and see only the dark side of life, and feel that you are unloved and unwanted, look into your own hearts and minds. If there is something wrong, turn about. Put a smile on your faces. Make yourselves more attractive. Brighten your outlook.',
+        'Gordon B. Hinckley',
     ],
-    '7c6a9b50-4b4a-5419-8ae1-9d7a55c335cf' => [
-        'Happiness in intelligent people is the rarest thing I know.',
-        'Ernest Hemingway',
+    'b455a7de-5551-5e4d-91e6-3107c2ba67fc' => [
+        'It takes a lot of energy to be negative. You have to work at it. But smiling is painless. I\'d rather spend my energy smiling.',
+        'Eric Davis',
     ],
-    '82f82c80-b37a-500b-bb79-f10fd439306c' => [
-        'Hardboiled crime fiction came of age in \'Black Mask\' magazine during the Twenties and Thirties. Writers like Dashiell Hammett and Raymond Chandler learnt their craft and developed a distinct literary style and attitude toward the modern world.',
-        'Charles Frazier',
+    'afbf776d-6e3b-5d13-852d-bf1f917769ba' => [
+        'Children should be able to live a life free from bullying and harassment and it is time that we all took a stand against this.',
+        'Katherine Jenkins',
     ],
-    '66c3a259-5b4e-556f-8e23-41b7f32806a9' => [
-        'Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.',
-        'Tina Brown',
+    '9affa0da-9620-59c1-86fc-f050356a6892' => [
+        'Life is half spent before we know what it is.',
+        'Martha Graham',
     ],
-    'ff1f3927-94dd-558a-b067-1516aecc3a18' => [
-        'I\'m just here for good times, man. I want people to have the best time ever. Especially if they\'re around me.',
-        'Travis Scott',
+    '8d3f15e3-5340-5e93-b369-223d07a8cd14' => [
+        'Many are called but few get up.',
+        'Oliver Herford',
     ],
-    '9a17d6a4-fd47-57c6-83dc-0500bfc2ec32' => [
-        'I don\'t know the key to success, but the key to failure is trying to please everybody.',
-        'Bill Cosby',
+    'eccffe93-8db9-5cac-a39a-90c8b893b8c4' => [
+        'It\'s funny, I was talking to somebody who writes for a cop show, and he was saying how they aren\'t allowed to acknowledge Christmas, Thanksgiving, Valentine\'s Day, just because it has to be able to play forever.',
+        'Hannah Simone',
     ],
-    'c6318872-b368-5674-83ef-ce14d4028967' => [
-        'Travel is the frivolous part of serious lives, and the serious part of frivolous ones.',
-        'Sophie Swetchine',
+    'c1705052-0d0d-5fd8-8e7a-26c776751d75' => [
+        'You know it\'s only 50 miles from Grand River to Canton, but it took me 67 years to travel that distance.',
+        'Don Shula',
     ],
-    'e05f71f7-aba5-5080-a68d-5c8f39d48d8b' => [
-        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
-        'Sean Berdy',
+    '40c75cdd-36fd-5427-8a89-589a6df11bfe' => [
+        'I\'m a lucky person because I\'ve been loved a lot. I have a great family.',
+        'Monica Bellucci',
     ],
-    '3e6e26d6-ef4e-539c-9cac-d806ec775b33' => [
-        'What reader wants to be told what attitude to strike?',
-        'Ian Mcewan',
+    'ffc24822-f339-56e2-b803-e0544c330eb8' => [
+        'My son has been the best thing that has happened in my life. He has been amazing, and he is truly heaven-sent. And so, I just feel all that love.',
+        'Ciara',
     ],
-    '7160e585-b29b-5cf8-b207-a3c353d6f226' => [
-        'All the great performers I have worked with are fuelled by a personal dream.',
-        'John Eliot',
+    'b71e2d99-c756-56f7-a4c3-64a55f9729b5' => [
+        'The more you are positive and say, \'I want to have a good life,\' the more you build that reality for yourself by creating the life that you want.',
+        'Chris Pine',
     ],
-    '8f0342b3-4ab3-5f1b-a0c2-c7b7ed221b18' => [
-        'Every gift from a friend is a wish for your happiness.',
-        'Richard Bach',
+    '43c59eb5-c5a0-55c0-8fa9-24c2f6665914' => [
+        'One doesn\'t soon forget the natural beauty of Washington, although those of us who live here do sometimes take it for granted.',
+        'Katharine Graham',
     ],
-    'be30ff66-bd4a-5556-a1ab-7ff7794453bf' => [
-        'They thought I was a success as soon as I started paying the bills.',
-        'Mahalia Jackson',
+    '4f5840e2-42d5-55ed-a28d-da787ec1b734' => [
+        'I like people that enjoy life, \'cause I do the same.',
+        'Charles R. Swindoll',
     ],
-    '35f0dad9-b7e8-5356-81c6-91d7cf518363' => [
-        'I could not think higher of Governor Palin. She is a force of nature and has inspired a generation of women to really get actively involved in politics and, more importantly, take their culture back and take their country back.',
-        'Stephen Bannon',
+    'dadf1b14-4693-5630-8cb8-8701139ea2db' => [
+        'I guess I\'m just an open-hearted, fair, good person. I try to encourage people to be their best and look inside themselves and find out what they are passionate about and expand on that and enjoy life.',
+        'Miranda Kerr',
     ],
-    '202c37a3-a028-5ba8-b836-81c595555b1b' => [
-        'Boys do not evaluate a book. They divide books into categories. There are sexy books, war books, westerns, travel books, science fiction. A boy will accept anything from a section he knows rather than risk another sort. He has to have the label on the bottle to know it is the mixture as before.',
-        'William Golding',
+    '340ce11e-fd04-5c2f-af96-c261e8e564ad' => [
+        'I think you end up doing the stuff you were supposed to do at the time you were supposed to do it.',
+        'Robert Downey, Jr.',
     ],
-    'b1a4b979-5030-509c-8ad9-eff737026acd' => [
-        'To succeed, we must first believe that we can.',
-        'Michael Korda',
+    'b3d30209-27d7-59ef-b88e-3195ec3458fe' => [
+        'Everything about \'UY\' is new and fresh, and we are extremely happy at the response from the audiences, as most people are walking out of cinema halls with a smile on their faces.',
+        'Akkineni Nagarjuna',
     ],
-    '0e5ebed4-2db8-5828-becd-572a132febff' => [
-        'The Patriot Act is essential to our continued success in the war on terror here at home.',
-        'Mike Pence',
+    '9c11d4d3-7192-5473-9db6-42ec2beb1930' => [
+        'In the Spring, I have counted 136 different kinds of weather inside of 24 hours.',
+        'Mark Twain',
     ],
-    '7e9f2fef-802a-596c-a7df-c1e01e1086e6' => [
-        'I guess I don\'t like the fact that my life is becoming less and less my own - the prevailing attitude that you have an obligation to deliver yourself to the public. Actually, you\'re delivered to the public whether you like it or not. I guess if you don\'t like it, you should stop doing what provokes it. In my case, that\'s acting.',
-        'Robert Redford',
+    '818879f3-e976-51f5-8870-8c1aa314ae39' => [
+        'For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.',
+        'Leonardo da Vinci',
     ],
-    'b4629b97-4ac8-50e6-81c3-33c700c78992' => [
-        'I am, as it happens, a baby boomer, but not one who feels any broad-gauge nostalgia for the \'60s and \'70s. My attitude resembles that of my parents, who were born in the \'20s and lived through the Great Depression and World War II.',
-        'Terry Teachout',
+    'a32b84e2-340c-53a7-97b4-c74625bd76f1' => [
+        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
+        'Dean Cain',
     ],
-    '18e3e266-a34a-5a6a-930c-a867c52bee5a' => [
-        'Be here now. Be someplace else later. Is that so complicated?',
-        'David Bader',
+    'eb9027ca-8ff3-5fdb-b7c7-82f4c48fd3c7' => [
+        'A series of rumors about my attitude, as well as derogatory remarks about myself and my family showed me that the personal resentment of the Detroit general manager toward me would make it impossible for me to continue playing hockey in Detroit.',
+        'Ted Lindsay',
     ],
-    '62bd5c63-a91d-57c2-99d5-35248d9904ed' => [
-        'To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.',
-        'Johannes Gaertner',
+    'd633fb90-93e4-5e70-8c3f-4c5918b98662' => [
+        'Any of us can be happy and have a good attitude when everything is going our way. But I believe it\'s the real test of your character and of your faith to say, \'Things are not going our way, but I\'m still being good to people; I\'m still attending church; I still have a good attitude.\'',
+        'Joel Osteen',
     ],
-    '085f5d62-754d-5bf7-a6b1-ba023eff4c6a' => [
-        "BE STRONG\nYou never know who you are inspiring",
-        'Unknown',
+    'e20d024f-945c-54b7-bf22-8a5dfbeaf754' => [
+        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
+        'Charlotte Bronte',
     ],
-    '04f46a18-d8d9-5470-b77e-7dbe8b243bd5' => [
-        'The corruption of the best things gives rise to the worst.',
+    'dffc0195-243a-5f51-bba5-722e368f9d8d' => [
+        'People get a little bolder and more wild in summer. You\'ve got things going on kabobs, things cooking on the bone. There\'s something about standing over a grill or outside with the family that inspires us.',
+        'Guy Fieri',
+    ],
+    '345eb947-e593-5dd7-8598-5fb2bd8003ff' => [
+        'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
+        'Henry David Thoreau',
+    ],
+    '7ef83f09-d7a7-5e6e-b789-6f2f91e3459b' => [
+        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
+        'Bryan Adams',
+    ],
+    '7aac94b3-84b8-53ef-a53f-ed3d07d81914' => [
+        'Every article on these islands has an almost personal character, which gives this simple life, where all art is unknown, something of the artistic beauty of medieval life.',
+        'John Millington Synge',
+    ],
+    'aac1a53f-d52e-5e32-82fc-c7b50fb67363' => [
+        'We help people to begin truly healthful diets, and it is absolutely wonderful to see, not only their success, but also their delight at their ability to break old habits and feel really healthy for a change.',
+        'Neal Barnard',
+    ],
+    '043ace03-771c-590d-b8f0-b29f4530bda1' => [
+        'I actually used to smile a lot in pictures. I think I only stopped smiling when I got into fashion. Fashion stole my smile!',
+        'Victoria Beckham',
+    ],
+    '9183c12e-cc89-5895-86b5-e8b939119f82' => [
+        'That\'s the thing about awards - it\'s for the people who do all the hard work behind the scenes. An award is just a clap at them.',
+        'Sia',
+    ],
+    '649e593a-695d-5bc0-a5e7-fccf367e3404' => [
+        'I try not to put anything political on the forefront of what I\'m trying to do creatively. At the same time, I do think it\'s wonderful when I hear people say that it\'s inspirational that I\'m an Indian woman on camera. My life is very diverse, and my friends are a diverse group of people.',
+        'Mindy Kaling',
+    ],
+    'cd394b50-f590-5f75-bb37-882dea49f4c0' => [
+        'There\'s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family.',
+        'Gordon Ramsay',
+    ],
+    'e94f92ac-00f4-5474-b0dd-c52bb87cd336' => [
+        'Even Napoleon had his Watergate.',
+        'Yogi Berra',
+    ],
+    'bf545be5-7cf8-5d52-ad81-8a011126e0ab' => [
+        'I do believe that my whole success goes back to that time I was arrested as a wayward boy at the age of thirteen. Because then I had to quit running around and began to learn something. Most of all, I began to learn music.',
+        'Louis Armstrong',
+    ],
+    '74298d07-dd19-5e06-84fc-6e1a93fe8b63' => [
+        'To smile at the jest which plants a thorn in another\'s breast is to become a principal in the mischief.',
+        'Richard Brinsley Sheridan',
+    ],
+    'ce4ffccf-5ae7-5247-afe7-ad09209c241e' => [
+        'An unexamined life is not worth living.',
+        'Socrates',
+    ],
+    '5727650c-bdd0-5c87-802b-21c952cbe969' => [
+        'I woke up one morning thinking about wolves and realized that wolf packs function as families. Everyone has a role, and if you act within the parameters of your role, the whole pack succeeds, and when that falls apart, so does the pack.',
+        'Jodi Picoult',
+    ],
+    'dee7c227-6b84-5172-9d8a-ef1c024a609c' => [
+        'Well, capitalism is going to grow and grow. The nature of it is that the guy who has the most poker chips on the table has more leverage than everyone else. He can eventually outbluff everyone else and outraise everyone else at the table. That\'s what has happened and it needs to be corrected.',
+        'Simon Baker',
+    ],
+    '073541ad-f2cd-5630-9a21-277b772cbb2c' => [
+        'Philosophy would render us entirely Pyrrhonian, were not nature too strong for it.',
         'David Hume',
     ],
-    'e8e07a13-474e-5443-a57b-c205f6c7754e' => [
-        'You never achieve success unless you like what you are doing.',
-        'Dale Carnegie',
+    '98359a7a-2f90-51ac-b0d7-c1c5ff55d4d0' => [
+        'To be an artist is to believe in life.',
+        'Henry Moore',
     ],
-    'aef5260d-e3e5-5f93-95a1-f53b3fe0f669' => [
-        'I felt most proud on the success of the Apollo mission.',
-        'Katherine Johnson',
+    '90ba0ae0-9588-5b36-ac4c-e94b65793098' => [
+        'Football is a great deal like life in that it teaches that work, sacrifice, perseverance, competitive drive, selflessness and respect for authority is the price that each and every one of us must pay to achieve any goal that is worthwhile.',
+        'Vince Lombardi',
     ],
-    '8dbf5444-2e64-589e-8c71-315efc878da8' => [
-        'The best preparation for good work tomorrow is to do good work today.',
-        'Elbert Hubbard',
+    '509f16c6-29fc-5db0-8cb0-98f443efe6e3' => [
+        'He who knows that enough is enough will always have enough.',
+        'Lao Tzu',
     ],
-    '99835f05-fab3-5a69-a348-426953ba0f48' => [
-        'On \'America\'s Top Model,\' I\'ve always told my girls to smile with their eyes. We call it \'smizing.\' Over the years, it\'s actually become part of pop culture. I would be walking down the street, and girls would say, \'Smize!\'',
-        'Tyra Banks',
+    '99c23171-17d0-5b11-a221-a2a8891354a0' => [
+        'He who looks the higher is the more highly distinguished, and turning over the great book of nature (which is the proper object of philosophy) is the way to elevate one\'s gaze.',
+        'Galileo Galilei',
     ],
-    '13afa4d6-b0e7-51f8-b3f4-3236b95adf0f' => [
-        'When the human race neglects its weaker members, when the family neglects its weakest one - it\'s the first blow in a suicidal movement. I see the neglect in cities around the country, in poor white children in West Virginia and Virginia and Kentucky - in the big cities, too, for that matter.',
-        'Maya Angelou',
+    '12a3034b-ad14-5f83-ae96-0abb0689bb5e' => [
+        'But while they prate of economic laws, men and women are starving. We must lay hold of the fact that economic laws are not made by nature. They are made by human beings.',
+        'Franklin D. Roosevelt',
     ],
-    '5ab097dd-91b9-52bd-ab35-662752502bfe' => [
-        'The only thing to do with good advice is to pass it on. It is never of any use to oneself.',
-        'Oscar Wilde',
+    '1114244d-c16d-595c-8f12-0bfb06d6e304' => [
+        'I used my aviation contacts to open a travel agency. I used to book Caribbean flights.',
+        'Joseph Force Crater',
     ],
-    '6dce5d34-562f-5361-9fe8-5b389710fd83' => [
-        'Real success is not on the stage, but off the stage as a human being, and how you get along with your fellow man.',
-        'Sammy Davis, Jr.',
-    ],
-    '73173316-ce56-5d38-9703-4dfa062b433b' => [
-        'What if you threw a protest and no one showed up? The lack of angst and anger and emotion is a big positive.',
-        'Jay Alan Sekulow',
-    ],
-    'cbc5b459-a3bc-5d92-958f-62abe0b1b27c' => [
-        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
-        'Theresa May',
-    ],
-    '917b00fc-d568-56f7-bddc-0a8c0c26f173' => [
-        'He who seeks truth shall find beauty. He who seeks beauty shall find vanity. He who seeks order shall find gratification. He who seeks gratification shall be disappointed. He who considers himself the servant of his fellow beings shall find the joy of self-expression. He who seeks self-expression shall fall into the pit of arrogance.',
-        'Moshe Safdie',
-    ],
-    '0e9637fc-8061-5094-bf25-67f831dbeb34' => [
-        'Competition is always a good thing. It forces us to do our best. A monopoly renders people complacent and satisfied with mediocrity.',
-        'Nancy Pearcey',
-    ],
-    'd9f2d581-a643-56f6-b3c0-8bedc2f13769' => [
-        'Time goes, you say? Ah, no! alas, time stays, we go.',
-        'Henry Austin Dobson',
-    ],
-    '9a9bf065-603b-5dff-b610-244145cdbf2e' => [
-        'Education must not simply teach work - it must teach Life.',
-        'W. E. B. Du Bois',
-    ],
-    '01794d4a-01bb-5f59-9870-5b73c2a31ebd' => [
-        'Later in my life, I\'m going to look back and smile and be very fulfilled. I know that if I don\'t give it my all right now I\'ll regret it later. That\'s very important to me, because I\'ve worked all my life to have this.',
-        'Shania Twain',
-    ],
-    '9bc4fb3e-45cd-567e-b812-008319822f5c' => [
-        'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',
-        'Joseph Campbell',
-    ],
-    '42f2d9e1-3253-5ccd-93df-c91cdd45ce51' => [
-        'Sometimes I had to spend a whole day mixing a boiling mass with a heavy iron rod nearly as large as myself. I would be broken with fatigue at the day\'s end. Other days, on the contrary, the work would be a most minute and delicate fractional crystallization, in the effort to concentrate the radium.',
-        'Marie Curie',
-    ],
-    '0b4ad6b6-713a-572e-8bc7-e9345f250c55' => [
-        'The earth is yet the place of the domicile of man and all the offspring of the first man.',
-        'Joseph Franklin Rutherford',
-    ],
-    '313b7553-8f77-50bc-9444-ea6ea8810a4c' => [
-        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
-        'Byron Pulsifer',
-    ],
-    'c769dfbd-b151-5abb-bdb5-869c17e49cd4' => [
-        'Every flower is a soul blossoming in nature.',
-        'Gerard De Nerval',
-    ],
-    'a3ffe99d-facf-5ebc-a716-a6c42a799c95' => [
-        'I think that I shall never see a poem lovely as a tree.',
-        'Joyce Kilmer',
-    ],
-    '02d15e31-c066-5472-9adb-aea698ea9d05' => [
-        'Psychographics speaks more to an attitude, a lifestyle.',
-        'Richard Hayne',
-    ],
-    '927eedc4-6cb7-5140-89f2-da1a9b34113e' => [
-        'The buffalo is all gone, and an Indian can\'t catch enough jack rabbits to subsist himself and his family, and then, there aren\'t enough jack rabbits to catch. What are they to do?',
-        'George Crook',
+    'f85b2016-5c34-564b-ac53-841683a77365' => [
+        'Although there may be tragedy in your life, there\'s always a possibility to triumph. It doesn\'t matter who you are, where you come from. The ability to triumph begins with you. Always.',
+        'Oprah Winfrey',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '37153b4f-730f-5133-b42e-cf58cb29d15b' => [
-        'Stiletto, I look at it more as an attitude as opposed to a high-heeled shoe.',
-        'Lita Ford',
+    'd142a6be-a1d4-56a1-ac62-4edc3cba2cc0' => [
+        'I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.',
+        'Ritchie Blackmore',
     ],
-    '26540da8-109a-576d-80a6-a07cef39cc68' => [
-        'Winning the World Cup was very special because it meant so much to so many. One thing about our country that is constant is cricket. The smile it brought to people\'s faces was the thing I shall always remember. It reminded me, reminded all of us, of our importance to the lives of the Indian people less lucky than we are.',
-        'Mahendra Singh Dhoni',
+    '29c9db6c-4e94-5079-b3fa-872296dc007f' => [
+        'Victory belongs to the most persevering.',
+        'Napoleon Bonaparte',
     ],
-    '45668310-b865-5270-b7bc-6c4a99c5cead' => [
-        'People say that life is the thing, but I prefer reading.',
-        'Logan Pearsall Smith',
+    '2aef7be7-ccef-5e16-8e50-02ab5c09a847' => [
+        'Life is a series of experiences, each one of which makes us bigger, even though sometimes it is hard to realize this. For the world was built to develop character, and we must learn that the setbacks and grieves which we endure help us in our marching onward.',
+        'Robert Frost',
     ],
-    'a2029d34-927e-5295-a3ce-b32d5ad7db72' => [
-        'I was never very good at exams, having a poor memory and finding the examination process rather artificial, and there never seemed to be enough time to follow up things that really interested me.',
-        'Paul Nurse',
+    'c64d7371-4e9f-5a3e-9bab-67f18e5f77bb' => [
+        'If you force yourself to smile, within a couple minutes, you feel happy.',
+        'Dean Norris',
     ],
-    'b0afe521-6f79-56b8-af6d-e17a9d31f274' => [
-        'I don\'t think there\'s just one person for everyone. It would be very hard for me to be with a guy who was not bright or funny. And he\'d have to see the absurdities of the world, not exactly as I see them necessarily.',
-        'Erica Jong',
+    '80073d9f-82f4-5586-bbf6-7e1f5bd9785b' => [
+        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
+        'Zig Ziglar',
     ],
-    'f7b51d28-e6e8-5af8-992c-77f09e90683f' => [
-        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
-        'Friedrich Nietzsche',
-    ],
-    '8364ca4d-d03a-5672-9e85-e5ce331d7bb9' => [
-        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
+    'd91c2da7-5ed2-5513-94f7-57fb851efeb3' => [
+        'Doing your best means never stop trying.',
         'Unknown',
     ],
-    'ec628bce-6218-5eb7-ad30-cbc1023c5802' => [
-        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
-        'Malcolm Turnbull',
+    'c359d47a-8651-599b-971a-6b806f221501' => [
+        'I know all I really wanna do is get money and take care of my family.',
+        'Meek Mill',
     ],
-    'c5e2bb8f-12e8-502b-aaac-e83c57cfc19d' => [
-        'I always thought of myself as more American than Americans when I was living in Germany, because I always had this attitude of can-do, and if you\'re successful, you can show it, which is a very un-German thing, you know.',
-        'Kim Dotcom',
+    '1e6e19a0-def7-5066-bce4-e293bb338ff5' => [
+        'I like stand-up. But I\'d also like a family and house and a yard. I want to work with a lot of people, have colleagues; and on good film sets, there\'s people there that work with the same people for years and years. I love that collaborative spirit in that medium. Comedy is a lot more solitary.',
+        'Demetri Martin',
     ],
-    '7ab95cf9-4368-5ab5-a163-76ed8c412fc6' => [
-        'We all go through sad times, but I was brought up to be positive.',
-        'Jess Glynne',
+    '8a79a7bd-bf32-50ea-bade-a46dfeac41e6' => [
+        'I regret those times when I\'ve chosen the dark side. I\'ve wasted enough time not being happy.',
+        'Jessica Lange',
     ],
-    '1fb4a0ab-ccfb-58f3-b93d-d9046774bcf0' => [
-        'Standing as a witness in all things means being kind in all things, being the first to say hello, being the first to smile, being the first to make the stranger feel a part of things, being helpful, thinking of others\' feelings, being inclusive.',
-        'Margaret D. Nadauld',
+    '5b522241-3b73-5c64-a51c-67166854d2a3' => [
+        'I loved the Kennedy Center Honors because you just sit there, smile, wave, and cry.',
+        'Carol Burnett',
     ],
-    '1fd7463d-5174-5463-a9a8-2e0ab483ea82' => [
-        'Life imitates art far more than art imitates Life.',
-        'Ayn Rand',
+    'af56e174-8ff5-5d18-beca-14eb418218a7' => [
+        'Our thoughts are mainly controlled by our subconscious, which is largely formed before the age of 6, and you cannot change the subconscious mind by just thinking about it. That\'s why the power of positive thinking will not work for most people. The subconscious mind is like a tape player. Until you change the tape, it will not change.',
+        'Bruce Lipton',
     ],
-    '6f733f81-d136-55c5-a090-88b1941ebe37' => [
-        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
-        'Tom Kite',
+    'd1543710-4e98-5f17-ae17-eccd2d79aea8' => [
+        'Every noble work is at first impossible.',
+        'Thomas Carlyle',
     ],
-    '8c3f8a09-d646-5ea8-b65e-3b15751b5b18' => [
-        'Life is what happens while you are making other plans.',
-        'John Lennon',
+    'df6bb58a-cc86-5fa2-b845-8ad635514148' => [
+        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
+        'Liz Goldwyn',
     ],
-    '0b2959e0-5e1c-55af-bf26-32cccfcd8032' => [
-        'To be able to make a good living in a challenging medium like soap operas is great. The best is that I get to act and am rewarded for it. And the people I work with are great. Funny, intelligent, hard working. They\'re all great to be around.',
-        'David Canary',
+    'ebbfa48f-eb61-562b-80e7-97416f1227cf' => [
+        'Every man\'s dream is to be able to sink into the arms of a woman without also falling into her hands.',
+        'Jerry Lewis',
     ],
-    'ff5a3d70-dff4-5020-878b-58656cec2527' => [
-        'It has been said that time heals all wounds. I don\'t agree. The wounds remain. Time - the mind, protecting its sanity - covers them with some scar tissue and the pain lessens, but it is never gone.',
-        'Rose Kennedy',
+    '60c0090c-614d-52ba-a8fb-b19398ca38af' => [
+        'Almost every college playwright or sketch or improv comedian was sort of aware of Christopher Durang - even kids in high school. His short plays were so accessible to younger people and I think that was inspirational to me.',
+        'Mindy Kaling',
     ],
-    'f4c87fe4-9334-556c-bdcc-778b4f9630de' => [
-        'What is important is family, friends, giving back to your community and finding meaning in life.',
-        'Adrian Grenier',
+    'be8e1dd6-44b9-5168-98a1-953c5b2aae81' => [
+        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
+        'Hugh Jackman',
     ],
-    'b685b0ec-c845-5e71-b8cf-30fcba015e86' => [
-        'Life is a tragedy when seen in close-up, but a comedy in long-shot.',
-        'Thomas Merton',
+    '4671e608-df85-5eb8-9d93-1ee1406344b4' => [
+        'The flower in the vase smiles, but no longer laughs.',
+        'Malcolm de Chazal',
     ],
-    '369d63a7-e4df-5c3d-8a92-cc6a249107dd' => [
-        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
-        'Unknown',
+    'f74d8c82-ddfb-5186-bd7b-646e66663ba5' => [
+        'If we can soften our hearts, and if we can access the pure and simple aspect of our nature, then we can regain the realization that everything we need is already inside us and anything is attainable.',
+        'Yehuda Berg',
     ],
-    '0bde77a5-a228-5573-9128-099f3e2ac527' => [
-        'There is progress whether ye are going forward or backward! The thing is to move!',
-        'Edgar Cayce',
+    'fbffbec6-0301-5c5c-8f0e-c404555f75af' => [
+        'The best form of government is that which is most likely to prevent the greatest sum of evil.',
+        'James Monroe',
     ],
-    '02fa38d7-0b57-5e66-b6ab-fb61b124681f' => [
-        'As a personality, I\'m fighter, you know. And I don\'t give up, and if I believe I\'m correct, I\'m right, then I work, and I fight. Okay, this could be over a chess board, this could be in life, and so I defend my principles.',
-        'Anatoly Karpov',
+    '3a007643-3119-584e-89cc-954a50dfc4c9' => [
+        'We truly believe with hard work, dedication and perseverance, we can become the best at what we do. No one wants to become mediocre.',
+        'Andy Biersack',
     ],
-    '0534c4de-7383-5453-9a50-88dafac45d10' => [
-        'I always figure from the cradle to the grave, we all have our individual journeys, and maybe my journey was a positive one and I accomplished certain things without stepping on too many toes.',
-        'Robert Duvall',
+    'df1fb713-d13e-5de3-bdff-7eb9d3311798' => [
+        'There\'s a lot of things that go on when you\'re on tour that cannot be controlled. I\'m not even talking about myself, but of course there\'s sexual activity and drugs, fighting and language; it is certainly not a place to raise a family.',
+        'Peter Steele',
     ],
-    '7b44cc7d-8a83-53b5-ab90-053bf53e29a7' => [
-        'While the wider global environment is worrying, we are seeing some positive results in our economic affairs.',
-        'Michael D. Higgins',
+    '9bc3bf0d-2f16-5e67-acf5-2ca0b3572276' => [
+        'I have been overcome by the beauty and richness of our life together, those early mornings setting out, those evenings gleaming with rivers and lakes below us, still holding the last light.',
+        'Anne Morrow Lindbergh',
     ],
-    '77c65657-95c2-5bee-baa6-57d4f4f0bec2' => [
-        'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.',
-        'Albert Einstein',
+    '7d165704-7498-5182-b8ea-2dfabfbcf299' => [
+        'I am proud to have been born in Iowa. Through the eyes of a ten-year-old boy, it was a place of adventure and daily discoveries - the wonder of the growing crops, the excitements of the harvest, the journeys to the woods for nuts and hunting, the joys of snowy winters, the comfort of the family fireside, of good food and tender care.',
+        'Herbert Hoover',
     ],
-    '1268aa11-4f67-58b0-a144-4d351caf6c29' => [
-        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
-        'Bobby Seale',
+    'ad7ad3b7-7f52-5ef5-9ba2-c9c99d26b300' => [
+        'Christmas is the spirit of giving without a thought of getting. It is happiness because we see joy in people. It is forgetting self and finding time for others. It is discarding the meaningless and stressing the true values.',
+        'Thomas S. Monson',
     ],
-    '7f407c8e-5181-5cb2-b1e3-a7d9c395abe3' => [
-        'Nature shows that with the growth of intelligence comes increased capacity for pain, and it is only with the highest degree of intelligence that suffering reaches its supreme point.',
-        'Arthur Schopenhauer',
+    '06e8cc13-1d40-5e1e-b2c0-7164c04af30c' => [
+        'Time is the wisest counselor of all.',
+        'Pericles',
     ],
-    '532c37c9-f319-5c7d-a8b4-d88e68f3f3d7' => [
-        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
-        'Pema Chodron',
+    'f35e49e2-22f4-55d2-b0c5-668176b4fa71' => [
+        'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
+        'Mireille Guiliano',
     ],
-    '809ae1eb-daa6-520f-b19f-5d25ce04cee5' => [
-        'I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.',
-        'Edna Millay',
+    'd908dba1-75f9-5986-9957-e248c63b1ba8' => [
+        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
+        'Brad Pitt',
     ],
-    'b964599d-f3d5-58c5-aabc-f97119514427' => [
-        'Being in a rock band is about touring. It\'s about writing songs and it\'s about making records but it\'s also about taking a wonderful smile onto that stage and making the people feel good about themselves.',
-        'James Young',
+    '83347e29-e50b-59f3-8e0f-6c4ce456e35d' => [
+        'You hear about quality time a lot but I really think that quantity time with a person is really what strengthens a relationship. That\'s when you really get to know somebody. You get to know their strengths and their weaknesses and that brings you closer. That\'s what \'Time Is Love\' is all about.',
+        'Josh Turner',
     ],
-    '641f1b1b-2b6e-5349-9e21-1230c1b93341' => [
-        'The great art of life is sensation, to feel that we exist, even in pain.',
-        'Tim Tebow',
+    'b72a6cf8-9609-50d9-bbb7-6b71d9290c5c' => [
+        'Do good by stealth, and blush to find it fame.',
+        'Alexander Pope',
     ],
-    '48778b20-597c-55e9-b3f4-ee2ee35930c7' => [
-        'In the long term we can hope that religion will change the nature of man and reduce conflict. But history is not encouraging in this respect. The bloodiest wars in history have been religious wars.',
-        'Richard M. Nixon',
+    'e1e70e0e-2b60-5788-8439-32ddd145bf3f' => [
+        'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
+        'Imelda Marcos',
     ],
-    '294325a1-b578-579a-bfa3-f4c7ede26c9e' => [
-        'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',
-        'Jim Valvano',
+    'f4943b3a-3362-5b02-9fcb-a2a410bac82b' => [
+        'I\'m someone who loses 80 to 90 percent of the time. Even when I lost, I put my body on the line and I told the best story. If I stood out, if my attitude towards fighting was different, I found a way to stay around and keep revamping myself and my character.',
+        'Dolph Ziggler',
     ],
-    'a1be3f28-a86c-5870-aca5-e2c76f48f64e' => [
-        'There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.',
-        'Mark Twain',
+    'd7888b71-7e1d-54c1-ad77-b8a8b036dae1' => [
+        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
+        'Margaret Smith',
     ],
-    '2379ab26-d1f1-5111-9fed-ce30a60ff19f' => [
-        'For sheer sexiness, a man must be beautiful. Funny. yes. Clever, no.',
-        'Jilly Cooper',
+    '9e9c350d-1ea8-5191-8b9c-b9cd31af24b7' => [
+        'Hopefully I\'m a role model for positive change for everyone - not just women. It\'s very important to find balance between men and women.',
+        'Shari Arison',
     ],
-    'ed648885-5dfe-545e-9504-e921e46fd38f' => [
-        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
-        'Gunnar Myrdal',
+    'dde35495-e963-5eb9-b12d-a44a704bc570' => [
+        'My theory on life is that life is beautiful. Life doesn\'t change. You have a day, and a night, and a month, and a year. We people change - we can be miserable or we can be happy. It\'s what you make of your life.',
+        'William Butler Yeats',
     ],
-    '1e5006a5-fb37-5864-add9-3794d286566d' => [
-        'Life is best when you are in love.',
-        'Michael Moriarty',
+    '6bb03502-3d02-5e70-8a5f-7a477a2a5cb6' => [
+        'I was born with a happy heart, and I try to keep a good attitude. It\'s not true that I\'m happy all the time because nobody is, and we all go through our things.',
+        'Dolly Parton',
     ],
-    '0fe67ce4-cb68-5f3f-9651-3340ff4f9c5d' => [
-        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
-        'Jane Addams',
+    'e5a61e39-0844-501c-8413-dd4743d0cfeb' => [
+        'P is positive emotion, E is engagement, R is relationships, M is meaning and A is accomplishment. Those are the five elements of what free people chose to do. Pretty much everything else is in service of one of or more of these goals. That\'s the human dashboard.',
+        'Martin Seligman',
     ],
-    'e0fa8d07-6cee-5a35-a169-e7d780af8448' => [
-        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
-        'Cicely Tyson',
+    'b6c07baa-ac44-5679-8446-101d8a5e6baf' => [
+        'It is very necessary to have markers of beauty left in a world seemingly bent on making the most evil ugliness.',
+        'Thornton Wilder',
     ],
-    'afc7dee8-cd85-58ca-a62f-5957c8c8f8e5' => [
-        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
-        'Grace Kelly',
+    '592564bb-a9ec-59f2-8e2b-52eab4fb4017' => [
+        'You might well remember that nothing can bring you success but yourself.',
+        'Napoleon Hill',
     ],
-    '6b697e47-60ab-5edd-bb5d-f6744b51fe00' => [
-        'I have had the view that cutting wages is not the path to prosperity, and one of the great myths propagated about my attitude to industrial relations is that I believe in lower wages. I\'ve never believed in lower wages. Never. Never believed in lower wages, I\'ve never believed in lower wages as an economic instrument.',
-        'John Howard',
+    'd9019084-dac2-5e91-b9d4-83068a602f09' => [
+        'Smile at a stranger. See what happens.',
+        'Patti LuPone',
     ],
-    '145eeceb-0a09-520f-a71d-9cf964050d40' => [
-        'Trying to make a feature film yourself with no money is the best film school you can do.',
-        'Quentin Tarantino',
+    '2a546dae-6ac9-50ec-a9cc-dc291e34d46a' => [
+        'Learning lessons is a little like reaching maturity. You\'re not suddenly more happy, wealthy, or powerful, but you understand the world around you better, and you\'re at peace with yourself. Learning life\'s lessons is not about making your life perfect, but about seeing life as it was meant to be.',
+        'A. P. J. Abdul Kalam',
     ],
-    'a8c0fe6d-2c76-586f-b84c-109d99088115' => [
-        'I\'m an algebra liar. I figure two good lies make a positive.',
-        'Tim Allen',
+    '73ca76fa-b258-5be7-b70e-0c4a582f8d1f' => [
+        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
+        'Pope Francis',
     ],
-    'dd011469-3065-53cd-a166-8b10dfc8966c' => [
-        'I\'m not going out and hitting a 95-mph fastball where I can\'t see the stitches. I\'m not on a professional football team looking to tackle a fullback who is built like solid wood. I\'m a thinking person, and I\'ve been blessed with the ability to see some things and talk about them in a way that registers in a humorous and funny way.',
-        'Bill Cosby',
+    'cef8feb6-a6a2-5d6b-a0bd-182952786a3a' => [
+        'However, I must say that I am very happy to see that we have such a positive result for our first referendum in our history and that gives me more confidence in Taiwan\'s democracy.',
+        'Chen Shui-bian',
     ],
-    '98124a59-61e9-52ec-a1f8-ddc6f53aef56' => [
-        'Think of all the beauty still left around you and be happy.',
-        'Anne Frank',
+    '8b4159a2-7d7b-53b5-98c9-46c1ace1143c' => [
+        'Celebration is big for me. From my younger days, when I used to win mementos while playing basketball, I have always believed in sharing my success. It has to be there. It lifts the energy levels of the entire side if you are positive and vocal when a wicket falls.',
+        'Suresh Raina',
     ],
-    'ac569d9c-c512-5d68-a9bc-10867334b97a' => [
-        'Whatever happens, take responsibility.',
-        'Tony Robbins',
+    '693c61e3-28ef-56a2-889c-24d959619ce6' => [
+        'I\'m not hungry for success. I am only hungry for good work, and that is how it is with most superstars. Every day I tell myself how fortunate I am to be where I am.',
+        'Akshay Kumar',
     ],
-    '5c679945-c13a-57c9-bbaa-820023f18aa9' => [
-        'Coral reefs represent some of the world\'s most spectacular beauty spots, but they are also the foundation of marine life: without them many of the sea\'s most exquisite species will not survive.',
-        'Sheherazade Goldsmith',
+    '90d10f1a-9a70-5d35-bcb8-1e63c4229e5d' => [
+        'I call myself the Amusement Park. That\'s because I\'m funny and scary at the same time.',
+        'Terry Crews',
     ],
-    '0dbd3acb-3776-5b56-8662-d2269c3035de' => [
-        'Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.',
-        'William Shakespeare',
+    'cda06d1b-b431-5450-b399-1035dbbd18b0' => [
+        'I never smile when I have a bat in my hands. That\'s when you\'ve got to be serious. When I get out on the field, nothing\'s a joke to me. I don\'t feel like I should walk around with a smile on my face.',
+        'Hank Aaron',
     ],
-    '05849a04-57d1-5ced-90c9-5aed9032d609' => [
-        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
-        'Emraan Hashmi',
+    'a4bdd80b-d749-54f1-9561-d00208405a11' => [
+        'The job numbers are positive. We\'ve had more jobs created now than were lost during the recession. We\'re seeing that the creation, we\'re seeing those numbers not only grow but shift toward the private sector and shift toward full-time employment and these are all signs that the recovery is taking some hold but we\'re not out of woods.',
+        'Stephen Harper',
     ],
-    '329933ea-c7db-5aef-9704-12dfd4a69166' => [
-        'I would love to be a travel writer. I\'d be so stoked.',
-        'Drew Barrymore',
+    '17ba64dc-0744-5208-bad8-702ca9a4f2d9' => [
+        'No matter who you meet in life, you take something from them, positive or negative.',
+        'Gary Allan',
     ],
-    '9da134f8-0136-5cf3-9b19-4ba3a6768bc6' => [
-        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
-        'Barbara Baron',
+    '0bf6068f-a280-504e-a704-08ded65d95dd' => [
+        'The World Cup tournament overall and, naturally, the new stadiums at its heart, are the ideal platform to portray Germany as a positive and exceptional location, and above all of course, as a highly capable economic location.',
+        'Franz Beckenbauer',
+    ],
+    '3fa82fb1-a281-52dd-b2cc-74cdae33d509' => [
+        'When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home.',
+        'Tecumseh',
     ],
 ];

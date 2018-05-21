@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '0e21baea-47cc-58d2-9e0e-1380d4ea55c0' => [
-        'Success has always been easy to measure. It is the distance between one\'s origins and one\'s final achievement.',
-        'Michael Korda',
+    '2e6fec17-ed11-51e2-b3b4-961066623e9b' => [
+        'The only reason to have a positive mental attitude is that it makes life better. It doesn\'t cure cancer.',
+        'Molly Ivins',
     ],
-    '60eea8e1-2881-5f8a-a48d-693611f11f6b' => [
-        'Certain kinds of speed, flow, intensity, density of attacks, density of interaction... Music that concentrates on those qualities is, I think, easier achieved by free improvisation between people sharing a common attitude, a common language.',
-        'Evan Parker',
+    'a89ec028-f10a-5a5f-89fb-87d728e74189' => [
+        'Spend some time this weekend on home improvement; improve your attitude toward your family.',
+        'Bo Bennett',
     ],
-    '4bb6ea7d-66a8-53f2-9350-187d9a46c559' => [
-        'Just do what you do best.',
-        'Red Auerbach',
+    '5fe348b2-50da-5a7b-9d97-169831127eb6' => [
+        'I love the long grass coming up to meet the willows.',
+        'Jilly Cooper',
     ],
-    'e35fce41-0db8-55d3-ac97-52d6e2019110' => [
-        'The only way to enjoy anything in this life is to earn it first.',
-        'Ginger Rogers',
+    '29dde28d-2547-56f0-a429-ce1b3f58e598' => [
+        'Trust yourself. You know more than you think you do.',
+        'Benjamin Spock',
     ],
-    'edb0625b-30c1-5cdf-995d-95ddf69ab260' => [
-        'Chaos and Order are not enemies, only opposites.',
-        'Richard Garriott',
+    '8b2b386d-16fb-59a0-be91-1548472f2bc3' => [
+        'The only journey is the one within.',
+        'Rainer Maria Rilke',
     ],
-    '73e7ba7d-a147-5980-b825-b72873b91e2a' => [
-        'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
-        'Ben Stein',
+    'efa6f895-6600-5b89-9224-160f74122df4' => [
+        'I don\'t think I was a good model. I think I was born to emote and act. I would walk down the ramp and smile and they used to say, \'Give us a blank look.\' It was really difficult not to smile.',
+        'Anushka Sharma',
     ],
-    '66d9436b-8c50-5b65-a989-87e58b5b5ebb' => [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
-        'Steve Jobs',
+    '4e6b9be3-26e0-59c6-84f7-d6ee2e39b3a3' => [
+        'Probably the first time I left Italy was to travel by train to Lourdes. I went with my mother and my grandmother - who was a very religious person - so it was a pilgrimage of sorts. I remember it as a very intense, but beautiful experience.',
+        'Andrea Bocelli',
     ],
-    '6a3d017c-a00f-5faa-8366-06a74626e2c1' => [
-        'You\'re going to go through tough times - that\'s life. But I say, \'Nothing happens to you, it happens for you.\' See the positive in negative events.',
-        'Joel Osteen',
+    '2b100016-081c-530a-9a6e-e359fe7341d8' => [
+        'As we get older, we get better at choosing in ways that will make us happy. We do a better job at picking activities that make us happy, and at spending time with people who make us happy. We\'re also better at letting things go.',
+        'Sheena Iyengar',
     ],
-    '9e5ad023-5631-5871-aa68-f7bf7e3dbbb0' => [
-        'Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.',
-        'Steve Jobs',
+    '56fe25c3-a41c-5747-aea1-a7302b6409c2' => [
+        'All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and not truth.',
+        'Friedrich Nietzsche',
     ],
-    'd63ea194-3d88-5c31-93b3-07d53afe2513' => [
-        'Never mistake activity for achievement.',
-        'John Wooden',
+    '3c68ef1a-efdb-5742-94ac-785e0dc677c9' => [
+        'Surround yourself with positive people.',
+        'Melanie Fiona',
     ],
-    '4a28abb6-8748-570f-aa4f-6ac5190714e8' => [
-        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
-        'Swami Vivekananda',
+    'f9f22947-10a9-5866-a818-f3f4f278608d' => [
+        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
+        'Jim Bunning',
     ],
-    'cb0fb62c-8c5a-5917-9b72-676c2c5a2069' => [
-        'You learn more from failure than from success. Don\'t let it stop you. Failure builds character.',
-        'Unknown',
+    'dd7062f9-f135-5d01-b1dd-ff7c8bc5d18e' => [
+        'Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.',
+        'Leonardo da Vinci',
     ],
-    '2ea0fd83-5a99-5f95-8a5a-6d8995904408' => [
-        'I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.',
-        'James Wong Howe',
+    'e901fdfc-15d6-5695-9649-e0ec3d335856' => [
+        'I get up at 7:30 and work four hours a day. Nine to twelve in the morning, five to six in the evening. Businessmen would achieve better results if they studied human metabolism. No one works well eight hours a day. No one ought to work more than four hours.',
+        'Kurt Vonnegut',
     ],
-    '9a74695a-7f39-5ec9-9ea9-125088bdb80e' => [
-        'I didn\'t plan to be the rude middle-class comedian. You write a certain type of joke that you find funny, and mine happen to be often rude. Yes, it\'s juvenile, but that\'s me.',
-        'Jimmy Carr',
+    'f2d17e64-3b77-523a-846d-bac6a5b07a16' => [
+        'I\'m 42 and the age of a guy who has kids, so I guess I\'m playing right where I\'m supposed to be. I\'m comfortable with that, but in the same breath I\'d do something edgy. If someone came to me and offered me an edgy and funny story, then I\'d do it.',
+        'Eddie Murphy',
     ],
-    '733524aa-0ce3-5da3-9703-0eb977970488' => [
-        'Between stimulus and response, there is a space where we choose our response.',
-        'Stephen Covey',
+    '2660ea5c-4997-5ad5-b0fe-fd9721c494b9' => [
+        'A man who leaves home to mend himself and others is a philosopher; but he who goes from country to country, guided by the blind impulse of curiosity, is a vagabond.',
+        'Oliver Goldsmith',
     ],
-    'f9c6b1f3-d0ca-5221-97d0-13c5fa8ff475' => [
-        'Nearly all the best things that came to me in life have been unexpected, unplanned by me.',
-        'Hoda Kotb',
+    '1c6ab27e-a486-5ef3-bc08-d11bc7f0a501' => [
+        'Never fight an inanimate object.',
+        'P. J. O\'Rourke',
     ],
-    '52439340-ac4e-5d63-ba58-de400d03ba60' => [
-        'The grand essentials of happiness are: something to do, something to love, and something to hope for.',
-        'Chalmers',
+    'f840458e-c392-574d-b7d4-550314afcda6' => [
+        'If you are not too long, I will wait here for you all my life.',
+        'Jim Rohn',
     ],
-    '12b8b85c-dc5a-546e-bdbc-86e741be556e' => [
-        'If you can do what you do best and be happy, you\'re further along in life than most people.',
-        'Wendell Pierce',
+    '911c68a7-20de-5e70-bbe3-c2c7c7edadf7' => [
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
     ],
-    '84540492-942c-5db7-988e-c02eedb94294' => [
-        'A little knowledge that acts is worth infinitely more than much knowledge that is idle.',
-        'Kahlil Gibran',
+    '0113e667-ad4f-53e9-a986-a5d2bf569676' => [
+        'One may say the eternal mystery of the world is its comprehensibility.',
+        'Albert Einstein',
     ],
-    '666bf796-7b6d-571c-93b3-1c26fbabf5b6' => [
-        'You may have to fight a battle more than once to win it.',
-        'Margaret Thatcher',
+    'a74ad0ee-c960-57f6-bd8a-f2ab3c65dac7' => [
+        'My definition, a definition in the drill books from the time that General Von Steuben wrote the regulations for General George Washington, the definition of the object of military training is success in battle... It wouldn\'t be any sense to have a military organization on the backs of the American taxpayers with any other definition.',
+        'Chesty Puller',
     ],
-    '97027997-779e-565d-b6f1-5ff92cb27050' => [
-        'Not how long, but how well you have lived is the main thing.',
-        'Seneca',
+    '8786438b-128b-56f1-8114-9d1db391e078' => [
+        'Trouble is only opportunity in work clothes.',
+        'Henry J. Kaiser',
     ],
-    '9492a5bb-a557-52ca-b9d7-ff9684897d7e' => [
-        'I don\'t like work... but I like what is in work - the chance to find yourself. Your own reality - for yourself, not for others - which no other man can ever know.',
-        'Joseph Conrad',
+    'b5a7d474-86f2-5721-947b-4fa42511c8b3' => [
+        'Education is the best provision for old age.',
+        'Aristotle',
     ],
-    '66daa83b-74c4-56d3-906e-fe32fef26521' => [
-        'We have eyes, and we\'re looking at stuff all the time, all day long. And I just think that whatever our eyes touch should be beautiful, tasteful, appealing, and important.',
-        'Eric Carle',
+    '309cbfb2-561a-5834-b84b-9c29e1ad88ff' => [
+        'Set your goals high, and don\'t stop till you get there.',
+        'Bo Jackson',
     ],
-    'cb87cf2a-4fec-55fb-b3fb-35324ee72c2e' => [
-        'The more success you get, you start to be harder on yourself or more afraid of the looking glass. You have to learn to build a thicker skin because people are paying more attention.',
-        'Idina Menzel',
+    '4fea3d22-272d-584a-8a77-a6fa686f2192' => [
+        'It is not the going out of port, but the coming in, that determines the success of a voyage.',
+        'Henry Ward Beecher',
     ],
-    'c037cf38-0fdb-5b93-a469-8deeb2cdd00d' => [
-        'In junior high school, I was an object of pure ridicule for my dress, withdrawal, and asocial manner. Dozens of times, I saw individuals laugh and smile more in ten to fifteen minutes than I did in all my life up to then.',
-        'Arthur Bremer',
+    'a6536dff-7ed0-559f-aed3-462ef4074eee' => [
+        'My family is more important than my party.',
+        'Zell Miller',
     ],
-    '616bb6c6-360c-5228-a743-8fc162e37a24' => [
-        'O, wind, if winter comes, can spring be far behind?',
-        'Percy Bysshe Shelley',
+    'f7fec8c2-04c0-5c4b-92b0-edffbbb352cd' => [
+        'When a parent shows up with an attitude of entitlement, understand that under it is a boatload of anxiety.',
+        'Robert Evans',
     ],
-    '1afbc841-7297-5af9-b4ea-d5f6e579cfa1' => [
-        'The idea of traveling in Africa for me is based on going by road or train or bus or whatever and crossing borders. You can\'t travel easily or at all through some countries.',
+    'f785b6aa-1a55-548d-ae48-913497a3436b' => [
+        'The job of the travel writer is to go far and wide, to make voluminous notes, to tell the truth.',
         'Paul Theroux',
     ],
-    '6f46062d-7e2c-5d4d-9e59-33dfe0d63ed1' => [
-        'It is not only for what we do that we are held responsible, but also for what we do not do.',
-        'Moliere',
+    '1b9f2e8b-3aad-500a-9b57-02003b7003b9' => [
+        'Air travel survived decades of terrorism, including attacks which resulted in the deaths of everyone on the plane. It survived 9/11. It\'ll survive the next successful attack. The only real worry is that we\'ll scare ourselves into making air travel so onerous that we won\'t fly anymore.',
+        'Bruce Schneier',
     ],
-    'ef67137c-5d5a-5f07-a901-f4f1fbf60c4b' => [
-        'If we listened to our intellect, we\'d never have a love affair. We\'d never have a friendship. We\'d never go into business, because we\'d be cynical. Well, that\'s nonsense. You\'ve got to jump off cliffs all the time and build your wings on the way down.',
-        'Ray Bradbury',
+    'ba7e8325-331b-564d-aca4-91214e4d186c' => [
+        '\'What if?\' statements throw fuel on the fire of stress and worry. Things can go in a million different directions, and the more time you spend worrying about the possibilities, the less time you\'ll spend focusing on taking action that will calm you down and keep your stress under control.',
+        'Travis Bradberry',
     ],
-    '649a981e-829b-570b-8540-5bebd998b764' => [
-        'In the animal kingdom, one of the keys to survival is to outwit your enemies. And when you\'re surrounded by carnivores, one of the best strategies is to fade into the background and disappear.',
-        'Neil deGrasse Tyson',
+    'fd110b69-7b07-550b-8a10-9921862c1d85' => [
+        'Time flies really quickly. It feels like only a few months ago that I was traded over here and started my career as a Cub in 2013.',
+        'Jake Arrieta',
     ],
-    '977ef0ae-6817-5e62-8e4b-1bd591a9c538' => [
-        'The more you travel, the better you get at it. It sounds silly, but with experience you learn how to pack the right way. I remember one of my first trips abroad, travelling around Europe by rail, fresh out of high school. I brought all these books with me and a paint set. I really had too much stuff, so I\'ve learnt to be more economical.',
-        'Roman Coppola',
+    'd147f741-3a0e-5aa1-899a-63ddac065143' => [
+        'Women in particular need to keep an eye on their physical and mental health, because if we\'re scurrying to and from appointments and errands, we don\'t have a lot of time to take care of ourselves. We need to do a better job of putting ourselves higher on our own \'to do\' list.',
+        'Michelle Obama',
     ],
-    '14f147c6-6912-5ce8-9969-bf8979a43652' => [
-        'Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind.',
-        'Robert Louis Stevenson',
+    '772b4d6d-55c2-5f38-bf5c-d034fc6ff96e' => [
+        'The best vision is insight.',
+        'Malcolm Forbes',
     ],
-    'ccc298a9-8162-5e0e-8125-15df5614155d' => [
-        'Life is a succession of lessons which must be lived to be understood. All is riddle, and the key to a riddle is another riddle.',
-        'Viktor E. Frankl',
+    '869a0123-5d44-5aed-a9e9-a1d3bcc30c7c' => [
+        'There is no glory in star or blossom till looked upon by a loving eye; There is no fragrance in April breezes till breathed with joy as they wander by.',
+        'William C. Bryant',
     ],
-    '4a028aa2-f956-512e-9896-d12ab45cdb03' => [
-        'The coniferous forests of the Yosemite Park, and of the Sierra in general, surpass all others of their kind in America, or indeed the world, not only in the size and beauty of the trees, but in the number of species assembled together, and the grandeur of the mountains they are growing on.',
+    '07dc254b-d283-57f2-b4fe-b64509097c1a' => [
+        'Whether you come from heaven or hell, what does it matter, O Beauty!',
+        'Charles Baudelaire',
+    ],
+    '2890da44-71e8-5c30-900e-d7f90cbd78e0' => [
+        'Tears are often the telescope by which men see far into heaven.',
+        'Henry Ward Beecher',
+    ],
+    'de9e609f-8d55-5e52-9b2f-cd7be79f3e8b' => [
+        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
+        'Nia Peeples',
+    ],
+    '6be2445a-e3af-5390-9521-127d90ddce6b' => [
+        'Just because one brother is good and one brother is bad in the same family, we cannot say that the rest of the family is bad or good.',
+        'Sri Chinmoy',
+    ],
+    'd97596b8-305b-5c8f-a58a-8e6e48269de4' => [
+        'The time to repair the roof is when the sun is shining.',
+        'John F. Kennedy',
+    ],
+    '1feaee46-ddaf-5ff9-adf0-e65fdee38ecd' => [
+        'I never saw a discontented tree. They grip the ground as though they liked it, and though fast rooted they travel about as far as we do.',
         'John Muir',
     ],
-    'e3bfe4f0-b321-5186-8763-ab5a83ee8075' => [
-        'In your 40s, you shed those who bring you down and surround yourself with the most positive people you know.',
-        'Jami Attenberg',
+    'ad5b7d95-07f6-5dc8-a36c-3f82bd73348d' => [
+        'My favorite type of pet has always been a dog. They\'re loyal, kind, and offer endless affection. My friend Eric says, \'The more people I meet, the more I like my dog.\' Funny thought.',
+        'Brendon Urie',
     ],
-    '7948f36c-64f0-5c59-8019-f7f5e05dac7c' => [
-        'A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.',
-        'Isaac Asimov',
+    '483b8b63-578d-5509-9ea2-4e805400ea4b' => [
+        'If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life.',
+        'Henry David Thoreau',
     ],
-    'dc01a9a8-cdeb-5f18-ac2a-53e96247b139' => [
-        'I read the script for Wonder Boys, and I said that was almost perfect, it was so classy, cool and funny. It\'s a really specific thing. We stuck to it, it turned out good and a lot of people liked it.',
-        'Robert Downey, Jr.',
+    '7f746ac1-2e00-50eb-84e5-fa9b70abbf19' => [
+        'When I started counting my blessings, my whole life turned around.',
+        'Willie Nelson',
     ],
-    '39331f6a-e17f-5d1e-9c70-4e518d8d29ce' => [
-        'I grew up under Communism so we could only learn Russian, and then when Communism fell in 1989 we could learn a few more things and have the freedom to travel and the freedom of speech - and the freedom of dreaming, really.',
-        'Petra Nemcova',
+    '6b3ac914-5ff1-5964-ace9-6e502365367a' => [
+        'A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop trying.',
+        'B. F. Skinner',
     ],
-    '236a1291-b488-5aec-a732-56aa4dcd141b' => [
-        'I want to work with kids and help develop them, show them the right way, the right morals and attitude into how to become a better footballer. Australia has many different cultures but I\'d like to bring in the indigenous style, bring their competitiveness, athleticism and raw ability into the frame.',
-        'Timothy F. Cahill',
+    '75af9a31-3f72-526e-b265-39f5eba2c1d8' => [
+        'Life it is not just a series of calculations and a sum total of statistics, it\'s about experience, it\'s about participation, it is something more complex and more interesting than what is obvious.',
+        'E. B. White',
     ],
-    '31f7c567-d66f-5784-ba00-9259bf5dd4e8' => [
-        'The month of November makes me feel that life is passing more quickly. In an effort to slow it down, I try to fill the hours more meaningfully.',
-        'Ella Wheeler Wilcox',
+    '83499705-f3af-5e6d-8feb-3d65e144c04a' => [
+        'Of all possible subjects, travel is the most difficult for an artist, as it is the easiest for a journalist.',
+        'W. H. Auden',
     ],
-    '48a58935-cc16-5495-9d2d-ef2130cba544' => [
-        'I would wear the blue overalls of the fieldworker and often wore round, rimless glasses known as Mazzawati teaglasses. I had a car, and I wore a chauffeur\'s cap with my overalls. The pose of chauffeur was convenient because I could travel under the pretext of driving my master\'s car.',
-        'Nelson Mandela',
+    '8fe1087e-c001-59dc-b5b8-0024f0e7aaac' => [
+        'The world is a country which nobody ever yet knew by description; one must travel through it one\'s self to be acquainted with it.',
+        'Philip Stanhope, 4th Earl of Chesterfield',
     ],
-    '6a6bbd50-b8ba-530b-9a12-a3ed97816640' => [
-        'The envious man grows lean at the success of his neighbor.',
-        'Horace',
+    'cb4e7d21-429d-5a4a-9e36-9e7621815331' => [
+        'I work really hard at trying to see the big picture and not getting stuck in ego. I believe we\'re all put on this planet for a purpose, and we all have a different purpose... When you connect with that love and that compassion, that\'s when everything unfolds.',
+        'Ellen DeGeneres',
     ],
-    '8606f50b-21c6-557d-bbd6-5e53ad9c3315' => [
-        'Before the BBC, I joined the Navy in order to travel.',
-        'David Attenborough',
+    '1efdbceb-fdbc-524b-9cf8-836d3462e67a' => [
+        'My dad was a very quiet person, and unbelievably tough. But my grandmother gave me my first look at negative thinking to bring about positive results. When I was just a little guy, anytime I came to my grandmother and said I wish for this or that, Grandma would say, \'If wishes were horses, beggars would ride.\'',
+        'Bobby Knight',
     ],
-    '14d4c59e-8c77-5f61-8086-c24daa6b4319' => [
-        'Life consists in what a man is thinking of all day.',
-        'Donald Trump',
+    '68968e81-0724-5392-9652-e89564e13a8d' => [
+        'It is one of the blessings of old friends that you can afford to be stupid with them.',
+        'Ralph Emerson',
     ],
-    '28133fb5-987b-5436-89ca-b24da04d2e4a' => [
-        'Our responsibility is to rally and lead the whole party and the Chinese people of all ethnic groups, take up this historic baton and continue working hard for the great renewal of the Chinese nation, so that we will stand rock firm in the family of nations and make fresh and greater contribution to mankind.',
-        'Xi Jinping',
-    ],
-    '64b96e13-a4ce-56d8-9bbf-28d77fc670bb' => [
-        'Through travel I first became aware of the outside world; it was through travel that I found my own introspective way into becoming a part of it.',
-        'Eudora Welty',
-    ],
-    '5ea37cca-0333-5ef5-8a8d-081426b9043e' => [
-        'Imagination is the highest kite one can fly.',
-        'Lauren Bacall',
-    ],
-    'e48be4cb-a656-5a3a-9eba-5afae27d9907' => [
-        'I\'m an un-healable positive optimist.',
-        'Andre Rieu',
-    ],
-    '8ce9216d-c5f7-5be4-b808-8bbc5fb1b15d' => [
-        'The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.',
-        'George Shaw',
-    ],
-    'f32a50f9-82a3-5f63-999c-1bb411e8a737' => [
-        'So during those first moments of the day, which are yours and yours alone, you can circumvent these boundaries and concentrate fully on spiritual matters. And this gives you the opportunity to plan the time management of the entire day.',
-        'Menachem Mendel Schneerson',
+    '22f89d11-9b40-5e30-bdec-7a7ade5140fb' => [
+        'The bat is gone, but the smile remains.',
+        'Willie Stargell',
     ],
 ];

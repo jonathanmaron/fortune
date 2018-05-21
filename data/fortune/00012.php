@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '497aa976-6382-549c-bfb9-40ecfaafe614' => [
-        'One of the things the \'Tao of Travel\' shows is how unforthcoming most travel writers are, how most travelers are. They don\'t tell you who they were traveling with, and they\'re not very reliable about things that happened to them.',
-        'Paul Theroux',
+    '271427b6-1425-5225-8b74-b60f91f6a762' => [
+        'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
+        'Dennis C. Blair',
     ],
-    'ec1cf8aa-f18d-567f-a238-4aabc243bad3' => [
-        'In Hollywood, they think drawn animation doesn\'t work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They\'re relying too much on the technology and not enough on the artists.',
-        'Tim Burton',
+    '3ced143e-47d5-5896-8084-a6e545b5d762' => [
+        'A home with a loving and loyal husband and wife is the supreme setting in which children can be reared in love and righteousness and in which the spiritual and physical needs of children can be met.',
+        'David A. Bednar',
     ],
-    '558ee375-45ee-5be0-8a91-ff66638c6167' => [
-        'Life must be lived as play.',
-        'Will Rogers',
+    'b646c1fe-0d38-5d5b-8c24-998f943f5b16' => [
+        'Part of the punk attitude was that you should project your music through your whole body... show your personality as much as possible.',
+        'Billy Idol',
     ],
-    '1e6e70b7-dce0-5db9-acc4-0d9640d281bd' => [
-        'A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that \'individuality\' is the key to success.',
-        'Robert Orben',
+    '341eb039-024e-5730-9234-b82486d7bc04' => [
+        'I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.',
+        'Yannick Noah',
     ],
-    'a43c8a03-7d9a-5f43-965b-c07666d64eea' => [
-        'There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.',
-        'Elie Wiesel',
+    '0cc29298-8474-54c0-bee3-3d414251d5c7' => [
+        'For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.',
+        'Billy Porter',
     ],
-    '9ef7ca45-255b-5ccc-93cb-2f17a4266ab8' => [
-        'Speak when you are angry and you will make the best speech you will ever regret.',
-        'Ambrose Bierce',
+    '959d6514-f27f-5aff-891e-240231738195' => [
+        'A girl\'s best friend is her pride.',
+        'Vanity',
     ],
-    'cc867457-c1bf-594b-a1fb-4cffcfd92a2f' => [
-        'The learned is happy, nature to explore; The fool is happy, that he knows no more.',
-        'Alexander Pope',
+    'def8c1a0-9299-52ff-8702-f38b9fe47763' => [
+        'I learned a long time ago that reality was much weirder than anyone\'s imagination.',
+        'Hunter S. Thompson',
     ],
-    '59dc1309-f564-520a-9a85-ad81ea6225fe' => [
-        'Be of service. Whether you make yourself available to a friend or co-worker, or you make time every month to do volunteer work, there is nothing that harvests more of a feeling of empowerment than being of service to someone in need.',
-        'Gillian Anderson',
+    'd9d31c2e-654a-5537-837a-fa86589e1359' => [
+        'Right actions in the future are the best apologies for bad actions in the past.',
+        'Tryon Edwards',
     ],
-    'd4dfb1c1-bd37-56bf-82aa-ef6626ccf91e' => [
-        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
-        'Karl Shapiro',
+    '4883e7d6-da98-5657-a391-3a41125a454b' => [
+        'One of the hardest decision you\'ll ever face in life is choosing whether to walk away or try harder.',
+        'Ziad K. Abdelnour',
     ],
-    '68fc42c7-0fc5-5e33-99f3-08637fb4f3c8' => [
-        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
-        'Christopher McCandless',
+    'c5694fe2-e3f9-513a-af53-46f57d12081f' => [
+        'My childhood dream was to study mechanical engineering. After reading \'The Mysterious Island\' - which I read 25 times as a boy - I thought that was the best thing a person could do. The engineer in the book knows mechanics and physics, and he creates a whole way of life on the island out of nothing. I wanted to be like that.',
+        'Dan Shechtman',
     ],
-    '298ac664-a36f-53f0-b2dd-a04c5239299a' => [
-        'The skull is nature\'s sculpture.',
-        'David Bailey',
+    '1ab3ee4c-2b85-5fdd-a580-6d5f2fc4fec2' => [
+        'Life does not cease to be funny when people die any more than it ceases to be serious when people laugh.',
+        'Bret Michaels',
     ],
-    '0d4d2ef5-7603-5824-8b2d-519def953253' => [
-        'We know a way now to make use of democracy, and we know how to change the attitude of people towards government, but yet the majority of people are without vision. We who have prevision must lead them and guide them into the right way if we want to escape the confusions of Western democracy and not follow in the tracks of the West.',
-        'Sun Yat-sen',
+    '041d3fc5-8fc2-5ac4-a645-416ea21a5736' => [
+        'The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.',
+        'Eric Berne',
     ],
-    'dab40578-6e86-5eb7-8214-44818e266eee' => [
-        'Our scientific age demands that we provide definitions, measurements, and statistics in order to be taken seriously. Yet most of the important things in life cannot be precisely defined or measured. Can we define or measure love, beauty, friendship, or decency, for example?',
-        'Dennis Prager',
+    '4c053081-06ac-57fd-baac-fd86cf187845' => [
+        'It is art that makes life, makes interest, makes importance... and I know of no substitute whatever for the force and beauty of its process.',
+        'Henry James',
     ],
-    '10440d5a-a132-53f3-a6f1-f1c40652a5cb' => [
-        'Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around.',
-        'A. P. J. Abdul Kalam',
+    'f9c7ae63-aa91-5f2b-96b9-b454a416a677' => [
+        'It\'s a funny thing. I\'ll be in my home town of Columbus at a restaurant or something, and the waiter maybe asks, \'What do you do?\' and I say, \'Oh, I\'m in a band... Twenty One Pilots,\' and he\'ll say, \'Cool, I\'ll check it out. I never heard of them.\' And then I say, \'In September we\'re playing the Schottenstein Center,\' and it\'s like, \'What?!\'',
+        'Tyler Joseph',
     ],
-    '69a0f0c9-e65c-58a6-846c-4b5cee843847' => [
-        'I can and I will. Watch me.',
-        'Anonymous',
+    'b36976af-a41c-5dbf-aba0-3ed43d9bb997' => [
+        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
+        'Anne Lamott',
     ],
-    '84da1201-9aca-557e-91ce-03367f8eb044' => [
-        'Academics, who work for long periods in a self-directed fashion, may be especially prone to putting things off: surveys suggest that the vast majority of college students procrastinate, and articles in the literature of procrastination often allude to the author\'s own problems with finishing the piece.',
-        'James Surowiecki',
+    '0e5753ad-a447-5e91-bc8c-2bcd1e706d3b' => [
+        'I think the healthy way to live is to make friends with the beast inside oneself, and that means not the beast but the shadow. The dark side of one\'s nature. Have fun with it and you know, is to accept everything about ourselves.',
+        'Anthony Hopkins',
     ],
-    '6eb102b8-abbf-5312-b199-fada1c863369' => [
-        'Because beauty isn\'t enough, there must be something more.',
-        'Eva Herzigova',
+    'd9da140d-9031-5bfa-bec7-a0b991fc169e' => [
+        'A family is a place where principles are hammered and honed on the anvil of everyday living.',
+        'Charles R. Swindoll',
     ],
-    '33d72cf1-1e5b-5379-891a-8917672a4b78' => [
-        'It\'s so much darker when a light goes out than it would have been if it had never shone.',
-        'John Steinbeck',
+    '34be5d75-3511-539d-a065-65585b0bcc77' => [
+        'Excellence is to do a common thing in an uncommon way.',
+        'Booker Washington',
     ],
-    '2735fea9-93ed-5096-acff-022e899b0b59' => [
-        'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
-        'Frank Crane',
+    '862b591e-9606-5ac7-ad09-93a8d33848a4' => [
+        'Creating a better world requires teamwork, partnerships, and collaboration, as we need an entire army of companies to work together to build a better world within the next few decades. This means corporations must embrace the benefits of cooperating with one another.',
+        'Simon Mainwaring',
     ],
-    '98b8b20f-d45d-5580-85b8-d3c55b238171' => [
-        'You can do it if you believe you can!',
-        'Napoleon Hill',
+    '36c1d1e8-78d6-56d5-8f0f-c53ad6be7b9a' => [
+        'The purpose of Disneyland is to make people smile.',
+        'Kevin Plank',
     ],
-    'bec44773-93e9-5760-a8c6-bb57bc3acc20' => [
-        'All my life, I always wanted to be somebody. Now I see that I should have been more specific.',
-        'Jane Wagner',
+    'c27cf03d-2961-5a6b-9a18-2606ccb81a97' => [
+        'Steroids do not guarantee you\'re going to have success. I think a lot of people think that they will, but they don\'t.',
+        'Tony Gwynn',
     ],
-    '00591167-8756-5da4-ada4-4e2935c3287e' => [
-        'Do your own thing on your own terms and get what you came here for.',
-        'Oliver James',
+    '42062fda-eb99-528f-8b6e-fec413ea8f49' => [
+        'The problem was just a mean attitude that festers and has to be challenged.',
+        'Major Owens',
     ],
-    '0eb5ad3a-6942-56f5-8ab5-cc99cec6e88a' => [
-        'I started as a black and white photographer, but the colors I was seeing were just so lurid and compelling and awful at the same time. They got me looking at other contemporary art. I was gravitating more and more toward work that had visceral power, that wasn\'t necessarily about being beautiful but had some kind of horror in the palette.',
-        'David Maisel',
+    'cbff0a2c-f8df-51f1-980e-ae86b5f7a63b' => [
+        'Champions extend their limits and make things happen.',
+        'Amit Ray',
     ],
-    '7857f98d-ec9b-5c52-8e8a-d3b06552ebb4' => [
-        'I do believe in love; it\'s wonderful - especially love third time around, it\'s even more precious; it\'s kind of amazing.',
-        'Robin Williams',
+    'f9b362bb-4dc8-5b7c-be6b-3b5b1cf3a26d' => [
+        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
+        'Eliot Spitzer',
     ],
-    'd541fba8-7fce-5a02-aeac-fd51d4f43d3b' => [
-        'I believe in rules. Sure I do. If there weren\'t any rules, how could you break them?',
-        'Leo Durocher',
+    'd2614e85-3900-5e03-a78c-1f2b2c82fcb4' => [
+        'You can\'t climb the ladder of success with your hands in your pockets.',
+        'Arnold Schwarzenegger',
     ],
-    '0b78229a-cb0f-58bf-8637-7fc92293166d' => [
-        'The best things in life are often waiting for you at the exit ramp of your comfort zone.',
-        'William J. Clinton',
+    '114793ac-036c-5178-8bce-705807517271' => [
+        'Variety\'s the very spice of life, That gives it all its flavor.',
+        'Rachael Ray',
     ],
-    'e26ab462-3e75-56a7-ac46-8b32d1a1b982' => [
-        'Being a writer usually entails a fairly quiet life. However much travel one might do, however many tours and appearances, the job entails solitude: long hours in libraries, long hours at a desk.',
-        'Jill Paton Walsh',
+    '6c700f72-6e9f-5f2a-95b0-2c8de59c8830' => [
+        'Wealth is the ability to fully experience life.',
+        'Solomon Ortiz',
     ],
-    '8d99ba9c-4608-5f38-b0d1-3685593eefaa' => [
-        'I remember a hundred lovely lakes, and recall the fragrant breath of pine and fir and cedar and poplar trees. The trail has strung upon it, as upon a thread of silk, opalescent dawns and saffron sunsets.',
-        'Hamlin Garland',
+    '88755c66-8645-503d-86e2-f8bebb63403b' => [
+        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
+        'Miley Cyrus',
     ],
-    '0a0c7218-6a38-5009-9b10-ffe9ccc955ce' => [
-        'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
-        'Roger Ebert',
+    '16d8e5cb-3a12-59e8-bf5e-c81fc6d3dd62' => [
+        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
+        'Tom Brady',
     ],
-    '49cbd8d7-95e6-579d-b04e-ad853bc7f2a0' => [
-        'It\'s a funny show. The characters are surprisingly likable, given how ugly they are. We\'ve got this huge cast of characters that we can move around. And over the last few seasons, we\'ve explored some of the secondary characters\' personal lives a bit more.',
-        'Matt Groening',
+    '9317f9cc-3b83-5fbe-bf96-b0579d5040ec' => [
+        'I\'d rather have huge success and huge failures than travel in the middle of the road.',
+        'Kevyn Aucoin',
     ],
-    '13ccb926-a4a1-5d42-895a-f39d3129095c' => [
-        'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
-        'Ursula Burns',
+    '5eee95d0-91c9-5791-a468-a38273186df7' => [
+        'Two months after I got out of test pilot school, I saw an advert that said NASA was recruiting more astronauts. The best job you could have as a test pilot was being an astronaut, so I volunteered.',
+        'Charles Duke',
     ],
-    '15624eaf-46e4-5387-a32b-14bd7cfc98ca' => [
-        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
-        'Jessica Savitch',
+    'a7bc7e70-40f6-544b-a295-958d3c9b15dd' => [
+        'A bachelor\'s life is a fine breakfast, a flat lunch, and a miserable dinner.',
+        'Conor Oberst',
     ],
-    '3ec654d7-b2bb-55ef-9fc7-95f3ccf93634' => [
-        'It is in the character of very few men to honor without envy a friend who has prospered.',
-        'Aeschylus',
+    '7337a40b-48a4-5ebb-a76f-f80d2994e6f1' => [
+        'Since love grows within you, so beauty grows. For love is the beauty of the soul.',
+        'Saint Augustine',
     ],
-    'd4238d89-183a-5554-b614-c4212b334b21' => [
-        'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.',
-        'Jeremy Bentham',
+    '662a7b70-1347-5dd1-a45b-121c1d4e13eb' => [
+        'When love and skill work together, expect a masterpiece.',
+        'John Ruskin',
     ],
-    'dcf3d453-ebd4-5fff-9550-b38e76d9e51e' => [
-        'Beauty is how you feel inside, and it reflects in your eyes. It is not something physical.',
-        'Sophia Loren',
+    'e85a46f8-8b2f-5a6d-956d-266de05e300a' => [
+        'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
+        'Grover Cleveland',
     ],
-    '7b65501b-beb0-5bb8-9dfd-5a9a4ec25490' => [
-        'The NFL is a performance-based business, so you should have to perform to earn some of your money. At the same time, I realize that my success isn\'t just because of what I do out there.',
-        'Colin Kaepernick',
+    '4b964bb0-7bcd-5842-a0ba-31a1915a013d' => [
+        'If you have no respect for your own values how can you be worthy of respect from others.',
+        'Byron Pulsifer',
     ],
-    'f17a9714-2188-564a-8269-7fdc72eecffd' => [
-        'Although I have guitars all around, and I pick them up occasionally and write a tune and make a record, I don\'t really see myself as a musician. It may seem a funny thing to say. It\'s just like, I write lyrics, and I make up songs, but I\'m not a great lyricist or songwriter or producer. It\'s when you put all these things together - that makes me.',
-        'George Harrison',
+    '7a10658a-a9de-5fb3-9281-a03fa5f7f018' => [
+        'Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.',
+        'Brian Tracy',
     ],
-    'db4d8bb9-4c99-5ea7-aa4c-49287f94450e' => [
-        'I think we all do have a guardian angel. I believe they work through us all the time, when we are thoughtful and good and kind to each other.',
-        'Roma Downey',
+    '710675ea-b521-5f1f-833c-352d2ce1f967' => [
+        'Both for Havana\'s beauty and decay, it\'s very hard to restrain yourself from staring everywhere you look.',
+        'Brin-Jonathan Butler',
     ],
-    'f67793c9-c616-5536-9d38-20d36f88bc71' => [
-        'When I eventually met Mr. Right I had no idea that his first name was Always.',
-        'Rita Rudner',
+    'a1e91a2b-2b40-5ffb-92b0-b56350b0fc5c' => [
+        'It is on our failures that we base a new and different and better success.',
+        'Havelock Ellis',
     ],
-    '0667b9b9-ffc2-566d-b061-d57633d438ae' => [
-        'A good story can travel in time and borders; it hits you no matter where you are.',
-        'Hakan Nesser',
+    '71d08dd4-d04d-5e91-a14d-dff6418e878f' => [
+        'I think home has become my friends and family, wherever they are.',
+        'Rachel Brosnahan',
     ],
-    'ce113a8f-a24f-5900-a281-2e7a336c62bc' => [
-        'Child slavery is a crime against humanity. Humanity itself is at stake here. A lot of work still remains, but I will see the end of child labor in my lifetime.',
-        'Kailash Satyarthi',
+    '9ce34c97-bb14-573c-b83d-452fe3200d42' => [
+        'Whatever it is you\'re seeking won\'t come in the form you\'re expecting.',
+        'Haruki Murakami',
     ],
-    'cef77d71-75a1-5b50-bc6e-e72450436442' => [
-        'You, yourself, as much as anybody in the entire universe, deserve your love and affection.',
-        'Buddha',
+    '4768b719-6b70-5bcb-a9e3-0f447e9d895a' => [
+        'A Maybelline New York woman is strong and confident - I love that attitude.',
+        'Frida Gustavsson',
     ],
-    '2ea9cea7-2307-54a1-a6dd-8f98507aaa71' => [
-        'In the practice of tolerance, one\'s enemy is the best teacher.',
+    '92f1d944-4105-5b13-b4a2-83d0df638008' => [
+        'Beauty and fashion are not really local anymore. You really have to be a global citizen to know what trends are. Now, it\'s pretty much the same designers and the same kind of trends, whether I am in New York, Milan, or Mumbai - it\'s the same.',
+        'Priyanka Chopra',
+    ],
+    'eaa9b4b1-8c00-5127-b2de-c4570180301c' => [
+        'I\'ve always believed that if you put in the work, the results will come.',
+        'Michael Jordan',
+    ],
+    'b33f907b-4735-5d9f-b5af-0b081b507ac6' => [
+        'A bland smile is like a green light at an intersection, it feels good when you get one, but you forget it the moment you\'re past it.',
+        'Douglas Coupland',
+    ],
+    '00e6da2f-02f8-52ae-89df-b0d7769ee19e' => [
+        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
+        'Nev Schulman',
+    ],
+    'c45ec180-e577-55e6-9ecb-6fe78465009a' => [
+        'Sleep is the best meditation.',
         'Dalai Lama',
     ],
-    'c36f0e90-1b91-5560-a493-624c822c164a' => [
-        'Courage is the discovery that you may not win, and trying when you know you can lose.',
-        'Unknown',
+    'edd318a4-7fa7-51ec-afe0-9f56f9831850' => [
+        'Teamwork requires some sacrifice up front; people who work as a team have to put the collective needs of the group ahead of their individual interests.',
+        'Patrick Lencioni',
     ],
-    'f956c562-a428-54e0-b85f-f1b8d2f81df1' => [
-        'People commonly travel the world over to see rivers and mountains, new stars, garish birds, freak fish, grotesque breeds of human; they fall into an animal stupor that gapes at existence and they think they have seen something.',
-        'Soren Kierkegaard',
+    '653abc43-0bd5-56b7-9746-4a372241d69a' => [
+        'My motto is more, \'If you want to find something new, look for something new!\' There is a certain amount of risk in this attitude, as even the slightest failure tends to be resounding, but you are so happy when you succeed that it is worth taking the risk.',
+        'Yves Chauvin',
     ],
-    'a7dc1f34-6f1c-5161-b76d-e608aab3c671' => [
-        'Being a teenager is an amazing time and a hard time. It\'s when you make your best friends - I have girls who will never leave my heart and I still talk to. You get the best and the worst as a teen. You have the best friendships and the worst heartbreaks.',
-        'Sophia Bush',
-    ],
-    '7f183397-fdd5-5d53-a5df-6a478292e5f8' => [
-        'When I came into office, people said, \'Billionaire? How do they live? What do they eat? How do they sleep?\' Today, they see me on the subway coming uptown. A couple of people say hi, some people smile and nod. Some people just sleep. It\'s not an issue.',
-        'Michael Bloomberg',
-    ],
-    'c459035b-71b5-511e-9ebd-a5053345ffc0' => [
-        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
-        'Charice Pempengco',
-    ],
-    'c9decbf2-09e9-52db-a6e4-624b0b304e2a' => [
-        'The important thing is this: to be able at any moment to sacrifice what we are for what we could become.',
-        'Charles Dubois',
-    ],
-    'f2c9c94e-79e6-57d2-990f-0fba8c45f060' => [
-        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-        'Elmer Bernstein',
+    '745adf6f-f84f-58b9-86a5-ba7a52658f0e' => [
+        'I wasn\'t the kind of kid who would get A\'s without even trying. I had to work to get good grades, but I was very organised about it because I always wanted to do well at everything I did. I\'m very competitive.',
+        'Jessica Ennis',
     ],
 ];

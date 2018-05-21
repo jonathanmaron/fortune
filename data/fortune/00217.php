@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '3b609c1d-d961-5d34-bf58-5db231aa4b3c' => [
-        "To have striven, to have made the effort, to have been true to certain ideals\u{2013}this alone is worth the struggle.",
-        'William Penn',
+    '1ee6fe9b-c8c1-5712-84bb-4618982d1f93' => [
+        'The next time you have a thought... let it go.',
+        'Ron White',
     ],
-    '59e56608-6edf-55e3-b2f5-4769cada47f6' => [
-        'I am learning that in life it is OK to travel in darkness, not knowing what your next move is.',
-        'Cobie Smulders',
+    '420c5cac-e165-5364-8c09-3e545435cc77' => [
+        'If one does not know to which port is sailing, no wind is favorable.',
+        'Seneca',
     ],
-    '135785db-c2ce-54e3-8f55-6b67fef23459' => [
-        'Words, once they are printed, have a life of their own.',
-        'B. R. Ambedkar',
+    '237ae013-ea92-5dbe-9d11-de99150034f0' => [
+        'Thinking is one thing no one has ever been able to tax.',
+        'Charles Kettering',
     ],
-    'b62e2625-cf62-5d9b-95e8-98445c07745c' => [
-        'The natural liberty of man is to be free from any superior power on Earth, and not to be under the will or legislative authority of man, but only to have the law of nature for his rule.',
-        'Samuel Adams',
+    '4a84aeee-7849-5582-8b65-031c09f4676d' => [
+        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer.',
+        'Vera Wang',
     ],
-    'd7cdd6bf-aa54-54bb-b252-fa387f00ccea' => [
-        'Much effort, much prosperity.',
-        'Euripides',
+    'dbfde7da-907d-5fbe-8f1e-97a3cf3bcd68' => [
+        'Race hate isn\'t human nature; race hate is the abandonment of human nature.',
+        'Orson Welles',
     ],
-    'db2601ff-08b6-5e2e-b20f-57faddd2a601' => [
-        'I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-        'Thomas A. Edison',
+    '00bf9755-1803-5341-9e2c-496f32d5c01c' => [
+        'All the freaky people make the beauty of the world.',
+        'Michael Franti',
     ],
-    'a014818a-6527-59e5-ae90-88be7e7482fc' => [
-        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
-        'Eve Arden',
+    'f08c338f-e43f-5a99-bd79-e32a41f06354' => [
+        'I know that, for me, I need to try to cover myself while breastfeeding so that no one snaps a picture. If this wasn\'t the case, I probably wouldn\'t mind as much because my son is my biggest concern. My attitude is, if someone sees a little somethin\' somethin\', don\'t look if you don\'t like it.',
+        'Kourtney Kardashian',
     ],
-    'b00f692b-3e1a-5839-aaf5-e01ae50a7457' => [
-        'If I know what love is, it is because of you.',
-        'Hermann Hesse',
+    'a1e8d53a-7ef6-5b4c-b98a-f5e04da3eea0' => [
+        'Nothing is softer or more flexible than water, yet nothing can resist it.',
+        'Lao Tzu',
     ],
-    '7517d666-5260-51f6-96c4-05659553ba5e' => [
-        'When I was younger, I\'d go to the Museum of Television and Radio in New York and watch this beautiful clip of Billie Holiday playing with a bassist, a pianist and Gerry Mulligan, who was a friend of mine, on baritone sax. At one point, she looks over at Gerry, and they just smile. When those moments happen, it\'s just lovely.',
-        'Patti Scialfa',
+    '16d70bb5-f8d2-5483-b50c-4d46e6cc70f1' => [
+        'I know that I\'ve got big ears and a big forehead and that my hair sticks up. But I\'m happy with myself. I\'m not necessarily trying to win a beauty pageant here.',
+        'Clay Aiken',
     ],
-    'e3d56573-8416-5e05-8e7b-bc12b42659d4' => [
-        'Great is the art of beginning, but greater is the art of ending.',
-        'Lazurus Long',
+    '7a064c49-6618-5266-8c10-a3cbacd1a4df' => [
+        'Work is much more fun than fun.',
+        'Noel Coward',
     ],
-    '51e90270-8c51-557f-9ba1-e3971fc452b8' => [
-        'I have this horrible sense of humor where I think discomfort is funny - partly because I experience discomfort a lot, and it\'s a way of laughing at it and getting a release.',
-        'Joaquin Phoenix',
+    'f23fd96f-b1ba-5515-8121-17c22349b857' => [
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
     ],
-    '7d59d5bb-f777-5e27-8a9a-ad8dd881b7f2' => [
-        'A really great talent finds its happiness in execution.',
-        'Johann Wolfgang von Goethe',
+    '27b8d0ec-0b5a-5b50-8aa4-c22b73b8e046' => [
+        'I believe a leaf of grass is no less than the journey-work of the stars.',
+        'Walt Whitman',
     ],
-    'fb0f4de2-b794-59e6-90dc-9844303a7f43' => [
-        'Because it\'s cheaper and easier to fly than ever before, air travel is becoming democratized.',
-        'Peter Diamandis',
+    'ad912f55-c7f9-5a15-a2dc-ac3552feb19c' => [
+        'We travel, some of us forever, to seek other states, other lives, other souls.',
+        'Anais Nin',
     ],
-    'bcfcbf96-5521-5941-bbd4-b5be9ee3c8a0' => [
-        'I think that a lot of people in all walks of life have the impression, of course, that, \'I specialize in something. I can\'t - I don\'t have the time to read other things. I\'ll just go to pure entertainment when I\'m relaxing, and then I\'ll come back to my pure specialty.\' That produces - that attitude produces idiot savants, unfortunately.',
-        'Robert J. Shiller',
+    '4f71d802-6f86-5438-980f-b19ef0f9b5fa' => [
+        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
+        'John O\'Donohue',
     ],
-    'f3283d71-6180-5fdb-b34e-e89522884182' => [
-        'I\'m really exciting. I smile a lot, I win a lot, and I\'m really sexy.',
-        'Serena Williams',
+    '1d32635d-7b14-5977-aab4-b2c0d0206d9b' => [
+        'If your work requires you to travel, you will understand that there\'s no vacation destination like home.',
+        'Park Chan-wook',
     ],
-    '9fcf8243-923a-56e6-bfd6-39bc63ffe2d9' => [
-        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
-        'James Blunt',
+    'bd0a71ce-2a4f-5a47-9201-2924bd4e36f7' => [
+        'I have inspiration and feelings of being alive most every day I live.',
+        'Richard L. Evans',
     ],
-    '03a6b46f-1396-52f2-870c-b56476194fbf' => [
-        'Success is not to be pursued; it is to be attracted by the person you become.',
-        'Jim Rohn',
+    '71105e75-e9e5-5665-bf1a-61c2e4f1bf6b' => [
+        'I mean I don\'t really think about it. You know, do you know what I often say to myself? I think you\'re very lucky in life if you know what you want to do.',
+        'Andrew Lloyd Webber',
     ],
-    '167ae388-0463-5251-8a6d-f043bdc0f851' => [
-        'Success is little more than a chemical compound of man with moment.',
-        'Philip Guedalla',
+    'bda592ce-b687-51f3-bb17-8047d240faaa' => [
+        'I hold grudges, but I can\'t hate nobody; that\'s not my nature.',
+        'The Notorious B.I.G.',
     ],
-    'c7f441d3-ff40-5aae-89c5-88f354335bcb' => [
-        'A two-year-old is kind of like having a blender, but you don\'t have a top for it.',
-        'Jerry Seinfeld',
+    'ef26e4cf-0aa0-505e-b064-d54c9ab7d87b' => [
+        'I\'m just working and having a good time and seeing what develops, which is so awesome, because you don\'t know what\'s going to happen, and I\'m letting myself do that a lot more than I ever have.',
+        'Kathleen Hanna',
     ],
-    '2df0ddc9-a0b4-55c1-8fee-82d90534bedc' => [
-        'In motivating people, you\'ve got to engage their minds and their hearts. I motivate people, I hope, by example - and perhaps by excitement, by having productive ideas to make others feel involved.',
-        'Rupert Murdoch',
+    '3d8d23f5-ded0-5866-bae3-c3ca9b21bf5a' => [
+        'Success is a matter of one\'s own feeling about oneself.',
+        'Edward James Olmos',
     ],
-    '08c4d270-207a-57c1-8765-6c923a28768b' => [
-        'When I go back to Texas, I travel the state, and I see people all the time who come up to me, men and women across Texas, and they grab me by the shoulder, and they\'re afraid. They say, \'Ted, you know, I just lost my health insurance. I got a child with diabetes. I\'m scared. Please stop this from happening.\'',
-        'Ted Cruz',
+    '7d696a81-b1f7-5d37-b1b2-c8f9467734c4' => [
+        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
+        'Benjamin Franklin',
     ],
-    'c37e46d9-143c-5c9a-a429-4013616da18d' => [
-        'I learned the value of hard work by working hard.',
-        'Margaret Mead',
+    '50b8c63e-e575-57b6-96d9-c859e6aa7948' => [
+        'Romance and novel paint beauty in colors more charming than nature, and describe a happiness that humans never taste. How deceptive and destructive are those pictures of consummate bliss!',
+        'Oliver Goldsmith',
     ],
-    '9ac24fe1-9eae-5e6e-b6cf-1d4453ae62d0' => [
-        'Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?',
-        'Dalai Lama',
+    '92a62e7f-0ea1-50b2-9f4a-2948ea2901f6' => [
+        'I think every single imperfection adds to your beauty. I\'d rather be imperfect than perfect.',
+        'Sonam Kapoor',
     ],
-    '8efddfae-1cca-5d0d-93f6-a5b7b624e8ff' => [
-        'For me art and chess are closely related, both are forms in which the self finds beauty and expression.',
-        'Vladimir Kramnik',
+    '81c83d13-8503-5828-9448-093ca9565d12' => [
+        'I still don\'t have a car. I still travel by public transport. I take autos to travel to and fro for recordings.',
+        'Arijit Singh',
     ],
-    'fd14ad60-3a7a-58cd-b09e-b6663972b705' => [
-        'My character in \'OK OK\' has a lot of attitude, and it is an interesting one.',
-        'Hansika Motwani',
+    '05adf977-cc55-50e4-9f21-687e508d6543' => [
+        'To the lover of wilderness, Alaska is one of the most wonderful countries in the world.',
+        'John Muir',
     ],
-    '60391be5-fa67-5cc5-94cb-50c46b98b3a1' => [
-        'Everything is a learning process: any time you fall over, it\'s just teaching you to stand up the next time.',
-        'Joel Edgerton',
+    'c1e98332-ec24-55ef-9af5-10ef777f16f7' => [
+        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
+        'J. Donald Walters',
     ],
-    '4bf31e73-face-5151-98b6-6265410dbf3e' => [
-        'Nature\'s beauty is a gift that cultivates appreciation and gratitude.',
-        'Louie Schwartzberg',
+    '9c1f115d-49bc-5a54-9f6e-6700434c0e92' => [
+        'My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.',
+        'Caterina Murino',
     ],
-    'aac824d8-921e-531f-9496-ffdff9dd8c95' => [
-        'Those who find beauty in all of nature will find themselves at one with the secrets of life itself.',
-        'L. Wolfe Gilbert',
+    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
+        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
+        'Richard Bach',
     ],
-    '2f359dc6-6e6b-5ad3-a710-bc974934d937' => [
-        'Women\'s natural role is to be a pillar of the family.',
-        'Grace Kelly',
+    'dd011469-3065-53cd-a166-8b10dfc8966c' => [
+        'I\'m not going out and hitting a 95-mph fastball where I can\'t see the stitches. I\'m not on a professional football team looking to tackle a fullback who is built like solid wood. I\'m a thinking person, and I\'ve been blessed with the ability to see some things and talk about them in a way that registers in a humorous and funny way.',
+        'Bill Cosby',
     ],
-    '53708c6d-9230-51d4-a57a-137e93768f77' => [
-        'What troubles me is the Internet and the electronic technology revolution. Shyness is fueled in part by so many people spending huge amounts of time alone, isolated on e-mail, in chat rooms, which reduces their face-to-face contact with other people.',
-        'Philip Zimbardo',
+    '66a11959-2f21-52b1-94f0-2b18781b449b' => [
+        'Sailing is the closest I can get to nature - it\'s adrenaline, fear, a constant challenge and learning experience, an adventure into the unknown. And of course there is nothing better than wearing the same T-shirt for days and not brushing my hair for weeks.',
+        'Daria Werbowy',
     ],
-    'e8b2f3ec-c928-534e-9915-a8e4f55d0a95' => [
-        'Reach for it. Push yourself as far as you can.',
-        'Christa McAuliffe',
+    'afa02029-4180-53fb-a11a-cddd5b23c2f1' => [
+        'Housework can\'t kill you, but why take a chance?',
+        'Phyllis Diller',
     ],
-    '227b74b6-d10c-5a83-b866-08af2320e098' => [
-        'I\'m good at coming up with wacky characters and funny dialogue.',
-        'Marlon Wayans',
+    'b7d54ad9-8267-5a39-9a50-0564d2712e81' => [
+        'Every year, like a good Catholic, I wait for Christmas. Putting up the lights, decorating the tree, making sweets and then unwrapping gifts on Christmas morning... it\'s a tradition my family has followed since I was very little.',
+        'Malaika Arora Khan',
     ],
-    '21a895ac-ac96-57d0-99f9-9a1a96ca8c4b' => [
-        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
-        'Magic Johnson',
+    '9d6ed72c-938e-5f30-9e34-96c5392eaf79' => [
+        'I definitely do like change. I don\'t know if my hairstyles reflect that, but I don\'t like the same old thing all the time.',
+        'Cobi Jones',
     ],
-    '380b0be2-1c61-5a2a-975e-20ac45b4d94e' => [
-        'You can\'t shake hands with a clenched fist.',
-        'Indira Gandhi',
+    'd9885025-f1eb-59a0-87b4-43c55ab4c87b' => [
+        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
+        'Cat Deeley',
     ],
-    '2babe379-7266-5907-be49-b7a8015ee53d' => [
-        'It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt',
-        'Mark Twain',
+    '0d428428-e32e-588b-9ca2-03a07532823e' => [
+        'Denmark is like a big family of people.',
+        'Susanne Bier',
     ],
-    '1b698c0e-d5b6-5321-a155-d7fd26142395' => [
-        'Time has a way of demonstrating that the most stubborn are the most intelligent.',
-        'Yevgeny Yevtushenko',
+    '79137a9b-6557-5f2e-b04c-7d84e73331df' => [
+        'The beauty of diversification is it\'s about as close as you can get to a free lunch in investing.',
+        'Barry Ritholtz',
     ],
-    'cbcf9325-0553-54a9-b160-eb307036f4e9' => [
-        'Capitalism is an organized system to guarantee that greed becomes the primary force of our economic system and allows the few at the top to get very wealthy and has the rest of us riding around thinking we can be that way, too - if we just work hard enough, sell enough Tupperware and Amway products, we can get a pink Cadillac.',
-        'Michael Moore',
+    '3b22bc2b-d79b-5235-a1ff-f6e7a1afe5a1' => [
+        'Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.',
+        'Corrie Ten Boom',
     ],
-    '9be95669-ba69-5a45-8eb3-f83758c29700' => [
-        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
-        'Leonard Mlodinow',
+    'bcc7517b-3def-58fa-94e0-b78a4917fe82' => [
+        'If at first you don\'t succeed... so much for skydiving.',
+        'Henny Youngman',
     ],
-    '92af0357-48eb-5415-99b1-b491732e4080' => [
-        'I know what Germans are. They are a funny people. They are always choosing someone to lead them in a direction which they do not want to go.',
-        'Gertrude Stein',
+    '1bc5b12e-3854-512c-be03-8f8fede14883' => [
+        'In a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way - an honorable way - in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment.',
+        'Viktor E. Frankl',
     ],
-    '32f83184-ddbb-5931-9b68-c024d012bfa4' => [
-        'I travel around the world constantly promoting my projects and endorsing products. Yes, I do get paid to go to parties; in fact, I\'m the person who started the whole trend of paid appearances. But when you see me at a party, I\'m always working or promoting something.',
-        'Paris Hilton',
+    'ae2dcb97-d8b2-5618-a1c1-c5e601645f84' => [
+        'The reason I exercise is for the quality of life I enjoy.',
+        'Shakuntala Devi',
     ],
-    'bc8572eb-26bc-536e-8b09-ae55cd690642' => [
-        'Because of its phantom nature, and despite elaborate defense mechanisms, the ego is very vulnerable and insecure, and it sees itself as constantly under threat. This, by the way, is the case even if the ego is outwardly very confident.',
-        'Eckhart Tolle',
+    'eacfcf91-3a53-5668-a65c-4f6c737ef951' => [
+        'Imperfection is beauty, madness is genius and it\'s better to be absolutely ridiculous than absolutely boring.',
+        'Marilyn Monroe',
     ],
-    'a972cd8b-7723-5b7d-8e2e-23e8be6eec18' => [
-        'Winners embrace hard work. They love the discipline of it, the trade-off they\'re making to win. Losers, on the other hand, see it as punishment. And that\'s the difference.',
-        'Lou Holtz',
+    'eac92cc9-5e7d-52b5-9421-4188b8cdb66e' => [
+        'I am not a religious person myself, but I did look for nature. I had spent my first sabbatical in New York City. Looked for something different for the second one. Europe and the U.S. didn\'t really feel enticing because I knew them too well. So Asia it was. The most beautiful landscapes I had seen in Asia were Sri Lanka and Bali.',
+        'Stefan Sagmeister',
     ],
-    '1714466c-9567-531c-b60c-6a3916152c29' => [
-        'Poverty was the greatest motivating factor in my life.',
-        'Jimmy Dean',
+    '43f70442-e216-5b41-9347-9c229156e357' => [
+        'Women were freed from positive duties when they could not perform them, but not when they could.',
+        'Henrietta Szold',
     ],
-    'a704f2c2-350f-5121-9556-9b906607c246' => [
-        'On street corners everywhere, people are looking at their cell phones, and it\'s easy to dismiss this as some sort of bad trend in human culture. But the truth is life is being lived there. When they smile - right, you\'ve seen people stop - all of a sudden, life is being lived there, somewhere up in that weird, dense network.',
-        'Ze Frank',
+    'a80568a6-7846-5133-8adf-8d1138fcc5a6' => [
+        'I guess the news is this: If you\'re a Republican and you smile, liberals don\'t like it. Maybe that\'s because Democrats are afraid that I\'ve been able to show an optimistic vision for this country.',
+        'Cory Gardner',
     ],
-    'a51790c3-38b6-5f22-9022-a19fcc219fd5' => [
-        'A lot of Americans don\'t have a passport, never will have a passport. Not only will they not travel, they don\'t want to travel.',
-        'Henry Rollins',
+    'c9f66307-86ac-5f46-a676-b118a11bf37c' => [
+        'The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.',
+        'Pablo Neruda',
     ],
-    '7eaade9b-a04b-5aa9-af30-013abe8b4217' => [
-        'I travel around the world, and there are so many beautiful girls, but that\'s not going to make you a supermodel. You have to have something more than just a pretty face.',
-        'Irina Shayk',
+    'bc7484c7-58f3-5f93-be43-7bb3a12c484a' => [
+        'An oversupply of national sentiment is not the problem in Somalia. The problem is a lack of it. The problem is an oversupply of sub-sub-clannish attitude.',
+        'Meles Zenawi',
     ],
-    '63ea6842-b4ad-5ea4-bc46-ec53fab6a149' => [
-        'Money brings you security and choice. You can make decisions in a different way if you have a lot of money. But when you have nothing, you have a naivety, and a more fearless attitude because you have nothing to lose.',
-        'Simon Cowell',
+    'f62ea4f2-468b-5d62-ad24-74c5e8f0e38a' => [
+        'In Naples, Fla., I met a self-made man, a multimillionaire, whose round penthouse apartment is home to Pierre-Auguste Renoir, Claude Monet, Henry Moore, and Mickey Mantle. He had purchased the most coveted items auctioned by the Mantle family at Madison Square Garden in December 2003.',
+        'Jane Leavy',
     ],
-    '74c8109f-ae9b-5d3d-a495-cfc1279e847a' => [
-        'We should be the pro-legal immigration party. A party that has a positive platform and agenda on how we can create a legal immigration system that works for immigrants and works for America.',
-        'Marco Rubio',
+    '559760fc-0987-5603-8feb-43da8bd2f63b' => [
+        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
+        'Ahmet Davutoglu',
     ],
-    'd5f219d9-3a89-50b7-8408-d057d443e38f' => [
-        'I am the baby in the family, and I always will be. I am actually very happy to have that position. But I still get teased. I don\'t mind that.',
-        'Janet Jackson',
+    '19315970-ccdc-552c-b6d6-8f9e5bfdb582' => [
+        'Nothing is more memorable than a smell. One scent can be unexpected, momentary and fleeting, yet conjure up a childhood summer beside a lake in the mountains.',
+        'Diane Ackerman',
     ],
-    '7140ea40-5e11-572f-9c61-72938df28fd6' => [
-        'You have to have an attitude that nothing\'s gonna stop me. I think that\'s just my New York kind of attitude - survival of the fittest.',
-        'Melissa De Sousa',
+    '9db83233-ec0d-58e3-8bf7-e92653ca1dea' => [
+        'It is often my nature to be abstract, hidden in plain sight, or nowhere at all.',
+        'Gerard Way',
     ],
 ];

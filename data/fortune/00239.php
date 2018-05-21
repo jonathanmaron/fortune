@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '99652281-fc10-5b06-90bd-a1a58cc76204' => [
-        'People say, what is she thinking? I\'m thinking: fun; cash; travel.',
-        'Gail Porter',
+    'ed780755-a8ad-563a-9863-c87d807b6dd6' => [
+        'The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.',
+        'Ben Okri',
     ],
-    '5275a5e6-d960-5c6b-9166-d1d937e4017e' => [
-        'I think being funny is not anyone\'s first choice.',
-        'Woody Allen',
+    '409355ca-c152-5495-aad7-dfac12a3d2c2' => [
+        'I have seven children by six different mothers. Maybe success was too good to me.',
+        'Eazy-E',
     ],
-    '5cf76673-1907-57de-a116-3440e0e0d149' => [
-        'Because after my first year I had a lot of success, took everybody by storm, came back the next year thought it was easy and didn\'t have near the season I had the previous year. It was kind of a wake-up call. And so, life goes on.',
-        'Brett Favre',
+    'ddc473e3-32ea-5c31-bf8c-85e2176a23de' => [
+        'Many a trip continues long after movement in time and space have ceased.',
+        'John Steinbeck',
     ],
-    '0cf172ea-c512-5dea-8bbc-114da6f05120' => [
-        'I like to embrace natural beauty. I try to get at least 8 hours of sleep, drinking a lot of water and exercising.',
-        'Tia Mowry',
+    '69feda93-3169-5814-817d-0137bb8eee73' => [
+        'On the tennis court, one needs a cool temperament, tremendous ball sense, reflexes, speed, hand-eye co-ordination, power, timing and peak physical fitness. Off the court, the player and support team need skills in planning, execution, travel, an ability to raise funds when needed, and several other talents.',
+        'Sania Mirza',
     ],
-    '0b79a166-2150-54cb-a784-c3917832c0cc' => [
-        'The foundation of family - that\'s where it all begins for me.',
-        'Faith Hill',
+    '1b297281-3a9e-56c3-be1c-95a4de8bae87' => [
+        'The snow itself is lonely or, if you prefer, self-sufficient. There is no other time when the whole world seems composed of one thing and one thing only.',
+        'Joseph Wood Krutch',
     ],
-    '56bb763c-058b-5449-9aa4-60cbb9f9f5f5' => [
-        'Age is something that doesn\'t matter, unless you are a cheese.',
-        'Luis Bunuel',
+    '36131a6b-d6e3-5aca-80cc-eb84fbf63c87' => [
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
     ],
-    '78323a3d-e191-513b-b6d9-2cdff0f27a6e' => [
-        'Life can be dramatic and funny all in the same day.',
-        'Jennifer Aniston',
+    '2b5cd2fd-6975-5463-9388-a89b71ce5517' => [
+        'Every movie that I\'ve had to really knock down the door for has been an enormous success for me. Not just like a financial success but a real personal success.',
+        'Jodie Foster',
     ],
-    '405c0acc-3f74-569f-bdf4-011b64c33dc4' => [
-        'If you travel first class, you think first class and you are more likely to play first class.',
-        'Ray Floyd',
+    '564d18a2-05b9-56f9-9b99-55d23546dbc4' => [
+        'Personally, I can\'t see the appeal in trekking down to D.C. for a networking extravaganza, even if it is built around a special moment in American history. While I find the election of Barack Obama inspirational, I don\'t have a desire to memorialize it with overly effusive celebration.',
+        'Jamie Johnson',
     ],
-    '4e7061f5-2573-5ecf-b591-34e5935e3068' => [
-        'Even out of severe difficulty, some positive things come.',
-        'Jose Carreras',
+    'b529da22-5272-5666-93f0-b538888fe69f' => [
+        'I tell you, it\'s funny because the only time I think about HIV is when I have to take my medicine twice a day.',
+        'Magic Johnson',
     ],
-    '73cb7c1e-15da-5a57-9ee8-90f965b7b937' => [
-        'The privilege of a lifetime is being who you are.',
-        'Sophocles',
+    '6a07f951-cc89-54bb-ac8a-713745955e15' => [
+        'Modeling is the best because you have to look hot, which comes easy to me, you know. I\'m blessed with that.',
+        'Ashton Kutcher',
     ],
-    '1160c2ba-dd56-5146-994a-144fda6bb9a6' => [
-        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
-        'Ralph Waldo Emerson',
+    'ea44dca6-3842-5913-b2a4-8f642f50931e' => [
+        'I have gone from being a 21-year-old with wide eyes to a 24-year-old woman. With success comes a lot of responsibility and power.',
+        'Vanessa Carlton',
     ],
-    '113d318c-f997-5ef6-b927-191855e5e2cf' => [
-        'Every great advance in science has issued from a new audacity of the imagination.',
-        'John Dewey',
+    '3ef0a606-a3a4-5469-b68d-518586e163f2' => [
+        'Wrinkles will only go where the smiles have been.',
+        'Jimmy Buffett',
     ],
-    '043ace03-771c-590d-b8f0-b29f4530bda1' => [
-        'I actually used to smile a lot in pictures. I think I only stopped smiling when I got into fashion. Fashion stole my smile!',
-        'Victoria Beckham',
-    ],
-    '284f3c9c-e5c2-5d1a-a774-72340db7795e' => [
-        'Success is the best revenge. I always feel women should answer back either with their sarcasm or success.',
-        'Kangana Ranaut',
-    ],
-    '6fb4a9a7-e1c8-5d57-9c58-2ea8f92abb19' => [
-        'No one succeeds without effort... Those who succeed owe their success to perseverance.',
-        'Ramana Maharshi',
-    ],
-    '7b26eb66-cbff-5872-a6f4-eaab00acf4c6' => [
-        'Any product that needs a manual to work is broken.',
-        'Elon Musk',
-    ],
-    'f65732ec-c626-5d46-ad04-f6cb49f2a29e' => [
-        'The more light you allow within you, the brighter the world you live in will be.',
-        'Shakti Gawain',
-    ],
-    '505f7e90-a081-56fe-b04f-2f0112f6b9e5' => [
-        'You change your life by changing your heart.',
-        'Max Lucado',
-    ],
-    '1361e7ac-78f5-5b00-be30-faf2cbf58abf' => [
-        'I\'ve been fired five times for having a bad attitude.',
-        'Meg Rosoff',
-    ],
-    '0f046528-2136-52d3-90c0-d7cbbb6f5003' => [
-        'Women now have choices. They can be married, not married, have a job, not have a job, be married with children, unmarried with children. Men have the same choice we\'ve always had: work, or prison.',
-        'Tim Allen',
-    ],
-    '6861ea07-3deb-54e8-8214-6cf840ee2083' => [
-        'I envy those old Greek bathers, into whose hands were delivered Pericles, and Alcibiades, and the perfect models of Phidias. They had daily before their eyes the highest types of Beauty which the world has ever produced; for of all things that are beautiful, the human body is the crown.',
-        'Bayard Taylor',
-    ],
-    'ad18fe3a-b9a7-51a0-8ba6-e3a5806d0d96' => [
-        'Everyone\'s dream can come true if you just stick to it and work hard.',
-        'Serena Williams',
-    ],
-    '3e5eb5ba-e095-5ee3-8f3a-ce45468c784a' => [
-        'Virtually nothing is impossible in this world if you just put your mind to it and maintain a positive attitude.',
-        'Lou Holtz',
-    ],
-    '749647cc-8b1d-5a72-9ff7-bdfcc30de5f7' => [
-        'The world is being re-shaped by the convergence of social, mobile, cloud, big data, community and other powerful forces. The combination of these technologies unlocks an incredible opportunity to connect everything together in a new way and is dramatically transforming the way we live and work.',
-        'Marc Benioff',
-    ],
-    'b4168a70-057d-5dd6-b399-42c844a5d6c3' => [
-        'If You Are Working On Something That You Really Care About, You Don\'t Have To Be Pushed. The Vision Pulls You.',
-        'Steve Jobs',
-    ],
-    'bf4b0697-74d9-5f42-9a8b-fbf00af48fde' => [
-        'We believed in our idea - a family park where parents and children could have fun- together.',
-        'Walt Disney',
-    ],
-    '704d6e2e-a096-5fca-a55d-e204feb0da38' => [
-        'I wanted to do another movie that could make us laugh and cry and feel good about the world. I wanted to do something else that could make us smile. This is a time when we need to smile more and Hollywood movies are supposed to do that for people in difficult times.',
-        'Steven Spielberg',
-    ],
-    '309cbfb2-561a-5834-b84b-9c29e1ad88ff' => [
-        'Set your goals high, and don\'t stop till you get there.',
-        'Bo Jackson',
-    ],
-    'dc6a66ec-8511-5094-8ebe-a3ebd7a15cea' => [
-        'The old university attitude of \'publish or perish\' has changed. Students and academics are realising that institutions such as Imperial College are also wealth-generators. It is very satisfying to be in a university where you have the freedom to innovate and yet know that there is a path to translate your work into industry.',
-        'Chris Toumazou',
-    ],
-    'caa6d29e-c05a-5713-af5f-1bb15dcd99c7' => [
-        'There was a much more self-destructive nature in \'Appetite.\' It was a going-for-it-at-all-cost thing that worked then.',
-        'Axl Rose',
-    ],
-    'bd1d85bb-301d-5e4c-9379-675e752e58c6' => [
-        'We can bring positive energy into our daily lives by smiling more, talking to strangers in line, replacing handshakes with hugs, and calling our friends just to tell them we love them.',
-        'Brandon Jenner',
-    ],
-    'e022617f-3760-56d3-ad5b-d4d85d66e4d7' => [
-        'Her beauty didn\'t do her any good and she couldn\'t use it in any positive way or manipulative way. I just hope that people will look and see and believe in that hope of love, that hope of freedom, even if it was just for a limited time.',
-        'Diane Kruger',
-    ],
-    'fd798b54-43e6-53eb-90fe-6742a82ec6da' => [
-        'Sweat is fat crying.',
-        'Unknown',
-    ],
-    'f0910660-831f-591f-8be8-9640462a73ef' => [
-        'A smooth sea never made a skilled sailor.',
-        'Franklin D. Roosevelt',
-    ],
-    '0f4863ee-a879-5525-ab96-24e2632509e0' => [
-        'I have always been pushed by the negative. The apparent failure of a play sends me back to my typewriter that very night, before the reviews are out. I am more compelled to get back to work than if I had a success.',
-        'Tennessee Williams',
-    ],
-    '5575d9da-1035-52ee-93f0-8613976207f8' => [
-        'I\'m not going to be horrible just for the sake of having attitude or make other people feel small just to make me feel bigger.',
-        'Kate Moss',
-    ],
-    '4949c997-b556-5de0-a84a-b4be9f37f7c0' => [
-        'The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.',
-        'Lech Walesa',
-    ],
-    '25023631-1682-5640-9fac-fc1419d51e80' => [
-        'If you\'re running around with a negative attitude all the time, you\'re going to feel down; you\'re going to have negative results.',
-        'Craig Sager',
-    ],
-    'a622074d-7b10-515c-b31f-082abf0ca29b' => [
-        'I do have moments when I feel insecure. I do have moments when I feel jealous, and that\'s normal. It\'s a very normal emotion. It\'s your action and your attitude and your reaction to that that is important.',
-        'Anushka Sharma',
-    ],
-    'f9a51681-28b5-5b64-99a7-64078dc4a26d' => [
-        'He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.',
-        'John Burroughs',
-    ],
-    'eedf39bd-4738-5d43-b9f5-d51f09db93fe' => [
-        'Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.',
+    'cfccbc2e-4ae5-5d9a-849a-d221b8b387d0' => [
+        'When you are offended at any man\'s fault, turn to yourself and study your own failings. Then you will forget your anger.',
         'Epictetus',
     ],
-    '450de9dd-df38-531d-9ba3-108317b74d16' => [
-        'Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when I am positive, it not only makes me better, but it also makes those around me better.',
-        'Harvey Mackay',
+    '69ccf769-9e35-553e-9621-1d76c7d963dd' => [
+        'If you don\'t like me, if you like me; both are equally cool. I send love and positive energy to all those people in their lives. I hope they find where they\'re meant to be.',
+        'Willow Smith',
     ],
-    '1585ecb6-ded5-5a13-a596-74d6a61665cc' => [
-        'You must have been warned against letting the golden hours slip by; but some of them are golden only because we let them slip by.',
-        'James M. Barrie',
+    'ce094687-5418-5aa0-8f9e-f5aecd3e1ab0' => [
+        'I just have beautiful memories of what has happened in my life.',
+        'Sophia Loren',
     ],
-    '298b1c60-8091-551d-b639-3f006e9459bb' => [
-        'We need a bold, new, positive vision for the future of our country.',
-        'Theresa May',
+    '4f6b510d-41ae-594c-8ccf-bc147d8eea39' => [
+        'Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they\'re eating sandwiches.',
+        'Jim Carrey',
     ],
-    '34efbb0c-84a2-59d2-b9e7-8ba9e8aa9c9b' => [
-        'My life needs editing.',
-        'Jack Nicholson',
+    'b095ea51-50fa-5aba-bb0b-34c62fdef268' => [
+        'Always go into meetings or negotiations with a positive attitude. Tell yourself you\'re going to make this the best deal for all parties.',
+        'Natalie Massenet',
     ],
-    '93529424-4d2e-555a-8406-b0c05048ee03' => [
-        'If one had but a single glance to give the world, one should gaze on Istanbul.',
-        'Alphonse de Lamartine',
+    'e32282c0-f821-519c-b627-4f7461690ceb' => [
+        'And what we\'ve lost sight of is that performing manual labor with your hands is one of the most incredibly satisfying and positive things you can do.',
+        'Nick Offerman',
     ],
-    '9f3a04d6-86c5-56b6-b1c8-7ba2ccdfe33a' => [
-        'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
-        'Robert Gottlieb',
+    '0284ec07-0b1c-5ec1-9853-c54498de0ad0' => [
+        'Smile. It instantly lifts the face, and it just lights up the room.',
+        'Christie Brinkley',
     ],
-    'cfa19388-e4d4-5bc2-8794-0054747f70f6' => [
-        'Nature is our eldest mother; she will do no harm.',
-        'Emily Dickinson',
+    '3463632c-4c04-5ca6-b79e-761d90222134' => [
+        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
+        'Montel Williams',
     ],
-    '9d2483cd-67a3-52bf-a011-fa8da7b55f76' => [
-        'To be wrong is nothing unless you continue to remember it.',
-        'Confucius',
+    '28b79b8c-82bd-5941-b08c-6935778da2c6' => [
+        'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it.',
+        'W. C. Fields',
     ],
-    '1c9f4eb4-e7f3-5e88-a55c-3c399336bac4' => [
-        'Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.',
-        'Napoleon Hill',
+    'd450ac8f-06fb-54d0-b002-6444fac6e0fe' => [
+        'Travel and society polish one, but a rolling stone gathers no moss, and a little moss is a good thing on a man.',
+        'John Burroughs',
+    ],
+    'a6c51c6e-bff4-574e-a839-6da0505106f5' => [
+        'Just as you wouldn\'t leave the house without taking a shower, you shouldn\'t start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading.',
+        'Marianne Williamson',
+    ],
+    '7fc51d4b-cabd-56c6-877d-f31842086187' => [
+        'Travel stories teach geography; insect stories lead the child into natural science; and so on. The teacher, in short, can use reading to introduce her pupils to the most varied subjects; and the moment they have been thus started, they can go on to any limit guided by the single passion for reading.',
+        'Maria Montessori',
+    ],
+    '4bc4f6a6-988f-576d-9caa-674b4bc97d40' => [
+        'I never worry about action, but only inaction.',
+        'Winston Churchill',
+    ],
+    'a129dcfb-2a43-54da-8c07-be15b4b2cf76' => [
+        'Success didn\'t spoil me, I\'ve always been insufferable.',
+        'Fran Lebowitz',
+    ],
+    'fe0ec2cc-d23b-5998-a005-470d271e1bf7' => [
+        'The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.',
+        'Booker Washington',
+    ],
+    'd6cd259c-0347-5e84-968e-a04bf6dd7945' => [
+        'The Negro race, like all races, is going to be saved by its exceptional men. The problem of education, then, among Negroes must first of all deal with the Talented Tenth; it is the problem of developing the Best of this race that they may guide the Mass away from the contamination and death of the Worst, in their own and other races.',
+        'W. E. B. Du Bois',
+    ],
+    'e28db826-7297-5491-b561-1dffa17c486d' => [
+        'You can be what you want to be. You have the power within and we will help you always.',
+        'Byron Pulsifer',
+    ],
+    '6124f464-d734-5543-a012-733439b5dfe2' => [
+        'If the world seems cold to you, kindle fires to warm it.',
+        'Lucy Larcom',
+    ],
+    '3f3829c0-e4b7-5319-a37b-f5c209e9d2a5' => [
+        'You really don\'t need to wear any make-up most of the time; keep your eyebrows the way they are, and find your own natural beauty signature.',
+        'Erin Heatherton',
+    ],
+    'b34577f6-e5e3-5f5a-bb4c-9be78606a013' => [
+        'There are two kinds of failures: those who thought and never did, and those who did and never thought.',
+        'Laurence J. Peter',
+    ],
+    '87728ffa-4c0a-5887-a63c-193156151766' => [
+        'In all chaos there is a cosmos, in all disorder a secret order.',
+        'Carl Jung',
+    ],
+    '65d8490c-a9d1-5366-91dd-114977340e03' => [
+        'There is a kind of victory in good work, no matter how humble.',
+        'Jack Kemp',
+    ],
+    '42f32145-2f53-5cff-ba20-54c869558dab' => [
+        'People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn\'t mean they\'ve gotten lost.',
+        'Dalai Lama',
+    ],
+    'f2a18710-3e74-5296-a9b0-0ac277388736' => [
+        'One day you will wake up and there won\'t be any more time to do the things you\'ve always wanted. Do it now',
+        'Paulo Coelho',
+    ],
+    '481cacb4-6d58-5aef-a456-8fae8233fed1' => [
+        'Although I know it\'s unfair I reveal myself one mask at a time.',
+        'Stephen Dunn',
+    ],
+    'a721349d-1964-51b1-b4c4-c760f1759b30' => [
+        'The key to life is your attitude. Whether you\'re single or married or have kids or don\'t have kids, it\'s how you look at your life, what you make of it. It\'s about making the best of your life wherever you are in life.',
+        'Candace Bushnell',
+    ],
+    'fb2f3506-b302-5052-8d2a-7bb29c14ebe4' => [
+        'In our nature, however, there is a provision, alike marvelous and merciful, that the sufferer should never know the intensity of what he endures by its present torture, but chiefly by the pang that rankles after it.',
+        'Nathaniel Hawthorne',
+    ],
+    '3619b4f9-7914-5b2b-9145-fbda7b82d6e5' => [
+        'If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.',
+        'Joseph Addison',
+    ],
+    'bbab53ff-264b-570d-92d0-d1f8d4af9c08' => [
+        'To be able to travel the world, especially to places I never thought I\'d be... it\'s really, you know, still fascinating for me.',
+        'Beyonce Knowles',
+    ],
+    '631ba0af-731c-5c10-9c06-8da16371b12b' => [
+        'There is something so biologically implausible that your attitude is going to cure a disease. There\'s a tremendous arrogance to imagine that your mind is all that powerful.',
+        'Marcia Angell',
+    ],
+    '6743625d-74e4-54ad-a90b-3758afe68847' => [
+        'As you walk in God\'s divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.',
+        'Joseph Prince',
+    ],
+    '9c1a2fd0-e4f6-59fd-9c19-06556f7db79d' => [
+        'I pull a lot of the stuff that I play off the rhythm tracks - and Keith Richards has been one of the main contributors to my inspirational playing.',
+        'Bobby Keys',
+    ],
+    '25356269-07ea-51dc-91e1-a5c5809ecddd' => [
+        'Success can allow you to try for greatness, can give you an opportunity to take a chance on something. I\'m very blessed to have the success that I\'ve had, and that\'s given me so many opportunities to work on being great.',
+        'Orlando Bloom',
+    ],
+    'dddb5fd5-b226-5d4b-b3d2-3cb013533cd8' => [
+        'Beauty is in the eye of the beer holder.',
+        'Kinky Friedman',
+    ],
+    'f8b86358-4cce-506d-82fa-d6e88d6ffbda' => [
+        'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
+        'Asif Kapadia',
+    ],
+    '6ff3a8d8-9468-507f-8970-f2834d394b62' => [
+        'In the non-Greek stories, Persia, Egypt, even China, Central Asia, in oral traditions and written literature, anyone who fights Amazons admires their courage and beauty, and they want to be allies of the Amazon; they don\'t wanna kill them.',
+        'Adrienne Mayor',
+    ],
+    'b3747ff7-a389-5005-ae0c-a76db6ec9ab3' => [
+        'It\'s much more powerful and compelling to create a positive vision than it is to tear somebody down.',
+        'Mark McKinnon',
+    ],
+    '3f505b8a-6ac8-55a7-932f-0c2f01d12962' => [
+        'Every good citizen makes his country\'s honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and is conscious that he gains protection while he gives it.',
+        'Linda Thompson',
     ],
 ];

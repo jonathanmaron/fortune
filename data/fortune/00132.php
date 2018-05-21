@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e6c95379-554c-51c1-9021-74b8c0c5fad6' => [
-        'In the States, you can buy Chinese food. In Beijing you can buy hamburger. It\'s very close. Now I feel the world become a big family, like a really big family. You have many neighbors. Not like before, two countries are far away.',
-        'Jet Li',
+    '6a2dc10e-6b16-5020-8f48-5b4ad58cd95e' => [
+        'I think it\'s important to get your surroundings as well as yourself into a positive state - meaning surround yourself with positive people, not the kind who are negative and jealous of everything you do.',
+        'Heidi Klum',
     ],
-    '4ccea5d2-2ff5-5309-a0e7-57aee2fef2b0' => [
-        'Beauty is in the strangest places. A piece of garbage floating in the wind. And that beauty exists in America. It exists everywhere. You have to develop an eye for it and be able to see it.',
-        'Alan Ball',
+    '44a6a685-ae0b-5375-b7bd-435de3fc4113' => [
+        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
+        'Samuel Smiles',
     ],
-    'd30960af-e7f3-53da-9646-e85e25f94755' => [
-        'Where would you be without friends? The people to pick you up when you need lifting? We come from homes far from perfect, so you end up almost parent and sibling to your friends - your own chosen family. There\'s nothing like a really loyal, dependable, good friend. Nothing.',
-        'Jennifer Aniston',
+    '7a4ee60a-d2a8-5ef6-84f8-e98e4a21eec9' => [
+        'My wife and I have so much fun when we travel and find anything... like stray cats and squirrels.',
+        'Eric Roberts',
     ],
-    'e0854a74-2ed6-50b0-ad76-08ea04d009fd' => [
-        'Video games are a waste of time for men with nothing else to do. Real brains don\'t do that.',
-        'Ray Bradbury',
+    'd202e5fa-08a7-561a-a393-41688040fe8e' => [
+        'When you go in search of honey you must expect to be stung by bees.',
+        'Joseph Joubert',
     ],
-    '4ffb5bf4-6eff-55a2-9f58-a3faaac2aa72' => [
-        'Lives of great men all remind us, we can make our lives sublime, and, departing, leave behind us, footprints on the sands of time.',
-        'Henry Wadsworth Longfellow',
+    'c459035b-71b5-511e-9ebd-a5053345ffc0' => [
+        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
+        'Charice Pempengco',
     ],
-    'dae277ba-333a-5596-8e77-fc8ccb4c78e2' => [
-        'That attitude that fighting is probably not fair, but you have to defend yourself anyway and damage the enemy, has been profoundly consequential as far as my political activism goes.',
-        'June Jordan',
+    'a72ac40a-d33d-5671-878a-9bc1279f797f' => [
+        'Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon. When we love a woman we don\'t start measuring her limbs.',
+        'Pablo Picasso',
     ],
-    '9732c36c-783f-5308-8233-abc0dce61a50' => [
-        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
-        'Guy de Maupassant',
+    '5a077e32-819a-509f-a5b0-2ed50e037b44' => [
+        'What would be left of our tragedies if an insect were to present us his?',
+        'Emile M. Cioran',
     ],
-    '9769bcff-f0f7-578e-a170-eaa562400ca9' => [
-        'A garden is always a series of losses set against a few triumphs, like life itself.',
-        'May Sarton',
+    'c7a5b4d6-2ac7-50ea-9053-774f88edf303' => [
+        'What is necessary to change a person is to change his awareness of himself.',
+        'Abraham Maslow',
     ],
-    'a18217ce-aab7-50fc-9cbf-033f137a3e35' => [
-        'Inspiration comes from within yourself. One has to be positive. When you\'re positive, good things happen.',
-        'Deep Roy',
+    '031721e8-6a07-5c60-98af-53647e7cdb1a' => [
+        'There is no greater harm than that of time wasted.',
+        'Michelangelo',
     ],
-    '0ef47032-5dec-5b18-b2d4-5f6851840d21' => [
-        'I believe all positive things and negative things are valuable because they shape you.',
-        'Natalie Massenet',
+    '434477c7-992f-51e0-bcbe-b241756d123c' => [
+        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
+        'Rey Mysterio',
     ],
-    '257f1cc3-2103-5d34-8f94-0d7e621d5b3c' => [
-        'It got very tedious saying the same jokes in the same way with the same attitude.',
-        'Norm MacDonald',
+    '8694f789-a872-5adf-87bd-36c26914d3c4' => [
+        'For the signifier is a unit in its very uniqueness, being by nature symbol only of an absence.',
+        'Jacques Lacan',
     ],
-    'b7fa3f10-4fd5-5ecd-84f5-046b2eaae11b' => [
-        'There\'s nothing better than people talking to each other, sharing best practices, and opening up communications.',
-        'Dan Gilbert',
+    '994297d4-8ec8-55e7-8eb2-c2e24b99e031' => [
+        'Time destroys the speculation of men, but it confirms nature.',
+        'Marcus Tullius Cicero',
     ],
-    'b7dafe45-14aa-5d49-9c9f-839961a48c23' => [
-        'To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.',
-        'George Santayana',
+    '056f5c58-69b3-5619-8de4-5f8600a01cbe' => [
+        'I think luck is the sense to recognize an opportunity and the ability to take advantage of it... The man who can smile at his breaks and grab his chances gets on.',
+        'Samuel Goldwyn',
     ],
-    '1b7fe7c9-e6b5-5cbd-9baa-1c63dd4431eb' => [
-        'One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.',
-        'Unknown',
+    '26f7f41e-8bca-5a85-b430-d57060a7cd17' => [
+        'Yeah we all shine on, like the moon, and the stars, and the sun.',
+        'John Lennon',
     ],
-    'ea41bb03-5da9-56b5-9f9d-039f857d5901' => [
-        'When I am putting looks together, I dare myself to make something work. I always look for the most interesting silhouette or something that\'s a little off, but I have to figure it out. I have to make it me. I think that\'s the thrill in fashion.',
-        'Rihanna',
+    'f6518ec6-48d8-589c-bf32-c883f3476630' => [
+        'Without some goals and some efforts to reach it, no man can live.',
+        'John Dewey',
     ],
-    '021bdcf7-c94e-5e73-bda2-32d4c6a3a404' => [
-        'When I remember my family, I always remember their backs. They were always indignantly leaving places.',
-        'John Cheever',
+    'eef38b6b-52d3-52bb-ba50-9f60173046e6' => [
+        'I\'ve reached a point in my life where it\'s the little things that matter... I was always a rebel and probably could have got much farther had I changed my attitude. But when you think about it, I got pretty far without changing attitudes. I\'m happier with that.',
+        'Veronica Lake',
     ],
-    'b021a077-905b-5472-b320-338d2cfc5cdb' => [
-        'A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.',
-        'Washington Irving',
+    '4b74cf9f-0194-51ff-8504-79d2407f7a22' => [
+        'On the whole, when I travel to different countries, I like to find the hidden places, so I tend to avoid the cities - but in terms of the ease of getting about, finding what you need, the excitement, that undercurrent of whatever you want it to be, it\'s got to be London.',
+        'Will Tudor',
     ],
-    '1c1f4322-b08b-55ba-9d71-3144c0b0f162' => [
-        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
-        'Naveen Jain',
+    'a295850f-0003-5e25-812b-8b8db04d2b09' => [
+        'The golden moments in the stream of life rush past us, and we see nothing but sand; the angels come to visit us, and we only know them when they are gone.',
+        'Van Morrison',
     ],
-    'b15141f2-8151-5cf3-99ec-c36dd706964b' => [
-        'Normal is getting dressed in clothes that you buy for work, driving through traffic in a car that you are still paying for, in order to get to a job that you need so you can pay for the clothes, car and the house that you leave empty all day in order to afford to live in it.',
-        'Ellen Goodman',
+    '6aeb1058-3c5a-57b2-a099-021812c77281' => [
+        'I was not a good-lookin\' girl. I was extremely skinny. I wasn\'t pretty. I wasn\'t cool.',
+        'Celine Dion',
     ],
-    '01b4ecb7-1ca3-5131-827d-2a6a70e47bc3' => [
-        'It is fatal to enter any war without the will to win it.',
-        'General Douglas MacArthur',
+    '0364c812-762c-5bac-b784-37015b454ef4' => [
+        'In school, you\'re taught a lesson and then given a test. In life, you\'re given a test that teaches you a lesson.',
+        'Young Jeezy',
     ],
-    '8c00e0f8-1015-573c-90e8-553dd44c61a7' => [
-        'I\'m the person friends come to when they want to find the perfect restaurant or boutique hotel on the outskirts of Paris. As opposed to scouring the Internet for a travel guide, wouldn\'t you rather ask the people who are really cool who go there? That\'s what I do.',
-        'Meghan Markle',
+    'ed468015-66c5-5cd4-9491-3d4ad641212c' => [
+        'Literature is dangerous: it awakens a rebellious attitude in us.',
+        'Mario Vargas Llosa',
     ],
-    '44a86049-46bd-51be-b795-8bbddc111c99' => [
-        'We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.',
-        'James Freeman Clarke',
+    'a90398a8-deff-5965-b103-5f35978245bc' => [
+        'A funny thing happens in real estate. When it comes back, it comes back up like gangbusters.',
+        'Barbara Corcoran',
     ],
-    '9b3e0f47-eee2-5dc5-a11a-9d8d46dd4c07' => [
-        'You give before you get.',
-        'Napoleon Hill',
+    '44d6d426-04a3-5d33-8b04-b726f9e8ebe4' => [
+        'With patient and firm determination, I am going to press on for jobs. I\'m going to press on for equality. I\'m going to press on for the sake of our children. I\'m going to press on for the sake of all those families who are struggling right now. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I am going to press on.',
+        'Barack Obama',
     ],
-    'a7afb59d-8476-5352-a997-81511e60158d' => [
-        'My company is known for being funny as well as moving. You get a bit of everything in these shows. I think people know they\'re going to have a surprising experience.',
-        'Matthew Bourne',
+    'acce538b-9659-5f5a-a48e-fb6c01dc6e12' => [
+        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
+        'Lao Tzu',
     ],
-    '2f316d18-475a-5944-846a-c50ffd3655c2' => [
-        'Try to keep your soul always in peace and quiet, always ready for whatever our Lord may wish to work in you. It is certainly a higher virtue of the soul, and a greater grace, to be able to enjoy the Lord in different times and different places than in only one.',
-        'Saint Ignatius',
+    'e444f8f7-485d-52b9-b510-b12f12e35a72' => [
+        'I used to jog but the ice cubes kept falling out of my glass.',
+        'David Lee Roth',
     ],
-    'f527ccf8-fda6-5482-8bf1-cdbe08cce3c9' => [
-        'Your children are not your children. They are the sons and daughters of Life\'s longing for itself. They came through you but not from you and though they are with you yet they belong not to you.',
-        'Khalil Gibran',
+    'b0d9f342-c648-5285-b59a-7ea20c2bbe76' => [
+        'Travel at faster than the speed of light certainly can have dramatic implications that are difficult to understand, such as time travel.',
+        'Lisa Randall',
     ],
-    '70f9a007-8e62-5c02-805a-6c4bc198a5e5' => [
-        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
-        'Warren Buffett',
+    '5e0fe57d-c9c8-57a5-b56e-9177671a0d4d' => [
+        'If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty, and those to whom ethics appeal more strongly than aesthetics will see its moral lesson. It will fill the cowardly with terror, and the unclean will see in it their own shame.',
+        'Oscar Wilde',
     ],
-    '6dcf6187-bf5a-5305-9ea3-c864ad19901c' => [
-        'Work harder than anybody you\'ve ever seen. That\'s what I believe.',
-        'Meek Mill',
+    'f5f1d952-737d-5bc8-ab92-631cb6ef73ef' => [
+        'Life isn\'t about getting and having, it\'s about giving and being.',
+        'Kevin Kruse',
     ],
-    'd89ae893-8145-5a57-97e5-5133ea98875c' => [
-        'I guess a psychiatrist would say there\'s some good to the venting process, but it does also promote an attitude of saying, \'Hey there\'s nothing wrong with being filled with hate; there\'s so much of it around.\' I don\'t like that.',
-        'Mario Cuomo',
+    'd7c2e8ed-f893-56b9-aa61-f7ea9753b405' => [
+        'Of course, there will always be those who look only at technique, who ask \'how\', while others of a more curious nature will ask \'why\'. Personally, I have always preferred inspiration to information.',
+        'Man Ray',
     ],
-    'b7c49ac1-981a-5284-ba94-3f06ec236c78' => [
-        'I know a lot of aesthetically beautiful women who are not nice people, and they do not come across as beautiful to me. I think the number one thing for beauty is a smile. I love a woman with a beautiful smile.',
-        'Sara Foster',
+    '5361603d-ee56-5cb4-bd51-287d7cbf06fa' => [
+        'Your attitude, not your aptitude, will determine your altitude.',
+        'Zig Ziglar',
     ],
-    'd63a9650-5661-5950-8666-582819d955b6' => [
-        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
-        'Derrick Rose',
+    'edf24e81-5ab2-583d-8c57-9e06edb8a122' => [
+        'I was fortunate to play for Pete Rose and have teammates like Ken Griffey Sr., Tony Perez and Dave Concepcion. I grew up in the game with a mature attitude. I\'ve always known it was better to be seen and not heard.',
+        'Eric Davis',
     ],
-    'c3a4da46-4d67-5cd7-8ea1-140f811e0da6' => [
-        'When my time ends, I want people to say, \'Man her music made me smile; it just enlightened my life; it inspired me; it made me feel good every time.\'',
-        'Ledisi',
+    '2c4c297b-234e-5c79-b3a0-2ec08c163d77' => [
+        'Unemployment insurance, abolishing child labor, the 40-hour work week, collective bargaining, strong banking regulations, deposit insurance, and job programs that put millions of people to work were all described, in one way or another, as \'socialist.\' Yet, these programs have become the fabric of our nation and the foundation of the middle class.',
+        'Bernie Sanders',
     ],
-    '4c1e7399-1354-52f9-b2e8-8bd5394ecd0f' => [
-        'You can\'t jump from little things to big things. It just takes time and patience.',
-        'Nadia Comaneci',
+    'bffcde0c-4f8a-5213-b56f-076b483616f1' => [
+        'The time you enjoy wasting is not wasted time.',
+        'Bertrand Russell',
     ],
-    '5cebd135-c606-5a44-b671-743b164a3ef4' => [
-        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
-        'Kendrick Lamar',
+    '4dc234a6-db53-5a6e-a9ba-c08dfdf0759a' => [
+        'I\'ve got a real sense of three-dimensional geometry. I can look at a flat piece of fabric and know that if I put a slit in it and make some fabric travel around a square, then when you lift it up it will drape in a certain way, and I can feel how that will happen.',
+        'Vivienne Westwood',
     ],
-    '30517a10-681c-52ed-b19a-c553d9e272f8' => [
-        'It\'s only I have seen enough of it and the funny thing is now, I know that I\'m skinny, because I know there are even smaller clothes in the store. I think I\'m big, when I was big, I never thought about it.',
-        'Karl Lagerfeld',
+    'a89e80e9-c9b0-5bc3-9c60-bca2ad49c883' => [
+        'The nose of a mob is its imagination. By this, at any time, it can be quietly led.',
+        'Edgar Allan Poe',
     ],
-    '75133637-78ef-5394-b5e5-d92c76ae8ec3' => [
-        'We\'re humans. Why always turn human attitude into political behaviours? I hate that.',
-        'Ingrid Betancourt',
+    '2fe9d071-fb57-5f4f-bf8c-37627e7c4931' => [
+        'I\'ve known my best friend since I was a baby, and I don\'t know what I would do without her. She is always straight with me and can make me laugh hysterically. Everyone should have someone like that in their life.',
+        'Jasmine Guinness',
     ],
-    '32ef5f7b-6560-5a15-8a6d-6d369c9c5934' => [
-        'Migration gives a blank cheque to put anything you don\'t feel like addressing in the memory hold. No neighbours can go against the monster narrative of your family.',
-        'Junot Diaz',
+    'f649febd-1289-5910-9e39-587ad34d5c74' => [
+        'As a spiritual person, nature for me has always been a healing place. Going back all the way to my childhood on the farm, the fields and forests were places of adventure and self-discovery. Animals were companions and friends, and the world moved at a slower, more rational pace than the bustling cities where I\'d resided my adult life.',
+        'David Mixner',
     ],
-    '1a79da34-9bc4-5847-b8e2-8d67c9f032f5' => [
-        'Do you know the difference between a beautiful woman and a charming one? A beauty is a woman you notice, a charmer is one who notices you.',
-        'Adlai E. Stevenson',
+    'a4026f3d-0fe4-55f7-adf5-0fc5967345a0' => [
+        'Deprived of meaningful work, men and women lose their reason for existence; they go stark, raving mad.',
+        'Fyodor Dostoevsky',
     ],
-    '86f634b4-ef07-59a3-bbb5-1e367527d833' => [
-        'I attribute my success to my mental approach to the game. I have always been a serious student of umpiring. I enjoy studying rules, situations, and positioning.',
-        'Jim Evans',
+    '5e659636-2145-553f-8cc7-5e49d7990a49' => [
+        'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
+        'Marie Helvin',
     ],
-    '47df86df-9654-51cd-a8b2-7fac65555bbc' => [
-        'Best way to get rid of kitchen odors: Eat out.',
-        'Phyllis Diller',
+    'd94cb03f-42ba-5cb4-9354-d7bb4680af26' => [
+        'Stars, of course, are too hot to support life, so wherever life might exist in the universe, it has to be on planets or moons that are warmed, but not incinerated, by the stars they travel around.',
+        'Thomas Mallon',
     ],
-    'a8b3ff88-4f31-5e75-bfcf-8393adc3baae' => [
-        'I\'ve worked too hard and too long to let anything stand in the way of my goals. I will not let my teammates down and I will not let myself down.',
-        'Mia Hamm',
+    'cef0f0df-d17f-50d7-ab96-c2bc889f7412' => [
+        'You learn so much about yourself as an artist. I never would have thought that I could sing every night, you know? Travel and perform every single night, and travel to another city the next day and do it all over again? You learn a lot of new things about yourself, and you make a lot of connections with people.',
+        'Yuna',
     ],
-    'ee22352f-dad3-5758-a310-091d75de0ae6' => [
-        'You mustn\'t smile when you lose. You have to be sad like other people. You have to win every game.',
-        'Eden Hazard',
+    'f49df9cc-d883-5b08-9aa2-feef8b5ac746' => [
+        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
+        'Sebastian Thrun',
     ],
-    '56767bd4-a674-543c-abf9-fe98a6b619d6' => [
-        'There is a very fine line between loving life and being greedy for it.',
-        'Swami Sivananda',
+    '9d2021e6-514b-5562-8607-14c07d12c98a' => [
+        'We\'ve had hassles, ups and downs, ins and outs, failures and triumphs. We\'re human beings, and we\'re not perfect. And we\'re mortal. But the Beach Boys is musically a tremendous body of work that transcends individuality and time and national boundaries.',
+        'Mike Love',
     ],
-    '7db81968-5e44-5f57-8ee0-822223d36847' => [
-        'I think with my journey so far, it never felt like an overwhelming, overnight success story. I think that\'s good for me because I really got to take my time.',
-        'Tori Kelly',
+    'eebb5e58-5524-5f51-ab79-fd916deee9e3' => [
+        'Testing oneself is best when done alone.',
+        'Jimmy Carter',
     ],
-    'ca3a7f18-da8e-5870-b3fa-ce77cf653367' => [
-        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
-        'Jimmy Dean',
+    '962c8f5a-727c-5d18-b8d2-29d8707503bb' => [
+        'Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product.',
+        'Elon Musk',
     ],
-    '8152d2a9-195a-5f13-89db-ce163d9360f4' => [
-        'I look forward to making tangible and inspirational contributions to the Houston Technology Center\'s initiatives. HTC is an engine behind Houston\'s and Texas\' continued growth.',
-        'Walter O\'Brien',
+    'd790e43e-5f99-59df-9bda-4ff9e0c7033d' => [
+        'I\'ve learned that to survive, you need a positive state of mind.',
+        'Thalia',
     ],
-    '7dd7ab80-78a4-5e9d-bf3b-8e11fef8bdd4' => [
-        'It\'s worth noting that at the time of the American Revolution, no sane person would have given two cents for its success.',
-        'Diana Gabaldon',
+    '050f15e5-34f7-5f30-9629-1def47783eb8' => [
+        'Work alone is noble.',
+        'Thomas Carlyle',
     ],
-    'fa4f7536-0595-586e-a735-31d3cff3ca75' => [
-        'Having a clear faith, based on the creed of the church is often labeled today as fundamentalism. Whereas relativism, which is letting oneself be tossed and swept along by every wind of teaching, look like the only attitude acceptable to today\'s standards.',
-        'Pope Benedict XVI',
+    '3d18bf84-7806-5074-80fd-372e59f5fb63' => [
+        'I\'m not changing because I\'m part of a hit. People around me have changed in their attitude toward me, but I haven\'t changed. And I won\'t.',
+        'Joe Penny',
     ],
-    '3571e955-50f2-541d-99d9-2c2faa7bea26' => [
-        'My attitude towards drawing is not necessarily about drawing. It\'s about making the best kind of image I can make, it\'s about talking as clearly as I can.',
-        'Jim Dine',
+    'af98d80d-adf3-55b9-a73d-de9ad03abf43' => [
+        'I think the eyes flirt most. There are so many ways to use them.',
+        'Anna Held',
     ],
-    '9d7fac42-ecd4-5f77-8091-6744c923090c' => [
-        'The whole infrastructure of air travel was, and is, part of government policy. It is not a natural development of a free economic system - at least not in the way that is claimed. The same is true of the roads, of course.',
-        'Noam Chomsky',
+    'c64ab86a-c878-5b1a-acf8-32a36212cf9b' => [
+        'Though pleas\'d to see the dolphins play, I mind my compass and my way.',
+        'Matthew Green',
     ],
 ];

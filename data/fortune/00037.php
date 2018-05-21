@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '47749035-ce5f-56a5-960b-aa5376aaca92' => [
-        'You know, I always say white is not a colour, white is an attitude, and if you haven\'t got trillions of dollars in the bank that you don\'t need, you can\'t be white.',
-        'Dick Gregory',
+    'ee3b1889-cb9d-5eab-adfb-3979046501ec' => [
+        'I am interested in shows that are not out-and-out gag fests: you see the truth of a broken heart behind them. That is what life is like: it\'s really funny, you see funny things as soon as you step out of the room, but underneath that is a whole bag of broken hearts. It\'s that real pain and that real hilarity that makes life so intriguing.',
+        'Tamsin Greig',
     ],
-    'ff54ed9d-6215-5bb8-b71c-12a427055df2' => [
-        'Everything I like is either illegal, immoral or fattening.',
-        'Alexander Woollcott',
+    '7cbe626f-dbd5-5c1a-b935-8a3285cbf0d0' => [
+        'We must use time wisely and forever realize that the time is always ripe to do right.',
+        'Nelson Mandela',
     ],
-    '8eaba6c4-dc48-54ef-85ed-392c2997f6e0' => [
-        'I think there\'s a right time for everything, and I\'m a true believer that everything happens for a reason.',
-        'Bella Hadid',
+    '0213fbd3-afed-54f0-bf7b-9f702864ec95' => [
+        'Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. In other words, if we can learn to think about other people in a more positive and realistic way, it will be far easier to resolve conflicts and develop rewarding personal and professional relationships.',
+        'David D. Burns',
     ],
-    '3c9769f2-371c-5248-817f-976f8265402f' => [
-        'Most people treat the office manual the way they treat a software manual. They never look at it.',
-        'James Levine',
+    'c898d7ef-bd76-59a8-98f6-dfbeef5a0bec' => [
+        'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
+        'John Forbes Nash, Jr.',
     ],
-    '13533574-d137-51db-a1ff-bba7ff43ce9b' => [
-        'In this world, with thy earthly life, thou art under heaven, stars, and elements, also under hell and devils; all ruleth in thee, and over thee.',
-        'Tiger Woods',
+    '786755bd-5849-5162-9294-958b189dc018' => [
+        'What I found in Silicon Valley is an industry that\'s sort of been kept a very far remove from Washington and had an attitude of \'Just let us do our thing and make the miracles that people love around the world and leave us alone.\'',
+        'George Packer',
     ],
-    '12f938ba-6e63-5dfd-8b10-43c21b661e42' => [
-        'Swift speedy time, feathered with flying hours, Dissolves the beauty of the fairest brow.',
-        'Philip Stanhope, 4th Earl of Chesterfield',
+    'ef7514f0-effd-5f0f-991f-bf2eb6000b40' => [
+        'The future belongs to those who believe in the beauty of their dreams.',
+        'Eleanor Roosevelt',
     ],
-    'b416bd7f-2fd8-53e3-bd49-41ad0eebcf57' => [
-        'Dreaming in public is an important part of our job description, as science writers, but there are bad dreams as well as good dreams. We\'re dreamers, you see, but we\'re also realists, of a sort.',
-        'William Gibson',
+    'e9e374fb-c2f4-5352-b73c-99a0bedbf3c9' => [
+        'The beautiful is in nature, and it is encountered under the most diverse forms of reality. Once it is found it belongs to art, or rather to the artist who discovers it.',
+        'Gustave Courbet',
     ],
-    '91715b0c-096e-5602-9a59-0458bc69f54f' => [
-        'Everything is blooming most recklessly; if it were voices instead of colors, there would be an unbelievable shrieking into the heart of the night.',
-        'Rainer Maria Rilke',
+    '8dd676da-d362-545c-ba1b-28db5d5c1ae3' => [
+        'Knowledge rests not upon truth alone, but upon error also.',
+        'Carl Jung',
     ],
-    '6d9c1bdb-bdc4-5826-bb77-a5a3b73e5022' => [
-        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
-        'Gil Scott-Heron',
+    '83f61237-6d3b-5dc0-9f69-8602aa8abd7d' => [
+        'To be ready to fail is to be prepared for success.',
+        'Jose Bergamin',
     ],
-    'b6129f28-b3c5-5a6b-8201-5e9baa33db7c' => [
-        'Efficiency is doing things right; effectiveness is doing the right things.',
-        'Peter Drucker',
+    '99394f67-c348-5906-ab75-81ed830ce619' => [
+        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
+        'Carlos Ghosn',
     ],
-    '72cd8606-d0d0-5e1e-b124-0616a746a7af' => [
-        'The one thing we know about the future is that it comes only one day at a time.',
-        'Jeff Rich',
+    '724224eb-0f4e-5955-9dc3-a7cbf43ed4ba' => [
+        'Dreams come true. Without that possibility, nature would not incite us to have them.',
+        'John Updike',
     ],
-    'e77c2645-b8e5-554a-8185-1f7634cc5825' => [
-        'We have been so trying to convince them from the very beginning of our organization, but with no success.',
-        'George Haven Putnam',
+    'b75223ef-f586-53cf-a14a-55aed9061c33' => [
+        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
+        'Mary Roach',
     ],
-    'eba45989-34bd-522d-9e16-cb3fcc5b3324' => [
-        'Everyone is handed adversity in life. No one\'s journey is easy. It\'s how they handle it that makes people unique.',
-        'Socrates',
+    'bc1b55b2-1ca1-547c-8193-63422dd336ff' => [
+        'Nothing exterior to me will ever take command of me.',
+        'Walt Whitman',
     ],
-    'c1e42222-99bb-5470-971b-e225c1cad2da' => [
-        'There are just some really beautiful people in the world. When you\'re walking down the street, or you\'re at a restaurant, someone catches your eye because they have their own look. It goes way beyond what they\'re wearing - into their mannerisms, the way they smile, or just the way they hold themselves.',
-        'Mary-Kate Olsen',
+    'a2d0f15c-d796-51f2-b82e-830e09e46a80' => [
+        'Don\'t forget Mother\'s Day. Or as they call it in Beverly Hills, Dad\'s Third Wife Day.',
+        'Jay Leno',
     ],
-    '8376b83f-4775-565d-8129-7a1807758d02' => [
-        'I have a good support system of friends and family.',
-        'Penny Marshall',
+    '84037d75-c41a-5ea8-968d-577246af0f90' => [
+        'Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.',
+        'Charles A. Lindbergh',
     ],
-    '3463632c-4c04-5ca6-b79e-761d90222134' => [
-        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
-        'Montel Williams',
+    '8dd949cd-28dc-59a9-a361-55f6ebefcc95' => [
+        'The beauty of dystopia is that it lets us vicariously experience future worlds - but we still have the power to change our own.',
+        'Ally Condie',
     ],
-    'a13b8444-35b3-558e-8c06-351f29b9bee7' => [
-        'You have power over your mind, not outside events. Realize this, and you will find strength.',
-        'Marcus Aurelius',
+    'c149ed12-f5f5-5cc1-8398-0b15bc661072' => [
+        'From success you get a lot of things, but not that great inside thing that love brings you.',
+        'Samuel Goldwyn',
     ],
-    'ae93ce3a-ce50-5ffa-97c3-508ba4f3687f' => [
-        'Make the most of yourself, for that is all there is of you.',
-        'Ralph Emerson',
+    'e1447e7c-5050-50e0-ad0b-892d86aff20c' => [
+        'Whatever we expect with confidence becomes our own self-fulfilling prophecy.',
+        'Brian Tracy',
     ],
-    '882fd441-b8ed-57d3-adc3-e5c8993548b0' => [
-        'I learned one thing - never hate a positive option.',
-        'Kevin Garnett',
+    '6864cf1b-524b-5236-a011-4946d05ac675' => [
+        'Motivation is everything. You can do the work of two people, but you can\'t be two people. Instead, you have to inspire the next guy down the line and get him to inspire his people.',
+        'Lee Iacocca',
     ],
-    'dac5d702-4d8a-5e40-b79f-340ba1308c7f' => [
-        'Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
-        'Nathaniel Hawthorne',
+    '6c21eb0d-5f59-571c-9cf4-6e8d56a6ee1c' => [
+        'Like almost everyone who uses e-mail, I receive a ton of spam every day. Much of it offers to help me get out of debt or get rich quick. It would be funny if it weren\'t so exciting.',
+        'Bill Gates',
     ],
-    '4dc234a6-db53-5a6e-a9ba-c08dfdf0759a' => [
-        'I\'ve got a real sense of three-dimensional geometry. I can look at a flat piece of fabric and know that if I put a slit in it and make some fabric travel around a square, then when you lift it up it will drape in a certain way, and I can feel how that will happen.',
-        'Vivienne Westwood',
+    '7a57bffc-bfc0-5683-b487-38a195a40f56' => [
+        'I love mankind; it\'s people I can\'t stand.',
+        'Charles M. Schulz',
     ],
-    'e7b29339-2210-5a71-8137-b59cabb0e70d' => [
-        'We are not a typical family that goes for a movie on Sunday or has dinner together every night. But we are strong as the Great Wall of China. Nothing can stop us from supporting one another and enduring each other\'s pain as well.',
+    '348ed6db-ca02-5ceb-902a-e677fc8ae2e3' => [
+        'So far as I am concerned, I could not be accused of having set eyes, or having wished to set eyes, upon Darius\' wife: on the contrary, I have refused even to listen to those who spoke to me of her beauty.',
+        'Alexander the Great',
+    ],
+    '65806836-85c3-564b-b81b-177e293151d5' => [
+        'For me, I think the Lord wanted me to win to put a smile on Chinese people\'s faces.',
+        'Michael Chang',
+    ],
+    '8b90f75c-cc2a-5bcd-8c2d-e085e79b0947' => [
+        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
         'Alia Bhatt',
     ],
-    '6fe90796-8fec-574a-90a0-d74c80ebc99d' => [
-        'Know how to listen, and you will profit even from those who talk badly.',
-        'Plutarch',
+    '502bf55c-8fe1-59c7-921e-e245374d3407' => [
+        'I am an English-speaking Canadian, but my entire family - Russian exiles and the Canadians they married - is buried in Quebec, and if Quebec were to separate, I would feel I had been cut in two.',
+        'Michael Ignatieff',
     ],
-    'b7788052-8c22-5aa3-8b73-7197b2a639c3' => [
-        'The difference between the impossible and the possible lies in a person\'s determination.',
-        'Tommy Lasorda',
+    'f595e2eb-9c57-5ffa-bf72-4d15fef086ae' => [
+        'I\'m selfish, impatient, and a little insecure. I make mistakes, I\'m out of control, and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best.',
+        'Marilyn Monroe',
     ],
-    '2ab97b97-4b70-5660-9abc-a8bfb2f1188f' => [
-        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
-        'Smokey Robinson',
+    '93ac487f-2ab5-50cb-9552-f4a44a108d5a' => [
+        'Everyone has his own specific vocation or mission in life; everyone must carry out a concrete assignment that demands fulfillment. Therein he cannot be replaced, nor can his life be repeated, thus, everyone\'s task is unique as his specific opportunity to implement it.',
+        'Riley Keough',
     ],
-    '8a3992fa-eb14-5992-bad5-609d22751ad2' => [
-        'I do not expect the white media to create positive black male images.',
-        'Huey Newton',
+    'b8771736-1168-5211-9cce-545d4f0135a6' => [
+        'That\'s been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it\'s worth it in the end because once you get there, you can move mountains.',
+        'Steve Jobs',
     ],
-    'd4bb7cd2-07d5-555b-9997-ed105048bd5a' => [
-        'My success was not based so much on any great intelligence but on great common sense.',
-        'Helen Gurley Brown',
+    '32e81f46-4a09-5215-b5f6-1a9ac03858ec' => [
+        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
+        'Kenichi Fukui',
     ],
-    '0bf0c426-e826-5151-8606-bf639b3058ce' => [
-        'It all started when my dog began getting free roll over minutes.',
-        'Jay London',
+    'c44b4175-83f9-58f3-9d48-a89a767cf290' => [
+        'Our truest life is when we are in dreams awake.',
+        'Eckhart Tolle',
     ],
-    '2a546dae-6ac9-50ec-a9cc-dc291e34d46a' => [
-        'Learning lessons is a little like reaching maturity. You\'re not suddenly more happy, wealthy, or powerful, but you understand the world around you better, and you\'re at peace with yourself. Learning life\'s lessons is not about making your life perfect, but about seeing life as it was meant to be.',
-        'A. P. J. Abdul Kalam',
+    'ec5b3fb8-4617-5b22-b3b8-36af8b4a0215' => [
+        'The best time to make friends is before you need them.',
+        'Ethel Barrymore',
     ],
-    '29bb34dd-149a-52b9-9a7b-2aca6688c462' => [
-        'It\'s funny, because in deference to conventional wisdom, I spent my struggling writer years trying to suppress my naturally baroque literary voice and write clean, spare prose. I finally gave up and embraced my baroque tendencies when I wrote the Kushiel series.',
-        'Jacqueline Carey',
+    'ce472ad7-30d8-5594-9656-87a551fae5a0' => [
+        'The genre has moved into this commercial aspect of itself, and ignored this extraordinarily rich literature that\'s filed everywhere else except under travel.',
+        'Robyn Davidson',
     ],
-    '4ee743dc-2cd8-544d-9df6-328d15f99e5f' => [
-        'Can miles truly separate you from friends... If you want to be with someone you love, aren\'t you already there?',
-        'Richard Bach',
+    'b4bb0c75-e4f8-54cd-b02d-8dd4616a02a0' => [
+        'There are no straight lines or sharp corners in nature. Therefore, buildings must have no straight lines or sharp corners.',
+        'Antoni Gaudi',
     ],
-    '425168f1-aadb-5b64-b928-7bb5e5c98178' => [
-        'Marvin\'s Motivational Moments actually started as something that was actually therapeutic for me. I would sit up late at night after my wife passed trying to adjust to being alone.',
-        'Marvin Sapp',
+    '4b93d557-7d4c-59d1-b5f8-981e4cf63711' => [
+        'If you don\'t have many possessions, then you don\'t need to work all your life like a slave to sustain them, and therefore you have more time for yourself.',
+        'Jose Mujica',
     ],
-    '35d9ae17-4ee4-53c5-93c2-25418988085c' => [
-        'In the middle of every difficulty lies opportunity.',
-        'Albert Einstein',
+    'f6dd3bca-3925-583d-a936-120cf05472be' => [
+        'I grew up in a very spiritual home in a Liberty City neighborhood of Miami, FL. I was raised in the church, and my mother was a very inspirational person in my life.',
+        'Robert Battle',
     ],
-    '7c3524cd-f6df-5ee4-ad9b-89666be40fab' => [
-        'From there to here, and here to there, funny things are everywhere.',
-        'Dr. Seuss',
+    'e79873bd-b231-5bd5-8c08-0f41e6975806' => [
+        'It\'s easy to walk away from risk, and you don\'t actually have to face it. Success is based upon overcoming the inherent risk you can\'t manage your way out of.',
+        'Maurice Flanagan',
     ],
-    '8e8848db-36d4-55f0-a430-381147810f3c' => [
-        'Tea time is a chance to slow down, pull back and appreciate our surroundings.',
-        'Letitia Baldrige',
+    'aa031382-1396-5a8a-a0f6-38eabe1ec6a5' => [
+        'Fate is in your hands and no one elses',
+        'Byron Pulsifer',
     ],
-    'f0725d50-9833-5d86-9a74-22f51dfc88d9' => [
-        'Rarely do great beauty and great virtue dwell together.',
-        'Petrarch',
+    'ee124f8a-b65d-5ec0-af10-e697545169e3' => [
+        'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations',
+        'Steve Jobs',
     ],
-    'f290ddcd-26c8-5a87-b1a4-39524fd0cc2b' => [
-        'Our purpose in Vietnam is to prevent the success of aggression. It is not conquest, it is not empire, it is not foreign bases, it is not domination. It is, simply put, just to prevent the forceful conquest of South Vietnam by North Vietnam.',
-        'Lyndon B. Johnson',
+    'bce02ef3-d2ca-5fdb-8449-e861ef40eacd' => [
+        'Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.',
+        'Elbert Hubbard',
     ],
-    '8ac8ef9d-3dd1-5ade-b754-4c843545cd0e' => [
-        'I sang in the choir for years, even though my family belonged to another church.',
-        'Paul Lynde',
+    '1ee228d5-6ada-5d98-8d58-b59896b7a3b8' => [
+        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
+        'Lisa Murkowski',
     ],
-    'a5671d76-74ce-54ca-a98f-e48a95df457c' => [
-        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
-        'Todd McFarlane',
+    '63bff790-dea9-5fa6-a18f-00d7518f2c36' => [
+        'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
+        'Tony Robbins',
     ],
-    'c2b1ba82-4792-5880-abca-a20bfafc22b3' => [
-        'People always ask me, \'Were you funny as a child?\' Well, no, I was an accountant.',
-        'Ellen DeGeneres',
+    '231bf53b-1685-5737-bf1d-c905c29a519f' => [
+        'Reminds me of my safari in Africa. Somebody forgot the corkscrew and for several days we had to live on nothing but food and water.',
+        'W. C. Fields',
     ],
-    '6156f09f-71a1-5bd6-9e8d-a7ac58725e3a' => [
-        'A smile is a light in the window of your face to show your heart is at home.',
-        'Unknown',
+    '8d22a225-5eda-522a-8f8b-cbadc7a1fdd3' => [
+        'I think of myself as a positive agnostic. I don\'t know, therefore I\'m open. I don\'t know, therefore I\'m interested.',
+        'Grace Slick',
     ],
-    '9bc3bf0d-2f16-5e67-acf5-2ca0b3572276' => [
-        'I have been overcome by the beauty and richness of our life together, those early mornings setting out, those evenings gleaming with rivers and lakes below us, still holding the last light.',
-        'Anne Morrow Lindbergh',
+    '555e30a7-c73b-542f-ad0f-6a58884886ec' => [
+        'From a certain age, I sort of accepted myself for what I was. And although to other people it was like nothing ever goes right, I had a really nice attitude that I\'d inherited from my parents, and especially from my dad.',
+        'Johnny Vegas',
     ],
-    'e7a292d4-9d33-55cb-a6ce-e58856abeba8' => [
-        'Wake up. Kick ass. Repeat.',
-        'Anonymous',
+    'f8cb9ac4-7f00-5cf5-a212-0e1de044cf24' => [
+        'Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.',
+        'Ella Wheeler Wilcox',
     ],
-    'bc8a9c9e-16c1-5153-bd7e-8efff32af6eb' => [
-        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-        'Milla Jovovich',
+    '462eafc0-241e-531c-9120-03fc79c70b58' => [
+        'It is not length of life, but depth of life.',
+        'David Attenborough',
     ],
-    '9a475f7d-2939-5e61-87da-eb8656f99359' => [
-        'What makes a river so restful to people is that it doesn\'t have any doubt - it is sure to get where it is going, and it doesn\'t want to go anywhere else.',
-        'Hal Boyle',
+    '7ed9fe3b-d03a-5615-8840-ae328b19af24' => [
+        'You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.',
+        'Ella Maillart',
     ],
-    '08e29dfc-34ed-5a5d-8fad-f533d99d7f61' => [
-        'Some people say video games rot your brain, but I think they work different muscles that maybe you don\'t normally use.',
-        'Ezra Koenig',
+    '94241b1a-8bd3-577a-82f5-1c1315733830' => [
+        'I learned a long time ago that some people would rather die than forgive. It\'s a strange truth, but forgiveness is a painful and difficult process. It\'s not something that happens overnight. It\'s an evolution of the heart.',
+        'Sue Monk Kidd',
     ],
-    'e8eb3896-c149-5dde-86b6-d63617664550' => [
-        'Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.',
-        'Henry Reed',
+    'a6ecbb57-ab98-51a2-9c8f-057930ee2154' => [
+        'The more man meditates upon good thoughts, the better will be his world and the world at large.',
+        'Confucius',
     ],
-    '2baaf28b-9275-57e3-a7f1-fa44a1517553' => [
-        'I like to use my hands and make things... It might seem pretty stupid or pointless but that doesn\'t matter... some of the most interesting work is the stuff that starts like that - out of a raw need for activity.',
-        'Bruce Nauman',
-    ],
-    '53a23320-72e4-50e7-8396-252bd96d8213' => [
-        'Pretension is a poor joke that you play on yourself. Snap out of it. Recognise your strengths, work on your weaknesses. Real achievement is liking what you see in the mirror every morning.',
-        'Virat Kohli',
-    ],
-    '3db5c965-ec87-5448-8ed7-eafd3005dd7b' => [
-        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
-        'Kate Chopin',
+    '28096afc-82fe-5df0-ab26-5b6a4193b979' => [
+        'We have to remember that Putin was a member of the KGB. He has already demonstrated that kind of macho, dictatorial attitude. Russia has breached their pledge to uphold the Olympic charter. This is a great opportunity for the IOC to say we cannot, given the situation that exists currently, allow the Olympics to take place in Russia.',
+        'George Takei',
     ],
 ];

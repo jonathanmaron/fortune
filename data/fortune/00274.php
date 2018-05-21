@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '8d5c999c-dfbe-5f52-b148-38eefb8a9914' => [
-        'I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.',
-        'Og Mandino',
+    '468795d3-09b9-50af-be22-ce7f5d7142a2' => [
+        'Art is the tree of life. Science is the tree of death.',
+        'Henry Ford',
     ],
-    '814c06e9-6ca2-5b80-bdbf-490922b80cbd' => [
-        'It all depends on how we look at things, and not how they are in themselves.',
-        'Carl Jung',
+    '663d020f-a500-56d4-ba1f-a3304c04bc87' => [
+        'No thieves, no traitors, no interventionists! This time the revolution is for real!',
+        'Fidel Castro',
     ],
-    'c219540f-cdb3-5059-bf31-9f24b6271cb3' => [
-        'Let us live for the beauty of our own reality.',
+    '3ab280dd-e50d-5e9b-a699-b3c5939dfb02' => [
+        'There is nothing so stable as change.',
+        'Bob Dylan',
+    ],
+    'e0309afb-c672-58a4-80a4-00bc23c86ce4' => [
+        'My mind has been both my best friend and my worst enemy.',
+        'Elyn Saks',
+    ],
+    'a56e81cd-b109-5faf-8b38-35f86b55f845' => [
+        'Loyal and efficient work in a great cause, even though it may not be immediately recognized, ultimately bears fruit.',
+        'Jawaharlal Nehru',
+    ],
+    '1404204b-c561-5134-b298-9940d14c5d5d' => [
+        'When was the last time you spent a quiet moment just doing nothing - just sitting and looking at the sea, or watching the wind blowing the tree limbs, or waves rippling on a pond, a flickering candle or children playing in the park?',
+        'Ralph Marston',
+    ],
+    '812e9236-1c30-5a26-9297-fac20b6820fb' => [
+        'The first voyagers to the stars will be creatures whose life cycle is matched to the voyage: the aeons involved in traversing the galaxy are not daunting to immortal beings. By the end of the third millennium, travel to other stars could be technically feasible. But would there be sufficient motive?',
+        'Martin Rees',
+    ],
+    'ede73c6d-7b27-51d9-8480-1759b93b4f39' => [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
+    ],
+    '78cc75c6-cae8-5c08-9b95-1ade81d6894d' => [
+        'Really you just gotta keep chugging along and keep a positive attitude and get through all the problems. You gotta face them, otherwise you don\'t get through.',
+        'Lesley Gore',
+    ],
+    '2a19f0f6-11fa-5a7f-9854-f3ee773fa1cd' => [
+        'It is not fair to ask of others what you are unwilling to do yourself.',
+        'Eleanor Roosevelt',
+    ],
+    '6df40033-5706-52ba-b289-cebda310462f' => [
+        'I\'m a prankster, so some of the - you know, I like a good joke. I think when it\'s funny, it\'s funny.',
+        'Sean Spicer',
+    ],
+    'ba37758f-a15f-52a2-8dd1-522c1aaf5efa' => [
+        'In aid, the proper attitude is one omitting gratitude.',
+        'Marya Mannes',
+    ],
+    'c43f94ab-108e-507a-b34c-e574f12daea9' => [
+        'I work to stay alive.',
+        'Bette Davis',
+    ],
+    '42b40f9d-4d2f-5fc8-b89d-2cc9afb562f4' => [
+        'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
+        'Vince Lombardi',
+    ],
+    'a75be7d1-ef1f-5aa2-8f62-e058e1d57afe' => [
+        'I like the idea of being warm and secure. That\'s what home should be. That you have a sense of warmth, security, love, and you love the things around you and surround yourself with beauty.',
+        'Andre Leon Talley',
+    ],
+    'd7c51933-4781-5de8-b268-97424c349e06' => [
+        'You find out in life that people really like you funny. So what do you give \'em? Humor. And then if you show them the other side, they don\'t like you as much. I find, too, that I can hide behind the idiot\'s mask being funny, and you never see the sorrow or the pain.',
+        'Terry Bradshaw',
+    ],
+    '2fd535e6-4c67-5d05-bccc-ce6c4963c342' => [
+        'I\'ve learned that mistakes can often be as good a teacher as success.',
+        'Jack Welch',
+    ],
+    'a579f8f7-7a5a-5cdc-956f-b7ab5cbcd242' => [
+        'I recorded my hair this morning, tonight I\'m watching the highlights.',
+        'Jay London',
+    ],
+    'ffb691a1-a26f-59e4-9ef7-3d5fbc1b5ccb' => [
+        'It is for us to pray not for tasks equal to our powers, but for powers equal to our tasks, to go forward with a great desire forever beating at the door of our hearts as we travel toward our distant goal.',
+        'Helen Keller',
+    ],
+    '84d5c21c-8481-59bb-a06a-1a4e00b4fdf2' => [
+        'If you truly get in touch with a piece of carrot, you get in touch with the soil, the rain, the sunshine. You get in touch with Mother Earth and eating in such a way, you feel in touch with true life, your roots, and that is meditation. If we chew every morsel of our food in that way we become grateful and when you are grateful, you are happy.',
+        'Robert Louis Stevenson',
+    ],
+    '9f9efc0f-09b9-5925-aacb-8cbed18d211a' => [
+        'Worry gives a small thing a big shadow.',
+        'Unknown',
+    ],
+    '71d8fc38-bb95-5aa4-8dca-7d466f24a420' => [
+        'I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life. And I am horribly limited.',
+        'Tony Robbins',
+    ],
+    'e6095d28-e2b9-571d-9237-7144ee66ddeb' => [
+        'The first time I sang in the church choir; two hundred people changed their religion.',
+        'Fred Allen',
+    ],
+    '338ca09d-c0c2-52a2-8d9f-09974be89e60' => [
+        'I want a man who isn\'t questioning who he is. I want a man to be able to stand next to me and not disappear and not be emasculated by my success.',
+        'Jessica White',
+    ],
+    '7ac7a437-55a1-5efe-a90e-83d25a68b1ef' => [
+        'I don\'t think the world focuses on the positive things enough.',
+        'Dwyane Wade',
+    ],
+    '9e3e7193-aa3d-54a8-bb0a-63de7108fe8d' => [
+        'With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.',
+        'Keshavan Nair',
+    ],
+    '085dc2cf-bec9-55a3-b222-0c65bbe55754' => [
+        'One that desires to excel should endeavour in those things that are in themselves most excellent.',
+        'Epictetus',
+    ],
+    'cd965bba-d9a3-5ce0-821b-bbdcee3125b9' => [
+        'There\'s a snobbery at work in architecture. The subject is too often treated as a fine art, delicately wrapped in mumbo-jumbo. In reality, it\'s an all-embracing discipline taking in science, art, maths, engineering, climate, nature, politics, economics.',
+        'Norman Foster',
+    ],
+    '8214e144-ea7b-535f-ae9b-ddd0fcd7b23c' => [
+        'I have a nice smile, pretty lips, and big round cheeks. They help me look like a teenager.',
+        'Gabourey Sidibe',
+    ],
+    '62a45999-e0ac-554b-a086-230b42ca43e2' => [
+        'Nothing puzzles me more than the time and space; and yet nothing troubles me less.',
         'Charles Lamb',
     ],
-    'e9addbb1-5bd9-50d8-97a6-ac8cd904d17b' => [
-        'Nobody knows what you feel inside unless you tell them.',
-        'Banksy',
+    '9a260f49-2385-5ee9-9844-5eba1f2e2076' => [
+        'There\'s a tipping point that happens with soccer in which you just kinda get it. I was drawn to it because the best soccer teams play similarly to my favorite basketball teams - like the eighties Lakers or eighties Celtics - teams that emphasized teamwork over individualism and relied on passing as their biggest ongoing edge.',
+        'Bill Simmons',
     ],
-    '165e1cc2-8094-5db2-b6e4-7d69cb151bb6' => [
-        'All children are artists. The problem is how to remain an artist once he grows up.',
-        'Pablo Picasso',
+    'ca4e084d-ae96-51fc-976a-51fd2680db70' => [
+        'It\'s not comfortable for me to write about my family. I\'m not comfortable writing about me.',
+        'Karl Rove',
     ],
-    '93adeaa1-ae95-5ff9-b952-646820fd135a' => [
-        'If I could offer but one helpful hint to young Hoosiers hoping to better their odds for success in life, I would simply note the importance of thoughtful reading.',
-        'Richard Lugar',
+    'a3792f6f-1ed8-5614-89b4-180e8a099f23' => [
+        'I did not have three thousand pairs of shoes, I had one thousand and sixty.',
+        'Imelda Marcos',
     ],
-    'a721349d-1964-51b1-b4c4-c760f1759b30' => [
-        'The key to life is your attitude. Whether you\'re single or married or have kids or don\'t have kids, it\'s how you look at your life, what you make of it. It\'s about making the best of your life wherever you are in life.',
-        'Candace Bushnell',
+    '985b00e9-e16c-5d3f-b1f1-9ad54277bab4' => [
+        'The truth you believe and cling to makes you unavailable to hear anything new.',
+        'Pema Chodron',
     ],
-    '3a4dd44c-250b-5c06-8df8-62a143b6b670' => [
-        'There surely is in human nature an inherent propensity to extract all the good out of all the evil.',
-        'Benjamin Haydon',
+    'f8092033-69b7-532d-abc6-63bee2d13f57' => [
+        'When I was a seminarian, I was dazzled by a girl I met at an uncle\'s wedding. I was surprised by her beauty, her intellectual brilliance... and, well, I was bowled over for quite a while.',
+        'Pope Francis',
     ],
-    '9912ceef-6c5f-5bbf-a5a1-145ed62f0d77' => [
-        'We must not constantly talk about tackling obesity and warning people about the negative consequences of obesity. Instead we must be positive - positive about the fun and benefits to be had from healthy living, trying to get rid of people\'s excuses for being obese by tackling the issue in a positive way.',
-        'Andrew Lansley',
+    '4f9ff7a8-419b-56e1-8398-83ec581d746f' => [
+        'Everything that happens happens as it should, and if you observe carefully, you will find this to be so.',
+        'Marcus Aurelius',
     ],
-    '6fb6a50d-06ed-5cba-9271-fb147134ab1d' => [
-        'Forty for you, sixty for me. And equal partners we will be.',
-        'Joan Rivers',
+    'aeeb90c8-622b-5fd9-80fe-747c74c22746' => [
+        'I am generally a very happy and easygoing person. I also believe it\'s always better to meet people with a smile rather than looking cold, especially when you first meet. It changes everything.',
+        'Heidi Klum',
     ],
-    '888450e6-52c3-5365-909c-c1fa639f2f93' => [
-        'Sometimes you have got to look at things really positively - without putting your head in the sand, you have got to manage the negatives and keep putting a positive slant on it, keep trying to find answers.',
-        'Brian McDermott',
+    '0ef273a6-d483-52f8-a2c4-cb2380852c8e' => [
+        'A bad review is like baking a cake with all the best ingredients and having someone sit on it.',
+        'Danielle Steel',
     ],
-    'dde35495-e963-5eb9-b12d-a44a704bc570' => [
-        'My theory on life is that life is beautiful. Life doesn\'t change. You have a day, and a night, and a month, and a year. We people change - we can be miserable or we can be happy. It\'s what you make of your life.',
-        'William Butler Yeats',
+    'fd44db77-5188-5dc2-82eb-e25f3a4906c0' => [
+        'Communication is a skill that you can learn. It\'s like riding a bicycle or typing. If you\'re willing to work at it, you can rapidly improve the quality of evry part of your life.',
+        'Brian Tracy',
     ],
-    'c380a1cf-71fd-5e94-b41c-8c688107bbe4' => [
-        'When we are no longer able to change a situation, we are challenged to change ourselves.',
-        'Viktor Frankl',
+    'a80f74c0-1f65-5307-8b93-60251fc53b9d' => [
+        'I\'m fascinated with being able to travel the world via \'Instagram\' and just be somewhere different.',
+        'Mike Krieger',
     ],
-    '1725f2ce-a82a-58da-a6ee-5a8fb7e1d95b' => [
-        'Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success.',
-        'Rick Pitino',
+    '686ca1bc-36e5-5a9f-b386-c7661eda029a' => [
+        'I\'m the middle man. I try to keep people happy. I go out of my way to get a smile. That\'s the way my mother raised me.',
+        'Donald Dunn',
     ],
-    'b36976af-a41c-5dbf-aba0-3ed43d9bb997' => [
-        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
-        'Anne Lamott',
+    '956bdd96-aac3-5a6a-9ae4-1d75e8beaef5' => [
+        'Execute every act of thy life as though it were thy last.',
+        'Brandon Jenner',
     ],
-    '80672a9e-52c1-56de-a7bb-6928363b7b10' => [
-        'I am the family face; flesh perishes, I live on.',
-        'Thomas Hardy',
+    '2314173e-d0b0-5474-84d7-de5157144e88' => [
+        'For to be poised against fatality, to meet adverse conditions gracefully, is more than simple endurance; it is an act of aggression, a positive triumph.',
+        'Thomas Mann',
     ],
-    '9c11d4d3-7192-5473-9db6-42ec2beb1930' => [
-        'In the Spring, I have counted 136 different kinds of weather inside of 24 hours.',
-        'Mark Twain',
+    'a98aba6b-4ca1-5836-8432-df2aa2ba38f9' => [
+        'The idea of having a steady job is appealing.',
+        'Robin Williams',
     ],
-    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
-        'You just never give up. You do a task to the best of your abilities and beyond.',
-        'Debbie Reynolds',
+    'a0d9f9f7-4224-5aa9-b8aa-9c96bcc38868' => [
+        'I buy everything India Arie, just because she\'s such a positive person, and I just love her music. Her music\'s so soulful... I think Kanye West is a genius musically.',
+        'Tika Sumpter',
     ],
-    '428f7dc3-38b5-5176-a153-5edef8dcc837' => [
-        'Ideas are the beginning points of all fortunes.',
-        'Napoleon Hill',
+    '144534a1-f1cc-5434-9345-29362956da2f' => [
+        'Where there is great love, there are always miracles.',
+        'Willa Cather',
     ],
-    '3333d28f-2611-5a8c-ad44-248a3217fa63' => [
-        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
-        'Fran Drescher',
+    'fcbe38a5-d39e-5b90-adec-71bab259190c' => [
+        'I grew up with just my mom. She and I were like best friends. She\'s a very independent woman and I admire that about her. In my life, I\'ve tried to be like that. To be okay with being on my own and being independent.',
+        'Emma Roberts',
     ],
-    '77117876-9779-5ec4-907d-ad76ec546543' => [
-        'Even in winter an isolated patch of snow has a special quality.',
-        'Andy Goldsworthy',
+    '2d30a028-6d79-5ac3-aa7f-86d5d1861ad4' => [
+        'Grit can\'t be measured on pop quizzes, but it can often predict long-term success more than mere intelligence.',
+        'Laura Moser',
     ],
-    'ed3e4af6-aaa9-53b6-a8b6-ab919fb9a57a' => [
-        'See that the imagination of nature is far, far greater than the imagination of man.',
-        'Richard P. Feynman',
+    '2b3c27a0-ec36-56a0-a3c4-c45e9e0a1ce3' => [
+        'Aaah, summer - that long anticipated stretch of lazy, lingering days, free of responsibility and rife with possibility. It\'s a time to hunt for insects, master handstands, practice swimming strokes, conquer trees, explore nooks and crannies, and make new friends.',
+        'Darell Hammond',
     ],
-    '9db59f56-e288-5991-81f4-4e69dca093fb' => [
-        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
-        'Chuck Norris',
-    ],
-    'e83c83d7-cee4-524d-abc9-976c54418758' => [
-        'The mission of art is to represent nature not to imitate her.',
-        'William Morris Hunt',
-    ],
-    'af9b7a21-2a41-5b20-b0b3-5b705af23c7d' => [
-        'I found that being with happy positive people annoys me.',
-        'Karl Pilkington',
-    ],
-    '79a362ae-c0b3-50b3-b7cb-53148966187a' => [
-        'Your belief determines your action and your action determines your results, but first you have to believe.',
-        'Mark Victor Hansen',
-    ],
-    '2c90bf17-ba34-5291-ba7e-841b2201f848' => [
-        'We needed something to express our joy, our beauty, our power. And the rainbow did that.',
-        'Gilbert Baker',
-    ],
-    '1a35071d-0b94-5950-8b4a-684ea3af3753' => [
-        'In spite of the opinions of certain narrow-minded people, who would shut up the human race upon this globe, as within some magic circle it must never outstep, we shall one day travel to the moon, the planets, and the stars, with the same facility, rapidity, and certainty as we now make the voyage from Liverpool to New York!',
-        'Jules Verne',
-    ],
-    '4ce89431-f0ca-533a-bd17-7630a84c711b' => [
-        'Each day can be one of triumph if you keep up your interests.',
-        'George Matthew Adams',
-    ],
-    '2c958ffc-4093-5b23-8c98-a8514b3420f2' => [
-        'I think Spain will always remain inspirational, and I think French cuisine will continue to be very French and yet very relevant with its time and keep evolving. But the last thing you want for it is to become too trendy and confusing. It has too much history.',
-        'Daniel Boulud',
-    ],
-    '76bdaf79-9d41-5b2b-98bc-78937edc0ce1' => [
-        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
-        'Marsha Thomason',
-    ],
-    '2d88de33-ad43-58c5-8ee3-37fc19d9014f' => [
-        'God always gives His best to those who leave the choice with him.',
-        'Jim Elliot',
-    ],
-    '33a5ae49-6b9c-50eb-8a99-ce61e244d555' => [
-        'Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?',
-        'Confucius',
-    ],
-    'd2d2d2b9-7c26-532b-bcad-4a770afa533c' => [
-        'If atomic bombs are to be added as new weapons to the arsenals of a warring world, or to the arsenals of nations preparing for war, then the time will come when mankind will curse the names of Los Alamos and of Hiroshima.',
-        'J. Robert Oppenheimer',
-    ],
-    'd75af839-60b3-5a1d-8696-ff7a90491dd8' => [
-        'To See What Is Right And Not Do It Is A Lack Of Courage.',
-        'Confucious',
-    ],
-    '0bdb3c51-9564-54ec-bbf3-a1b4b28533a3' => [
-        'Like most guys, I\'ve always liked watches. I can always check the time on my phone, but having a watch is so much better.',
-        'Andy Murray',
-    ],
-    'c840b248-48cd-5e5f-a34c-1cc6c3970d7b' => [
-        'Human nature is evil, and goodness is caused by intentional activity.',
-        'Xun Kuang',
-    ],
-    '4a822038-544b-553b-81de-c59369c94435' => [
-        'Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles.',
-        'Samuel Smiles',
-    ],
-    'ac4ac276-52f2-55ae-9440-538bbf16b5ae' => [
-        'Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.',
-        'Ralph Blum',
-    ],
-    '09c56472-241f-5884-b6c1-064059050b89' => [
-        'The only time I get sick of making people laugh is when I\'m in a non-writing-joke mode, and I just can\'t seem to come up with anything new that\'s funny. That\'s a tough place to be as a comedian.',
-        'Bill Burr',
-    ],
-    '7e97ed13-038f-50f0-98d5-85575c0a7dca' => [
-        'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
-        'Thomas P.M. Barnett',
-    ],
-    '68748ebb-b856-53de-975d-0a2c8ece3582' => [
-        'Everybody I know who is funny, it\'s in them. You can teach timing, or some people are able to tell a joke, though I don\'t like to tell jokes. But I think you have to be born with a sense of humor and a sense of timing.',
-        'Carol Burnett',
-    ],
-    '83a10832-518e-5a15-a059-b96870250de5' => [
-        'Your attitude towards failure determines your altitude after failure.',
-        'John C. Maxwell',
-    ],
-    '59c8ffc6-6403-519b-ad66-1a9c1429b197' => [
-        'I served at the Pentagon and at Fort Leavenworth - my job was video cameraman, and that allowed me to travel to places like Korea, Japan, Alaska, Germany and the Netherlands.',
-        'Chad Coleman',
-    ],
-    'bf6dff5c-4592-5aed-9f9e-aa46ba9faf27' => [
-        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
-        'John Philip Sousa',
-    ],
-    '2916827c-8b34-566d-8bf2-ea0d0acf0374' => [
-        'I love community, I love to be around other people. I love to be around other people when everyone\'s feeling good and doing their best. Not to just be the only one in the room that\'s shining.',
-        'Ava DuVernay',
-    ],
-    '0474e843-38da-5a89-934c-44f9e549cdd0' => [
-        'Don\'t talk about what you have done or what you are going to do.',
-        'Thomas Jefferson',
-    ],
-    '97a4a61a-9869-505c-8d6c-079d53b5c640' => [
-        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
-        'Andy Warhol',
-    ],
-    'f9f22947-10a9-5866-a818-f3f4f278608d' => [
-        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
-        'Jim Bunning',
-    ],
-    '46768a59-c4e8-54cc-955e-02080678de15' => [
-        'Life can only be understood backwards; but it must be lived forwards.',
-        'William Hazlitt',
+    'd0f58b20-e0d5-5a42-97b6-9e9c00e15afc' => [
+        'Some people hate lime-green; red has all this emotional baggage. Blue seems to be overall one of the more positive colors, and a little more serious than yellow.',
+        'David Carson',
     ],
 ];

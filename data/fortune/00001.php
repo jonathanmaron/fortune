@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '1538edac-05e9-53f1-a14a-40b4025d229e' => [
-        'The secret to happiness is freedom. And the secret to freedom is courage.',
-        'Thucydides',
+    'a3980b80-2ed7-5f05-bb9c-7b8a7ab467c9' => [
+        'We have been educated into believing someone else\'s concept of the deity, and someone else\'s standard of beauty. You have the right to practice any religion and politics in a way that best suits your freedom, your dignity, and your understanding. And once you do that, you don\'t apologize.',
+        'John Henrik Clarke',
     ],
-    '2afb6791-b588-52b5-a76c-02182363c65f' => [
-        'That should be the measure of success for everyone. It\'s not money, it\'s not fame, it\'s not celebrity; my index of success is happiness.',
-        'Lupe Fiasco',
+    '10e1d1dc-90c3-54a8-8013-0b46ae7de064' => [
+        'Success is not the key to happiness. Happiness is the key to success. If you love what you do, you\'ll be successful.',
+        'Tyga',
     ],
-    'ed53d4c0-e1a8-5d8a-b636-f13431443270' => [
-        'What you do not want done to yourself, do not do to others.',
-        'Confucius',
+    '99bb6e50-3672-5c4d-87ce-df9933876219' => [
+        'When the history books are written in a thousand years, when space travel would have become routine, the moment that humans first left Earth will be of huge importance. Star City is a central part of this story and it deserves more recognition.',
+        'Helen Sharman',
     ],
-    '902979ed-1d8b-5877-8686-707410c80e6e' => [
-        'Of life\'s two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer\'s hand.',
-        'Khalil Gibran',
+    '1844f224-a9f0-5aca-a19a-609be7b9ecdf' => [
+        'I have a tendency to sabotage relationships; I have a tendency to sabotage everything. Fear of success, fear of failure, fear of being afraid. Useless, good-for-nothing thoughts.',
+        'Michael Buble',
     ],
-    'db15e3cc-2e40-5aa9-bf73-f18124b55d32' => [
-        'I believe Watergate shows that the system did work. Particularly the Judiciary and the Congress, and ultimately an independent prosecutor working in the Executive Branch.',
-        'Bob Woodward',
+    '1734a108-8893-56db-8c91-97246e03e569' => [
+        'The first condition of understanding a foreign country is to smell it.',
+        'Rudyard Kipling',
     ],
-    '0999597f-041b-559d-9b6d-20cfc0f677db' => [
-        'We all live with the objective of being happy; our lives are all different and yet the same.',
-        'Anne Frank',
+    'fad5e354-9d66-5bd2-9b8c-ce53f45201c6' => [
+        'Halloween isn\'t the only time for ghosts and ghost stories. In Victorian Britain, spooky winter\'s tales were part of the Christmas season, often told after dinner, over port or coffee.',
+        'Michael Dirda',
     ],
-    '8a7f1bb5-2221-59ee-9d75-8236ea1729ce' => [
-        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
-        'Sara Blakely',
+    'cef61bf2-e84d-552b-a0af-fb6030655c7b' => [
+        'For many years, it seemed as if nothing changed in Norway. You could leave the country for three months, travel the world, through coups d\'etat, assassinations, famines, massacres and tsunamis, and come home to find that the only new thing in the newspapers was the crossword puzzle.',
+        'Jo Nesbo',
     ],
-    'faa63006-2aef-5b38-b06f-1bac5363e65b' => [
-        'Usually, the stuff that\'s your best idea or work is going to be attacked the most.',
-        'Francis Ford Coppola',
+    '0aa6a128-f406-52f1-a26f-ae59cdd62f79' => [
+        'If you\'re going to kill someone there isn\'t much reason to get all worked up about it and angry - you just pull the trigger. Angry discussions beforehand are a waste of time. We need to smile at Novell while we pull the trigger.',
+        'Jim Allchin',
     ],
-    '86694b7a-47aa-5fc6-894e-9a362348ae14' => [
-        'Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.',
-        'Helen Keller',
+    '8d3a1105-a30d-58ea-b188-352af0714410' => [
+        'I love pizza. I want to marry it, but it would just be to eat her family at the wedding.',
+        'Mike Birbiglia',
     ],
-    '215f22de-fe2c-50b9-91ab-cc0b5297246d' => [
-        'I had a stick of CareFree gum, but it didn\'t work. I felt pretty good while I was blowing that bubble, but as soon as the gum lost its flavor, I was back to pondering my mortality.',
-        'Mitch Hedberg',
+    '203febbc-6d53-552e-b520-a6f95f5c90f3' => [
+        'Success is not two cars or a swimming pool. It\'s the approval of your peers.',
+        'Peter Finch',
     ],
-    '915f4c3e-a99f-5e9c-9970-efced8c3741c' => [
-        'The art of living is more like wrestling than dancing.',
-        'Neil deGrasse Tyson',
+    'b888112c-8d3a-5f50-a775-f5added47358' => [
+        'The consumer is deciding what they want to see and when and how, and filmmakers are more aware and accepting of the fact that success is not predicated on your movie showing in a traditional theater for a certain amount of time.',
+        'Ava DuVernay',
     ],
-    '55e13591-c61d-5bbb-8075-c03127275e34' => [
-        'I think Clinton, after getting into office and into Washington, was shocked at being bludgeoned. So he spent time trying to be all things to all people - one way guaranteed not to be successful or respected in a lion\'s den. You can\'t just play around with all those big cats - you\'ve got to take somebody on.',
-        'Maya Angelou',
+    '12751b29-6690-5c9a-9170-53d0df81fb44' => [
+        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
+        'Henri Frederic Amiel',
     ],
-    'ede37d81-9f3b-5305-be11-5b2e4ff6198c' => [
-        'Success in any endeavor depends on the degree to which it is an expression of your true self.',
-        'Ralph Marston',
+    'aa78a105-68ee-5a48-84c1-5012fbb3fb4f' => [
+        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
+        'John Muir',
     ],
-    '26f7f41e-8bca-5a85-b430-d57060a7cd17' => [
-        'Yeah we all shine on, like the moon, and the stars, and the sun.',
-        'John Lennon',
+    '375ec52e-f27b-59b7-822c-174b574a7ca0' => [
+        'Electrical science has disclosed to us the more intimate relation existing between widely different forces and phenomena and has thus led us to a more complete comprehension of Nature and its many manifestations to our senses.',
+        'Nikola Tesla',
     ],
-    'fad4bdfe-286f-5005-956f-0385e223ab32' => [
-        'Strong women, when respected, make the whole society stronger. One must be careful with such rapid changes, though, and make an effort to preserve, at the same time, the positive traditions of Indian culture.',
-        'Chitra Banerjee Divakaruni',
+    'f79a59f4-c396-5e70-8d58-280234516bff' => [
+        'Being alone on the moors is scary; as the rain clouds settle in, it makes you realise your place in nature.',
+        'Dave Davies',
     ],
-    '54137e7c-23e1-5f82-bac2-65f5b36609e7' => [
-        'I\'m very close with my family, so my mom is part of my entourage.',
-        'Kid Cudi',
+    'cca123ef-0223-5aac-b432-f8001fc73bf3' => [
+        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
+        'Barbara Ehrenreich',
     ],
-    'eff9eaca-4c34-5ed3-aa25-27f6b4053072' => [
-        'You know you\'re a hopeless record nerd when your time travel fantasies always come around to how cool it would be to go back to 1973 and buy all the great funk and jazz and salsa records that came out that year on tiny obscure labels and are now really rare and expensive.',
-        'Adam Mansbach',
+    '31432cb6-0769-5680-adab-c080f6e21ab7' => [
+        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection, love is born.',
+        'Thich Nhat Hanh',
     ],
-    'af0dcbda-4c42-5216-b1dd-7b6802540988' => [
-        'The true way to be humble is not to stoop until you are smaller than yourself, but to stand at your real height against some higher nature that will show you what the real smallness of your greatness is.',
-        'Phillips Brooks',
+    '45930a52-1cb0-513e-9a9b-2ff9da3957a9' => [
+        'Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement.',
+        'Claude M. Bristol',
     ],
-    '56953738-5db5-5766-8c83-aaa0b1ba7a7e' => [
-        'A President cannot always be popular.',
-        'Harry S Truman',
+    'ad159c9d-b654-597b-908f-6f636ddc5dff' => [
+        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to accept yourself.',
+        'Thich Nhat Hanh',
     ],
-    '64776cd0-0893-5638-b5b7-4e10c0058415' => [
-        'Knowing is not enough; we must apply!',
-        'Johann Wolfgang von Goethe',
+    '1e22163f-36bd-532e-976e-cf9bfe384f57' => [
+        'Bambi can\'t act. Bambi had major attitude.',
+        'Treat Williams',
     ],
-    'f22e17f7-abbe-58fd-9c1a-f94dd7d618f2' => [
-        '\'Try Again\' - every time I hear that song, it just brings a smile to your face. When you\'re feeling like crap, and you hear, \'Dust yourself off and try again,\' it kind of just puts you in a different mindset, 100 percent.',
-        'Alexandra Shipp',
+    'ebb117f1-d9ce-5ab2-a5a1-6863d070089b' => [
+        'The thing that surprised me the most is just how much money women that weren\'t rich were paying for their hair. When you\'re in a beauty parlor in Harlem next to abandoned buildings and somebody\'s paying five grand for a weave, that\'s a bit much.',
+        'Chris Rock',
     ],
-    'e51bff23-e83a-5ee9-955d-ba67f31d6545' => [
-        'Important principles may, and must, be inflexible.',
-        'Abraham Lincoln',
+    '9c7fe90c-3c04-525f-8cc1-1bb2e18ec65a' => [
+        'Helping people boost themselves out of poverty is the best way to make a lasting positive difference in a person\'s life.',
+        'Naveen Jain',
     ],
-    '22b895a5-bfd5-5cfb-8170-940223f540d9' => [
-        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
-        'James Lane Allen',
+    '319a9178-17b7-5f23-b350-8263a403142b' => [
+        'I believe in the value of life. I believe we must prepare our children for tomorrow with the family values of my grandparents.',
+        'Ryan Zinke',
     ],
-    'c54fc7da-edee-54b1-a132-83123850a2e4' => [
-        'Every video I\'ve made has an inspirational message behind it. Since day one, I thought, \'Okay, I want my audience to be, like, Disney members.\' So if that\'s the case, I have to keep everything rated G.',
-        'Michelle Phan',
+    '52cf92d6-fd05-56e8-913c-23d5b447aacb' => [
+        'Art is always and everywhere the secret confession, and at the same time the immortal movement of its time.',
+        'Karl Marx',
     ],
-    '9ee46908-69c4-50ff-8724-b6ecb6e5abfb' => [
-        'But the only comparison that I want to Lenny Bruce is that I\'m funny. I\'m Freddie Prinze, Puerto Rican all the way.',
-        'Freddie Prinze',
+    '018663c0-1a25-54e6-b25a-cb21b38baeef' => [
+        'My grandmother, she\'s been the positive portion of my life the entire time.',
+        'Curtis Jackson',
     ],
-    '43f47c3e-6b42-507b-8220-95a1e03120e7' => [
-        'Community service has taught me all kinds of skills and increased my confidence. You go out there and think on your feet, work with others and create something from nothing. That\'s what life\'s all about.',
-        'Andrew Shue',
+    '17f82299-1724-5649-b9b1-0e1f9dedfbee' => [
+        'Every man has his follies - and often they are the most interesting thing he has got.',
+        'Josh Billings',
     ],
-    'de157738-2f2a-55e6-9f20-162e1c6334cf' => [
-        'To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.',
-        'John Dewey',
+    '1320a593-a36b-5b89-b742-8674a3d8c92d' => [
+        'The gross heathenism of civilization has generally destroyed nature, and poetry, and all that is spiritual.',
+        'John Muir',
     ],
-    '24107c95-9535-5389-9385-cf42af08ec6a' => [
-        'The best thing is to look natural, but it takes makeup to look natural.',
-        'Calvin Klein',
+    'e5cbc001-c174-5aee-806c-f61c6dccab5d' => [
+        'It\'s a good thing that beauty is only skin deep, or I\'d be rotten to the core.',
+        'Phyllis Diller',
     ],
-    'e09d7c86-7196-5131-918a-194e85913a47' => [
-        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-        'A.P.J. Abdul Kalam',
+    'a87eaa2b-2ec3-59fc-917a-6d022521383f' => [
+        'To transcend limitations and form positive new patterns of life based on who you know you can be rather than who you were yesterday, you must give up the modes of thinking, feeling and behaving that only keep you chained to your past.',
+        'Debbie Ford',
     ],
-    '189204c5-ecb5-5ddb-8025-2cf443490557' => [
-        'I hope there have been times when I made you all proud, or made you all smile or at least piqued your interest in this wonderful institution we call government.',
-        'John Rowland',
+    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
+        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
+        'Joan Jett',
     ],
-    '1dcfb90a-220a-5311-ab44-6f78e3bf0043' => [
-        'How do you nurture a positive attitude when all the statistics say you\'re a dead man? You go to work.',
-        'Patrick Swayze',
+    '17bdd239-dcc9-58df-9342-feb6e9abced1' => [
+        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
+        'Sherry Turkle',
     ],
-    'd471fe9a-2bb6-51ad-9816-91298c1f6402' => [
-        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
-        'Nick Lowe',
+    '7107c0aa-0799-5850-9920-66e6c070c13f' => [
+        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
+        'Jane Goodall',
     ],
-    '0ddac7ae-f91b-5df2-a8fe-6ee407d3076d' => [
-        'My mother was against me being an actress - until I introduced her to Frank Sinatra.',
-        'Angie Dickinson',
+    'adc8bdc1-5ad1-53f9-b531-d388e4bbb335' => [
+        'If you have a friend or a family member who\'s bipolar, or has panic attack disorder, or is depressed, read up on it a little bit so you can get to know where they\'re coming from.',
+        'Eric Millegan',
     ],
-    '1cdfb853-66e1-5a7b-bf1d-ebc7f9375b0d' => [
-        'I was lucky that I had friends who have maintained a very regular attitude with me and haven\'t changed how they interact with me.',
-        'Will Poulter',
+    'e7186b16-8f87-516b-87e3-41d3f2458975' => [
+        'Where educators are raising and combining their voices, the seeds of positive change have emerged. Collective voice, exercised through the union, is power - the power to drive real change for our kids, families and communities.',
+        'Randi Weingarten',
     ],
-    '792ce6e7-4a21-51fd-8478-4a09d56f00e7' => [
-        'Beauty is the oracle that speaks to us all.',
-        'Luis Barragan',
+    '2c3ace75-0093-5a22-895f-37b305192d5c' => [
+        'When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.',
+        'Charles R. Swindoll',
     ],
-    '4eef8b98-9303-5a34-82ed-4ac680a28f8f' => [
-        'Nations, like individuals in a state of nature, are equal and independent, possessing certain rights and owing certain duties to each other.',
-        'Millard Fillmore',
+    'b2b826b3-3554-51c9-8eaa-e9d386e74798' => [
+        'Barack Obama\'s inspirational whoosh to the presidency in 2008 was unusual. Most campaigns are less exhilarating; indeed, they are downright disappointing - until someone wins.',
+        'Joe Klein',
     ],
-    '132196ea-91eb-5c37-b975-c6cba46ce2d3' => [
-        'It is during our darkest moments that we must focus to see the light.',
-        'Aristotle',
+    'ded7e064-8b05-507f-8dfd-e5aa393aaab8' => [
+        'I seriously feel like the best days are ahead, and I like the idea of getting to do everything I did before but with more knowledge, experience, and street smarts. There\'s a certain love, appreciation, and gratitude that you have at 40 that you don\'t have when you\'re younger, and it makes every accomplishment feel so much better.',
+        'Jennifer Lopez',
     ],
-    'f2651350-8da1-5d87-8ba6-2dde843d337d' => [
-        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
-        'Zlatan Ibrahimovic',
+    '3fe8362b-9091-535e-abe2-97dcb05b455c' => [
+        'No one can possibly know what is about to happen: it is happening, each time, for the first time, for the only time.',
+        'James A. Baldwin',
     ],
-    'a0aee6f8-6f56-5ec9-a786-33660bdf1db5' => [
-        'Food culture is like listening to the Beatles - it\'s international, it\'s very positive, it\'s inventive and creative.',
-        'Alice Waters',
+    '58e94185-9416-5906-8cba-795321ad00d6' => [
+        'My parents have a strong work ethic, but their attitude to life, their philosophy, is: \'whatever makes you happy.\'',
+        'Sally Hawkins',
     ],
-    '3ef8ed33-f0a8-5ed1-b899-acca19add20e' => [
-        'Never once does \'Snow White\' herself look in the mirror so she isn\'t aware of her beauty or what apparently that does to people. It\'s really just the queen and the prince that talk about it.',
-        'Lily Collins',
+    'ef390276-1c33-55b4-b4f1-d93500c61ef8' => [
+        'Life is full of happiness and tears; be strong and have faith.',
+        'Arthur Ashe',
     ],
-    'cb6ae3a7-1473-5ca6-a699-282dcfa26a09' => [
-        'Thinking about your training should put a smile on your face. As cliche as it sounds, you are worth all the time and energy you\'ve put in. Unleash your emotions with a cheer, or even a signature roar, after a tough workout.',
-        'Summer Sanders',
+    'a97601ce-0edf-50f9-9f26-6c8429ff5a0c' => [
+        'I have the same attitude with work - I like to go to work, I like to work really hard I, like to give everything my all, I like to try things that are new, you know.',
+        'Rosie Huntington-Whiteley',
     ],
-    '308a9984-b446-5cae-bcb0-60bf14ab8714' => [
-        'The greatest discovery of my generation is that man can alter his life simply by altering his attitude of mind.',
-        'James Truslow Adams',
+    'f4efb5a5-d184-5ce9-b47b-6033dea824bc' => [
+        'The best part of beauty is that which no picture can express.',
+        'Francis Bacon',
     ],
-    '46647315-741b-5b5c-83a8-e756dfbe93d4' => [
-        'I am a marvelous housekeeper. Every time I leave a man I keep his house.',
-        'Zsa Zsa Gabor',
+    '755ef5a5-9610-5d85-8ae9-136783f32152' => [
+        'You see some of these actors, they have a permanent smile on their face. How can they do that? It really fascinates me.',
+        'Agnes Bruckner',
     ],
-    '99eac3b1-8e7a-5da6-a971-69e59743cb68' => [
-        'I perfectly understood President Obama\'s attitude throughout the French presidential campaign. He had no reason to distance himself from Nicolas Sarkozy. It\'s the basic solidarity that leaders who worked together owe to each other.',
-        'Francois Hollande',
+    '09d49b31-b807-5080-bb9f-be484ed1da1c' => [
+        'One of the few luxuries left is travel. And the aspect of travel that is luxurious is not the movement, but the being there.',
+        'Andre Balazs',
     ],
-    'f67f324d-80e6-5269-97eb-0edf96c23c27' => [
-        'Your own resolution to succeed is more important than any other.',
-        'Abraham Lincoln',
+    'f9741363-8a29-515a-a831-e2fb0aa0a330' => [
+        'My purpose: to lift your spirit and to motivate you.',
+        'Mavis Staples',
     ],
-    '1d1cabba-54c9-5d3e-94ea-a86f750be721' => [
-        'My powers are ordinary. Only my application brings me success.',
-        'Isaac Newton',
+    'fca63353-750f-5b90-8bfa-8a4f05204f59' => [
+        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
+        'Michael N. Castle',
     ],
-    'bdf1efce-1f07-5a07-b92e-e18c05be1cb5' => [
-        'Growing up in a group home, and with an undiagnosed learning disability to boot, the odds of success were not on my side. But when I joined the high school football team, I learned the value of discipline, focus, persistence, and teamwork - all skills that have proven vital to my career as a C.E.O. and social entrepreneur.',
-        'Darell Hammond',
+    '8b2f39a3-b11c-5751-a92b-b7ef5c4b3e4e' => [
+        'When you grow up by the sea, you spend a good deal of time looking at the horizon. You wonder what on Earth the waves might bring - and where the sea might deposit you - until one day you know you have lived between two places, the scene of arrival and the point of departure.',
+        'Andrew O\'Hagan',
     ],
-    '4fff4bfb-09cc-507c-8187-d194abb20bfa' => [
-        'I like to think my dad was easygoing and kind, and I think some of those things have been passed down. I am like him in a sense of being positive and hopeful. He was compassionate, and I\'ve got a lot of that in me as well.',
-        'Joel Osteen',
+    '4a0040bf-2b26-51e6-9775-229a182e9846' => [
+        'The thermometer of success is merely the jealousy of the malcontents.',
+        'Salvador Dali',
     ],
-    '2964cea5-17ea-592c-a7dd-7d6219aabc81' => [
-        'When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.',
-        'Confucius',
+    '6340c446-e3f9-5c1d-b1ed-acb9efe98a32' => [
+        'You can do what\'s reasonable or you can decide what\'s possible.',
+        'Unknown',
     ],
-    'ace3e6e9-6ccf-55b9-9252-2cf84eaa03f0' => [
-        'Formula for success: under promise and over deliver.',
-        'Tom Peters',
+    '577db9f5-ef41-58fa-a517-472f1cf2e44d' => [
+        'I think they need to get a more reliable way of watching television on the laptop. Because I travel so much, if I want to watch my favorite sports team it might not be showing in that place, so I want a reliable way to watch whatever I want to watch on my laptop.',
+        'John Legend',
     ],
 ];

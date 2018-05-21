@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '68074b62-196f-5b88-8301-f7ebb6efb237' => [
-        'Obstacles are those frightful things you see when you take your eyes off your goal.',
-        'Henry Ford',
+    '76bdaf79-9d41-5b2b-98bc-78937edc0ce1' => [
+        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
+        'Marsha Thomason',
     ],
-    'cd6befcc-4932-51b2-83f2-0a8021a5165a' => [
-        'You got to be careful if you don\'t know where you\'re going, because you might not get there.',
-        'Yogi Berra',
+    'cd44a485-35ef-5687-b3ef-133dbdf2d276' => [
+        'The bird of paradise alights only upon the hand that does not grasp.',
+        'John Berry',
     ],
-    '655df5b9-5326-563a-a612-ab92dc213307' => [
-        'If you have no critics you\'ll likely have no success.',
-        'Malcolm X',
+    '9c8bd5be-a0f7-555b-99f6-1c123fecab9c' => [
+        'I\'m not funny in person. I mean I\'m really not. I\'m one of those people who always screw up anecdotes.',
+        'Bill Bryson',
     ],
-    'd5d6de0a-4ee6-55f6-b728-c4ba1d2ee7d2' => [
-        'Kind words can be short and easy to speak but their echoes are truly endless.',
-        'Mother Teresa',
+    'b8a7218e-dcb2-5bc2-a644-540b9c80959b' => [
+        'Success and failure are both part of life. Both are not permanent.',
+        'Shah Rukh Khan',
     ],
-    '2d61d0e6-3610-5d40-b8ed-47f2581d0974' => [
-        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
-        'Eli Whitney',
+    '438ef6c1-0c4e-57ec-8dff-0295c52280d4' => [
+        'I heard the old, old, men say \'all that\'s beautiful drifts away, like the waters.\'',
+        'William Butler Yeats',
     ],
-    'a8522e0e-9cf4-5ea4-a831-b8fed2653abc' => [
-        'Everything you can imagine is real.',
-        'Pablo Picasso',
+    '20250bcd-e14c-50db-b9fd-770add1704c4' => [
+        'The way to get started is to quit talking and begin doing.',
+        'Walt Disney',
     ],
-    '0a88ff4b-6726-5249-9682-4048dd3831b0' => [
-        'The truth is, I never travel without cash. I always take a few tens with me in case of an emergency. There\'s never been an emergency, and in time, I realized that Americans don\'t want to touch customers\' dirty bills. They also don\'t want to touch your credit card: you have to put it through the machine yourself, with your own fingers.',
-        'Sayed Kashua',
+    'e89c4c2b-f9c5-5bf1-bb5e-f47fc0b33e4d' => [
+        'As we think of power in the 21st century, we want to get away from the idea that power\'s always zero sum - my gain is your loss and vice versa. Power can also be positive sum, where your gain can be my gain.',
+        'Joseph Nye',
     ],
-    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
-        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
-        'Betsy Byars',
+    '68a47e8e-4048-53d2-907e-abf603b30f83' => [
+        'In the past 40 years, the United States lost more than a million farmers and ranchers. Many of our farmers are aging. Today, only nine percent of family farm income comes from farming, and more and more of our farmers are looking elsewhere for their primary source of income.',
+        'Tom Vilsack',
     ],
-    '37818799-5c08-5fae-895f-5e7c06cefef0' => [
-        'A lot of people say, \'What set the Attitude Era up?\' or, \'What started the Attitude Era?\' To me - and I was allegedly the leader of it - sports entertainment, pro wrestling, whatever you want to call it has always had an attitude. So, why that particular generation got labeled, I don\'t know.',
-        'Stone Cold Steve Austin',
+    'acc0b8a6-04f0-53e4-a93a-9906f1e126ef' => [
+        'Success doesn\'t mean that you are healthy, success doesn\'t mean that you\'re happy, success doesn\'t mean that you\'re rested. Success really doesn\'t mean that you look good, or feel good, or are good.',
+        'Victoria Principal',
     ],
-    'fcfc9a54-9fb0-5e64-b632-e4288aaa1843' => [
-        'It\'s about enjoying your life. If you have no family, no friends to enjoy it with, it don\'t matter how much you have, how much success you have, how much fame you have, how much money you have, it doesn\'t matter.',
-        'Vanilla Ice',
+    '5ee697d5-8869-575e-8b9f-fc2caca0f3c1' => [
+        'I film quite a bit of footage, then edit. Changes before your eyes, things you can do and things you can\'t. My attitude is always \'let it keep rolling.\'',
+        'Terrence Malick',
     ],
-    '7c2164fb-676b-54cb-b06f-410c6257528e' => [
-        'There is no forgiveness in nature.',
-        'Ugo Betti',
+    '6fb6a50d-06ed-5cba-9271-fb147134ab1d' => [
+        'Forty for you, sixty for me. And equal partners we will be.',
+        'Joan Rivers',
     ],
-    'e582a215-240c-5454-b07f-ac68b2e1ca15' => [
-        'As I was growing up, I did a lot of talent shows. I won fifteen Sunday nights straight in a series of talent shows in Macon. I showed up the sixteenth night, and they wouldn\'t let me go on any more. Whatever success I had was through the help of the good Lord.',
-        'Otis Redding',
+    '63f9077e-b50c-5008-a4ec-1054e6792f63' => [
+        'All of the narration in \'Smile\' is first-person. Most of the books that I grew up reading had first-person narrators for some reason. My diaries were written in this voice, and since this story is autobiographical, it just felt like a natural extension.',
+        'Raina Telgemeier',
     ],
-    'c958a208-7fca-5a55-94df-36c00dd063fe' => [
-        'The best time to plant a tree was 20 years ago. The second best time is now.',
-        'Chinese Proverb',
+    '9164648a-4c43-5dbb-9499-8d451cd72ec8' => [
+        'I\'m extremely ambitious. I don\'t know why people are afraid to say that. I won\'t sell my soul to the devil, but I do want success and I don\'t think that\'s bad.',
+        'Jada Pinkett Smith',
     ],
-    'ab2ae6c0-2284-5b1b-928a-956555b85fd7' => [
-        'People who succeed have momentum. The more they succeed, the more they want to succeed, and the more they find a way to succeed. Similarly, when someone is failing, the tendency is to get on a downward spiral that can even become a self-fulfilling prophecy.',
-        'Tony Robbins',
+    'a08b9e20-c88a-5e5e-aa14-54334f90f60f' => [
+        'I am a huge believer in giving back and helping out in the community and the world. Think globally, act locally I suppose. I believe that the measure of a person\'s life is the affect they have on others.',
+        'Laura Ingalls Wilder',
     ],
-    'aa85f577-7e65-54ec-87fc-a16935e6a971' => [
-        'There is nothing happens to any person but what was in his power to go through with.',
-        'Marcus Aurelius',
+    'bfe1d6d2-3aca-5439-816e-b7724ff6a33e' => [
+        'All summer, I read fiction because you must read for the pleasure and beauty of it, and not only for research. I don\'t read thrillers, romance or mystery, and I don\'t read self-help books because I don\'t believe in shortcuts and loopholes.',
+        'Isabel Allende',
     ],
-    '7e69505a-4b41-5d0e-a194-687698e64fa0' => [
-        'The greatest teacher I know is the job itself.',
-        'James Cash Penney',
+    '825590fb-003a-5640-8de5-ff648b940ec3' => [
+        'Athletic competition clearly defines the unique power of our attitude.',
+        'Bart Starr',
     ],
-    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
-        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
-        'John P. Kotter',
+    '4a51b69a-f2d6-572e-a404-156f68552b90' => [
+        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
+        'Cameron Diaz',
     ],
-    '0b030965-bc0a-5178-b069-218f994d3e28' => [
-        'Learn to listen. Opportunity could be knocking at your door very softly.',
-        'Frank Tyger',
+    'c90579fb-53f6-5271-8798-e1f77dbfb516' => [
+        'You have to fight to reach your dream. You have to sacrifice and work hard for it.',
+        'Lionel Messi',
     ],
-    'f86f0a16-3d1c-593a-8e42-790d188499e9' => [
-        'Perfection is impossible; just strive to do your best.',
-        'Angela Watson',
+    '319c7b68-1c61-5218-9b60-e60a1894a674' => [
+        'Riding my motorcycle around L.A. is like my own video game. But unlike many folks at the wheel, I am occupied with getting where I\'m going and keeping myself safe. Most people are applying makeup, texting, and checking out the beauty in the next car.',
+        'Hugh Laurie',
     ],
-    '87a02640-a13b-5786-a7dd-84444a395648' => [
-        'Since she got a cause and stopped being funny. I think she\'s real funny, but lately it\'s all been hearts and flowers and tears and saving teenagers and creating a role model. And that ain\'t funny. No giggles there.',
-        'Andy Richter',
+    '2c0af1f1-892d-57a9-9afc-fe6fccb790bc' => [
+        'People are patronizing the theatres with renewed enthusiasm - there is an entire picnic-like attitude when families go out to see movies, which is a very good sign. They want to see larger-than-life characters on the big screen and not just watch movies on television or on DVDs.',
+        'Salman Khan',
     ],
-    'f35e49e2-22f4-55d2-b0c5-668176b4fa71' => [
-        'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
-        'Mireille Guiliano',
+    'dd5c8295-5bab-5552-9b90-61d538bb564e' => [
+        'A horse is a thing of beauty... none will tire of looking at him as long as he displays himself in his splendor.',
+        'Xenophon',
     ],
-    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
-        'Only the educated are free.',
-        'Epictetus',
+    'b73cd10f-821e-5f01-9453-cf7b5544eebc' => [
+        'I come from a poor family.',
+        'Manny Pacquiao',
     ],
-    '7c105637-1f89-5a3b-a71b-0483ac0c7656' => [
-        'Part of the whole L.A. mentality that nothing really matters unless it\'s a success... is such a shallow and dangerous attitude to have.',
-        'Patricia Richardson',
+    'cd6cd204-0fd8-559a-90ef-0f20a9a8775a' => [
+        'Life goes by really fast, and it seems that there are times when you\'re burying a lot of friends and family. And then there are times that feel really precious and everybody is doing okay. This is one of those times.',
+        'Amy Grant',
     ],
-    'e3296a54-dab9-5b3c-a826-f6331e360ffc' => [
-        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
-        'Benjamin Percy',
+    'fde2df15-987b-5134-9875-1307495509a3' => [
+        'The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces - in nature, in society, in man himself.',
+        'Leon Trotsky',
     ],
-    'db4adeff-781f-52df-b257-1735035a1ea5' => [
-        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
-        'Robert Downey, Jr.',
+    '9fec8d90-6007-53ae-b99a-13234ecce2dd' => [
+        'To give and then not feel that one has given is the very best of all ways of giving.',
+        'Max Beerbohm',
     ],
-    '7ef83f09-d7a7-5e6e-b789-6f2f91e3459b' => [
-        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
-        'Bryan Adams',
+    '93d7488b-7255-510d-9eda-c7887f807485' => [
+        'In order to succeed, your desire for success should be greater than your fear of failure.',
+        'Bill Cosby',
     ],
-    'c825a705-70ac-5ebd-87a1-da960c853b6e' => [
-        'Nature is our chapel.',
-        'Bjork',
+    '095ed3de-2210-58ed-8567-052795f8af87' => [
+        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
+        'Lord Byron',
     ],
-    '4e611834-41ef-5da0-9714-7c78c2b5b5d0' => [
-        'Decision is a risk rooted in the courage of being free.',
-        'Paul Tillich',
+    '76678a27-9836-53b7-9320-19d35ad96ace' => [
+        'I enjoy punk, the attitude as well as the music, but I don\'t feel like I have to be a carbon copy of it and invite all this controversy just to be punk rock.',
+        'Hayley Williams',
     ],
-    'ca64d867-e259-5462-8190-cefd2a159e5e' => [
-        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
-        'Aldo Leopold',
+    '7f85810c-bdfb-50b5-a741-692e60e8805e' => [
+        'Guilt can prevent us from setting the boundaries that would be in our best interests, and in other people\'s best interests.',
+        'Melody Beattie',
     ],
-    'eb7d85d8-4f0b-5353-bd2b-47d01dc193a9' => [
-        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
-        'Wale',
+    '5859b85c-d51f-526a-aa1b-485de1a8836a' => [
+        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
+        'Saint Augustine',
     ],
-    '0da9059c-3952-5069-98b2-ed559b29531c' => [
-        'It\'s hard enough to work and raise a family when your kids are all healthy and relatively normal, but when you add on some kind of disability or disease, it can just be such a burden.',
-        'Patricia Heaton',
+    '4f7c2f67-8182-5348-8f2b-9e05b6db96e6' => [
+        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
+        'Peter Diamandis',
     ],
-    '5781306c-e7c6-520d-87ac-fc98a05a370f' => [
-        'I often read nonfiction with a pencil in hand. I love the feel, the smell, the design, the weight of a book, but I also enjoy the convenience of my Kindle - for travel and for procuring a book in seconds.',
-        'Drew Gilpin Faust',
+    'd3f545da-c706-55fb-a593-671ba9a333ac' => [
+        'You stand with the least likely to succeed until success is succeeded by something more valuable: kinship. You stand with the belligerent, the surly and the badly behaved until bad behavior is recognized for the language it is: the vocabulary of the deeply wounded and of those whose burdens are more than they can bear.',
+        'Greg Boyle',
     ],
-    'cafc05d4-7f60-570d-a879-0628906986f3' => [
-        'To follow, without halt, one aim: that\'s the secret of success.',
-        'Anna Pavlova',
+    '6b8373f4-9685-571d-ba9b-c51d7bd30134' => [
+        'Care and diligence bring luck.',
+        'Proverb',
     ],
-    'f2a45ce0-9c24-5121-8a48-d95624425c1f' => [
-        'Nobody controls me. I travel with my husband when I can, when I know that I can go, and I know that my son is okay alone for a few days with the help.',
-        'Melania Trump',
+    'a934787c-51e8-5b77-8cdd-f0d9109b564a' => [
+        'To photograph truthfully and effectively is to see beneath the surfaces and record the qualities of nature and humanity which live or are latent in all things.',
+        'Ansel Adams',
     ],
-    'c8ec7121-101d-5be6-8b28-579bc25ce955' => [
-        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
-        "\u{d3}scar Arias",
+    '9389b798-97bf-5e84-b614-b2051e5e47f8' => [
+        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
+        'Carol Burnett',
     ],
-    'b6fab0c6-ab01-5729-adc0-6a286555eba3' => [
-        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
-        'William Channing',
+    '05d8476b-080b-5edd-80fc-256dc1b90a97' => [
+        'We need an attitude of defiance, not an attitude of cowardice. Out in the street, that\'s how we are winning against the TransCanada Pipeline. This is how we have delayed the Trans-Pacific Partnership and forced it into an election season, gotten everybody to stand against it. Democracy is not about surrender.',
+        'Jill Stein',
     ],
-    '379816d7-f01d-556c-aafe-14acc15ee60d' => [
-        'Turn your face toward the sun and the shadows will fall behind you.',
-        'Maori Proverb',
+    'f2045318-7f04-52fe-9ced-4ee5a9d33fd0' => [
+        'I do not think that obsession is funny or that not being able to stop one\'s intensity is funny.',
+        'Jim Dine',
     ],
-    '8bfbcf8d-b09e-5014-8886-f41c81275796' => [
-        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
-        'Jimmy Reid',
+    '7fddad7e-ec31-5a4e-b0a5-53dd21855e2f' => [
+        'If there is no struggle, there is no progress.',
+        'Frederick Douglass',
     ],
-    '83610349-5794-57fd-824d-74c93b93f528' => [
-        'One way to keep momentum going is to have constantly greater goals.',
-        'Michael Korda',
+    '60f32d6a-9d57-5e8d-8fb4-ed35c0ce9e46' => [
+        'Travelling expands the mind rarely.',
+        'Hans Christian Andersen',
     ],
-    '4a5f322e-11a3-514f-b776-395bf3ab5373' => [
-        'Looking beautiful isn\'t just about what you apply on your face. It\'s the little things you do that matter. A combination of a good diet, exercise, healthy habits, discipline, dancing etc. is what my beauty routine consists of. Also, I have no bad habits; I don\'t drink or smoke. All these contribute to me being fit and looking good.',
-        'Madhuri Dixit',
+    'c307684d-b670-57c6-b596-49bac584b955' => [
+        'Let a hundred flowers bloom, let a hundred schools of thought contend.',
+        'Mao Zedong',
     ],
-    'a4ffb902-9488-517d-a598-5621b612ec80' => [
-        'My life is every moment of my life. It is not a culmination of the past.',
-        'Isaac Asimov',
+    'ba942f1c-9744-55c8-b7ba-782a3bfda06a' => [
+        'Don\'t be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.',
+        'Richard Bach',
     ],
-    '8cd87af1-4c9d-5600-821c-5b8bf6150c1c' => [
-        'Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.',
-        'Byron Pulsifer',
+    '956666f8-25cf-539c-a83c-401c7955ffc6' => [
+        'People think they have a perfect idea of who you are from a four-second Snapchat video... and fake blogs, stories, magazine covers. In reality, that\'s not the case. Nobody knows who I am except family and my close friends.',
+        'Kylie Jenner',
     ],
-    '7eaf7b1d-3c43-533d-aa06-8f13badd5310' => [
-        'Let us permit nature to have her way. She understands her business better than we do.',
-        'Michel de Montaigne',
+    '71158c66-6810-55a4-9fb7-4c99d11f0362' => [
+        'Life is very short and what we have to do must be done in the now.',
+        'Tim O\'Brien',
     ],
-    'a6f63a0a-2a54-56a1-8fc2-4bfd1809f3bf' => [
-        'Circumstances in life often take us places that we never intended to go. We visit some places of beauty, others of pain and desolation.',
-        'Kristin Armstrong',
+    'f956c562-a428-54e0-b85f-f1b8d2f81df1' => [
+        'People commonly travel the world over to see rivers and mountains, new stars, garish birds, freak fish, grotesque breeds of human; they fall into an animal stupor that gapes at existence and they think they have seen something.',
+        'Soren Kierkegaard',
     ],
-    'afe0fbf4-8f84-5220-a73d-59321e4c0ba1' => [
-        'Life is one grand, sweet song, so start the music.',
-        'Buddha',
+    '2537be8b-50bd-527d-933c-069a876406d4' => [
+        'I\'ve etched out who I am through myriad haircut attempts, outfit attempts, beauty attempts, diet attempts. It\'s been an evolution.',
+        'Jamie Lee Curtis',
     ],
-    'e0eed196-eb9a-5bb9-8a2a-0e9a8942e50d' => [
-        'The world is like a reverse casino. In a casino, if you gamble long enough, you\'re certainly going to lose. But in the real world, where the only thing you\'re gambling is, say, your time or your embarrassment, then the more stuff you do, the more you give luck a chance to find you.',
-        'Scott Adams',
+    '35a1ad0a-f506-57e9-b46b-50d99269a32a' => [
+        'I destroy my enemies when I make them my friends.',
+        'Abraham Lincoln',
     ],
-    '928f304d-f48c-5952-9b86-1631024903ab' => [
-        'There is no way to prosperity, prosperity is the way.',
-        'Wayne Dyer',
+    '73e7ba7d-a147-5980-b825-b72873b91e2a' => [
+        'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
+        'Ben Stein',
     ],
-    'a302fbda-78b4-5ba6-a9c2-2dade757d16b' => [
-        'There is no attitude required. The hat brings the attitude. And when people try on a hat they like, it is a bit of fun. It makes them laugh. You don\'t laugh when you put on a pair of shoes, but you do with a hat.',
-        'Philip Treacy',
+    'd7767315-ef08-56c2-b982-2453eaebc8d1' => [
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
     ],
-    'd2c0261a-48cf-5aa8-87aa-244cc0f31cbc' => [
-        'About the time we can make the ends meet, somebody moves the ends.',
-        'Herbert Hoover',
+    'b3355d3a-96f9-5f4d-b6cf-09e86a427949' => [
+        'Benazir Bhutto was an inspirational leader and an inspirational woman.',
+        'Malala Yousafzai',
     ],
-    '7f2fb3ff-5c61-58a8-973b-1d6aa4a9eaf1' => [
-        'Beauty may be skin deep, but ugly goes clear to the bone.',
-        'Redd Foxx',
+    'fada3c6f-c79b-56e7-9265-added3db5ff2' => [
+        'We are all something, but none of us are everything.',
+        'Blaise Pascal',
     ],
 ];

@@ -53,6 +53,7 @@ class Fortune
     {
         $medianLength = $this->getMedianFortuneLength();
         $lengths      = $this->getAllLengths();
+
         $lengths      = array_filter($lengths, function ($length) use ($medianLength) {
             if ($medianLength < $length) {
                 return false;
@@ -61,9 +62,9 @@ class Fortune
             return true;
         });
 
-        $randLength = array_rand($lengths);
+        $randomKey = array_rand($lengths);
 
-        return $this->getRandomFortuneByLength($randLength);
+        return $this->getRandomFortuneByLength($lengths[$randomKey]);
     }
 
     public function getRandomLongFortune(): array
@@ -78,9 +79,9 @@ class Fortune
             return true;
         });
 
-        $randLength = array_rand($lengths);
+        $randomKey = array_rand($lengths);
 
-        return $this->getRandomFortuneByLength($randLength);
+        return $this->getRandomFortuneByLength($lengths[$randomKey]);
     }
 
     private function getMedianFortuneLength(): int

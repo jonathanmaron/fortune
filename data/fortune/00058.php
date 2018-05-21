@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4703a956-2352-5202-a6cb-3f9827736e75' => [
-        'Life will always be to a large extent what we ourselves make it.',
-        'Katherine Jenkins',
+    '1e5d72a4-e931-5e7f-ad3a-00250713518b' => [
+        'Family are the people that can hurt you the most.',
+        'Mahershala Ali',
     ],
-    '618c6f92-4de7-5366-a0f7-c01b730632fd' => [
-        'Travel writing is harrowing. You are in paradise, more or less, having to prove it is paradise. It is hard to have a good time trying to figure out a way to say you are having a good time, whether you are having it or not, even in paradise.',
-        'Padgett Powell',
+    'fccfa506-1463-5c4d-8f1c-440f3e8e6727' => [
+        'Indomitable perseverance in a business, properly understood, always ensures ultimate success.',
+        'Cyrus McCormick',
     ],
-    'c6cb9836-e45b-53bd-94b9-4675ab5121ad' => [
-        'This magnificent butterfly finds a little heap of dirt and sits still on it; but man will never on his heap of mud keep still.',
-        'Joseph Conrad',
+    'bfb25ec8-ad62-5b8e-bdd7-bde85b80bc76' => [
+        'Rome - the city of visible history, where the past of a whole hemisphere seems moving in funeral procession with strange ancestral images and trophies gathered from afar.',
+        'George Eliot',
     ],
-    '54db3fea-91d4-5af6-9ebf-603ea5696eaf' => [
-        'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.',
-        'Steve Jobs',
+    '011967f3-2b7c-56ce-a3d8-f0e04340f3f3' => [
+        'Mind you, physical training doesn\'t necessarily mean going to an expert for advice. One doesn\'t have to make a mountain out of a molehill. Get out in the fresh air and walk briskly - and don\'t forget to wear a smile while you\'re at it. Don\'t over-do. Take it easy at first and build on your effort day by day.',
+        'Douglas Fairbanks',
     ],
-    '62354693-6385-5e99-b52a-d67262d1150e' => [
-        'We all have to find beauty within us, as opposed to just our exterior.',
-        'Shay Mitchell',
+    'e499ea76-11f5-5ae2-bc14-5cca79689d6a' => [
+        'There are two books that I often travel with; one is \'The Theory on Moral Sentiments\' by Adam Smith. The other is \'The Meditations.\' It\'s not that I agree with either views expressed in the books, but I believe ideas and thoughts of older generations can offer food for thought for the current generation.',
+        'Wen Jiabao',
     ],
-    '49426f1a-3b9d-5633-b864-c41f8519548e' => [
-        'I realise myself that hate wastes a lot of time and energy, and I would rather re-direct any energy that I have to good and positive use.',
-        'Julian Lennon',
+    '9363eacc-f14f-5c47-8a3f-bb3431651f19' => [
+        'What other people call dark and despairing, I call funny.',
+        'David Sedaris',
     ],
-    'd3d7c332-64ac-59fa-aa73-713e23ec3952' => [
-        'Things are beautiful or ugly only in time and space. The new man\'s vision being liberated from these two factors, all is unified in one unique beauty.',
-        'Piet Mondrian',
+    'f5f96eb8-88ae-54f1-88b8-82607be8b36b' => [
+        'To delight in war is a merit in the soldier, a dangerous quality in the captain, and a positive crime in the statesman.',
+        'George Santayana',
     ],
-    'c2be1e8f-fc60-5c76-b1ee-bdb0e51cefa0' => [
-        'Maybe you just don\'t see your own beauty.',
-        'Lena Headey',
+    '0f2360c2-6158-5834-8369-ba2e592db467' => [
+        'Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we\'re thinking like amateurs. Amateurs don\'t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin\', no matter what.',
+        'Steven Pressfield',
     ],
-    'bb9d2e15-489a-564c-9d22-000a1ba3de66' => [
-        'Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.',
-        'Robert H. Schuller',
+    '7955eac5-03c1-580c-9c8f-56969b8bba91' => [
+        'It\'s like Forrest Gump said, \'Life is like a box of chocolates.\' Your career is like a box of chocolates - you never know what you\'re going to get. But everything you get is going to teach you something along the way and make you the person you are today. That\'s the exciting part - it\'s an adventure in itself.',
+        'Nick Carter',
     ],
-    '4d8b3f09-f0e9-5d94-ae90-8773f9be90f6' => [
-        'Self-confidence has always been one of my good qualities. I am always very confident. It is in my nature to be confident, to be aggressive. And it applies in my batting as well as wicketkeeping.',
-        'Mahendra Singh Dhoni',
+    '312d3195-bfed-536a-a745-eb2c12ac4734' => [
+        'If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.',
+        'Colin Powell',
     ],
-    '948f3a08-841e-5712-a782-943fb11c486d' => [
-        'Nobody ever went broke underestimating the taste of the American public.',
-        'H. L. Mencken',
+    '2af9c8e7-3258-545f-a10b-95991a8cf9eb' => [
+        'Our subliminal mental processes operate outside awareness because they arise in these portions of our mind that are inaccessible to our conscious self; their inaccessibility is due to the architecture of the brain rather than because they have been subject to Freudian motivational forces like repression.',
+        'Leonard Mlodinow',
     ],
-    'bc48b119-42e3-59ec-a50e-c4982bc263d6' => [
-        'People always accuse me of being motivational in a way, like it was a bad thing, but that\'s just how I was raised. My mom raised me in a positive environment, with lots of love in my heart, and that reflects in my music.',
-        'Lenny Kravitz',
+    'a5b5cf26-ac95-50ac-97bf-59c9d470080a' => [
+        '\'Dancing with the Stars\' is a great format for us. It\'s a format we license from the BBC, so that can\'t travel for us, but we consider it a great success. \'Desperate Housewives,\' on the other hand, a huge success for us internationally. \'Missing\' has actually sold to 80 territories before it\'s even gone on the air.',
+        'Anne Sweeney',
     ],
-    'e8d36396-a757-559b-a075-e4bf6d8335ac' => [
-        'People like to be around those who give off positive energy.',
-        'Erin Heatherton',
+    'f378047c-d723-5cc5-9630-367e62234f70' => [
+        'The clan is nothing more than a larger family, with its patriarchal chief as the natural head, and the union of several clans by intermarriage and voluntary connection constitutes the tribe.',
+        'Charles Eastman',
     ],
-    'd1eb944f-4046-57ce-bd70-498fbf6d36a5' => [
-        'I distracted myself from the fear and terrorism by thinking about things like how the universe began and whether time travel is possible.',
-        'Malala Yousafzai',
+    '7f5391de-de56-5184-a4b5-3729c8b04565' => [
+        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
+        'Karl Jaspers',
     ],
-    '4f126e43-c48e-5bc6-acb3-cb3ce52ffcb9' => [
-        'The greatest use of a life is to spend it on something that will outlast it.',
-        'Prince William',
+    'a392ff75-8f77-56a9-9b6a-5efdc80cca2f' => [
+        'Laughter is day, and sobriety is night; a smile is the twilight that hovers gently between both, more bewitching than either.',
+        'Henry Ward Beecher',
     ],
-    'f8561307-af52-5761-85db-f43f977e4468' => [
-        'The biggest thing for me is the passion that I\'ve always had for hockey. I remember growing up, no matter what I did in life, my parents always told me to try to do my best at it and be my best. I can say going through different things that that passion is the most important part. It\'s not skills or talent or any of that stuff.',
-        'Sidney Crosby',
+    '3219dbfc-f4b8-5f53-a7f3-d37bb7b82349' => [
+        'It\'s important to maintain an attractive smile as you age. A lighter, less beige, more white tooth color is key, but no Chiclets.',
+        'Evelyn Lauder',
     ],
-    '3b96fc06-60a8-560b-ab90-38e6cbb65691' => [
-        'Cigarettes and coffee: an alcoholic\'s best friend!',
-        'Gerard Way',
+    '7077360d-3729-5ce6-90e2-c3a7dc2c54de' => [
+        'What kind of influence did my parents have on my life? Well, they had the most influence. These are the people who are closest to me. My parents are very positive people. They\'ve been supportive. They\'re always there.',
+        'Derek Jeter',
     ],
-    '75bab043-5ef9-5291-a108-043ae0531990' => [
-        'You are always free to change your mind and choose a different future, or a different past.',
-        'Richard Bach',
+    'b8d0a2cf-572e-5d9c-b2e5-3651e9c75c63' => [
+        'Riding Valegro always makes you smile, so I enjoy it.',
+        'Charlotte Dujardin',
     ],
-    '5fe348b2-50da-5a7b-9d97-169831127eb6' => [
-        'I love the long grass coming up to meet the willows.',
-        'Jilly Cooper',
+    '60fba434-ff35-5b14-9ace-a8266c51a508' => [
+        'For me, true beauty has nothing to do with wrinkles and everything to do with the fact that my maternal grandmother raised five children just after the war and remained a fighter throughout her life. True beauty is the slick of red lipstick my paternal grandmother would put on before going to church on Sunday.',
+        'Monica Bellucci',
     ],
-    'e19a1e7a-e590-5b0e-b0cf-fe7f74647e8e' => [
-        'Choosing an attitude of faith will release peace out of your spirit and into your soul.',
-        'Joyce Meyer',
+    '1b10f652-dcc2-539b-827a-c7ec440830d6' => [
+        'My life is part humor, part roses, part thorns.',
+        'Andrew Shue',
     ],
-    '29c29cef-450a-5197-a6e6-ccde0e6c3834' => [
-        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
-        'Aldous Huxley',
+    'd89ada99-fca6-5a05-8f04-1aebca7f32fe' => [
+        'We live in deeds, not years; in thoughts, not breaths; in feelings, not in figures on a dial. We should count time by heart throbs. He most lives who thinks most, feels the noblest, acts the best.',
+        'Aristotle',
     ],
-    'a4a6c364-d831-5864-b5ee-d0934262a88d' => [
-        'The ideal life is in our blood and never will be still.',
-        'Phillips Brooks',
+    'ff3a2617-3ff1-527e-b46f-9e48060fceb9' => [
+        'Right now I just want to chill for a while. Take a hiatus from all the craziness. To clean my house, see my family. Just see some movies and pick some strawberries.',
+        'Lauren Ambrose',
     ],
-    'ebf36fa5-154b-5d37-81af-f2d20bc1e47e' => [
-        'Every man regards his own life as the New Year\'s Eve of time.',
-        'Emily Dickinson',
+    'e639a35f-08ef-5846-8d9a-f24e2e877c67' => [
+        'You can\'t depend on your eyes when your imagination is out of focus',
+        'Mark Twain',
     ],
-    'e7378707-3fdb-5a91-bff0-c6e2c7c2492e' => [
-        'I think the deafness affects me more than I realise; I think it makes me more tired. I loathe parties. I attend, smile and leave.',
-        'Stephanie Beacham',
+    '77819147-735c-528c-87ae-f591ea953524' => [
+        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
+        'Tom Perrotta',
     ],
-    '6f112ee3-b479-541a-8692-1dc8bb37e21b' => [
-        'You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.',
-        'Karolina Kurkova',
+    '8bb5f604-9ade-5746-8580-ce07da20a6bc' => [
+        'I cry at anything remotely touching - smile at me warmly and I\'m off... television also does it, everything from \'X-Factor\' to cereal commercials. I cry when I am tired. I also cry when I laugh.',
+        'Natalie Massenet',
     ],
-    'b9d989da-6301-5f40-8f94-fafe8658c638' => [
-        'I totally let myself indulge, but I make little deals with myself. If I have an extra cupcake, I\'ll run a couple of extra miles. I think it\'s all about balance and not getting into extremes with dieting and exercising. Having a healthy attitude is important, too!',
-        'Megan Hilty',
+    'bd58d9ee-7b1e-59f0-aae1-82fad7ebfc60' => [
+        'Disasters happen. We still have no way to eliminate earthquakes, wildfires, hurricanes, floods or droughts. We cope as best we can by fortifying ourselves against danger with building codes and levees, and by setting aside money to clean up afterwards.',
+        'Seth Shostak',
     ],
-    '988f9c34-ea8e-5274-96bd-69111428ca0b' => [
-        'I love Mickey Mouse more than any woman I have ever known.',
-        'Walt Disney',
+    '0e88d57b-3a4c-5d34-9ea5-2658216b9131' => [
+        'The trains that travel the Chunnel are massive machines. The Eurostars are bullet-shaped and a quarter-mile long. They are pulled by a 136,000-pound locomotive and move in the open air at 185 m.p.h. and through the tunnel at 100 m.p.h.',
+        'Peter Landesman',
     ],
-    '348642e7-76c2-5390-a861-bfcceedaaa38' => [
-        'We don\'t have a divine right to success. So I agree with a lot of politicians out there when they say, \'We\'ve got serious issues.\' We do: immigration, infrastructure. I think income inequality\'s one of them.',
-        'Jamie Dimon',
+    '5743a186-32d1-545e-bcde-8bc6c7ba0400' => [
+        'I grew up playing music and enjoying good food, friends and family in my own backyard.',
+        'Rodney Atkins',
     ],
-    '2bd078f5-006a-5d2a-9fba-390693bfebf7' => [
-        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
-        'Isaac Asimov',
+    '257f1cc3-2103-5d34-8f94-0d7e621d5b3c' => [
+        'It got very tedious saying the same jokes in the same way with the same attitude.',
+        'Norm MacDonald',
     ],
-    '672025ca-b44a-5647-87c1-95498ad440b8' => [
-        'The truth, the absolute truth, is that the chief beauty for the theatre consists in fine bodily proportions.',
-        'Sarah Bernhardt',
+    'e5dc9167-3554-58bf-b7ba-ca812831daac' => [
+        'Move to Italy. I mean it: they know about living in debt; they don\'t care. I stayed out there for five months while I was making a film called \'Order Of Death,\' and they\'ve really got it sussed. Nice cars. Sharp suits. Great food. Stroll into work at 10. Lunch from 12 till three. Leave work at five. That\'s living!',
+        'John Lydon',
     ],
-    '2feca989-384f-592e-ae2d-599f6d65dd3e' => [
-        'I am always exhausted; I am always trying to find more time to be with my family, which is why they travel with me so much.',
-        'John Tesh',
+    '1c610239-33fb-5c0c-a5d2-3f255a403189' => [
+        'The Stones are a different kind of group. I realized that when I joined them. It\'s not really so much their musical ability, it\'s just they have a certain kind of style and attitude which is unique.',
+        'Mick Taylor',
     ],
-    '40cdf257-918f-5076-aaad-345bc26eb5aa' => [
-        'When you\'re the best, you only want to surround yourself with the best.',
-        'Floyd Mayweather, Jr.',
+    'ee62a0a6-0dce-5300-b8d0-7f60918f653e' => [
+        'Go for it now. The future is promised to no one.',
+        'Wayne Dyer',
     ],
-    '49a032cd-8d76-5f5d-891b-d8822809463c' => [
-        'I try to keep it real. I don\'t have time to worry about what I\'m projecting to the world. I\'m just busy being myself.',
+    '6704e02d-b35d-5f3a-a067-79c5a02e34c3' => [
+        'My tastes and inspirational artists were always rather eclectic and diverse.',
+        'Taylor Dayne',
+    ],
+    '97e77ba5-f097-5e7e-a668-b546c8dd67a1' => [
+        'Where men of judgment creep and feel their way, The positive pronounce without dismay.',
+        'William Cowper',
+    ],
+    '829b1fd3-8b01-598e-90a3-2add00d04f95' => [
+        'Life is so fresh, life is every day so new if we are fighting, only for the best. Sometimes I think the only real satisfaction in life is failure, failure in your endeavor to do your best.',
+        'Rose Kennedy',
+    ],
+    '7e81d985-9f66-5519-8e5b-cf6209a847cf' => [
+        'Without hard work and discipline it is difficult to be a top professional.',
+        'Jahangir Khan',
+    ],
+    '168afdda-8d48-51f8-a7e7-3b850d86a545' => [
+        'I\'m thrilled to continue my partnership with U by Kotex for Generation Know while helping to empower girls. I\'ve always been a motivational resource for my younger sisters and hope I can positively impact and inspire other young girls too.',
+        'Khloe Kardashian',
+    ],
+    '734f4fe3-fa6d-58b8-9a45-c3a7b420185d' => [
+        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
+        'Connor Franta',
+    ],
+    'ecffbc3b-9982-573b-ac1f-161f992a32ab' => [
+        'I think a lot of times we don\'t pay enough attention to people with a positive attitude because we assume they are naive or stupid or unschooled.',
+        'Amy Adams',
+    ],
+    'd8956d48-21b3-5d1f-acbd-e5da956724d7' => [
+        'Who was Amanda Knox? Was she a fresh-faced honor student from Seattle who met anyone\'s definition of an all-American girl - attractive, athletic, smart, hard-working, adventuresome, in love with languages and travel? Or was her pretty face a mask, a duplicitous cover for a depraved soul?',
+        'Tina Brown',
+    ],
+    'e71ba9d3-2ec4-5220-974b-a7e91a5f722f' => [
+        'Life is just a chance to grow a soul.',
+        'A. Powell Davies',
+    ],
+    'b9baf882-858e-5c62-a9d0-d91215997140' => [
+        'Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.',
         'Demi Lovato',
     ],
-    'df6bb58a-cc86-5fa2-b845-8ad635514148' => [
-        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
-        'Liz Goldwyn',
+    'c16660f3-28d0-5f8f-acb7-0016bd8f814a' => [
+        'The time you think you\'re missing, misses you too.',
+        'Ymber Delecto',
     ],
-    'd5ee66b7-7707-5759-b5f0-b4fe5e4a32b1' => [
-        'I play a female Indiana Jones, a professor who hunts down precious objects, like a bowl that belonged to the Buddha. They tailored the role to me: I wanted to be smart, funny, and to kick some ass.',
-        'Tia Carrere',
+    '05bb0b6f-e254-5226-b0b4-162053fcbc4f' => [
+        'A guilty conscience needs to confess. A work of art is a confession.',
+        'Albert Camus',
     ],
-    '42b07437-e6f1-50f9-a34f-cf9a29bbcb64' => [
-        'My life has been a blessing. I\'m grateful for everything I do have and the places I\'m going and the things I\'ve seen.',
-        'Ariana Grande',
+    'bf07deb7-63ab-5f0d-9081-6092d0d5693a' => [
+        'My mentality has always been, If I\'m not the best at something, then I might as well be the best at something else. I realized that I wasn\'t going to be an Olympic volleyball player, but I knew I could model at that level.',
+        'Gigi Hadid',
     ],
-    '379c5092-0847-5427-b591-b313c3e60aee' => [
-        'I might have some character traits that some might see as innocence or naive. That\'s because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life.',
-        'Tobey Maguire',
+    'f5cdfe2f-d290-5b34-ac11-2cfa3ee8f459' => [
+        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
+        'Alek Wek',
     ],
-    'b8e4545c-9e28-5b69-90ef-2d74d064aa53' => [
-        'There\'s a lot of blood, sweat, and guts between dreams and success.',
-        'Paul Bryant',
+    'ddb0d04f-c640-5977-ac3b-de4125f7678b' => [
+        'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
+        'Steve Harvey',
     ],
-    '6a0d9900-6346-5e77-95bd-a5eaac167a87' => [
-        'Candy is childhood, the best and bright moments you wish could have lasted forever.',
-        'Dylan Lauren',
+    '847a803d-96f3-50f4-9a9c-20d9f9412384' => [
+        'Happiness is having a large, loving, caring, close-knit family in another city.',
+        'George Burns',
     ],
-    '48b7e445-f4ff-5371-bc71-a2139af8e104' => [
-        'The years teach much which the days never know.',
-        'Ralph Emerson',
+    '8986ddf1-99cb-5533-a57c-924f95851aa7' => [
+        'What can a pencil do for all of us? Amazing things. It can write transcendent poetry, uplifting music, or life-changing equations; it can sketch the future, give life to untold beauty, and communicate the full-force of our love and aspirations.',
+        'Alice Waters',
     ],
-    '3289bb9c-5448-5793-afaf-137b801edd1d' => [
-        'An ant on the move does more than a dozing ox',
-        'Lao Tzu',
-    ],
-    '113da708-bc79-59f3-bfea-c7ea0e195557' => [
-        'I love Charlie, Billy Burke\'s character. Writing for him is so spectacular, he\'s so funny and wry and every scene he\'s in he just takes. There\'s a scene in \'Eclipse\' where Bella tells him she\'s a virgin, and it\'s the funniest, most awkward scene I\'ve ever seen on film.',
-        'Melissa Rosenberg',
-    ],
-    '0ab5fd4b-866b-5056-becb-8d0bd5fb1d7d' => [
-        'I don\'t regret what I\'ve been through. I\'ve had ups and downs, super highs and some really low lows. I\'ve been so blessed that I could never say, \'I wish this didn\'t happen.\' It\'s part of who I am. There\'s nothing in my life that\'s so ugh.',
-        'Lil\' Kim',
-    ],
-    '2ba2b2d6-8fc7-5692-8f3f-ceff2631caee' => [
-        'Pure drawing is an abstraction. Drawing and colour are not distinct, everything in nature is coloured.',
-        'Paul Cezanne',
-    ],
-    '7822bec6-9ed1-5e72-abfe-01679a121334' => [
-        'It is a weird feeling to have people go, \'Hey Chris\' like they know me. But, number one, 99 percent of my experiences have been really cool. People couldn\'t be nicer and more positive.',
-        'Christopher Meloni',
-    ],
-    'e6a84181-547d-5526-a28b-ccc3c78f7a92' => [
-        'You just hope that you will get the opportunity to do what you love and pay your bills, and that is being a success as an actor.',
-        'Debra Messing',
-    ],
-    '5a84f8be-ec8c-548f-b4c7-a7eebb682a99' => [
-        'Seeing Michelle Obama\'s bright color choices, and how she made people smile and reinforced Obama\'s platforms of hope and change, was inspiring.',
-        'Lilly Pulitzer',
-    ],
-    '3fe031cc-986a-5f06-918f-23590fa0a23e' => [
-        'You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.',
-        'Walt Disney',
-    ],
-    '5d1ee936-5630-5ad9-b133-79a78e3bd60a' => [
-        'I think everyone goes through chapters in their life and there was a time when I wasn\'t feeling terribly positive about what I was contributing to film, or wasn\'t feeling as if I was going in the direction I wanted and I re-evaluated what I was doing.',
-        'Jude Law',
-    ],
-    '7133c7ba-4e99-5245-9685-5784486ef57b' => [
-        'The appreciative smile, the chuckle, the soundless mirth, so important to the success of comedy, cannot be understood unless one sits among the audience and feels the warmth created by the quality of laughter that the audience takes home with it.',
-        'James Thurber',
+    '107e0d8b-4b3a-5f1c-9c60-21becc2ba7c4' => [
+        'Travel magazines are just one cupcake after another. They\'re not about travel. The travel magazine is, in fact, about the opposite of travel. It\'s about having a nice time on a honeymoon, or whatever.',
+        'Paul Theroux',
     ],
 ];

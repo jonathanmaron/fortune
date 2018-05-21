@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '6ad5cf5f-88d9-5311-ab14-24849bc0db99' => [
-        'The greatest gift of all time is that you can make creation infectious because people spend less time being negative... If you log all the time with negativity in the while world, I wonder how much better the world would be if people sat down and did something positive. It spirals.',
-        'Skrillex',
+    '06e7e8ca-94ca-59f8-bb01-cbc2d18be5f1' => [
+        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
+        'Ellen Barkin',
     ],
-    '6aa36faa-29f8-58a3-9c0f-f4b0ad9d29ef' => [
-        'The secret to success is to offend the greatest number of people.',
-        'George Bernard Shaw',
+    'b0f6f14b-7878-5b5d-b2cf-1d596ec40480' => [
+        'Diabetes is an all-too-personal time bomb which can go off today, tomorrow, next year, or 10 years from now - a time bomb affecting millions like me and the children here today.',
+        'Mary Tyler Moore',
     ],
-    '5a650f4c-6aa3-5ac9-8c4c-db6431799bc9' => [
-        'Be a good listener. Your ears will never get you in trouble.',
-        'Frank Tyger',
+    '9e8b5105-034e-5edd-8fc2-bc4e6cc5c5b5' => [
+        'I mean, I - it\'s so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I\'ve been sort of taking this very long, stuttering period of moving out.',
+        'Lena Dunham',
     ],
-    'ff5ffd06-0633-555b-8c85-7fc8a3d8a7a0' => [
-        'The really unhappy person is the one who leaves undone what they can do, and starts doing what they don\'t understand; no wonder they come to grief.',
-        'Johann Wolfgang von Goethe',
+    'bca5af39-1b5b-5976-b74b-595ae1f5d940' => [
+        'All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.',
+        'Mark Caine',
     ],
-    '82ca553f-12aa-5930-8296-1ca83718b7d9' => [
-        'Good humor is one of the best articles of dress one can wear in society.',
-        'William Makepeace Thackeray',
+    '91d4b74e-e370-5126-b84d-f27f61a8a23c' => [
+        'If you\'re being ignored, that\'s a good time to concentrate on finding yourself and creating your own mystery.',
+        'Lykke Li',
     ],
-    'b1deea41-c431-529e-a0a1-02ec528130c7' => [
-        'I would rather start a family than finish one.',
-        'Don Marquis',
+    'f3d30520-4fc4-5f49-86c9-9d0122a4f2de' => [
+        'Better three hours too soon than a minute too late.',
+        'William Shakespeare',
     ],
-    '5abd873f-14c1-5780-9a65-92c1754d45d0' => [
-        'It\'s not whether you get knocked down, it\'s whether you get up.',
-        'Vince Lombardi',
+    'ab279c30-7d62-563b-991b-9c44a68918a3' => [
+        'But Hopes are Shy Birds flying at a great distance seldom reached by the best of Guns.',
+        'John James Audubon',
     ],
-    '717faafd-cbe0-53e6-9f42-175e407c4a4e' => [
-        'In the household in which I was raised, the themes were pretty simple. \'Work hard. Don\'t quit. Be appreciative, be thankful, be grateful, be respectful. Also, never whine, never complain. And always, for crying out loud, keep a sense of humor.\'',
-        'Michael Keaton',
+    '9b3e0f47-eee2-5dc5-a11a-9d8d46dd4c07' => [
+        'You give before you get.',
+        'Napoleon Hill',
     ],
-    '4fafd778-d3bf-5ba8-9b99-ad2aa6a30d52' => [
-        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
-        'Oscar Wilde',
+    '4af955e1-8d75-5eee-88d6-445d4f8d856b' => [
+        'Because I had my family, I felt like I could be a bird and fly and experience and do. Because I had roots somewhere, I knew that they would love me no matter what, and I could always go back home and they were going to love me.',
+        'Gisele Bundchen',
     ],
-    '1dfcfbe4-db85-50e5-8683-7aa6b85fecb7' => [
-        'The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance.',
-        'Paul Washer',
+    'b7524a6c-2e5c-5a0a-ba67-d20f89925f60' => [
+        'Just as courage imperils life, fear protects it.',
+        'Nuno Bettencourt',
     ],
-    'd9d58719-c81d-56a8-8ce1-4359ccd0f6ca' => [
-        'I am seeking, I am striving, I am in it with all my heart.',
-        'Vincent Van Gogh',
+    'a64b5678-9666-5cf5-a5c1-26bd7138a268' => [
+        'There are movies that I love tonally, that I would love to emulate. Anything from Wes Anderson or the Coen brothers is right in my wheelhouse, as something that I would aspire to. I love that kind of indie, fun, colorful, funny, sweet, heartfelt but dark film.',
+        'Sam Huntington',
     ],
-    '8d22a225-5eda-522a-8f8b-cbadc7a1fdd3' => [
-        'I think of myself as a positive agnostic. I don\'t know, therefore I\'m open. I don\'t know, therefore I\'m interested.',
-        'Grace Slick',
+    '969dceda-032f-52e6-aad0-8ba91058f88a' => [
+        'A compliment is something like a kiss through a veil.',
+        'Victor Hugo',
     ],
-    'f01a790d-a030-5681-8ecd-968518318031' => [
-        'My life has been such a blur since I was 18, 19 years old. I haven\'t even had time to contemplate my own life. By forcing yourself to write your life story you learn a great deal about yourself.',
-        'Grant Achatz',
+    '3571bc0e-6dc9-5aeb-8b5c-14e6e7461512' => [
+        'No man was ever wise by chance.',
+        'Seneca',
     ],
-    '18620b69-c427-5ad5-9a97-e84dba12cf13' => [
-        'There are some things you learn best in calm, and some in storm.',
-        'Willa Cather',
+    '69d8a758-b9a5-5ec7-9ae7-327d06f833a4' => [
+        'Hiding, secrets, and not being able to be yourself is one of the worst things ever for a person. It gives you low self-esteem. You never get to reach that peak in your life. You should always be able to be yourself and be proud of yourself.',
+        'Isabel Allende',
     ],
-    '8d3a1105-a30d-58ea-b188-352af0714410' => [
-        'I love pizza. I want to marry it, but it would just be to eat her family at the wedding.',
-        'Mike Birbiglia',
+    'd8d19500-7b97-543f-b79e-b54da6fae1da' => [
+        'There was a great strain in our family because my father didn\'t want anything to do with me. He was happy to see my brother and sister, but not me. I don\'t know why. Maybe it was shame. I don\'t know. But he never wanted anything to do with me. That rejection was terribly hurtful and it went on for years.',
+        'Carol Vorderman',
     ],
-    '405ca155-c89f-5ab6-a81e-2ec1f3f26f5b' => [
-        'There\'s a beauty to math. Math is so simple. It\'s just one step after the next.',
-        'Ethan Canin',
+    '7271ba98-add6-51c7-8eef-a629f0fed09c' => [
+        'Every girl should use what Mother Nature gave her before Father Time takes it away.',
+        'Laurence J. Peter',
     ],
-    '20dee47c-b97a-5acf-ad2a-b072cb17eac5' => [
-        'Win or lose, I believe in giving my best and that is what I always do.',
-        'Lin Dan',
+    '70f72607-956e-5cd2-95e8-32fb880d3834' => [
+        'Faith is love taking the form of aspiration.',
+        'William Ellery Channing',
     ],
-    'a3cf5da0-527d-531f-ad66-7b98b97394cd' => [
-        'I\'m a little bit phobic about stains on my clothes, so I never travel without a little packet of organic stain remover.',
-        'John Malkovich',
+    '5e5452fa-b5de-5d7d-a140-76cd37e654fc' => [
+        'I remember my mother\'s prayers and they have always followed me. They have clung to me all my life.',
+        'Donna Brazile',
     ],
-    '883388af-b67d-5379-92c2-fb40a4de7fed' => [
-        'If we abandon marriage, we abandon the family.',
-        'Michael Enzi',
+    'e3e4b904-f1ea-5cdd-bbf2-e7c6334479c7' => [
+        'In the workplace, employees should be judged on their merit and hard work and not on aspects that are irrelevant to their performance.',
+        'Paul Singer',
     ],
-    '2e49a708-51c0-590f-88d4-88def93eb8f3' => [
-        'Technology gives us the facilities that lessen the barriers of time and distance - the telegraph and cable, the telephone, radio, and the rest.',
-        'Emily Greene Balch',
+    'd9bfacec-fed4-5bd7-9bfe-9d4c8380e591' => [
+        'I don\'t have a bank account because I don\'t know my mother\'s maiden name.',
+        'Paula Poundstone',
     ],
-    '171b2838-2382-5798-a509-8bcfcf81d4be' => [
-        'On any given day, my father wasn\'t likely to return from work before I was asleep for the night. I saw that a man\'s work was important, that he must pursue it tirelessly, and that it might require certain sacrifices, like being away from the warmth and comfort of home.',
-        'Ezekiel Emanuel',
+    '15770b4d-116e-57e6-8b53-f82f5f03d85b' => [
+        'Skillful conversationalists can explore disagreements and make points in ways that feel constructive and positive rather than combative or corrective.',
+        'Gretchen Rubin',
     ],
-    '37da6f4d-4e98-52ec-89fc-cece7cdb9085' => [
-        'We can only be said to be alive in those moments when our hearts are conscious of our treasures.',
-        'Thornton Wilder',
+    'a30ca387-724c-5af3-a2d2-2b66b0594d13' => [
+        'My dad has an incredible passion for living life, and he\'s really, really funny, so he definitely encourages me to enjoy all aspects of life. He\'s very proud of me and definitely encourages my career path, and we have a good time talking about work.',
+        'Spencer Grammer',
     ],
-    'a4e82883-7b45-5e42-808e-a4f98860fb43' => [
-        'He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy.',
-        'Chanakya',
+    '3dc6863d-01f8-542f-a03a-71a1651ec080' => [
+        'The past cannot be cured.',
+        'Elizabeth I',
     ],
-    '2e6ac61c-4e7e-5917-acbc-ee16c6189d59' => [
-        'Knowing is not enough; we must apply. Willing is not enough; we must do.',
-        'Johann Wolfgang von Goethe',
+    '8765cb12-e195-55b4-a033-b46f75c80392' => [
+        'Be better than you were yesterday.',
+        'Unknown',
     ],
-    'fa89a0fa-8707-5b42-a33e-85213651a40a' => [
-        'My incarceration was actually a positive thing from the beginning. I needed a gimmick to get my act going again, it gave me material.',
-        'Tommy Chong',
+    'f42d4d0c-7622-560f-acc5-11c1faa708bd' => [
+        'Good Deeds Day is based on a simple idea that every person can do a good deed for the benefit of others and the planet. Even a smile that brightens someone else\'s day is a good deed. I initiated Good Deeds Day to spread the message that everyone can give of themselves, according to their heart\'s desire.',
+        'Shari Arison',
     ],
-    'b359a2f7-99d0-5abe-851b-4891eaae062f' => [
-        'When there is no enemy within, the enemies outside cannot hurt you.',
-        'African proverb',
+    '7d79797d-5424-52e3-9611-baaf03b0bcfe' => [
+        'Someone told me the smile on my face gets bigger when I play the guitar.',
+        'Niall Horan',
     ],
-    'c1498fb0-12ae-5e50-855d-fa2c37b4cf8c' => [
-        'There\'s only one growth strategy: work hard.',
-        'William Hague',
+    '2f220585-203d-5180-9033-317a1a41838d' => [
+        'Travel like a pro, not like a hobo. That\'s my motto.',
+        'Greg Gutfeld',
     ],
-    '84ba1d67-910a-57b0-b29d-92d01a1e46f8' => [
-        'I grew up in a time when women didn\'t really do comedy. You had to be homely, overweight, an old maid, all that. You had to play a stereotype, because very attractive women were not supposed to be funny - because it\'s powerful; it\'s a threat.',
-        'Lily Tomlin',
+    '6f826c78-6580-5bdf-bd71-6bbbc3feb296' => [
+        'These words dropped into my childish mind as if you should accidentally drop a ring into a deep well. I did not think of them much at the time, but there came a day in my life when the ring was fished up out of the well, good as new.',
+        'John Steinbeck',
     ],
-    'c898d7ef-bd76-59a8-98f6-dfbeef5a0bec' => [
-        'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
-        'John Forbes Nash, Jr.',
+    'ed6dd0f7-7466-507f-925f-4c7757abef44' => [
+        'Our many different cultures notwithstanding, there\'s something about the holidays that makes the planet communal. Even nations that do not celebrate Christmas can\'t help but be caught up in the collective spirit of their neighbors, as twinkling lights dot the landscape and carols fill the air. It\'s an inspiring time of the year.',
+        'Marlo Thomas',
     ],
-    'f4a03255-60c5-5747-9afc-ff4a4f80a912' => [
-        'When someone does something good, applaud! You will make two people happy.',
-        'Samuel Goldwyn',
+    '0c1a945a-d401-5edd-98dd-dfd3371f3bde' => [
+        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
+        'Nikola Tesla',
     ],
-    '2eeb7778-aeaf-5842-b8be-bd4c9a67513b' => [
-        'It seems like the chaos of this world is accelerating, but so is the beauty in the consciousness of more and more people.',
-        'Anthony Kiedis',
+    '26e4f150-7831-5d7e-8ca9-3dc76d7d7830' => [
+        'Husbands, recognize your wife\'s intelligence and her ability to counsel with you as a real partner regarding family plans, family activities, and family budgeting. Don\'t be stingy with your time or with your means. Give her the opportunity to grow intellectually, emotionally, and socially as well as spiritually.',
+        'Ezra Taft Benson',
     ],
-    '3cd54385-9e4c-5fa9-8800-1ccb45c66ecb' => [
-        'The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.',
-        'Abernathy',
+    '8ecacd1b-d0cc-5cc4-9dc8-37a7d7af39d2' => [
+        'Growth is the only evidence of life.',
+        'Lillian Gish',
     ],
-    '2c5a3852-df0a-55a6-937b-9a6dfa6b1f10' => [
-        'Every human being is the author of his own health or disease.',
-        'Buddha',
+    'c711df8d-365d-55b8-a8c8-1380ad35ce1e' => [
+        'Wherever you are - be all there.',
+        'Jim Elliot',
     ],
-    '04a966f5-b4b5-50c7-ae1f-00f709687690' => [
-        'A man with a silver spoon may get his share of supporters, but he can never be an inspiration for somebody! Patience and hard work are the key to every man\'s success.',
-        'Kailash Kher',
+    '4daf2fd0-c1db-5359-93a1-53e677c5a837' => [
+        'Beauty comes from a life well lived. If you\'ve lived well, your smile lines are in the right places, and your frown lines aren\'t too bad, what more do you need?',
+        'Jennifer Garner',
     ],
-    '66f09494-0970-5017-bf7a-d1bfd7f7e45e' => [
-        'Migration is as natural as breathing, as eating, as sleeping. It is part of life, part of nature. So we have to find a way of establishing a proper kind of scenario for modern migration to exist. And when I say \'we,\' I mean the world. We need to find ways of making that migration not forced.',
-        'Gael Garcia Bernal',
+    '367ffc58-a35d-5d5b-a8cb-73602d196e9e' => [
+        'I think my philosophy in music has been to accentuate the positive.',
+        'Mike Love',
     ],
-    'c6a67177-cb0f-565b-a1af-03267ac51025' => [
-        'I\'m not here to discuss the past... I\'m here to be positive.',
-        'Mark McGwire',
+    'bf4b0697-74d9-5f42-9a8b-fbf00af48fde' => [
+        'We believed in our idea - a family park where parents and children could have fun- together.',
+        'Walt Disney',
     ],
-    '1ee228d5-6ada-5d98-8d58-b59896b7a3b8' => [
-        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
-        'Lisa Murkowski',
+    '5925452b-be21-52a8-bced-071887c9640a' => [
+        'It\'s amazing what sleep does for your looks.',
+        'Emily Procter',
     ],
-    '1e1790d2-5bcf-58ff-be10-25608c86ef8f' => [
-        'Life\'s most persistent and urgent question is, \'What are you doing for others?\'',
-        'Eric Idle',
+    'adbfea23-88ea-5e79-a7d1-88116ecb4ea6' => [
+        'The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?',
+        'A. P. J. Abdul Kalam',
     ],
-    'c955d477-8b9d-515f-ba59-3f63e8df3a06' => [
-        'Personal satisfaction is the most important ingredient of success.',
-        'Denis Waitley',
+    'f92a325c-99ea-5252-9720-ebb5339ef6b5' => [
+        'Being confident is the key to life. Don\'t be afraid to be you! I\'m super different from a lot of kids my age with style and personality, and I\'m OK with it. And if you are OK with it, everyone else will be, too. Just be yourself.',
+        'Orison Swett Marden',
     ],
-    '981c06cd-db3e-5b4c-bc9b-6fa7822d867f' => [
-        'The stereoscopic panoramic videos that we\'re showing on Samsung VR are getting a lot of positive traction. It\'s exciting when you see creative types - whether from the music, film, or video industries - look at this stuff. The gears are turning in their head almost immediately about how they can use it as a new medium.',
-        'John Carmack',
+    'a6859ce8-9fe9-5216-a470-a0738cb1ee44' => [
+        'You have to get under the hood and spend some quality time with someone to understand what they\'re really good at.',
+        'Aileen Lee',
     ],
-    '024d237b-ac89-5766-832d-e92104ee9db3' => [
-        'We fall forward to succeed.',
-        'Mary Kay Ash',
+    '91a2dfc0-1d72-5347-8ef8-0053dcbd0e2d' => [
+        'I have one message for young musicians around the world: Stay true to your heart, believe in yourself, and work hard.',
+        'Joe Cocker',
     ],
-    '4389caa1-3b78-560b-a160-51a873b731bc' => [
-        'The best way to navigate through life is to give up all of our controls.',
-        'Gerald Jampolsky',
+    'f18727df-1282-59f2-bcbc-14a50450f131' => [
+        'I was very pleased that the positive things about me and my game outshone the aggressive style of play I use. I would never tone that down, because I believe in that style of play, and I believe that you can play rough on the court and still be a good sport.',
+        'Sue Wicks',
     ],
-    'be38c5a5-a2bd-5a6e-9c86-d47cfd9e3828' => [
-        'At Thanksgiving, I always start at the top of my list and say I\'m grateful for friends, family, and good health. Then I get more superficial... like being thankful for my Louboutins.',
-        'Christie Brinkley',
+    'ef173b40-5109-50c0-a8de-55b6be5c5c1f' => [
+        'Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility.',
+        'Saint Augustine',
     ],
-    'c749b5d2-9ecf-5b3b-9462-1854a34dd942' => [
-        'There is something mean in human nature that prefers to think evil, that gives a willing ear and a ready welcome to calumny, a sort of jealousy of goodness and greatness and things of good report.',
-        'Richard Le Gallienne',
+    '6a517a78-5f6d-5156-bc0f-b011abe301b0' => [
+        'It\'s always exciting to see different cities I love, and go on tour buses. It\'s so much fun to travel. My favorite part is being able to perform live in front of all these amazing people; being able to connect with them and seeing their reaction makes me feel very special.',
+        'Jackie Evancho',
     ],
-    '701382ba-24b3-5c3e-951a-4d8afb27ab55' => [
-        'A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.',
-        'Lana Turner',
+    '3ba10182-03aa-50f5-b702-5a29e396ae7b' => [
+        'Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole.',
+        'Bernard Law Montgomery',
     ],
-    '1be6b10d-0d8d-5325-9e6d-fabbf0855dca' => [
-        'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
-        'Sam Ewing',
+    '540393d2-1518-5597-8dae-86e0f0116ed0' => [
+        'When I\'m wearing makeup, I choose between doing my eyes or mouth because I don\'t want to look like a beauty pageant child.',
+        'Alexa Chung',
     ],
-    '8d62d23e-037b-5748-b032-8cea9a12d6a0' => [
-        'Let\'s have some new cliches.',
-        'Samuel Goldwyn',
+    '11ac6114-8089-53d5-97e4-26cd68cb1077' => [
+        'One of my producers said this business is like a hamster on that little wheel thing that goes around and around. You may have a great day and get great ratings, but then you\'ve got another show to do - whatever moment of success or happiness you have you\'ve got to keep grinding it out for the next day.',
+        'Sean Hannity',
     ],
-    '79955a92-9031-5310-89a1-0766b4c5a554' => [
-        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
-        'Margot Robbie',
+    '995ecc17-fdfc-576b-95b9-4a5a462f3f3f' => [
+        'A little less complaint and whining, and a little more dogged work and manly striving, would do us more credit than a thousand civil rights bills.',
+        'W. E. B. Du Bois',
     ],
-    '611701c1-228f-5a43-af86-9072b422b71a' => [
-        'The personal life deeply lived always expands into truths beyond itself.',
-        'Isaac Watts',
+    '9c762f1b-8c9e-51ab-b26d-23b1d1d948ce' => [
+        'I grew up in a household without a TV. We lived next door to a library for a while, and at one point, I checked out all the books in the fairy tale section. I remember the librarian\'s quiet smile as I\'d bring back one stack and exchange it for another.',
+        'Victoria Hanley',
     ],
-    '27b0e502-f26d-5e03-8709-47ba9afcccb2' => [
-        'Most people yearn to contribute, make the world a better place and have success.... all at the same time... Make sure to give your business a background, a mission and a story. That might be the most important step part of any venture. And remember, giving may be the best investment you ever make.',
-        'Blake Mycoskie',
+    '349cc16e-cdb0-50cf-8850-818bc286ca3f' => [
+        'I think leadership is more than just being able to cross the t\'s and dot the i\'s. It\'s about character and integrity and work ethic.',
+        'Steve Largent',
     ],
 ];

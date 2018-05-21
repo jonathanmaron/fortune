@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e2de6092-1663-5313-8e33-9a9fee712a8a' => [
-        'I am just as comfortable in sweats and sneakers as I am in a dress and heels. Attitude is everything!',
-        'Blac Chyna',
+    'afee608a-07f2-5050-b530-47c8000dd907' => [
+        'Any relationship should have love, and if there is no love, it is better to call off a relationship. People say that love happens only once, but I don\'t believe in it because for me, if one relationship doesn\'t work, you should move on and seek love in another relationship. Who knows; you might find love in the second relationship.',
+        'Bipasha Basu',
     ],
-    'e3fb2622-9542-559d-b425-312d864dc42f' => [
-        'Age is an issue of mind over matter. If you don\'t mind, it doesn\'t matter',
-        'Mark Twain',
+    '87225a16-f68a-5e79-b044-49236468783a' => [
+        'The arts, quite simply, nourish the soul. They sustain, comfort, inspire. There is nothing like that exquisite moment when you first discover the beauty of connecting with others in celebration of larger ideals and shared wisdom.',
+        'Gordon Gee',
     ],
-    'fdd18547-374a-546e-9640-5a89379be622' => [
-        'I\'ve been lucky enough to travel widely. When you\'re based in Europe, it\'s very easy to go to Madrid or Budapest for the weekend. I also lived in Italy for ten years and now live in Ireland.',
-        'Laurie Graham',
+    '3b4ea0a8-a8b6-50bd-9783-ad9a0a46efbd' => [
+        'If you believe that your best years are behind you, you\'ve guaranteed they are; I\'m going to dance into that good night, with the oldies turned up loud.',
+        'Gina Barreca',
     ],
-    '89a0bb9a-bd2e-5b51-9ccd-d55a9d000124' => [
-        'Every exit is an entry somewhere else.',
-        'Tom Stoppard',
+    'caf8622f-a782-5ea9-9e14-7dcf76eb1c83' => [
+        'Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.',
+        'H. L. Hunt',
     ],
-    '67c1653b-6321-55da-8cf7-93f27079f91c' => [
-        'A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.',
-        'David Brinkley',
+    '134d2ffd-2218-50e4-8637-cca81c1212e4' => [
+        'We opened Panda Inn on June 8, 1973. The whole family - my parents, a brother and sister - all worked at the restaurant for free. We lived in a two-bedroom apartment in San Gabriel and didn\'t have any money.',
+        'Andrew Cherng',
     ],
-    '9183c12e-cc89-5895-86b5-e8b939119f82' => [
-        'That\'s the thing about awards - it\'s for the people who do all the hard work behind the scenes. An award is just a clap at them.',
-        'Sia',
+    'caa55a1b-2f7b-5740-9237-2651571c72b6' => [
+        'No matter how many goals you have achieved, you must set your sights on a higher one.',
+        'Jessica Savitch',
     ],
-    '469263a2-b626-513f-b6c8-3e86c331eb70' => [
-        'Beauty is grace and confidence. I\'ve learned to accept and appreciate what nature gave me.',
-        'Lindsay Lohan',
+    '656070a6-cf02-59b3-839c-f3349951240a' => [
+        'Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.',
+        'Ralph Emerson',
     ],
-    '77819147-735c-528c-87ae-f591ea953524' => [
-        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
-        'Tom Perrotta',
+    'ae27fa37-3266-5879-af8f-ef0a65769654' => [
+        'The success of any great moral enterprise does not depend upon numbers.',
+        'William Lloyd Garrison',
     ],
-    '23403528-0f71-5a3e-ab20-834723c50acc' => [
-        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
-        'Irina Shayk',
+    '451e7e14-16db-5f20-adde-7d3c2ef6b609' => [
+        'Why is Cloud 9 so amazing? What is wrong with Cloud 8? That joke came off the top of my head, and the top of my head ain\'t funny!',
+        'Mitch Hedberg',
     ],
-    'b751b8e1-e093-552b-b43d-6a9c01ae13c9' => [
-        'It pays to get drunk with the best people.',
-        'Joe E. Lewis',
+    'f113460e-cf44-5f81-8cc8-6a9d62c121fd' => [
+        'Not by appointment do we meet delight Or joy; they heed not our expectancy; But round some corner of the streets of life they of a sudden greet us with a smile.',
+        'Gerald Massey',
     ],
-    'f32c6627-e007-5431-8611-5b819f60e968' => [
-        'Satisfaction consists in freedom from pain, which is the positive element of life.',
-        'Arthur Schopenhauer',
+    '88d3fcd5-09e8-5306-a573-bcea9fd1b2bf' => [
+        'But, when the work was finished, the Craftsman kept wishing that there were someone to ponder the plan of so great a work, to love its beauty, and to wonder at its vastness.',
+        'Giovanni Pico della Mirandola',
     ],
-    '86a9d9c9-7929-51e3-9436-b1794b0e26c2' => [
-        'I firmly believe that if your environment works for you and your family, it translates into a better life.',
-        'Candice Olson',
+    '6506f0b5-9f9b-5e57-955f-facaf10a5d50' => [
+        'Treat people as if they were what they ought to be and you help them to become what they are capable of being.',
+        'Johann Wolfgang von Goethe',
     ],
-    '7b5b8482-6c55-5566-a6d5-0b53415ad01e' => [
-        'A committee is a group that keeps minutes and loses hours.',
-        'Milton Berle',
+    'bbf809c9-721f-55ba-8239-060608bd644a' => [
+        'I definitely at times notice a difference in service when I go out. You know, I can walk in to grab a cup of coffee or walk in to have lunch or dinner, and people definitely seem on their best behavior, which is funny, or I start to see people clean up around me, which I always find really, really amusing.',
+        'Tabatha Coffey',
     ],
-    'd94f0335-4f6a-547b-be76-e6d93a787e2b' => [
-        'Don\'t lower your expectations to meet your performance. Raise your level of performance to meet your expectations. Expect the best of yourself, and then do what is necessary to make it a reality.',
-        'Ralph Marston',
+    '10d6eb1e-487a-5fdc-8c13-381b95c153b0' => [
+        'Do what you love to do and give it your very best. Whether it\'s business or baseball, or the theater, or any field. If you don\'t love what you\'re doing and you can\'t give it your best, get out of it. Life is too short. You\'ll be an old man before you know it.',
+        'Melody Beattie',
     ],
-    '792cc0d8-b9cd-5491-85a9-d28b908021f6' => [
-        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
-        'Nigel Lythgoe',
+    'f4f026e1-49fe-5d27-a141-dabf9d9bb571' => [
+        'A tree is an incomprehensible mystery.',
+        'Jim Woodring',
     ],
-    'a4775a85-0e46-5ab4-991a-32ca86df3fdb' => [
-        'There are few aspects of everyday life that aren\'t touched by the technologies developed for space travel.',
-        'Scott Kelly',
+    'd48f5429-51aa-5901-96d6-f02581a3efcb' => [
+        'My father would take me to the playground, and put me on mood swings.',
+        'Jay London',
     ],
-    'bf3c7a79-1a55-59d7-b006-2ac1e7a17cc8' => [
-        'You learn more about life from watching \'Big Brother\' than from reading a book.',
-        'Phillip Sweet',
+    '6841ed4d-0831-5af8-b951-538ae8e7a7c3' => [
+        'We are what we believe we are.',
+        'C.S. Lewis',
     ],
-    '58a81863-3f33-5228-8948-b68d42b64c92' => [
-        'A light wind swept over the corn, and all nature laughed in the sunshine.',
-        'Anne Bronte',
+    'b16d8ff2-299b-595e-9b39-c3b28a5ddbb1' => [
+        'Life well spent is long.',
+        'Voltaire',
     ],
-    '1a62c11c-c16a-5b99-b3c2-4be568f5241a' => [
-        'It is in your moments of decision that your destiny is shaped.',
-        'Tony Robbins',
+    '023d7f0e-d898-5cb5-b825-00858e2b9208' => [
+        'It\'s lovely to work with a group of actors who make you laugh and smile.',
+        'Kelly Reilly',
     ],
-    'f68d5bff-e3cc-52eb-88b3-40d98deaba4c' => [
-        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
-        'Evgeny Morozov',
+    'dfeaaa32-fae7-56d3-a86f-ca94885c283b' => [
+        'Law enforcement officers are never \'off duty.\' They are dedicated public servants who are sworn to protect public safety at any time and place that the peace is threatened. They need all the help that they can get.',
+        'Barbara Boxer',
     ],
-    '33ae9255-babb-52d0-8c47-fb502005866d' => [
-        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
-        'Elizabeth Olsen',
+    'de733bd4-9e29-5f90-98f2-e412e1cf1d12' => [
+        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
+        'Charles Baudelaire',
     ],
-    'ede7e175-742d-506f-9c47-ecb9b911d0f9' => [
-        'I\'ve thought it would be cool to have a baby young. You know, be my road dog - like my dogs, they travel the world - but there\'s always something you have to give up for success. Everything comes at a cost. Just what are you willing to pay for it?',
-        'Serena Williams',
+    'c061fa81-2114-56ba-8931-5219d0751556' => [
+        'Work is a prayer. And I start off every morning dedicating it to our Creator.',
+        'Joseph Murray',
     ],
-    '901f33be-e3e7-5f78-806f-98d82e901d37' => [
-        'If you do what you love, it is the best way to relax.',
-        'Christian Louboutin',
+    '27f4bfa5-0338-5c8c-8e5c-7070d200211a' => [
+        'Do one thing every day that scares you.',
+        'Unknown',
     ],
-    'dfe4c45c-619e-5351-ab04-f7653778dfc0' => [
-        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
-        'Russell Simmons',
+    '35f4424f-5063-5aa4-ac7d-ab27765c2413' => [
+        'If a writer falls in love with you, you can never die.',
+        'Mik Everett',
     ],
-    '47b23cd2-6927-5229-962e-875f3ba98021' => [
-        'I find it an absolute pleasure to read travel guides, especially the Michelin guides, and their description of places I know I\'ll probably never visit. I spend a large part of my life reading descriptions of restaurants.',
-        'Michel Houellebecq',
+    '0835a976-90a9-5de6-9d5e-6fb4d724a822' => [
+        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
+        'Al Yankovic',
     ],
-    '688f7d6a-6915-56d0-9bc5-a3037ee7ada4' => [
-        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
-        'Steven Spielberg',
+    '6365d5aa-5f56-564f-a0cb-34c88f213dc1' => [
+        'I am very close to my family. I have learned a lot from my father. He used to tell me to be honest with yourself and not to argue with your seniors. You don\'t need to be involved in any quarrel, as sometimes you need to remain silent intelligently.',
+        'Suresh Raina',
     ],
-    '8b9b3578-70fc-5186-86e5-07f7c4fda538' => [
-        'Every time I hear someone making ignorant comments about the supposed \'evils\' of homosexuality, I think about the true evil of the high suicide rates among gay and lesbian teens.',
-        'Susan Estrich',
+    'c692d64b-c488-5a5f-9ff9-1fa8bac9aed5' => [
+        'The whole point is to live life and be - to use all the colors in the crayon box.',
+        'Romy Schneider',
     ],
-    'c61c1c67-7463-5bb7-819a-7a1ce58df9de' => [
-        'A lawn is nature under totalitarian rule.',
-        'Michael Pollan',
+    '558ff554-e35a-59ed-8bc4-e4fb4dd0a0de' => [
+        'Oh, I would love to be a motivational speaker. I have pulled myself out of a million potholes, and I can see the potholes ahead of me. That doesn\'t mean that I could always do that so perfectly for my own life. I totally fall in potholes.',
+        'Drew Barrymore',
     ],
-    'b2c3ec8c-034d-5a87-be21-dc4e038c13aa' => [
-        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
-        'David Seabury',
+    'b0c84491-8abf-5d70-a2b0-f8c19bfd2ee6' => [
+        'So at a time in which the media give the public everything it wants and desires, maybe art should adopt a much more aggressive attitude towards the public. I myself am very much inclined to take this position.',
+        'Thom Mayne',
     ],
-    'd1599670-edeb-59c2-9061-073b78dde1ac' => [
-        'I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.',
-        'Frederick Douglass',
+    'b70fa9a2-e0c9-5308-8de7-80885f8730c7' => [
+        'Aging has a wonderful beauty and we should have respect for that.',
+        'Eartha Kitt',
     ],
-    '6dca78fd-df61-5295-8fb2-9847c06828e0' => [
-        'We\'re all biased, right, in many different ways - politically, religiously, ideologically, the way our family raised us - and that\'s fine. Nobody wants to live in a world where everybody thinks exactly the same. The key, though, is to try to figure out where your biases are holding you back from solving problems.',
-        'Stephen J. Dubner',
+    '6769bdae-85ea-5686-a573-c3e96b12d3d2' => [
+        'My success just evolved from working hard at the business at hand each day.',
+        'Johnny Carson',
     ],
-    '5e8e3474-9d99-5e4d-8bc7-664500934e31' => [
-        'Although as a sailor I despised politics - for I loved my sailor\'s life and still love it today - conditions forced me to take up a definite attitude towards political problems.',
-        'Fritz Sauckel',
+    '71a2e737-4a4f-5f86-b732-cf2a253265af' => [
+        'The success of each of us benefits us all, and the success of us all benefits each of us individually.',
+        'Walter Ulbricht',
     ],
-    '6669c8d5-38fb-5310-b6c8-45e864c628eb' => [
-        'Nature has never read the Declaration of Independence. It continues to make us unequal.',
-        'Will Durant',
+    '0e35f15e-a1f9-5250-bef6-aade40e0e154' => [
+        'Clever men are good, but they are not the best.',
+        'Thomas Carlyle',
     ],
-    'bb545275-99f2-5a55-9ff8-775dbbfcf57e' => [
-        'Those who dream by day are cognizant of many things which escape those who dream only by night.',
-        'Edgar Allan Poe',
+    '3f79feb8-f61e-58f2-b94b-2b9f27d6795e' => [
+        'Life is a series of waves to be embraced and overcome.',
+        'Albert Schweitzer',
     ],
-    '952d00bb-b050-55f5-a93f-ecd263ec7a1f' => [
-        'I truly believe that the people who have a negative view of Trump will be pleasantly surprised when he becomes the leader of our country. I also believe he will make positive changes that will benefit the people who need it most.',
-        'Chuck Norris',
+    'fe4b8214-a6b2-50b7-b189-7db029eae3f3' => [
+        'Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.',
+        'Buddha',
     ],
-    'ddf4c447-4d59-507e-9c4d-0e1bb99d16cf' => [
-        'Divorce is a time of change. It really rocks a foundation of most people\'s lives. When we have our heart broken or our dreams taken away from us, it is a time of growth and change.',
-        'Debbie Ford',
+    'f504ebf2-0eca-5b6e-97e5-07ece4c82888' => [
+        'One thing I would say is that I think in any environment that you work in, there\'s always going to be one or two people who you don\'t like. But there just wasn\'t that on \'Games Of Thrones\'. I know it sounds cheesy and cliched, but it was like a big family.',
+        'Alfie Allen',
     ],
-    '154f59a3-87f9-5a5d-8a9a-7d7a5906db3c' => [
-        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
-        'George Lorimer',
+    'cb8cb856-997b-5a1f-99b2-d97ae49ffe01' => [
+        'If you are not willing to risk the usual you will have to settle for the ordinary.',
+        'Jim Rohn',
     ],
-    '4f0c73bc-ed51-5cf2-ba58-bd0e244a812f' => [
-        'The trouble with our times is that the future is not what it used to be.',
-        'Paul Valery',
+    'dfeb3258-2372-52cc-beb6-80360b9f6564' => [
+        'If your best friend has stolen your girlfriend, it does become life and death.',
+        'Ben Kingsley',
     ],
-    '463d3369-7b15-5a21-be7f-9dd61b01cbb2' => [
-        'An ounce of practice is better than tons of teaching.',
-        'Mahatma Gandhi',
+    '99d736a7-533c-5c7a-97a8-b984d9b43477' => [
+        'I quite like the idea of family. That\'s probably the greatest achievement in the world. I\'ve got a lot to achieve workwise - I\'d love to direct - but family would be good.',
+        'Matt Smith',
     ],
-    '0e88d57b-3a4c-5d34-9ea5-2658216b9131' => [
-        'The trains that travel the Chunnel are massive machines. The Eurostars are bullet-shaped and a quarter-mile long. They are pulled by a 136,000-pound locomotive and move in the open air at 185 m.p.h. and through the tunnel at 100 m.p.h.',
-        'Peter Landesman',
+    '00fa5571-b4dd-5e13-a61e-4b5c1494ebd4' => [
+        'Smile, it is the key that fits the lock of everybody\'s heart.',
+        'Anthony J. D\'Angelo',
     ],
-    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
-        'There is always room at the top.',
-        'Daniel Webster',
+    '146654f1-6e8a-51d6-8f45-2ab8417a567a' => [
+        'Life is not over because you have diabetes. Make the most of what you have, be grateful.',
+        'Tom Petty',
     ],
-    '826a91d7-fd70-5844-b9bd-f9502beae8b7' => [
-        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
-        'Mohammed bin Rashid Al Maktoum',
+    'ae6476e7-0e76-5f84-abfd-8d4583de52e4' => [
+        'The cat is such a perfect symbol of beauty and superiority that it seems scarcely possible for any true aesthete and civilised cynic to do other than worship it.',
+        'H. P. Lovecraft',
     ],
-    'b98c9a3e-adb3-5a0b-87b2-0890dc0b8189' => [
-        'We\'ve certainly learned a lot of lessons from Katrina, from Rita. Rita was better than Katrina. We\'re doing a better job planning. We\'re closer - more closely aligned with the Department of Defense. These things would be positive things if we were to have another attack.',
-        'Michael Chertoff',
+    'bdf1efce-1f07-5a07-b92e-e18c05be1cb5' => [
+        'Growing up in a group home, and with an undiagnosed learning disability to boot, the odds of success were not on my side. But when I joined the high school football team, I learned the value of discipline, focus, persistence, and teamwork - all skills that have proven vital to my career as a C.E.O. and social entrepreneur.',
+        'Darell Hammond',
     ],
-    '071b5ba3-ee10-52e0-83db-1e5fab11fff0' => [
-        'Good manners will open doors that the best education cannot.',
-        'Clarence Thomas',
+    '0faf8938-bd9a-56b7-8fce-881ae9421711' => [
+        'When onstage, I always try to take my audience through as many emotions as I possibly can. I want them to go from laughter to tears, be shocked and surprised and walk out the door with a renewed sense of themselves - and maybe a smile.',
+        'Reba McEntire',
     ],
-    '8c99590c-21e4-5dd8-a693-91bb6578904a' => [
-        'One could not pluck a flower without troubling a star.',
-        'Loren Eiseley',
+    '164e1a1b-4668-5ce8-9862-bc0172e67447' => [
+        'To be upset over what you don\'t have is to waste what you do have.',
+        'Ken S. Keyes',
     ],
-    '08947d6e-c32a-5c10-bb99-159922fcfbcd' => [
-        'As long as you know yourself and you got good people around you and you passionate about what you do, that\'s all that matters because at the end of the day, you go to sleep with the people you love, you wake up with the people you love, and you spend your time with the people you love.',
-        'Tyga',
+    'e6357ae3-f354-5512-8da2-96db6acbcc18' => [
+        'It\'s hard to lead a cavalry charge if you think you look funny on a horse.',
+        'Adlai E. Stevenson',
     ],
-    'e93354dd-2392-5e4d-b6ea-1bb0e37add08' => [
-        'If the world could remain within a frame like a painting on the wall, I think we\'d see the beauty then and stand staring in awe.',
-        'Conor Oberst',
+    'c4ae9167-2893-5761-97ef-2200432dca94' => [
+        'A lot of newspaper columns used to be written in a rat-a-tat-tat, fast-paced style - and they tended to be funny. They were a little relief from the grimmer, grayer parts of the newspaper, and one of the best people at doing this was Will Rogers.',
+        'P. J. O\'Rourke',
     ],
-    'b174be71-b10b-5d1f-a592-cea8648077ff' => [
-        'If you don\'t embrace who you are and accept who you are, you won\'t be able to live a happy life.',
-        'Steve Jobs',
+    'd6af6381-e5fd-519a-b28e-2b833e36dc7b' => [
+        'Without this tremendous passion for power, influence, and advantage which money gives, how could nature develop the highest type of man? Without this infinite longing, whence would come the discipline which industry, perseverance, tact, sagacity, and frugality give?',
+        'Orison Swett Marden',
     ],
-    '0863acf8-5955-51cf-93e1-f416897c6b81' => [
-        'I enjoy jokes, smiling, and making people smile. I may be a little different, but that\'s OK, who wants to be normal anyway?',
-        'Tim Duncan',
+    'a079848a-de3e-564a-88a7-058669937c99' => [
+        'The power of intuitive understanding will protect you from harm until the end of your days.',
+        'Laozi',
     ],
-    'cda92eef-6370-589c-89e9-c716679487ce' => [
-        'Nobody is gonna love you like you. You\'re gonna be your best salesman.',
-        'T.I.',
+    '0eb1219c-7838-58c5-9ff9-ff5349fe230b' => [
+        'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
+        'Lucille Roybal-Allard',
     ],
 ];

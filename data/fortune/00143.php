@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4b7af8d2-3061-5b18-8512-f81cd5c99eac' => [
-        'Custom, that is before all law; Nature, that is above all art.',
-        'Samuel Daniel',
+    '8a1816c7-becc-5259-98d5-b40df09118be' => [
+        'The Way Get Started Is To Quit Talking And Begin Doing.',
+        'Walt Disney',
     ],
-    'e25a4554-02f4-5da7-852d-80b0d13d614c' => [
-        'There are so many funny women in the world, and there has been for so many years, so I\'ll be happy when people can just move on from that, and things can just be \'comedies\' and not \'female\' or \'male,\' and everyone gets an equal opportunity.',
-        'Kristen Wiig',
+    '2fca0236-f156-5f44-bf32-bf251d779111' => [
+        'Within 10 years it will be impossible to travel to the North Pole by dog team. There will be too much open water.',
+        'Will Steger',
     ],
-    '7a10658a-a9de-5fb3-9281-a03fa5f7f018' => [
-        'Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.',
-        'Brian Tracy',
+    '53e27697-d470-5b29-8a2a-72c6fdb934f2' => [
+        'Time is the most valuable thing on earth: time to think, time to act, time to extend our fraternal relations, time to become better men, time to become better women, time to become better and more independent citizens.',
+        'Samuel Gompers',
     ],
-    '3ffe8a22-1329-571c-ba8e-d28c44b153f6' => [
-        'We must advertise to U.S. business that we are there, that our attitude has changed, and that we care. When we are asked to help, we have to perform and provide the right advice.',
-        'Lawrence Eagleburger',
+    '08028193-8b74-5a01-993a-fd89e364ab07' => [
+        'I\'m just cruising, doing me, having a good time and focusing on getting better.',
+        'Alistair Overeem',
     ],
-    'b33ccaf4-6f59-59eb-9cb7-2f9d430f68e1' => [
-        'Sometimes in life, we try to do our very best to help others, and in the process, it brings some anguish to us. But we can\'t ever let that stop us. We can\'t ever be stopped from helping others and allowing them to have some sense of happiness and joy in their life.',
-        'Jon Huntsman, Sr.',
+    'cd085142-056d-5161-9fb3-3c02e6f2ce14' => [
+        'Some people are fighting much, much more important battles and much bigger battles, and if we get the chance to put a smile on their face for ten seconds, it\'s so worth it.',
+        'Dolph Ziggler',
     ],
-    '363180ec-dcca-571d-b232-ad1b52a4733c' => [
-        'I trust in nature for the stable laws of beauty and utility. Spring shall plant and autumn garner to the end of time.',
-        'Robert Browning',
+    '2e5f976e-126d-5caa-b578-a5580e55efff' => [
+        'Acting is magical. Change your look and your attitude, and you can be anyone.',
+        'Alicia Witt',
     ],
-    '2044a610-1190-5da7-ab27-c4a5a7a7768e' => [
-        'I like to be lazy. I do like to be busy and really active, but when that\'s done, you can be sure I will be a lazy boy. I like to take time and relax and enjoy life.',
-        'Olivier Theyskens',
+    '33157a80-637d-5291-88bb-2dd842ed0ed1' => [
+        'A man can be drawn across the room with the simplicity of a smile. That\'s why your pearly whites should always be straight and shiny. I think most of my clients are drawn to a fun, flirty nature in a woman. The problem is, most women do not often feel fun and flirty.',
+        'Patti Stanger',
     ],
-    '4b4af067-4234-5aea-8357-467a61eadd0f' => [
-        'My everyday beauty routine is always rushed and pretty simple.',
-        'Cate Blanchett',
+    '5bbc9c58-3a80-57ad-886e-8fd938e646c6' => [
+        'The best is the enemy of the good.',
+        'Voltaire',
     ],
-    '7f2b7567-1de0-596f-808e-c7fb3391a748' => [
-        'Becoming an author changes your attitude too. Once you see where books come from, and how they\'re made, they never seem quite as sacred again.',
-        'Lev Grossman',
+    '0f63751b-8572-5cd3-8173-9e2b88f8d0bd' => [
+        'Healthy children are born from healthy, respected, well-nourished and educated mothers and it is imperative that they have a voice in the decisions which affect them. If you empower a mother and let her have her say towards a poverty-free future, the positive impact this would have on ending hunger will be immense.',
+        'Dionne Warwick',
     ],
-    'be04fe70-9ada-54b6-9a28-782e3acfc1d8' => [
-        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
-        'Leonardo da Vinci',
+    '4a72653a-31d7-50fb-baad-010ee1914ef5' => [
+        'The person attempting to travel two roads at once will get nowhere.',
+        'Xun Kuang',
     ],
-    'ba042902-9849-584e-a68f-e32e013182b5' => [
-        'A desire to be in charge of our own lives, a need for control, is born in each of us. It is essential to our mental health, and our success, that we take control.',
-        'Robert Foster Bennett',
+    'c3c4d722-39f4-5001-9c12-4ae0521efecf' => [
+        'It is the addition of strangeness to beauty that constitutes the romantic character in art.',
+        'Walter Hagen',
     ],
-    '786755bd-5849-5162-9294-958b189dc018' => [
-        'What I found in Silicon Valley is an industry that\'s sort of been kept a very far remove from Washington and had an attitude of \'Just let us do our thing and make the miracles that people love around the world and leave us alone.\'',
-        'George Packer',
+    'aecd9b17-7d65-528c-a1c2-30b8a2977de9' => [
+        'Sooner or later, those who win are those who think they can.',
+        'Richard Bach',
     ],
-    'e28db826-7297-5491-b561-1dffa17c486d' => [
-        'You can be what you want to be. You have the power within and we will help you always.',
-        'Byron Pulsifer',
+    'd67b97d7-b6ee-5df1-a9c9-89f2a80970ff' => [
+        'And I have to work so hard at talking positively to myself. If I don\'t, it\'s just real hard to get through the day, and I\'ll get really down, and just want to cry. My whole body language changes. I get more slumped over.',
+        'Delta Burke',
     ],
-    'cc3a0217-6120-5a39-b7bd-9c1b60727d26' => [
-        'The best thing in every noble dream is the dreamer...',
-        'Moncure Conway',
+    '7352e430-b5a1-529c-b117-d71df25c62f1' => [
+        'Waste no more time arguing about what a good man should be. Be one.',
+        'Marcus Aurelius',
     ],
-    '138cae57-9fe4-56ff-a427-2399dd48efac' => [
-        'Aim for the moon. If you miss, you may hit a star.',
-        'W. Clement Stone',
+    '6aa31efb-1ab7-534d-8c9e-558da4a16063' => [
+        'Oscar Wilde always makes me smile - with respect and admiration. His short stories prove that it is possible to be both sarcastic, even cynical, but deeply compassionate. Just seeing the cover of one of Wilde\'s books in a bookshop makes me smile.',
+        'Orhan Pamuk',
     ],
-    '24c84956-46ca-5720-9b30-32283fa23342' => [
-        'Financial freedom is available to those who learn about it and work for it.',
-        'Robert Kiyosaki',
+    '91091501-2672-509a-833f-5a8824eb52c8' => [
+        'In both business and personal life, I\'ve always found that travel inspires me more than anything else I do. Evidence of the languages, cultures, scenery, food, and design sensibilities that I discover all over the world can be found in every piece of my jewelry.',
+        'Ivanka Trump',
     ],
-    'ecc66329-9835-565b-949b-897ce52b6392' => [
-        'I\'ve met the most interesting people while flying or on a boat. These methods of travel seem to attract the kind of people I want to be with.',
-        'Hedy Lamarr',
-    ],
-    'f5cf8b87-311e-50cf-ad12-cd303c39951d' => [
-        'I want to work for a company that contributes to and is part of the community. I want something not just to invest in. I want something to believe in.',
-        'Anita Roddick',
-    ],
-    'f9d6c89d-b57c-50be-be4e-d770a408758e' => [
-        'We should meet abuse by forbearance. Human nature is so constituted that if we take absolutely no notice of anger or abuse, the person indulging in it will soon weary of it and stop.',
-        'Mahatma Gandhi',
-    ],
-    '3d2b165c-a6a8-5421-8f82-8b9c64a4bf5f' => [
-        'I read everything: fiction, history, science, mathematics, biography, travel.',
-        'Martin Lewis Perl',
-    ],
-    '4a610bb2-c4e0-5188-937d-7079a52eaf45' => [
-        'Your attitude will go a long way in determining your success, your recognition, your reputation and your enjoyment in being a lawyer.',
-        'Joe Jamail',
-    ],
-    '7b6a0706-3d39-577d-9e9e-6cfb7a30f5c4' => [
-        'It\'s always funny until someone gets hurt. Then it\'s just hilarious.',
-        'Bill Hicks',
-    ],
-    'ba7075bb-76fb-57d8-a826-5382f6da91d5' => [
-        'I would say I\'m an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life.',
-        'Chris Brown',
-    ],
-    'cb949989-c1f2-524f-8c50-580feefa9e78' => [
-        'Fun opens the doors to creativity, which then leads to inspiration, which then births passion, which all together equals both happiness and success!',
-        'Rachele Brooke Smith',
-    ],
-    '36c1d1e8-78d6-56d5-8f0f-c53ad6be7b9a' => [
-        'The purpose of Disneyland is to make people smile.',
-        'Kevin Plank',
-    ],
-    '57dfa0d4-750d-5569-975f-6905dd2336ab' => [
-        'Just to travel is rather boring, but to travel with a purpose is educational and exciting.',
-        'Sargent Shriver',
-    ],
-    '0721e67e-72b3-5f5c-938e-6b6f733d652b' => [
-        'I think we\'re all good and bad, but good\'s not funny. Bad is funny. Suppress the good and let the bad out, and then you can be funny.',
-        'Larry David',
-    ],
-    '5e48b350-f16f-58a8-b493-656116424c40' => [
-        'I used to think that the worst thing in life was to end up alone. It\'s not. The worst thing in life is to end up with people who make you feel alone.',
-        'Norman Cousins',
-    ],
-    '517f6ab4-eaf7-5a69-b8d1-840f35f7ff2b' => [
-        'The whole beauty of music is that it goes where your words won\'t let you.',
-        'Anne Hathaway',
-    ],
-    'c6b39e13-47b5-5168-bc83-fbcafbba527f' => [
-        'The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.',
-        'Paracelsus',
-    ],
-    '73f17887-05ec-5370-964b-08adeab81e60' => [
-        'I\'m terrified of bugs and I travel with sprays, lotions, potions; the lot. I have to check the room before I go to sleep and if I come across a bug and fail to remove it I have to sleep in a separate room as I\'m paranoid that I\'ll be taken advantage of as I sleep.',
-        'Freema Agyeman',
-    ],
-    '5826ff09-71f4-52b5-a0fe-7e02294d76d0' => [
-        'I found it interesting that as people become more technically oriented all over the world, at the same time people are becoming increasingly spiritual. The success of the Da Vinci code - even though it was a great yawn - also showed people\'s interest in religion.',
-        'Barbara Walters',
-    ],
-    '6c002904-5994-5ab8-829e-e6418d078e0a' => [
-        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
-        'Robert Louis Stevenson',
-    ],
-    'ae495d3c-7abf-5fff-b264-1ac590bcc7f1' => [
-        'I like marriage. The idea.',
-        'Toni Morrison',
-    ],
-    '9d608c83-9c3b-5dfd-87c6-a846e9520abd' => [
-        'Don\'t knock the weather; nine-tenths of the people couldn\'t start a conversation if it didn\'t change once in a while.',
-        'Kin Hubbard',
-    ],
-    '2eea134b-9689-5d13-8653-390bcb2826cb' => [
-        'I do believe we\'re all connected. I do believe in positive energy. I do believe in the power of prayer. I do believe in putting good out into the world. And I believe in taking care of each other.',
-        'Harvey Fierstein',
-    ],
-    '10df5f49-983b-5d86-8f88-a7ec1cbe192f' => [
-        'One of my passions is photography. I always carry a camera in my bag whenever I travel. I always take pictures wherever I go, and some of them end up being really crazy ones.',
-        'Sunidhi Chauhan',
-    ],
-    'b4acdc74-e9de-5272-87b9-9f3bf1c8ce04' => [
-        'The most difficult thing in life is to know yourself.',
-        'Martin Freeman',
-    ],
-    '62de85fe-a288-581a-859b-7bd63cc7facf' => [
-        'The best career advice I\'ve gotten is to stay focused, keep moving forward.',
-        'Tyga',
-    ],
-    'a8036cc6-b053-5fce-b7e6-9e4b88ab1177' => [
-        'One travels more usefully when alone, because he reflects more.',
-        'Thomas Jefferson',
-    ],
-    'b4fd7d3c-17e7-5c6f-be07-f996f5881147' => [
-        'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
-        'Henry David Thoreau',
-    ],
-    'ed1e461b-689d-56f3-a212-fabf40cf3381' => [
-        'What\'s another word for Thesaurus?',
-        'Steven Wright',
+    '558ee375-45ee-5be0-8a91-ff66638c6167' => [
+        'Life must be lived as play.',
+        'Will Rogers',
     ],
     'aad1f50f-3e07-5fec-82b6-8038065e2464' => [
         'Right now I am trying to be in a place of calm, a place where I can chill out and then handle the chaos of life better. You don\'t just get it overnight; you have to work at it. It\'s a daily struggle.',
         'Jackee Harry',
     ],
-    'f37702aa-664f-5ba4-80cd-67ca5792eb3b' => [
-        'If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.',
-        'John D. Rockefeller',
+    '51e79653-8768-5996-b873-4bdfadbdf86e' => [
+        'Empowering the individual means empowering the nation. And empowerment is best served through rapid economic growth with rapid social change.',
+        'Atal Bihari Vajpayee',
     ],
-    '05329fde-0b84-5b05-9e4c-34a58cd3b629' => [
-        'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
-        'Logan Pearsall Smith',
+    '8bfbcf8d-b09e-5014-8886-f41c81275796' => [
+        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
+        'Jimmy Reid',
     ],
-    'db3e719a-c26d-5bba-b55f-c48aa85f07de' => [
-        'Familiarity is a magician that is cruel to beauty but kind to ugliness.',
-        'Ouida',
+    '6f551d20-cbcf-5a3a-9f12-744e7d27be99' => [
+        'The person interested in success has to learn to view failure as a healthy, inevitable part of the process of getting to the top.',
+        'Joyce Brothers',
     ],
-    '8d80dc6f-e2f8-5b6b-87ea-7fada7c0ff1b' => [
-        'We asserted ourselves as a music community, and showed legislators that music is positive. Especially if you\'ve sold 300 million records worldwide and pay taxes.',
-        'Krist Novoselic',
+    'b4d8b68f-1797-551b-9be4-6fde6650dfa2' => [
+        'I have a very positive attitude in life. My insecurity, fear and need to know about tomorrow has fortunately eased. What is going to happen will happen anyway. So why break my head over it?',
+        'Katrina Kaif',
     ],
-    '3ab280dd-e50d-5e9b-a699-b3c5939dfb02' => [
-        'There is nothing so stable as change.',
-        'Bob Dylan',
+    '5a5cbfd9-ffc1-501a-a350-5397237cea8e' => [
+        'Attitude determines the altitude of life.',
+        'Edwin Louis Cole',
     ],
-    '36e7204c-3f6b-5efc-b2d1-ca5a813d9312' => [
-        'I realized I love motivating and I love empowering and I love inspiring people. I did that as an athlete for 18 years, and I am able to do that as a motivational speaker now as well as doing work on television.',
-        'Dominique Dawes',
+    '7f352187-1a18-56ab-a849-9c7468791127' => [
+        'People with high blood pressure, diabetes - those are conditions brought about by life style. If you change the life style, those conditions will leave.',
+        'Sarah Ban Breathnach',
     ],
-    'd2d729d9-53f0-55b1-81d3-87c54ba2040b' => [
-        'Intuition is the wisdom formed by feeling and instinct - a gift of knowing without reasoning... Belief is ignited by hope and supported by facts and evidence - it builds alignment and creates confidence. Belief is what sets energy in motion and creates the success that breeds more success.',
-        'Angela Ahrendts',
+    '300bc02b-55a4-5a57-bb5e-1a12fca4dac1' => [
+        'The essential lesson I\'ve learned in life is to just be yourself. Treasure the magnificent being that you are and recognize first and foremost you\'re not here as a human being only. You\'re a spiritual being having a human experience.',
+        'Connor Franta',
+    ],
+    '4c1c83dd-96f0-59c3-8f74-53bf7b4ae990' => [
+        'You take all the things that frighten you, and when you can get them to work for you all of sudden people are calling you a success.',
+        'Randy Bachman',
+    ],
+    '09fd5516-d75d-5072-a119-9a5b442197fa' => [
+        'There is a sense that things, if you keep positive and optimistic about what can be done, do work out.',
+        'Hillary Clinton',
+    ],
+    'f3683b7a-f777-584b-8d14-475610f7a730' => [
+        'The world is so competitive, aggressive, consumive, selfish and during the time we spend here we must be all but that.',
+        'Jose Mourinho',
+    ],
+    '888db37a-914f-52aa-9848-8d5164dd2ec9' => [
+        'Listening is a positive act: you have to put yourself out to do it.',
+        'David Hockney',
+    ],
+    '02e79c19-c820-5cd0-8285-65bdbf18332b' => [
+        'Time makes heroes but dissolves celebrities.',
+        'Daniel J. Boorstin',
+    ],
+    '6de8f983-9870-5ff9-9be7-917b4fab41c1' => [
+        'I keep my beauty regimen as natural as possible. I wash my face four times a day. In the beginning of the day, I use an exfoliating cleanser made of besan, turmeric and sandalwood. I drink lots of water and avoid oily food. I use only The Body Shop products on my face, as they use the least amount of chemicals.',
+        'Tena Desae',
+    ],
+    'a3ffe99d-facf-5ebc-a716-a6c42a799c95' => [
+        'I think that I shall never see a poem lovely as a tree.',
+        'Joyce Kilmer',
+    ],
+    '6c4fa107-416d-519e-8dad-86ea0f1a9606' => [
+        'Women of worth are those who want positive change for themselves, their families, community or society, which I think is important. For me, a woman of worth is someone who has self -espect, who believes that she can change things in society.',
+        'Sonam Kapoor',
+    ],
+    'e0536982-d897-55ef-ad20-3fefbc64e27b' => [
+        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
+        'Roman Coppola',
+    ],
+    '5e295359-5c7a-5d0d-95a1-cedf042ab4be' => [
+        'For success, attitude is equally as important as ability.',
+        'Walter Scott',
+    ],
+    '81e30ad5-0c13-5f59-80d8-f7b1b885767b' => [
+        'These things bring you to reality as to how fragile you are; at the same moment you are doing something that nobody else is able to do. The same moment that you are seen as the best, the fastest and somebody that cannot be touched, you are enormously fragile.',
+        'Ayrton Senna',
+    ],
+    'f76a9a8c-7b1e-542b-af32-04beba412b00' => [
+        'Negative emotions like loneliness, envy, and guilt have an important role to play in a happy life; they\'re big, flashing signs that something needs to change.',
+        'Leo Buscaglia',
+    ],
+    'f092fbfc-2477-5109-be65-60b49165b5c6' => [
+        'We all learn lessons in life. Some stick, some don\'t. I have always learned more from rejection and failure than from acceptance and success.',
+        'Henry Rollins',
+    ],
+    '2a8cd7e4-74ea-5ae6-a8aa-42b1da2ad9a0' => [
+        'I\'ve always wanted to go to Switzerland to see what the army does with those wee red knives.',
+        'Billy Connolly',
+    ],
+    '6260649f-4cf6-50d3-9e19-266aa53cae2a' => [
+        'Connecting with people, getting things done - that\'s what makes the travel worthwhile.',
+        'Tim Finchem',
+    ],
+    '86b6461f-2d68-564a-b6d6-f0cd65e91728' => [
+        'I\'m definitely a Polaroid camera girl. For me, what I\'m really excited about is bringing back the artistry and the nature of Polaroid.',
+        'Lady Gaga',
+    ],
+    '9b94b3fb-9f05-5a6a-bf85-4a45dcda7055' => [
+        "Acting like you don\u{92}t care is not letting it go",
+        'Penelope Douglas',
+    ],
+    '51e70f1a-9c3f-5168-9bfe-300bd29be1ce' => [
+        'I\'ve read that the ancient Chinese art of feng shui can bring a sense of peace, well-being, and positive energy to a home - same as beer.',
+        'W. Bruce Cameron',
+    ],
+    'eb321c2b-8832-5958-b8ef-b1183086e231' => [
+        'I\'m lucky in that I travel a lot for work. I also manage several holidays a year. I\'m not someone who sits in the sun or goes sightseeing, though. If I go away, it will be for fishing or something like that.',
+        'Vinnie Jones',
+    ],
+    'bd178251-39e4-5c35-85ab-e7db27e1371a' => [
+        'The two most important days in your life are the day you are born and the day you find out why',
+        'Mark Twain',
+    ],
+    '8606f50b-21c6-557d-bbd6-5e53ad9c3315' => [
+        'Before the BBC, I joined the Navy in order to travel.',
+        'David Attenborough',
+    ],
+    '759a09ea-8dca-586c-935c-b096bfaa97d3' => [
+        'I will know how to hold you just by the look in your eye, I will never forget - not even on the day that I die. This is a promise of my passion for you, smile at me and make it true.',
+        'Diana Lynn',
+    ],
+    'ec8a703d-71c4-5407-aa61-3eba43bc03ff' => [
+        'Nobody gets to live life backward. Look ahead, that is where your future lies.',
+        'Donald Trump',
+    ],
+    'b6fab0c6-ab01-5729-adc0-6a286555eba3' => [
+        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
+        'William Channing',
+    ],
+    '15ddebd0-e40f-54b7-87f3-7f1e1f96c5f7' => [
+        'Fame or perceived success - it all comes from groupthink.',
+        'Chance The Rapper',
     ],
 ];

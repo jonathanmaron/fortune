@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '8897445e-b818-59c1-ab02-6086a14d8c7d' => [
-        'Bob Dylan has always sealed his decisions with the unexplainable. His motives for withholding the release of the magnificent \'Basement Tapes\' will be as forever obscure as Brian Wilson\'s reasons for the destruction of the tapes for \'Smile.\'',
-        'Jon Landau',
+    '26e666d3-5e50-5697-87a5-0629da21c6b7' => [
+        'Music is the way I understand how to communicate now, the way that I\'ve learned how to communicate... but it will eventually have to go beyond that. You see, I\'ve realised that music is not what keeps people involved - it\'s the attitude behind the music.',
+        'Todd Rundgren',
     ],
-    'cae7d528-d5e2-50bb-8cfb-5a2e85fd5045' => [
-        'Success makes men rigid and they tend to exalt stability over all the other virtues; tired of the effort of willing they become fanatics about conservatism.',
-        'Walter Lippmann',
+    '6adabf8b-8058-595e-a944-d43d948e0620' => [
+        'Blessed is the man who expects nothing, for he shall never be disappointed.',
+        'Alexander Pope',
     ],
-    '99a5783d-4ae8-50f0-91b8-817c36761c5f' => [
-        'Evolution isn\'t just a take-it-or-leave-it story about where we came from. It\'s an epic at the centre of life itself. It tells us we are part of nature in every respect.',
-        'Kenneth R. Miller',
+    'd9d672cd-0f9c-5fe9-9dfa-846a0bf7e06e' => [
+        'Standards of beauty are arbitrary. Body shame exists only to the extent that our physiques don\'t match our own beliefs about how we should look.',
+        'Martha Beck',
     ],
-    'f1926e19-65e7-5f31-83b2-119eb4de6ac0' => [
-        'The best work is not what is most difficult for you; it is what you do best.',
-        'Jean-Paul Sartre',
+    'd2b479cf-5b86-5189-a202-84fdb40ec064' => [
+        'Like charity, I believe glamour should begin at home.',
+        'Loretta Young',
     ],
-    '9fa4915e-6488-5e0c-8955-45bc17bc9599' => [
-        'I thank you God for this most amazing day, for the leaping greenly spirits of trees, and for the blue dream of sky and for everything which is natural, which is infinite, which is yes.',
-        'e. e. cummings',
+    '9993c7b6-8e88-5921-b136-065d72a29839' => [
+        'I like video games, I like tech, I like being positive.',
+        'Jimmy Fallon',
     ],
-    '1ccb0677-7845-5881-a9d0-24dc3b1a5eca' => [
-        'Football taught me how hard you had to work to achieve something.',
-        'Kenny Chesney',
+    'f6b588f2-1862-5a3e-bdb0-15558811171a' => [
+        'And the attitude of faith is the very opposite of clinging to belief, of holding on.',
+        'Alan Watts',
     ],
-    '74185d52-ffb7-56e3-946b-1a5c005cf7ca' => [
-        'The success of a production depends on the attention paid to detail.',
-        'David O. Selznick',
+    '2a797115-7840-5d9e-9d83-97bb17b090a6' => [
+        'Everything that irritates us about others can lead us to an understanding about ourselves.',
+        'Carl Jung',
     ],
-    'ed0fa02f-6fe9-5d13-a068-8f6d3a95a8ca' => [
-        'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
-        "Henri-Fr\u{e9}d\u{e9}ric Amiel",
+    '815ac5b4-e20a-53af-8e9f-1ed6a5ebd6cf' => [
+        'What matters is the value we\'ve created in our lives, the people we\'ve made happy and how much we\'ve grown as people.',
+        'Daisaku Ikeda',
     ],
-    '4a49d1f1-75e7-5d6d-93d6-5cf042739eb1' => [
-        'But I like not these great success of yours; for I know how jealous are the gods.',
-        'Herodotus',
+    'c14f9bd8-6593-5f0e-aed2-9756f8c8a738' => [
+        'Wisdom is knowing what to do next, skill is knowing how to do it, and virtue is doing it.',
+        'David Starr Jordan',
     ],
-    '0f85e2f2-1094-524d-9835-876354ce88b5' => [
-        'I don\'t think \'Cocktail\' was a perfect critical success, but it touched a vein in our culture.',
-        'Elisabeth Shue',
+    '70678915-5e9a-5db7-bceb-2a2da3f11bd4' => [
+        'Nothing is a waste of time if you use the experience wisely.',
+        'Auguste Rodin',
     ],
-    '6b22b228-e372-594c-bb49-d6ba226c68fa' => [
-        'All progress takes place outside the comfort zone.',
-        'Michael John Bobak',
+    'b872b5b8-f8ec-59cb-b0b6-aed5a67ce23a' => [
+        'A day of worry is more exhausting than a week of work.',
+        'John Lubbock',
     ],
-    '8222cb97-08ac-590e-97a4-26630cbbed00' => [
-        'I begin with an idea and then it becomes something else.',
-        'Pablo Picasso',
+    '9b10f233-3907-5410-ba38-734d67e1b792' => [
+        'One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That\'s what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.',
+        'Herman Cain',
     ],
-    '5cc85bbb-5b8a-5411-8a7b-d9753ced1d96' => [
-        'I just want to be successful. I\'m not going to sit here and be like, \'I want to win a Grammy\' or whatever; if that comes, that\'s awesome. But I just want to be successful and provide for my whole family and get my family out the hood.',
-        'Lil Uzi Vert',
+    '214a4192-eada-529b-91b6-2d3b00fea537' => [
+        'Beauty is also submitted to the taste of time, so a beautiful woman from the Belle Epoch is not exactly the perfect beauty of today, so beauty is something that changes with time.',
+        'Karl Lagerfeld',
     ],
-    '210913d8-29cf-565e-a8c7-9cf4db8c1fa6' => [
-        'You know, it wasn\'t even that I\'m a funny guy, I just loved stand-up comedy and I wanted to do it. It was one of the few things in my life that I knew I was going to be able to do, and I also felt as though I\'d be able to do it the way I wanted to do it.',
-        'Bill Burr',
+    'a9c3f105-6720-5b5c-a204-3ff1631cd86d' => [
+        'I make negative music, but I also make positive music because that\'s what thrown at me with life.',
+        'Tyga',
     ],
-    '7e19c791-9fba-5ef7-bee5-0c24c33ed7a8' => [
-        'There\'s nothing I value more than the closeness of friends and family, a smile as I pass someone on the street.',
-        'Willie Stargell',
+    '51fb70b2-6fd6-5e66-adf8-9cec6a24e4b6' => [
+        'Part of me is drawn to the nature of sadness because I think life is sad, and sadness is not something that should be avoided or denied. It\'s a fact of life, like contradictions are.',
+        'Robert Redford',
     ],
-    '59911671-63aa-5e3b-b071-e9bc080fa27f' => [
-        'There is nothing in this world that I love more than my family. To be able to share the joy of running with them at the Runner\'s World Half Marathon and Running Festival where we can all participate together is as close as you can get to a perfect weekend.',
-        'Summer Sanders',
+    '3e01af37-ea64-5315-8113-540bc31a1570' => [
+        'I\'m a car fanatic and each morning I wake up with a smile on my face, whether I\'m commentating on the Formula One or at Silver Hatch racetrack in Roary the Racing Car.',
+        'Murray Walker',
     ],
-    '61451eed-03a6-56d4-936f-9e6c76b49c67' => [
-        'Growing up around Amish farmland, I enjoyed the opportunity to witness firsthand their love of family, of the domestic arts - sewing, quilting, cooking, baking - as well as seeing them live out their tradition of faith in such a unique way.',
-        'Beverly Lewis',
+    'ec7b8175-31b1-5bd1-9cc5-230e291b2d7b' => [
+        'It\'s not what happens to you, but how you react to it that matters.',
+        'Epictetus',
     ],
-    'a932de21-1658-5913-ac67-236db53326f9' => [
-        'Beauty without expression is boring.',
-        'Ralph Waldo Emerson',
+    '008e0136-6666-5cdd-b56b-2f2c6079380f' => [
+        'A few years ago, I was trying to buy a piece of land next to a house I had in Newfoundland. I discovered that the plot had been owned by a family, and the son had gone off to World War I and been killed. It began to interest me: What would have happened on that land if the son had lived, had brought up his own family there?',
+        'Michael Winter',
     ],
-    'a34987e5-4aaa-5396-a500-8e937d3998bf' => [
-        'A career in sport is almost impossible to manage without the support, and guidance, and reassurance of family and friends. During tough times, and there always are, this is whom we go to.',
-        'Rahul Dravid',
+    '7b8a0c27-e3ff-5f27-95d9-efb03e93d0a2' => [
+        'Now is the age of anxiety.',
+        'W. H. Auden',
     ],
-    'a77a3734-1aaa-5c1c-ac60-af9345ae1b4a' => [
-        'I think the best way to have confidence is not to allow everyone else\'s insecurities to be your own.',
-        'Jessie J',
+    'dd1a7b74-ce05-5b15-9344-261d6f88a887' => [
+        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
+        'Will Rogers',
     ],
-    '4c5205e5-97e4-547c-ae79-60f0ce1200b7' => [
-        'All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.',
-        'Calvin Coolidge',
+    '60ba967b-6e6e-5940-b227-b883464192ac' => [
+        'The path to success is to take massive, determined action.',
+        'Tony Robbins',
     ],
-    'a129dcfb-2a43-54da-8c07-be15b4b2cf76' => [
-        'Success didn\'t spoil me, I\'ve always been insufferable.',
-        'Fran Lebowitz',
+    'ed843e56-11a5-5e93-ba5d-6465ff61279e' => [
+        'She got her looks from her father. He\'s a plastic surgeon.',
+        'Groucho Marx',
     ],
-    '17974e54-0584-5603-b8ea-2b405c6827b2' => [
-        'To change ones life, start immediately, do it flamboyantly, no exceptions.',
-        'William James',
+    'f09c4c76-0a7c-58e0-b89e-5fd2b24de1e1' => [
+        'Being nice can be funny. A lot of my jokes are like, \'Let me take a bad situation and try to put the best spin on it.\'',
+        'Ron Funches',
     ],
-    '9cf2b1ef-bf71-5931-abe2-5fe52c6c1e95' => [
-        'My ultimate aim is to make euthanasia a positive experience.',
-        'Jack Kevorkian',
+    'a2470bdd-f684-5579-8f0d-075a5cd081f1' => [
+        'Journalism is what we need to make democracy work.',
+        'Walter Cronkite',
     ],
-    'd0805591-b3ad-5cfb-a7eb-a0ec608091e4' => [
-        'Life is not a problem to be solved, but a reality to be experienced.',
-        'Golda Meir',
+    'c3d1536e-b76a-569c-94b4-fd5f8123779f' => [
+        'Slow down and everything you are chasing will come around and catch you.',
+        'John De Paola',
     ],
-    '97609dc7-46b5-57d2-812d-9b7b0d9e99eb' => [
-        'What a man does for pay is of little significance. What he is, as a sensitive instrument responsive to the world\'s beauty, is everything!',
-        'H. P. Lovecraft',
+    'faa84b55-6887-539e-ae87-2316cb47aa5c' => [
+        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
+        'Buzz Aldrin',
     ],
-    '9b94b3fb-9f05-5a6a-bf85-4a45dcda7055' => [
-        "Acting like you don\u{92}t care is not letting it go",
-        'Penelope Douglas',
+    '6b4f6fe3-d0fb-5b78-a178-31df000bbcc7' => [
+        'I write in my study, where I also have my prayer altar. I believe that keeps me focused and gives me positive energy and reminds me that I\'m merely the instrument of greater creative forces.',
+        'Chitra Banerjee Divakaruni',
     ],
-    '4ee004c4-57a4-5413-bd9b-20226d8df934' => [
-        'I travel a lot. I\'m on the move.',
-        'Ted Turner',
+    '35fb64f6-ed7d-5fd5-9190-780120cc250a' => [
+        'I have such an extreme attitude about work, where I can just completely be derelict of my responsibilities and then when I am not derelict, I am completely indulged in it. I swing pretty wildly from the two extremes.',
+        'Geddy Lee',
     ],
-    '07af8eee-d31b-5b31-9eb5-0774c153ff6c' => [
-        'Everyone feels like family and I am back in the city that I love.',
-        'Chris Noth',
+    'fa2181ff-4c6b-5bb4-a8a6-4ae3317d42b1' => [
+        'Happiness is in our own hearts. I have no regrets of anything in the past. I\'m totally cheerful and happy, and I think that a lot of your attitude is not in the circumstances you find yourself in, but in the circumstances you make for yourself.',
+        'Maeve Binchy',
     ],
-    '2e52652c-b41b-5ab8-be14-4567cd51b30c' => [
-        'Imagine all the people living life in peace. You may say I\'m a dreamer, but I\'m not the only one. I hope someday you\'ll join us, and the world will be as one.',
-        'Dalai Lama',
+    'a6cefda3-a08e-5847-89f0-52a75ba92728' => [
+        'You can\'t build a reputation on what you are going to do.',
+        'Henry Ford',
     ],
-    'df61b21b-fb30-55d2-8d43-18b769681357' => [
-        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
-        'Enrique Iglesias',
+    'b9e33789-5498-5cc0-b107-37a9d8b9c46d' => [
+        'I mean, the first \'Back to the Future\' is kind of a perfect script, I think, in terms of handling time travel the best. It depends on your definition. To me, that means it effectively uses it in the story.',
+        'Rian Johnson',
     ],
-    '2148833c-7a34-5528-a057-aad19ae19c7d' => [
-        'Beauty is unbearable, drives us to despair, offering us for a minute the glimpse of an eternity that we should like to stretch out over the whole of time.',
-        'Albert Camus',
+    'cab1df34-d1ec-5a8c-8b0c-76f884a43ee0' => [
+        'Nature chooses who will be transgender; individuals don\'t choose this.',
+        'Mercedes Ruehl',
     ],
-    '1c3ffa4b-7d2f-5b60-a6ab-d879d8b9eed9' => [
-        'This hook nose and crab meister attitude has gotten me every job I\'ve ever had. And more divorces than I care to remember.',
-        'Norman Fell',
+    '3f1fb0d1-9830-5a0f-9116-98637b5d82a0' => [
+        'Life is a long lesson in humility.',
+        'Dr. Seuss',
     ],
-    '1f614cf5-ba3f-521f-91ea-60502be6690d' => [
-        'As you navigate through the rest of your life, be open to collaboration. Other people and other people\'s ideas are often better than your own. Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life.',
-        'Amy Poehler',
+    '3f39b6d7-7436-5066-a218-51ddbb098563' => [
+        'How success changes the opinion of men!',
+        'Maria Edgeworth',
     ],
-    '0a7e508a-f1c3-5a43-9911-6e6f68565b3a' => [
-        'I always loved designing, but the context needs to be right, and have a positive perspective.',
-        'Hedi Slimane',
+    '2488f1c7-d547-5cf2-a8ca-dad830e22e3e' => [
+        'The only person you should try to be better than is the person you were yesterday.',
+        'Anonymous',
     ],
-    'be64acc8-0cc1-5e65-9f71-c5efd1e9973b' => [
-        'The measure of a man is what he does with power.',
-        'Plato',
+    '9a647c07-dbfe-5c8b-9207-2eb215d5c6f9' => [
+        'The struggle ends when the gratitude begins.',
+        'Unknown',
     ],
-    '0fb32b14-f15a-5e15-b0eb-88c3301c715d' => [
-        'I enjoy the celebration of my birthday as much as anyone else does, but I always remember to start my day thanking my mom because she did most of the work the day I came into the world, not to mention all she has done throughout my life that has contributed so much to the woman I am today.',
-        'Christy Turlington',
+    '0589cbd6-5c9d-5d75-9b83-6499826ab4a8' => [
+        'It would take six months to get to Mars if you go there slowly, with optimal energy cost. Then it would take eighteen months for the planets to realign. Then it would take six months to get back, though I can see getting the travel time down to three months pretty quickly if America has the will.',
+        'Elon Musk',
     ],
-    '0dbcc56f-d10e-57b4-8f3e-1304a4d769f3' => [
-        'As a former Airman First Class in the United States Air Force, like many veterans in America, my military experience played an important part in instilling in me a sense of character and discipline that has served me throughout my life.',
-        'Demi Lovato',
+    '2e666719-4b26-5e84-afea-6e6ebee2231c' => [
+        'To me, beauty and makeup and color is like the finishing touch on everything.',
+        'Marc Jacobs',
     ],
-    '9cfb2d7f-476b-5a6a-bd6f-c950cddcd67f' => [
-        'In high school, in sport, I had a coach who told me I was much better than I thought I was, and would make me do more in a positive sense. He was the first person who taught me not to be afraid of failure.',
-        'Mike Krzyzewski',
+    '13cc0100-a79b-5abf-be22-f8fa0cdf3c51' => [
+        'Positive energy is meant to give people confidence and hope, encourage people to love their country, society and life, as well as to pursue nice things. Everything we do is ultimately for the sake of spreading positive energy.',
+        'Lu Wei',
     ],
-    'b9a76f84-3d2e-53d9-b456-bba1604b0c40' => [
-        'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
-        'H. Jackson Brown, Jr.',
+    'f9c6b1f3-d0ca-5221-97d0-13c5fa8ff475' => [
+        'Nearly all the best things that came to me in life have been unexpected, unplanned by me.',
+        'Hoda Kotb',
     ],
-    '00e7cdd0-0046-58ce-affc-09c469b2e6cd' => [
-        'When a man becomes a writer, I think he takes on a sacred obligation to produce beauty and enlightenment and comfort at top speed.',
-        'Kurt Vonnegut',
+    '78673739-3f5b-5d1e-a4d8-49a6691e8fb6' => [
+        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
+        'Ben Jonson',
     ],
-    '8c4ea636-0bf9-50a5-b6dd-e837b5991ee3' => [
-        'What drew me towards team sport were the camaraderie and friendship. The chance to celebrate victory and success with a group of other people is something I have enjoyed doing.',
-        'Rahul Dravid',
+    '145387df-f158-5743-b757-bddee854a8a6' => [
+        'My dad said to me, \'Work hard and be patient.\' It was the best advice he ever gave me. You have to put the hours in.',
+        'Simon Cowell',
     ],
-    '671e8373-9098-532b-a304-f6d7ea7213e6' => [
-        'When anger use your energy to do something productive.',
-        'C. Pulsifer',
+    '3702063b-a8f1-52e6-b2a9-4171cecb49d0' => [
+        'As far as I\'m concerned, \'whom\' is a word that was invented to make everyone sound like a butler.',
+        'Calvin Trillin',
     ],
-    '2976abb3-b48f-521b-84e9-c6de9aad05b8' => [
-        'Being happy is of the utmost importance. Success in anything is through happiness.',
-        'Maharishi Mahesh Yogi',
+    'b7b0817a-0254-5fac-89a4-e187a5c3c4a9' => [
+        'I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.',
+        'Muhammad Iqbal',
     ],
-    '9164648a-4c43-5dbb-9499-8d451cd72ec8' => [
-        'I\'m extremely ambitious. I don\'t know why people are afraid to say that. I won\'t sell my soul to the devil, but I do want success and I don\'t think that\'s bad.',
-        'Jada Pinkett Smith',
+    '6f5a3299-0fae-57e0-8454-bd548cb20716' => [
+        'Honesty is the best policy.',
+        'Benjamin Franklin',
     ],
-    '8df79f21-f18b-57d3-8154-f215c920f596' => [
-        'Getting sober just exploded my life. Now I have a much clearer sense of myself and what I can and can\'t do. I am more successful than I have ever been. I feel very positive where I never did before, and I think that\'s all a direct result of getting sober.',
-        'Jamie Lee Curtis',
+    '42047882-5fd4-5ca7-8a30-b748bf3d0e48' => [
+        'We are all travelers in the wilderness of this world, and the best we can find in our travels is an honest friend.',
+        'Robert Louis Stevenson',
     ],
-    'a4bb6881-3a79-57b2-8b2e-00936fd8ad4b' => [
-        'Any nation that refuses to hold intercourse with other nations must expect to be excluded from this family.',
-        'Townsend Harris',
+    '3be7953c-f18d-5e7f-96cc-7ab172093b28' => [
+        'A people without a positive history is like a vehicle without an engine.',
+        'Steven Biko',
     ],
-    'eb42a877-d89f-5515-8f0b-6b898d08ce6d' => [
-        'Experience is not what happens to a man. It is what a man does with what happens to him.',
-        'Aldous Huxley',
+    'f608bda1-dd58-5a84-878f-ae736cc16d41' => [
+        'I like to help women help themselves, as that is, in my opinion, the best way to settle the woman question. Whatever we can do and do well we have a right to, and I don\'t think any one will deny us.',
+        'Louisa May Alcott',
     ],
-    '3b4596d5-488b-50fd-88e2-1131c425f4cf' => [
-        'A word to the wise is infuriating.',
-        'Hunter S. Thompson',
+    'a91139c6-bc33-5fd2-9fcc-965e5a6af681' => [
+        'In Einstein\'s equation, time is a river. It speeds up, meanders, and slows down. The new wrinkle is that it can have whirlpools and fork into two rivers. So, if the river of time can be bent into a pretzel, create whirlpools and fork into two rivers, then time travel cannot be ruled out.',
+        'Michio Kaku',
     ],
-    '0ff87d91-08f5-5bc5-b9e7-9317581e2e40' => [
-        'Do right. Do your best. Treat others as you want to be treated.',
-        'Lou Holtz',
+    '8b9b3578-70fc-5186-86e5-07f7c4fda538' => [
+        'Every time I hear someone making ignorant comments about the supposed \'evils\' of homosexuality, I think about the true evil of the high suicide rates among gay and lesbian teens.',
+        'Susan Estrich',
     ],
 ];

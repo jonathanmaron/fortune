@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'c148c78f-27f8-5654-8766-39350f4ea7bd' => [
-        'I get to travel, see the world, meet people and be independent. I feel blessed.',
-        'Bar Refaeli',
+    '4904b45e-8480-56d9-8fdb-2bcb182c3f06' => [
+        'I think a lot of times our culture has an attitude toward art and the production of art that separates artists from the rest of us, like making art or music or painting or whatever is some magical thing that you have to be inspired to do, and special people do it.',
+        'Ann Leckie',
     ],
-    '1eb2e183-961d-5828-96d6-201c4e396a16' => [
-        'We don\'t make mistakes, just happy little accidents.',
-        'Bob Ross',
+    '614c42f0-4af4-51b6-86d1-1dcbc062db69' => [
+        'I am shocked by the easy attitude of many in the media towards disclosing our Nation\'s secrets.',
+        'Todd Tiahrt',
     ],
-    'b7ceeefc-749e-559e-8096-d2c11b8910ed' => [
-        'I\'m a big advocate of the power of positive thinking, particularly for small businesses.',
-        'Kevin Plank',
+    '2419234c-31d5-5679-b4d3-60fe8f31c7c0' => [
+        'I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
-    '9a348ff0-5c3c-5e20-8d34-4cb06c84b5b1' => [
-        'The grass is always greener on the other side. We are busy applying fairness creams while people in the West go bare-bodied on the beach to get a tan. Indian girls have ruled the roost when it comes to beauty pageants. I flaunt my complexion, and I am proud to be noticed as an Indian wherever I go.',
-        'Shilpa Shetty',
+    '5ee0a5cf-c2a5-52a0-b5c2-079715c67615' => [
+        'What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people\'s lives.',
+        'Oprah Winfrey',
     ],
-    'dd234ba3-7905-59dd-8639-89ccac3893b1' => [
-        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
-        'John C. Mather',
+    'e9c8d23f-f9e6-584d-a4f7-6b8835f3d4da' => [
+        'What drives success, and the most successful students, is internal motivation.',
+        'Vivienne Ming',
     ],
-    '7968d8bd-012d-55b4-b721-22fea504fa17' => [
-        'Don\'t give up. Don\'t lose hope. Don\'t sell out.',
-        'Christopher Reeve',
+    '585cf14c-dfac-553a-bfda-e0ddcfe7f9fd' => [
+        'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
+        'Anna Pavlova',
     ],
-    'be282d56-36d2-503f-8e56-41e4af2843d2' => [
-        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
-        'Wadah Khanfar',
+    'c79b34a4-1580-5543-a0c3-6c9a6108114f' => [
+        'People dwell so much on the little things, but why should they hold you back when you have the big things to look forward to? By exuding positive energy when dealing with your problems, you will exude it in your being in general. Treat yourself with love and you will exude love to others.',
+        'Hayley Hasselhoff',
     ],
-    'd01ee2cf-8a1e-58f0-bbe5-c6ef663a3391' => [
-        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
-        'Meghan Markle',
+    '7d316986-f255-59ef-a534-c71cf7db624b' => [
+        'My siblings are my best friends.',
+        'America Ferrera',
     ],
-    'c7902a25-519e-5dc5-ae85-39c31ccf69e8' => [
-        'If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.',
-        'Abraham Lincoln',
+    'c88cba5d-49ba-58af-81cd-e60780fd1e26' => [
+        'The good life is one inspired by love and guided by knowledge.',
+        'John F. Kennedy',
     ],
-    '874ff4e8-55ce-57c0-9dd9-421581565694' => [
-        'Enhancing a woman\'s silhouette and enhancing a woman\'s beauty - both contribute to enhancing her confidence, so they\'re synonymous, really.',
-        'L\'Wren Scott',
+    'a6aab1b5-0c89-589b-806a-08933fbf8c1c' => [
+        "There is only one happiness in life \u{2013} to love and to be loved.",
+        'George Sand',
     ],
-    'aeacaee6-9a82-5da9-8474-28c7e14245d3' => [
-        'I\'ve always fed off negativity and wanting people to hate me. That attitude really fueled me for my entire career. So being a guy that people like and want to cheer for is the weird part.',
-        'Dean Ambrose',
+    '1903b1dd-576f-5a6c-84fe-ba9b748bbaca' => [
+        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
+        'Patricia Sun',
     ],
-    '6739469d-28c8-5e62-bbc3-e3255d2bcc99' => [
-        'You don\'t want to love - your eternal and abnormal craving is to be loved. You aren\'t positive, you\'re negative. You absorb, absorb, as if you must fill yourself up with love, because you\'ve got a shortage somewhere.',
-        'D. H. Lawrence',
+    'f38dfe13-392f-5d0b-ad70-5fecc8e33749' => [
+        'The definition of swagger, in my opinion, is you have to have that arrogance, that confidence that you are the best out there at all times.',
+        'Keyshawn Johnson',
     ],
-    '701c9cc7-97ab-5538-852b-666318d79156' => [
-        'If you have a friend or family member with breast cancer, try not to look at her with \'sad eyes.\' Treat her like you always did; just show a little extra love.',
-        'Hoda Kotb',
+    '53af3e51-150a-5989-932a-6b347a48e10d' => [
+        'The day you decide to do it is your lucky day.',
+        'Japanese proverb',
     ],
-    '13649aff-5654-5206-8cbc-087d51329dc8' => [
-        'Working hard and working smart sometimes can be two different things.',
-        'Byron Dorgan',
+    '1680fc54-eeed-51a5-b605-37e741801a0d' => [
+        'Life\'s too mysterious to take too serious.',
+        'Mary Engelbreit',
     ],
-    '27c7b4ca-8db4-5e08-877c-c739a3914cd4' => [
-        'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
-        'Charles Kendall Adams',
+    'dd7b2fb5-3d5b-5ea3-9fd1-161034f6b731' => [
+        'It is amazing how complete is the delusion that beauty is goodness.',
+        'Leo Tolstoy',
     ],
-    'a7c53b8e-4d73-5d50-874f-14f403526f66' => [
-        'To travel is to take a journey into yourself.',
-        'Danny Kaye',
+    '1b63e2f1-e21d-5447-a627-5952c595a8af' => [
+        'Most people have never learned that one of the main aims in life is to enjoy it.',
+        'Edwin Markham',
     ],
-    'caca6102-c0b0-5073-b198-9d5bb5e56801' => [
-        'Very gifted people, they win and they win, and they are told that they win because they are a winner. That seems like a positive thing to tell children, but ultimately, what that means is when they lose, it must make them a loser.',
-        'Joshua Waitzkin',
+    '750bca15-83eb-5e36-a74f-3e5d37f9e7ed' => [
+        'It\'s not that our family has no taste, it\'s just that our family\'s taste is inconsistent.',
+        'Dave Eggers',
     ],
-    '501c0c92-69d7-5dc2-a63b-b6640f2a2bac' => [
-        'Money does not guarantee success.',
-        'Jose Mourinho',
+    'cdad539d-0512-53f1-a355-bfc04523682a' => [
+        'I have flown with British Airways since I was a very little child, so it feels quite special to have gone from family holidays flying around Europe to become a gold card holder and be spoiled enough to travel more than not in first class.',
+        'Orlando Bloom',
     ],
-    '8a05ef7e-b186-5d3c-ad48-3847765c31ca' => [
-        'An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted.',
-        'Donald Cram',
+    '8f0342b3-4ab3-5f1b-a0c2-c7b7ed221b18' => [
+        'Every gift from a friend is a wish for your happiness.',
+        'Richard Bach',
     ],
-    '78abd749-e6cb-5545-867e-3e4b5fd4a661' => [
-        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
-        'Tionne Watkins',
+    '6f642e32-5699-5cf9-ba93-efef1e519c01' => [
+        'Three of the brightest baseball pitchers of their times staged comebacks without much success - David Cone, Jim Bouton and Jim Palmer - but there was room to admire their quixotic gesture.',
+        'George Vecsey',
     ],
-    '8b90f75c-cc2a-5bcd-8c2d-e085e79b0947' => [
-        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
-        'Alia Bhatt',
+    '07905821-5094-5cea-8c25-ded2745c2c73' => [
+        'We know the truth, not only by the reason, but by the heart.',
+        'Blaise Pascal',
     ],
-    '58e94185-9416-5906-8cba-795321ad00d6' => [
-        'My parents have a strong work ethic, but their attitude to life, their philosophy, is: \'whatever makes you happy.\'',
-        'Sally Hawkins',
+    'd19f1105-7d1c-5c4d-b05c-f3e5d053bdee' => [
+        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
+        'Pam Grier',
     ],
-    '1729ec69-6964-586b-81ea-5ea82ff42a24' => [
-        'He who obtains has little. He who scatters has much.',
-        'Richard Braunstein',
+    '196bbc3c-a201-5755-82b3-1ccf05f726d6' => [
+        'Each moment is perfect and heaven-sent, in that each moment holds the seeds for growth.',
+        'Suzan-Lori Parks',
     ],
-    '5d30e5a6-838e-5791-92e6-2b12e625b1d9' => [
-        'I just live life. I grew up in a Christian family, but, you know, the way Mom brought me up is to, you know, do you, to always be yourself.',
-        'Tyler, The Creator',
+    '4c191f7e-f7c0-5acf-952d-a87a3a766d7e' => [
+        'Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.',
+        'Cadet Maxim',
     ],
-    '940f8c71-8d10-5279-be2d-946ef76bf6f8' => [
-        'It is only when I am doing my work that I feel truly alive.',
-        'Federico Fellini',
+    'b8d1f7e6-dea7-5f4e-819a-a31dfa5031b8' => [
+        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
+        'Oscar Wilde',
     ],
-    '438f9e76-7d29-5619-8ed7-5ca6c344e3fa' => [
-        'There was part of me that wanted to see the world and travel to distant places, but I could only do it in my imagination, so I read ferociously and imagined things.',
-        'George R. R. Martin',
+    '3aea8718-7002-559b-9d6c-9b57d8c6882e' => [
+        'In places where this beauty has already disappeared, we will reconstruct it.',
+        'Fritz Todt',
     ],
-    '74eba3e0-c38d-5f06-a4d4-b50fb0ea01b3' => [
-        'Every moment and every event of every man\'s life on earth plants something in his soul.',
-        'Thomas Merton',
+    'aac824d8-921e-531f-9496-ffdff9dd8c95' => [
+        'Those who find beauty in all of nature will find themselves at one with the secrets of life itself.',
+        'L. Wolfe Gilbert',
     ],
-    'd9677d15-66ca-53d8-9791-c51445689a74' => [
-        'Being black is not a matter of pigmentation - being black is a reflection of a mental attitude.',
-        'Steven Biko',
+    '837da621-14e2-580c-8c7b-d9e5d3f9c32f' => [
+        'Quite honestly, if we do manage to destroy the planet with our devil-may-care attitude to natural resources, I\'d suggest we leave, as a dossier in our defence, the collected letters to agony aunts and uncles down the generations. It would certainly prove that we weren\'t all bad!',
+        'Mariella Frostrup',
     ],
-    '1b6241f0-120c-5837-9ac2-ee9d3e3d55a9' => [
-        'The follow your dreams thing is really important because so many people are railroaded into taking other paths by their family, their friends, people who should be supportive going, \'What are you talking about?\' Even just seemingly regular career paths, but if it\'s not what people expect for you they kind of react funny.',
-        'Joan Jett',
+    '4de2a93e-dfe8-58ad-97c0-c44b9b0d9b80' => [
+        'I\'ve always wanted a family since I was a little girl - a big family. I\'m an only child, so I wanted, like, 10 kids... for sure.',
+        'Behati Prinsloo',
     ],
-    '1844f224-a9f0-5aca-a19a-609be7b9ecdf' => [
-        'I have a tendency to sabotage relationships; I have a tendency to sabotage everything. Fear of success, fear of failure, fear of being afraid. Useless, good-for-nothing thoughts.',
-        'Michael Buble',
+    'd1db9ea6-8f99-59d2-9015-9be5ec045c35' => [
+        'Syria should not belong to one family, to one coterie, or to one party. It belongs to all the people of Syria equally, in all their religious and ethnic diversity.',
+        'William Hague',
     ],
-    '04d9f31a-b859-5738-8509-ddc52dfc4eb0' => [
-        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
-        'Cheryl Crawford',
+    '5576044a-1ad6-5bf5-8c17-94d50f6a41f2' => [
+        'Expect the best, Prepare for the worst.',
+        'Muhammad Ali Jinnah',
     ],
-    '1d6b4c97-fb10-501d-8098-78bb90e24a37' => [
-        'What lies behind us and what lies before us are small matters compared to what lies within us.',
-        'Oliver Holmes',
+    '7c6a9b50-4b4a-5419-8ae1-9d7a55c335cf' => [
+        'Happiness in intelligent people is the rarest thing I know.',
+        'Ernest Hemingway',
     ],
-    '93e242a4-d354-5e46-81ce-c4b3428fe430' => [
-        'The Internet has transformed many parts of our daily lives, touching everything from how we find information to how we go shopping, get directions, and even stay in touch with friends and family.',
-        'Dean Ornish',
+    '1003a777-dfc4-589e-95f0-418991235403' => [
+        'And it was a great experience, you know, to travel the world and compete at a certain level. It teaches you discipline, focus, and certainly keeps you out of trouble.',
+        'Jason Statham',
     ],
-    'a08eb9b9-fbf7-5d85-ae8b-35bdb30f160a' => [
-        'I still have a young attitude.',
-        'Pat Morita',
+    'ebe96eea-eb52-50af-95ca-c8da31b36060' => [
+        'I feel that I\'ve got the opportunity to set a great role model for girls to look up to a strong, active, compassionate, loving, positive woman, and I think it\'s so important.',
+        'Gal Gadot',
     ],
-    '58a7d3d7-511d-5ae1-8e9a-7eee9347aa78' => [
-        'When you have seen one ant, one bird, one tree, you have not seen them all.',
-        'E. O. Wilson',
+    '21a89a94-8bee-5e3c-b43c-9075555cbeed' => [
+        'Never cowardly or cruel. Never give up, never give in.',
+        'Doctor Who',
     ],
-    '2ccc2e28-e940-50e5-90a5-63426db3f045' => [
-        'I look at the NFL and see how the transition has gone at quarterback. I might be coming along at a good time. For me personally, this is about doing the same thing I\'ve been doing at USF - just smile, have fun, enjoy the experience, keep a positive attitude and encourage my teammates. I like to feed off the people around me.',
-        'B. J. Daniels',
+    '9a4480c9-da6f-5d64-990b-2dfd09c18e69' => [
+        'Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.',
+        'Johann Wolfgang Von Goethe',
     ],
-    '6bf39446-8601-55de-8803-4bdf6c070c41' => [
-        'Only the mediocre are always at their best.',
-        'Jean Giraudoux',
+    'b08e7cfe-c73c-50d8-b0fb-4281e5bf23f9' => [
+        'The greatest development is achieved during the first years of life, and therefore it is then that the greatest care should be taken. If this is done, then the child does not become a burden; he will reveal himself as the greatest marvel of nature.',
+        'Maria Montessori',
     ],
-    '534218ad-15d0-536f-bcae-cae490ec27fa' => [
-        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
-        'Malcolm X',
+    '98abe22f-d0f9-594a-9dce-ad0f1ad78d68' => [
+        'And while the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department.',
+        'Andrew Carnegie',
     ],
-    '74b09675-b927-556e-9e04-3be8c8e29fcb' => [
-        'Nature, to be commanded, must be obeyed.',
-        'Francis Bacon',
+    'd6626ce1-7507-52bc-9620-3b1852a85282' => [
+        'He who wishes to secure the good of others, has already secured his own.',
+        'Confucius',
     ],
-    'd2555509-07e8-52b4-bc0a-74943b552f27' => [
-        'All know the way; few actually walk it.',
-        'Bodhidharma',
+    'c9140545-d192-58e5-812a-a016436c6de1' => [
+        'All the perplexities, confusion and distress in America arise, not from defects in their Constitution or Confederation, not from want of honor or virtue, so much as from the downright ignorance of the nature of coin, credit and circulation.',
+        'John Adams',
     ],
-    'd87a86bd-3bb9-51c0-99f3-fcca12cee41b' => [
-        'The little windflower, whose just opened eye is blue as the spring heaven it gazes at.',
-        'William C. Bryant',
+    '6e049b90-2f09-5239-bfe6-051170f28604' => [
+        'Be faithful in small things because it is in them that your strength lies.',
+        'Mother Teresa',
     ],
-    'bf9a8a05-2c22-5360-b825-e5d6689150b6' => [
-        'Gamer humor ranges all over the place. What it comes down to is taking a lot of what we see in gaming and we\'re familiar with in gaming and being like, \'OK, hold on, let\'s re-examine this for a second. Isn\'t this funny? Isn\'t this strange? Isn\'t this a little bit ridiculous?\' That\'s where it is.',
-        'Freddie Wong',
+    'fed84616-5b34-5e68-8c25-448d418a84b8' => [
+        'The power of one, if fearless and focused, is formidable, but the power of many working together is better.',
+        'Gloria Macapagal Arroyo',
     ],
-    '41c22426-ce50-5bce-921c-c28260634a65' => [
-        'My optimism wears heavy boots and is loud.',
-        'Henry Rollins',
+    '9e779e5f-195a-5ccd-ae5f-606c2ac9f166' => [
+        'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
+        'Andre Rieu',
     ],
-    '14a1ab9f-96a2-55da-a93d-8a3903dab38c' => [
-        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
-        'Eminem',
+    '758713c6-b285-54e4-acff-1677c022187c' => [
+        'I would love to be remembered as a wonderfully dynamic and multitalented actress who left a legacy through her work and through her life of helping people and of being a positive force in the world.',
+        'Keshia Knight Pulliam',
     ],
-    'd0921ac6-0972-55a4-abb8-048c624946d6' => [
-        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
-        'Jonathan Franklin',
+    '61553b8c-b90f-5b7e-a5a2-f41d4e35e16f' => [
+        'Intelligence is the ability to avoid doing work, yet getting the work done.',
+        'Linus Torvalds',
     ],
-    '87c5faa8-1c21-5741-8b9b-2c9fa448d6fd' => [
-        'A sense of the universe, a sense of the all, the nostalgia which seizes us when confronted by nature, beauty, music - these seem to be an expectation and awareness of a Great Presence.',
-        'Pierre Teilhard de Chardin',
+    '80da4439-d0b5-5776-936f-b535f603fb22' => [
+        'When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable.',
+        'Clifton Fadiman',
     ],
-    '44866151-3e43-5e86-8a52-8c8a3ae4e566' => [
-        'I think it\'s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.',
-        'Leonard Nimoy',
+    'a8cd9b62-7b0f-506d-9fe3-033e2c69c59f' => [
+        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
+        'Brooke Shields',
     ],
-    '63970a0e-96bf-5a5e-b010-4bd1f1ebc10c' => [
-        'Celibacy is not just a matter of not having sex. It is a way of admiring a person for their humanity, maybe even for their beauty.',
-        'Timothy Radcliffe',
+    '638d89f6-221b-5b6e-87e1-39c79d91754f' => [
+        'The only constant in the technology industry is change',
+        'Marc Benioff',
     ],
-    '8da00ebf-83c2-5a98-a371-f2edbfda36e0' => [
-        'George loves the T Rex because it\'s the noisiest and the scariest.',
-        'Kate Middleton',
+    '2044a610-1190-5da7-ab27-c4a5a7a7768e' => [
+        'I like to be lazy. I do like to be busy and really active, but when that\'s done, you can be sure I will be a lazy boy. I like to take time and relax and enjoy life.',
+        'Olivier Theyskens',
     ],
-    'ee876027-6f84-5f6c-a16e-6920c16496cf' => [
-        'A child of five would understand this. Send someone to fetch a child of five.',
-        'Groucho Marx',
+    '4ee004c4-57a4-5413-bd9b-20226d8df934' => [
+        'I travel a lot. I\'m on the move.',
+        'Ted Turner',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '11026bcb-a929-5e9b-aa57-b6934df0d5ce' => [
-        'As I grew older, I realized that it was much better to insist on the genuine forms of nature, for simplicity is the greatest adornment of art.',
-        'Albrecht Durer',
+    '304211d0-c245-5dd8-bda9-dfe3ab10755f' => [
+        'You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.',
+        'Alejandro Jodorowsky',
     ],
-    '46539169-93ac-55d9-97ab-7c01534755c3' => [
-        'People don\'t understand that when I grew up, I was never the most talented. I was never the biggest. I was never the fastest. I certainly was never the strongest. The only thing I had was my work ethic, and that\'s been what has gotten me this far.',
-        'Tiger Woods',
+    'd6163469-2264-54dd-aeb1-f5bd7cd9b79d' => [
+        'People may doubt what you say, but they will believe what you do.',
+        'Lewis Cass',
     ],
-    '3ee14943-bcd8-5195-b247-3d90448c4f5b' => [
-        'Do not make best friends with a melancholy sad soul. They always are heavily loaded, and you must bear half.',
-        'Francois Fenelon',
+    'bc8ba2d2-9e2b-52d3-a430-56482222d307' => [
+        'Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.',
+        'Bob Proctor',
     ],
-    'edf81553-6b75-5cab-8335-a4db51222d83' => [
-        'A committee is organic rather than mechanical in its nature: it is not a structure but a plant. It takes root and grows, it flowers, wilts, and dies, scattering the seed from which other committees will bloom in their turn.',
-        'C. Northcote Parkinson',
-    ],
-    '2b16eb48-e3a5-5f9f-b3e8-bfbd85880612' => [
-        'I\'ve been very lucky to have achieved a lot of the things that I dreamt of achieving as a young man. But, at the end of the day - and I truly believe this - it is not about achieving great wealth or success. Because they don\'t bring happiness, ultimately.',
-        'Leonardo DiCaprio',
-    ],
-    '0fcc9f60-2ae7-50c0-a0eb-64290aae3e88' => [
-        'The balloons only have one life and the only way of finding out whether they work is to attempt to fly around the world.',
-        'Richard Branson',
-    ],
-    '44a6a685-ae0b-5375-b7bd-435de3fc4113' => [
-        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
-        'Samuel Smiles',
-    ],
-    '0d3b114a-eb30-5472-bf32-41692bcac83e' => [
-        'Our worldly successes cannot be guaranteed, but our ability to achieve spiritual success is entirely up to us, thanks to the grace of God. The best advice I know is to give is to give those worldly things your best but never your all - reserve the ultimate hope for the only one who can grant it.',
-        'Mitt Romney',
-    ],
-    '110c0c04-9511-5df3-a0c9-2f6003f47da9' => [
-        'Life leaps like a geyser for those who drill through the rock of inertia.',
-        'Kanye West',
-    ],
-    '3dbb640f-922a-51c7-aaf8-1021926603cd' => [
-        'Success - it\'s what you do with what you\'ve got.',
-        'Woody Hayes',
-    ],
-    'ffa4fdcd-c962-52db-9dfd-9bf73dbfdd3b' => [
-        'Whenever I\'ve had success, I never learn from it. Success usually breeds a degree of hubris. When you fail, that\'s when you learn.',
-        'Moby',
-    ],
-    'b9a5e5dd-1731-564b-80ca-e44acbf0a54b' => [
-        'Age focuses you. You are much better concentrated. There\'s more time when you travel less, don\'t do book tours, avoid interviews or public appearances. You walk the dogs, fish, hunt, cook and write.',
-        'Jim Harrison',
-    ],
-    'd9f58ba6-b6ee-5d4b-9885-4ab1b6f53d6e' => [
-        'The hardships that I encountered in the past will help me succeed in the future.',
-        'Philip Emeagwali',
-    ],
-    '416620e5-71dc-5ba6-b82a-ecceb56f194c' => [
-        'I\'ve always thought of acting as more of an exercise in empathy, which is not to be confused with sympathy. You\'re trying to get inside a certain emotional reality or motivational reality and try to figure out what that\'s about so you can represent it.',
-        'Edward Norton',
-    ],
-    '40d8fa12-4e3f-59bf-b484-438ef20f592a' => [
-        'Life is anything that dies when you stomp on it.',
-        'Zig Ziglar',
-    ],
-    '2e29485c-d59c-52fa-becc-35273ff83a3d' => [
-        'The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.',
-        'Mark Caine',
-    ],
-    '01151cfb-4cfb-54b2-b754-ac182de0445f' => [
-        'When you have a dream that you can\'t let go of, trust your instincts and pursue it. But remember: Real dreams take work, They take patience, and sometimes they require you to dig down very deep. Be sure you\'re willing to do that.',
-        'Harvey Mackay',
-    ],
-    '0b1c2422-e0aa-5f2b-b969-c01f1ceaf96d' => [
-        'I was so embarrassed about mispronouncing words. I just knew how to smile.',
-        'Adriana Lima',
-    ],
-    'd8a1cd78-60e4-5217-91a5-2cc456ebc88e' => [
-        'I started writing when I was 9 years old. I was like this weird kid who would just stay in my room, typing little funny magazines and drawing comic strips.',
-        'R. L. Stine',
-    ],
-    '1e7ab928-cd9e-52a0-a293-e08196466b49' => [
-        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
-        'Denis Waitley',
-    ],
-    '7bed81e9-08fb-57f5-86e2-699a4721dc01' => [
-        'Only a life lived for others is a life worthwhile.',
-        'Theodore Roosevelt',
-    ],
-    '4ae5e61e-c1b9-50e4-a178-567da96d77a5' => [
-        'She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways; she covered up her eyes lest they should gaze on vanity, and chose the bitter truth.',
-        'Christina Rossetti',
-    ],
-    'd66a8976-f5a3-58fd-b28f-0953a280c700' => [
-        'I watched Gene Kelly for his smile, for his energy. Vittorio Gassman for his movement. Clark Gable for his mustache. And I watched Lassie who was happy as a dog.',
-        'Jean Dujardin',
-    ],
-    'de9621a9-2936-5ae5-91cc-491718a39c42' => [
-        'The earth laughs in flowers.',
-        'Ralph Waldo Emerson',
-    ],
-    'fb466c0d-222e-55c0-b9fe-16fd296cdf9d' => [
-        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
-        'Joakim Noah',
-    ],
-    '3b303a49-2d08-5ec9-bce4-51c0c108d2b8' => [
-        'You don\'t drown by falling in water. You drown by staying there.',
-        'Unknown',
-    ],
-    '9e779e5f-195a-5ccd-ae5f-606c2ac9f166' => [
-        'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
-        'Andre Rieu',
-    ],
-    'b72a6cf8-9609-50d9-bbb7-6b71d9290c5c' => [
-        'Do good by stealth, and blush to find it fame.',
-        'Alexander Pope',
-    ],
-    '79eb4d28-b616-56ab-bb77-0002a7de37c2' => [
-        'Christmas gives us the opportunity to pause and reflect on the important things around us - a time when we can look back on the year that has passed and prepare for the year ahead.',
-        'David Cameron',
-    ],
-    '7b9629cf-ab00-5e3f-b1e0-743e32120f63' => [
-        'I\'ve got a long way to go to being the ultimate best, but I think my time is now. And I\'m starting to enter my prime.',
-        'Kevin Durant',
-    ],
-    '45180965-07c4-5191-8b67-6cc4d70a2097' => [
-        'Life is a lot like jazz... it\'s best when you improvise.',
-        'Greg Anderson',
-    ],
-    '9032b609-329f-58f0-8cb7-757afd4638f3' => [
-        'I think it\'s way harder when you have success, \'cause people tend to not treat you the same or look at you the same because they see the success or the money you make.',
-        'Meek Mill',
-    ],
-    'cb43c1df-b70b-51a4-9eee-dc24d8989c6c' => [
-        'My initial goal for the 1984 opening ceremonies was a show that would be majestic, inspirational, and emotional - a 20 goosebump experience.',
-        'David L. Wolper',
-    ],
-    '80073d9f-82f4-5586-bbf6-7e1f5bd9785b' => [
-        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
-        'Zig Ziglar',
-    ],
-    'daa8b269-a945-5f47-8b4f-21b7f3bdb632' => [
-        'The pay is good and I can walk to work.',
-        'John F. Kennedy',
-    ],
-    'c8a60221-1811-58a1-9373-44ce9b76130b' => [
-        'Things are never quite as scary when you\'ve got a best friend.',
-        'Bill Watterson',
-    ],
-    'f459d0a6-b5a2-5285-9b6f-668af1ecae2b' => [
-        'It takes a long time for a man to look like his portrait.',
-        'James Whistler',
-    ],
-    'b4c8d412-8b38-507e-b337-f9830505f8d3' => [
-        'What I miss the most is chatting with my friends and family and having a good laugh over a simple meal.',
-        'Kim Yuna',
-    ],
-    '4460e907-02a4-5798-b292-2ee408b18d1a' => [
-        'Everyone here has the sense that right now is one of those moments when we are influencing the future.',
-        'Steve Jobs',
-    ],
-    'bac38c04-1025-5187-8e75-c7782058bcda' => [
-        'The creation of a world view is the work of a generation rather than of an individual, but we each of us, for better or for worse, add our brick to the edifice.',
-        'John Dos Passos',
-    ],
-    '43d45736-bb59-5ad2-8f64-200d59fa78ed' => [
-        'I love cooking. There is nothing I like better than going home and cooking my family a nice meal. Anything with pasta! Pasta with butter! I have a good repertoire, and I can do quite a few different dishes. Sometimes they work out and sometimes not.',
-        'Eden Hazard',
-    ],
-    'd8ed3a45-5d75-57cd-bbf9-8d5ba36dd006' => [
-        'I have always served the public to the best of my ability. Why? Because, like every other man, it is to my interest to do so.',
-        'Cornelius Vanderbilt',
-    ],
-    '80ba2443-1e8c-5812-9368-c1784d722b4c' => [
-        'I didn\'t know how to smile for the paparazzi.',
-        'Peggy Lipton',
-    ],
-    '94434ff6-eb4a-5311-af39-50ba3eeb5de5' => [
-        'Turn your face to the sun and the shadows fall behind you.',
-        'Unknown',
-    ],
-    'da9fb6a3-b2e1-560a-bed7-a69bf16ca06d' => [
-        'Paintings have a life of their own that derives from the painter\'s soul.',
+    'a1048004-910d-59a6-adbb-d3d9ce1d7adb' => [
+        'The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoy every day, enjoying to work hard, trying to be a better player than before.',
         'Rafael Nadal',
     ],
-    '270fd8cc-46f4-5658-a226-cc4a3126a8e5' => [
-        'At the end of the day, both men and women who become CEOs have showed tenacity and hard work to succeed in their careers. It takes not just skills but also extreme dedication and commitment. And regardless of gender, CEOs are measured by the same criteria - the growth and success of the business.',
-        'Susan Wojcicki',
+    '745abe97-2e2f-522b-8081-da8afbfbce69' => [
+        'Today is the tomorrow you worried about yesterday.',
+        'Unknown',
     ],
-    '509e8d4a-b672-5f31-b6b0-e3a4ef75de90' => [
-        'Some people are born good-looking. Some have the gift of gab. And some are lucky enough to be born smarter than the rest of us. Whether we like it or not, Mother Nature does not dole these characteristics out evenly.',
-        'Simon Sinek',
+    '8da45791-e27d-5005-b47e-3a9e06f96004' => [
+        'For a writer only one form of patriotism exists: his attitude toward language.',
+        'Joseph Brodsky',
     ],
-    '5ccaa389-b501-5301-be99-93dec929d89e' => [
-        'Funny enough, there have been puppets in everything I\'ve written because I have a huge love of puppets. There\'s a big puppet musical at the end of \'Sarah Marshall.\' I wrote \'The Muppets.\'',
-        'Jason Segel',
+    '0441e76d-1df2-5d53-b8e0-be5865023680' => [
+        'The biggest adventure you can ever take is to live the life of your dreams.',
+        'Oprah Winfrey',
     ],
-    'c78a3eda-f60e-51ee-9f88-7305b26ae613' => [
-        'Of course my family and friends are incredibly valuable to me. They keep me sane, they teach me things and I love spending time with them. I think that ranking what you value is a sort of western and linear way of looking at things.',
-        'Julia Stiles',
+    'd0258e48-8784-5fd8-96c4-a002f74b44dc' => [
+        'Example has more followers than reason.',
+        'Christian Bovee',
     ],
-    '82b2fd43-36b8-5485-b74a-b87fc8d2bbde' => [
-        'The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.',
-        'Sylvia Browne',
+    'cb0d1e2d-d475-5750-b27f-21bcf8ff3061' => [
+        'It\'s funny. People often compare me to other humor essayists. They\'re usually quite nice comparisons; I will accept those gladly. But I am always sort of appalled at the idea of being lumped with other, more chick-y female writers. And the truth is probably that neither comparison is accurate.',
+        'Sloane Crosley',
+    ],
+    'a6203385-3b07-5ef2-8c57-155453fd63f1' => [
+        'Be happy for this moment. This moment is your life.',
+        'Nelson Mandela',
+    ],
+    '00195cb9-276e-5175-9f51-d013edf7715d' => [
+        'Too much agreement kills a chat.',
+        'Eldridge Cleaver',
+    ],
+    '78e2ce91-6e17-5fbb-a13e-f5023261be80' => [
+        'My father used to play with my brother and me in the yard. Mother would come out and say, \'You\'re tearing up the grass\'; \'We\'re not raising grass,\' Dad would reply. \'We\'re raising boys.\'',
+        'Harmon Killebrew',
+    ],
+    '1b081cb1-f449-5f3d-84bb-7ff36f346858' => [
+        'All right everyone, line up alphabetically according to your height.',
+        'Casey Stengel',
+    ],
+    'ed037d9f-e7ad-5e86-b2d3-7987679a4e93' => [
+        'There are more important things in life than winning or losing a game.',
+        'Tim Hetherington',
+    ],
+    '79a2f8dd-0369-50c2-848f-50fe25c4ec75' => [
+        'Set up another case bartender! The best thing for a case of nerves is a case of Scotch.',
+        'W. C. Fields',
+    ],
+    '43b1ccac-451d-5832-a2b7-11e8825d9f76' => [
+        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
+        'Martin Cruz Smith',
+    ],
+    '342d0cb3-2ebf-5af8-94d4-f4175bce35e4' => [
+        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
+        'Miranda Kerr',
+    ],
+    'b8d239ad-15c5-5b7e-8e7d-7d104567537b' => [
+        'I have two rules for a great book: make me think and make me smile.',
+        'Adam Grant',
+    ],
+    '86f634b4-ef07-59a3-bbb5-1e367527d833' => [
+        'I attribute my success to my mental approach to the game. I have always been a serious student of umpiring. I enjoy studying rules, situations, and positioning.',
+        'Jim Evans',
+    ],
+    'a62c3a8a-ea1c-56e9-a2a7-b0bb574249db' => [
+        'You\'re in a combat zone one day. You come home, and then you have to readjust, and it takes a few days. We just sit in the house, hang with the family and then things get better.',
+        'Chris Kyle',
+    ],
+    'a9a38676-e5dc-5290-924e-1ae029c1a5fb' => [
+        'Although our inattention can contribute to our lack of total well-being, we also have the power to choose positive behaviors and responses. In that choice we change our every experience of life!',
+        'Greg Anderson',
+    ],
+    'a75e1709-97f6-56bc-86b9-1c4026e8e488' => [
+        'Thursday night football is here to stay. So we\'re looking at ways to make it safer. Now they\'re playing division games, so you limit travel. Now the question is, should you play Sunday night before a Thursday night?',
+        'John Madden',
+    ],
+    '4e4ac83f-42c4-5a37-8725-e55481796933' => [
+        'If ants are such busy workers, how come they find time to go to all the picnics?',
+        'Marie Dressler',
+    ],
+    '653b8059-a154-5ec9-a659-4b5763b24821' => [
+        'I gave a funny speech at my wife\'s birthday party, and I\'m thinking, \'Hey, I\'ve still got it.\'',
+        'Larry David',
+    ],
+    'd9eacf29-62cf-5430-a805-aa398156da2b' => [
+        'As a goalie, you must stay positive. And if you do make a mistake, well, those things happen when you play my position.',
+        'Henrik Lundqvist',
+    ],
+    '8dc40697-4d03-5bfa-910e-4a67f64394eb' => [
+        'People who think about time travel stories sometimes think that going back in time would be fun because you would have all the information you needed to be much more astute than the people there, when the truth is of course you wouldn\'t.',
+        'Octavia E. Butler',
+    ],
+    '76589e4e-8461-54a3-9ba3-563c4e3b00bd' => [
+        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
+        'Marianne Williamson',
+    ],
+    'e78c8582-bf84-560b-b07e-48a67553bc3f' => [
+        'Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.',
+        'Byron Pulsifer',
+    ],
+    'db4b8d00-36de-5c88-9333-4668f7836064' => [
+        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
+        'Jules Renard',
+    ],
+    '17be54df-8f8c-5695-bc05-5833d24f12a8' => [
+        'Being rich is a good thing. Not just in the obvious sense of benefitting you and your family, but in the broader sense. Profits are not a zero sum game. The more you make, the more of a financial impact you can have.',
+        'Mark Cuban',
+    ],
+    'b10d71d3-1530-5420-be02-f2109a6a4d59' => [
+        'Our treasure lies in the beehive of our knowledge. We are perpetually on the way thither, being by nature winged insects and honey gatherers of the mind.',
+        'Friedrich Nietzsche',
+    ],
+    '1db850dc-9eaa-590d-87a7-efca70d3d4ca' => [
+        'The lake and the mountains have become my landscape, my real world.',
+        'Georges Simenon',
+    ],
+    'ba108060-4a88-595b-b6aa-b7d6278d9050' => [
+        'Management is nothing more than motivating other people.',
+        'Lee Iacocca',
+    ],
+    '61d0147c-8b9b-5f69-8b80-a16fcdce6cf0' => [
+        'Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.',
+        'David Jordan',
+    ],
+    '620a0351-289d-5f01-98a1-523f10befab2' => [
+        'A work well begun is half-ended.',
+        'Plato',
+    ],
+    'e2691b9c-6f18-5fae-a69e-b4952cde4d39' => [
+        'Nature... is nothing but the inner voice of self-interest.',
+        'Charles Baudelaire',
+    ],
+    'ab65928d-fd9f-5649-90c1-93b54eea002a' => [
+        'Who looks outside, dreams; who looks inside, awakes.',
+        'Carl Jung',
+    ],
+    'a2ead9ee-4a75-5803-b3aa-ec183aeaa81e' => [
+        'Part of doing good work is caring deeply about it, believing in what you\'re doing, and getting incredibly attached to the characters that you\'re playing, the stories you\'re telling, and the people you\'re working with.',
+        'Ari Graynor',
+    ],
+    '4f4340b2-1323-524a-9109-b6c5f476bb1b' => [
+        'Everyone has a different body shape, so you kind of have to figure out not only what works best for your body type, but what also makes you feel confident. Even if everyone thinks you look good in a bikini, and you don\'t feel good in it, you\'re not going to be at your best. If you feel great in a bikini, you can always work it.',
+        'Gigi Hadid',
+    ],
+    'bfbfbea1-ad21-52aa-aefa-51c5c09f33b5' => [
+        'I think Dr. King, if he were alive today, he wouldn\'t disrespect the flag or the anthem; he would use his words and his voice to send a message for positive change.',
+        'Kimberly Guilfoyle',
+    ],
+    '240f718b-937f-5060-a81b-17fd37a5c28d' => [
+        'Our attitude toward life determines life\'s attitude towards us.',
+        'John N. Mitchell',
+    ],
+    '7dedac66-f442-5f1e-864e-9382217b11a0' => [
+        'The greatest sign of success for a teacher... is to be able to say, \'The children are now working as if I did not exist.\'',
+        'Maria Montessori',
+    ],
+    '4a28abb6-8748-570f-aa4f-6ac5190714e8' => [
+        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
+        'Swami Vivekananda',
+    ],
+    'e948c196-b918-5a7f-906b-94fb2667b64f' => [
+        'I\'m so envious of that genetic wiring that immediately puts a smile on your face. My genetic wiring just puts creases in my eyebrows.',
+        'Chris Pine',
+    ],
+    'aefb5d24-bae7-5878-97ca-0f1b3de84639' => [
+        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
+        'Kate Moss',
+    ],
+    '70f8d118-80c4-5361-9c67-7348675ba552' => [
+        'As the time goes by, you change, your learn new things, your attitude is different. For the moment, I\'m still enjoying ski racing so much that it would be difficult for me to think about ending my career.',
+        'Hermann Maier',
+    ],
+    '9b2aa55d-5a58-55df-b207-117d2d796f98' => [
+        'Your goals don\'t care how you feel.',
+        'Unknown',
+    ],
+    'c9b13234-1ce5-5bd6-b9c1-47c9c8e12c21' => [
+        'Our government shouldn\'t tell us where to travel and where not to travel.',
+        'Jeff Flake',
+    ],
+    'dc1add3a-2235-5388-a750-1a3397ca58df' => [
+        'Do not say, \'It is morning,\' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name.',
+        'Rabindranath Tagore',
+    ],
+    'c9a66f61-c3f6-5874-ba03-4efdceb97318' => [
+        'The joke in our family is that we can cry reading the phone book.',
+        'Ron Reagan',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'dfeb3258-2372-52cc-beb6-80360b9f6564' => [
-        'If your best friend has stolen your girlfriend, it does become life and death.',
-        'Ben Kingsley',
+    '87fa9e76-9549-5f11-9415-1c0fc3a04960' => [
+        'Travel, of course, narrows the mind.',
+        'Malcolm Muggeridge',
     ],
-    '747570e5-c5c6-5ee5-84c7-651ba5407ccb' => [
-        'I think that generally music should be a positive thing, I like Bob Marley\'s attitude: he said that his goal in life was to single handedly fight all the evil in the world with nothing but music, and when he went to a place he didn\'t go to play, he went to conquer.',
-        'Jon Fishman',
+    'f2354bd8-5a5d-5160-a121-5e40d424a002' => [
+        'We create success or failure on the course primarily by our thoughts.',
+        'Gary Player',
     ],
-    'b8253fa4-9537-5157-be52-f418cb261f4b' => [
-        'I will have my publicist pull pictures of the way I look at events so I can see, \'Oh, that cut is not as flattering as I thought,\' or \'I should smile bigger,\' or \'That positioning is odd.\' I learn from it.',
-        'Allison Williams',
+    '278c4341-3d8c-5de9-bbaa-fc5a9752ee53' => [
+        'Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.',
+        'Isaac Bashevis Singer',
     ],
-    '188339f2-6d14-5b5a-9805-dd271eeaa359' => [
-        'We are at our very best, and we are happiest, when we are fully engaged in work we enjoy on the journey toward the goal we\'ve established for ourselves. It gives meaning to our time off and comfort to our sleep. It makes everything else in life so wonderful, so worthwhile.',
-        'Earl Nightingale',
+    '4b4af067-4234-5aea-8357-467a61eadd0f' => [
+        'My everyday beauty routine is always rushed and pretty simple.',
+        'Cate Blanchett',
     ],
-    '2678302e-c559-51da-ac5e-f3874cc37cb0' => [
-        'In the hierarchy of public lands, national parks by law have been above the rest: America\'s most special places, where natural beauty and all its attendant pleasures - quiet waters, the scents of fir and balsam, the hoot of an owl, and the dark of a night sky unsullied by city lights - are sacrosanct.',
-        'Michael Shnayerson',
+    '52512c93-6442-55f3-bbb0-ffad74fff8ea' => [
+        'Success - keeping your mind awake and your desire asleep.',
+        'Walter Scott',
     ],
-    '4852701e-03f3-5e62-a001-96d639e1b361' => [
-        'The best way to predict the future is to create it.',
-        'Peter Drucker',
+    '7561b67a-5fcb-50eb-a0d9-d9c437b3864e' => [
+        'Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.',
+        'Katharine Hepburn',
     ],
-    'e2c5e998-c471-5c50-a930-4498c8d13515' => [
-        'Your best teacher is your last mistake.',
-        'Ralph Nader',
+    'df089412-3532-53db-a1c5-a6b534107e19' => [
+        'I\'m such a girl for the living room. I really like to stay in my nest and not move. I travel in my mind, and that that\'s a rigorous state of journeying for me. My body isn\'t that interested in moving from place to place.',
+        'bell hooks',
     ],
-    '277cde2d-65ce-54f0-ad00-a6e4120b49eb' => [
-        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
-        'Sheena Easton',
+    '25b2945b-5c72-5c80-8a89-2c1c46522d68' => [
+        'Challenge is the pathway to engagement and progress in our lives. But not all challenges are created equal. Some challenges make us feel alive, engaged, connected, and fulfilled. Others simply overwhelm us. Knowing the difference as you set bigger and bolder challenges for yourself is critical to your sanity, success, and satisfaction.',
+        'Brendon Burchard',
     ],
-    'c71e6932-7c29-5bd5-ae78-b86b859e04fe' => [
-        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
-        'Helen Rowland',
+    'ff956db4-7b92-53d2-a7c0-32f7ec8ea8ff' => [
+        'The very best hotel I\'ve stayed in is the Intercontinental on Park Lane. We went there for the Chelsea Flower Show a few years ago, and it was sheer luxury. Everybody had a smile on their face. I came home and changed all my pillows because the hotel ones were so beautiful.',
+        'Mary Berry',
     ],
-    'b50cd7fd-be5c-5c0a-b935-7faac4303987' => [
-        'By \'justice\', I understand nothing more than that bond which is necessary to keep the interest of individuals united, without which men would return to their original state of barbarity. All punishments which exceed the necessity of preserving this bond are, in their nature, unjust.',
-        'Cesare Beccaria',
+    '168ba26e-f48c-5a0d-b1d5-b163eb9af5a8' => [
+        'Every time a woman leaves the workforce because she can\'t find or afford childcare, or she can\'t work out a flexible arrangement with her boss, or she has no paid maternity leave, her family\'s income falls down a notch. Simultaneously, national productivity numbers decline.',
+        'Madeleine M. Kunin',
     ],
-    'bacf245b-53c2-53a9-b458-ad117aae8a39' => [
-        'One of the most important responsibilities in the Christian life is to care about others, smile at them, and be a friend to the friendless.',
-        'James Dobson',
+    '3eb2d363-3ec9-5c08-8740-bffb9643131b' => [
+        'Being a mother and grandmother is the best of the best in my life. My grandchildren multiply the joy my daughters bring me.',
+        'Alexandra Stoddard',
     ],
-    '1e922302-0702-5529-9889-adbb00ce7a7c' => [
-        'Alzheimer\'s, Parkinson\'s, brain and spinal cord disorders, diabetes, cancer, at least 58 diseases could potentially be cured through stem cell research, diseases that touch every family in America and in the world.',
-        'Rosa DeLauro',
+    '9e56646e-9d14-5d54-b649-ecfe52b03d0d' => [
+        'I love my brothers\' kids. It\'s funny - as an uncle, you become so protective of them.',
+        'Liam Hemsworth',
     ],
-    'c25dc335-ff3e-5ae9-b364-e90f8fc914c6' => [
-        'People in tough times - it doesn\'t mean they don\'t have a great attitude.',
-        'Joel Osteen',
+    'a77d91c6-9e61-5f94-ad76-072a012452e4' => [
+        'True, when you behold Damascus from the Salahiyeh, the last slope of the Anti-Lebanon, it is the realization of all that you have dreamed of Oriental splendor; the world has no picture more dazzling. It is Beauty carried to the Sublime, as I have felt when overlooking some boundless forest of palms within the tropics.',
+        'Bayard Taylor',
     ],
-    'c181ffc8-e846-54ac-853c-cd0c886e4c04' => [
-        'There\'s a difference between being a comic and a comedian. A comic is a guy who says funny things, and a comedian is a guy who says things funny, and he has a style and point of view that will last much longer.',
-        'Milton Berle',
+    'd067f1f7-3eaf-5db1-9388-5499d94dfcde' => [
+        'Success does not come to you, you go to it.',
+        'Marva Collins.',
     ],
-    'a671c0b1-b1da-56c0-8a8f-1fe8cb369a68' => [
-        'I don\'t deserve any credit for turning the other cheek as my tongue is always in it.',
-        'Flannery O\'Connor',
+    'e622e544-040d-52e1-9e6f-6175cb742765' => [
+        'Nature is the one song of praise that never stops singing.',
+        'Richard Rohr',
     ],
-    '5ba9edaf-769f-5dc9-84a1-cc2280c29e90' => [
-        'The earth is such a voluminous, sparse, wild place that has its own rhythm that human beings try to control and strategize our way around, but the truth is, if you\'re out someplace like the ocean on a capsized boat, it doesn\'t matter if you have academic degrees, or if you\'re a martial-arts ninja. Nature is a bigger force than you.',
-        'Rachael Taylor',
+    'e9b04931-e662-56a9-89ec-6c12735daf2e' => [
+        'Your best ideas, those eureka moments that turn the world upside down, seldom come when you\'re juggling emails, rushing to meet the 5 P.M. deadline or straining to make your voice heard in a high-stress meeting. They come when you\'re walking the dog, soaking in the bath or swinging in a hammock.',
+        'Carl Honore',
     ],
-    '17b8c2cb-1e6a-5a1d-bee8-9f934812ddff' => [
-        'I will sit in the car on the way to a meeting and just smile. I really mean that. It helps you get through life. If you have nothing to say, smile. Look up at the sky and smile. Just be grateful.',
-        'Andre Leon Talley',
+    'a1c3051b-fa37-5522-acac-64ee7a182168' => [
+        'The best advice that was given to me was that I had to be 10 times smarter, braver and more polite to be equal. So I did.',
+        'Samuel L. Jackson',
     ],
-    '86351393-e940-55d2-b600-8bfd7c718047' => [
-        'Sometimes you have to accept you can\'t win all the time.',
-        'Lionel Messi',
+    '5b36d246-77c7-5bc5-a49d-97277766c681' => [
+        'The trees that are slow to grow bear the best fruit.',
+        'Moliere',
     ],
-    'edd194f8-f909-596a-9982-ad781c859130' => [
-        'Instead of being critical of people in authority over you and envious of their position, be happy you\'re not responsible for everything they have to do. Instead of piling on complaints, thank them for what they do. Overwhelm them with encouragement and appreciation!',
-        'Joyce Meyer',
+    'e53195d7-b987-5ff2-b41a-17e925ada921' => [
+        'Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance.',
+        'Benny Cassette',
     ],
-    '41dcf209-5700-5ec6-80ee-fac5f577c467' => [
-        'I just realized the best way to live your life is to just be you, as cliche as it sounds. I grew up trying to please everyone.',
-        'Yuna',
-    ],
-    'b8b03f27-71e9-5792-a984-45fb9a5f3606' => [
-        'Everywhere is within walking distance if you have the time.',
-        'Steven Wright',
-    ],
-    '551faebe-2527-50fb-9f9a-982c95b05d85' => [
-        'I don\'t mean to be funny.',
-        'Yogi Berra',
-    ],
-    '88944673-867c-5654-b8dd-121c3d08963e' => [
-        'You can\'t have a better tomorrow if you are thinking about yesterday all the time.',
-        'Charles Kettering',
-    ],
-    'a3b55cd2-75cb-51e6-a4d4-bbefe6a8e477' => [
-        'It\'s a funny thing that when a man hasn\'t anything on earth to worry about, he goes off and gets married.',
-        'Robert Frost',
-    ],
-    '21b48bf2-5b6d-540e-a6f3-fbe6e36b00de' => [
-        'To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.',
-        'James A. Baldwin',
-    ],
-    'e8219ddc-73b2-559e-ad86-3be010738307' => [
-        'No matter what nationalities became a part of our country in the future, they would have to assimilate into the Han nationality. The nationalism our party supports is a positive nationalism. Do not forget that.',
-        'Sun Yat-sen',
-    ],
-    '8b1e196a-68ec-5612-b5af-b44041f32706' => [
-        'Let there be work, bread, water and salt for all.',
-        'Nelson Mandela',
-    ],
-    '056b97e9-7809-53aa-b9b6-dc7d670c2fbc' => [
-        'You build on failure. You use it as a stepping stone. Close the door on the past. You don\'t try to forget the mistakes, but you don\'t dwell on it. You don\'t let it have any of your energy, or any of your time, or any of your space.',
-        'Johnny Cash',
-    ],
-    '01cea798-2c71-5da0-90cb-00c4d17221e0' => [
-        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer. So my being able to reach the masses was something that meant a great deal to me - especially for women who could never wear Vera Wang.',
-        'Vera Wang',
-    ],
-    '76cf8376-d9ca-53e2-be18-f6c23337cbfd' => [
-        'You see much more of your children once they leave home.',
-        'Lucille Ball',
-    ],
-    'c11802fb-0f5d-559c-a74f-1164eaeaba46' => [
-        'So, where\'s the Cannes Film Festival being held this year?',
-        'Christina Aguilera',
-    ],
-    '499a230b-c2b8-56fe-b897-99766cfd4096' => [
-        'A ship in the harbor is safe. But that\'s not what ships are for.',
-        'Unknown',
-    ],
-    '4b089024-c339-568e-babf-21c9e7b8d626' => [
-        'Beauty is perfect in its imperfections, so you just have to go with the imperfections.',
+    '6f694836-7d37-562c-93d8-7391fa722209' => [
+        'The most important relationship you have in life is the one you have with yourself. And then after that, I\'d say once you have that, it may be hard work, but you can actually design your life.',
         'Diane von Furstenberg',
     ],
-    '53a1dce0-634e-5bf4-b718-8a91cd4f7635' => [
-        'You only live once, but if you do it right, once is enough.',
-        'Mae West',
+    '80ed79c6-cf9b-5559-aa01-627d96da64e8' => [
+        'I want my children to have all the things I couldn\'t afford. Then I want to move in with them.',
+        'Phyllis Diller',
     ],
-    'c5464dc4-eef8-55fd-ba2f-7f35b5714571' => [
-        'Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to.',
-        'Byron Pulsifer',
+    '370e4d20-5bbe-5810-9a49-cc8d359b5ae4' => [
+        'Twilight drops her curtain down, and pins it with a star.',
+        'Lucy Maud Montgomery',
     ],
-    '5715ec3f-6f5b-5c2d-be90-27de2851393f' => [
-        'I\'ve been experimenting more and more with LN2, liquid nitrogen. I\'ve used it in battle on \'Iron Chef America,\' but have also made some great ice creams at home for my family. Since it freezes basically on contact, you can have ice cream ready in mere minutes.',
-        'Cat Cora',
+    'bc8a9c9e-16c1-5153-bd7e-8efff32af6eb' => [
+        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
+        'Milla Jovovich',
     ],
-    'dff5f30d-687e-55e5-b15f-3275ed57f12d' => [
-        'At the end of the day, the most overwhelming key to a child\'s success is the positive involvement of parents.',
-        'Jane D. Hull',
+    'dfe4c45c-619e-5351-ab04-f7653778dfc0' => [
+        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
+        'Russell Simmons',
     ],
-    'fdde8aa7-52f1-53d8-8d6c-78043f5d3387' => [
-        'We have one life and we should cherish it and make it the best we can.',
-        'David Morrissey',
+    '4befa8ec-bd2e-5196-b43f-8aeb2fd8d478' => [
+        'There is no disgrace in working. There was no silver spoon around at the time I was born.',
+        'Anna Held',
     ],
-    '01c64b81-7a4e-54d9-a6a4-40cd8119ba44' => [
-        'A major league pitching coach is a really difficult job. It takes a big commitment in terms of time, travel and workload.',
-        'David Cone',
+    'aa8e02ab-cccc-569f-85c2-008b5482d506' => [
+        'What do I like in a girl? I like a girl that likes me, a girl that knows how to smile and see the bright side of things. A girl that makes me a better person.',
+        'James Lafferty',
     ],
-    '88047d60-9ad7-59b9-b91d-f9e676600f82' => [
-        'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
-        'Arianna Huffington',
+    'd4c8bdfc-2199-53a0-af1d-641519c9d613' => [
+        'I was a disadvantaged child from a non-educated family, yet I had the advantage of being in the company of great teachers.',
+        'A. P. J. Abdul Kalam',
     ],
-    '962c8f5a-727c-5d18-b8d2-29d8707503bb' => [
-        'Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product.',
-        'Elon Musk',
+    'c3935c2c-fdc3-5474-95bd-08712ac13dc3' => [
+        'There is always another way to say the same thing that doesn\'t look at all like the way you said it before. I don\'t know what the reason for this is. I think it is somehow a representation of the simplicity of nature.',
+        'Richard P. Feynman',
     ],
-    '82bed1ea-d3de-5650-8498-4f53056f1751' => [
-        'I have an everyday religion that works for me. Love yourself first, and everything else falls into line.',
-        'Lucille Ball',
+    'f2651350-8da1-5d87-8ba6-2dde843d337d' => [
+        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
+        'Zlatan Ibrahimovic',
     ],
-    '308d5be6-7c06-56a2-903d-524f8aa7c137' => [
-        'Life is not a spectator sport. If you\'re going to spend your whole life in the grandstand just watching what goes on, in my opinion you\'re wasting your life.',
-        'C. S. Lewis',
+    '16c1a0ca-9b9a-501b-8a03-a3e032da17f7' => [
+        'There is not a sprig of grass that shoots uninteresting to me.',
+        'Thomas Jefferson',
     ],
-    '1b399d17-fff7-5eae-9dd6-ce73d456ba41' => [
-        'Surrounded by all the members of my dear family, enjoying the affection of numerous friends, who have never abandoned me, and possessing a sufficient share of all that contributes to make life agreeable, I lift my grateful eyes towards the Supreme Being and feel that I am happy.',
-        'John James Audubon',
+    '74697141-8dad-5f7b-86a0-9da4dd1ede73' => [
+        'If you have issues with family, friends, and people at work, try and solve these issues head on so you can move on and concentrate on having the life you want.',
+        'Heidi Klum',
     ],
-    'a72141f1-8055-56d1-927b-495de5bc143c' => [
-        'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
-        'William Feather',
+    'e756d9b3-c164-5a3b-a049-e9da7f6429b8' => [
+        'The best way to predict the future is to invent it.',
+        'Alan Kay',
     ],
-    '7075c07f-286f-54d2-8302-8648c3ab819a' => [
-        'You\'ll see it when you believe it.',
-        'Wayne Dyer',
+    '2d61d0e6-3610-5d40-b8ed-47f2581d0974' => [
+        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
+        'Eli Whitney',
     ],
-    'fc1b357c-075f-517b-96f6-f08f81761200' => [
-        'The best way to destroy the capitalist system is to debauch the currency.',
-        'Vladimir Lenin',
+    '1b1299a0-d61b-59e5-b2f7-bbc180fa2d4e' => [
+        'I didn\'t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.',
+        'Steve Jobs',
     ],
-    '2a9d30a3-80b1-50f8-9f2f-7e8d2142f74c' => [
-        'There is no better feeling than doing well while you are doing good. If you really want to meet the nicest, most caring people in your field, get involved with charity work. The thankless hours that go into planning charity dinners, running a carnival, and gathering donations for silent auctions are noticed and appreciated.',
-        'Jay Samit',
+    '68ae8ccc-d06d-5fb9-89af-d1c0977a5816' => [
+        'Our ideas must be as broad as Nature if they are to interpret Nature.',
+        'Arthur Conan Doyle',
     ],
-    '4f1eeea1-2c31-59ca-b12d-1ade38577f5b' => [
-        'I see flaws as a kind of beauty.',
-        'Karan Mahajan',
+    '16165334-e915-5113-937c-386686f5fb0a' => [
+        'Whenever you find yourself on the side of the majority, it is time to pause and reflect.',
+        'Mark Twain',
     ],
-    '005c86e8-9c8f-571f-850e-c5eb351a73be' => [
-        'Nonfiction speaks to the head. Fiction speaks to the heart. Poetry speaks to the soul. It\'s the essence of beauty. The essence of pain. It pleases the eye and the ear.',
-        'Ellen Hopkins',
+    '08fdf5e8-93bd-53ea-a3cb-8f61a5865a61' => [
+        'I love inspirational R&B, like Mary J. Blige and Jennifer Hudson. I want to do that. That kind of music stays with you.',
+        'Ashthon Jones',
+    ],
+    '56f529a0-f3eb-596e-b880-91bce364d10d' => [
+        'Do what you can. Want what you have. Be who you are.',
+        'Forrest Church',
+    ],
+    '02994c06-6aec-56d7-a0a0-5eee4d3b00b9' => [
+        'Most great people have attained their greatest success just one step beyond their greatest failure.',
+        'Napoleon Hill',
+    ],
+    '7c77d6ab-1086-547b-83a8-600d5f2d1264' => [
+        'When I was about five, I gave my heart to Jesus Christ, and since then it\'s just been a stronghold in my life. Really, through the shark attack and all the hard times that my family and I went through, it gave us unity and perseverance to push through all this crazy stuff that we never knew was going to happen.',
+        'Bethany Hamilton',
+    ],
+    '8834a13c-c5a6-5a0c-b45c-cf75b786107d' => [
+        'If you\'re talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset.',
+        'Guido van Rossum',
+    ],
+    'df88e4ce-358f-5481-9bc4-da82ce086519' => [
+        'Life was a funny thing that happened to me on the way to the grave.',
+        'Quentin Crisp',
+    ],
+    'ae04d17e-16f7-5618-84cf-57b967a57483' => [
+        'I said to the almond tree, \'Friend, speak to me of God,\' and the almond tree blossomed.',
+        'Nikos Kazantzakis',
+    ],
+    '46736452-36b6-5d61-a27b-0222fa188e54' => [
+        'I\'ve never gone into business to make money. Every Virgin product and service has been made into a reality to make a positive difference in people\'s lives. And by focusing on the happiness of our customers, we have been able to build a successful group of companies.',
+        'Richard Branson',
+    ],
+    '14394866-d89b-5d91-b0e0-73a106f133e9' => [
+        'I learned the truth at seventeen, That love was meant for beauty queens, And high school girls with clear skinned smiles, Who married young and then retired.',
+        'Janis Ian',
+    ],
+    '397b6ea0-9176-5814-ba5e-98f403762af3' => [
+        'My favorite parable for living a positive and influential life is the Golden Rule: \'Do unto others what you would have them do unto you.\'',
+        'Tony Oller',
+    ],
+    'a3a159d7-34ed-511b-99f2-f674e83ee9c1' => [
+        'Prosperity is the best protector of principle.',
+        'Mark Twain',
+    ],
+    '12ddc314-2dc2-554f-9423-2e96a46ffc0f' => [
+        'I love a man with a great sense of humor and who is intelligent - a man who has a great smile. He has to make me laugh. I like a man who is very ambitious and driven and who has a good heart and makes me feel safe. I like a man who is very strong and independent and confident - that is very sexy - but at the same time, he\'s very kind to people.',
+        'Nicole Scherzinger',
+    ],
+    '8a36cd35-53b0-512a-b1d5-4b70113a1ca7' => [
+        'Rome wasn\'t built in a day.',
+        'Unknown',
+    ],
+    '94f60c93-c761-5ad0-a0e1-8c62287c9fd9' => [
+        'When one has success, the answer is not to undo that success. It is to continue what has been done.',
+        'Chuck Schumer',
     ],
 ];

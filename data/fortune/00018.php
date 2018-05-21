@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'f39255c2-0b8b-5bff-a79f-6f742dc000c0' => [
-        'Teachers need to be more inspirational. But it\'s also up to engineering to make itself more interesting.',
-        'Bruce Dickinson',
+    'ae2399c5-1a28-5a48-a148-b4181e06af62' => [
+        'No self-respecting woman should wish or work for the success of a party who ignores her sex.',
+        'Susan B. Anthony',
     ],
-    '46b09b7a-f7a5-58dc-8024-51b17a2fe359' => [
-        'Success consists of going from failure to failure without loss of enthusiasm.',
-        'Winston Churchill',
-    ],
-    'd39ac914-0931-559e-8911-ef702724de94' => [
-        'Perhaps travel cannot prevent bigotry, but by demonstrating that all peoples cry, laugh, eat, worry, and die, it can introduce the idea that if we try and understand each other, we may even become friends.',
-        'Maya Angelou',
-    ],
-    '9e57c789-e7e3-57aa-92af-8d89867569a6' => [
-        'Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.',
-        'Ambrose Bierce',
-    ],
-    '623d5258-02cd-5929-a326-d5a62cd53154' => [
-        'When you come to the end of your rope, tie a knot and hang on.',
-        'Franklin Roosevelt',
-    ],
-    'e230c006-c3a7-5ce9-ad75-b57dc6c16559' => [
-        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
-        'Jasmine Guy',
-    ],
-    'a07f348f-ca91-59da-b995-5ecb410f9155' => [
-        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
-        'Kim Jong-un',
-    ],
-    '21b98567-2b5a-5051-a7b9-deeb1dfb3d60' => [
-        'A bee is never as busy as it seems; it\'s just that it can\'t buzz any slower.',
-        'Kin Hubbard',
-    ],
-    '743b4e59-e8cd-5073-83dd-41713f65042e' => [
-        'The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with.',
-        'Sammy Davis, Jr.',
-    ],
-    'd654eff3-9551-5a40-8340-7fe35d4d6dd7' => [
-        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
-        'Mike Vogel',
-    ],
-    '4632f00e-1f25-55cd-8e2a-13a173fffac2' => [
-        'Good thoughts are no better than good dreams, unless they be executed.',
-        'Ralph Emerson',
-    ],
-    '88fcc70b-8dde-5947-b228-ea633dcb6b27' => [
-        'Labor gives birth to ideas.',
-        'Jim Rohn',
-    ],
-    '75fbf715-b8dc-53cc-ae3e-2452a79a1f52' => [
-        'If you find it in your heart to care for somebody else, you will have succeeded.',
-        'Maya Angelou',
-    ],
-    '6f3eee27-8c77-5390-a728-ee693de9bada' => [
-        'The cool thing about being famous is traveling. I have always wanted to travel across seas, like to Canada and stuff.',
-        'Britney Spears',
-    ],
-    'dabcac69-0d84-5cfe-83a9-eeb9655d0c16' => [
-        'The majority of people who get in the sport of gymnastics do not go to the Olympics or get a Division 1 scholarship, but it doesn\'t mean that they can\'t get something positive from the sport.',
-        'Dominique Dawes',
-    ],
-    'a7dc33fb-b729-51c9-bccf-1d337df92c39' => [
-        'I do not like people touching my underwear. That\'s just weird! I travel with a washer and dryer, and I like cooking on the bus, too.',
-        'Carrie Underwood',
-    ],
-    '9affa0da-9620-59c1-86fc-f050356a6892' => [
-        'Life is half spent before we know what it is.',
-        'Martha Graham',
-    ],
-    '8edc1195-7079-50df-853f-aabcc185e0df' => [
-        'People have to work to maintain happiness. It\'s easy to be miserable. It\'s easy to stay miserable. It\'s easy to live in a place where nothing\'s working and not being able to work your way out of it. It\'s much harder to choose happiness, to choose laughter, to choose a positive.',
-        'Tituss Burgess',
-    ],
-    '97b680d5-340c-5115-ad04-c3ca8ba65259' => [
-        'Grief is in two parts. The first is loss. The second is the remaking of life.',
-        'Will Smith',
-    ],
-    'c2fafaad-3a28-5c06-89ca-c317405bd612' => [
-        'The proud depend upon the world to tell them whether they have value or not. Their self-esteem is determined by where they are judged to be on the ladders of worldly success. They feel worthwhile as individuals if the numbers beneath them in achievement, talent, beauty, or intellect are large enough.',
-        'Ezra Taft Benson',
-    ],
-    'e4ee6bbf-d141-5d96-adea-8eb7a8b4f9c9' => [
-        'People are saying I am against the chador. I am not. On the contrary. I am for traditional family values.',
-        'Rula Ghani',
-    ],
-    'bcdf8a39-0516-512f-8462-19d82c01cfc9' => [
-        'When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.',
-        'Confucius',
-    ],
-    'e79873bd-b231-5bd5-8c08-0f41e6975806' => [
-        'It\'s easy to walk away from risk, and you don\'t actually have to face it. Success is based upon overcoming the inherent risk you can\'t manage your way out of.',
-        'Maurice Flanagan',
-    ],
-    'af78d1e9-f0f5-50d1-9568-66ff8da7e98a' => [
-        'If you don\'t value your time, neither will others. Stop giving away your time and talents--start charging for it.',
-        'Kim Garst',
-    ],
-    '8f188e1f-2936-5be5-acc7-4f2cdc00a2d6' => [
-        'There is no standing still because time is moving forward.',
-        'Greg Lake',
-    ],
-    'aa78a105-68ee-5a48-84c1-5012fbb3fb4f' => [
-        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
-        'John Muir',
-    ],
-    'a394c348-92ae-50e2-8371-88067e1dd3bd' => [
-        'Zoos are becoming facsimiles - or perhaps caricatures - of how animals once were in their natural habitat. If the right policies toward nature were pursued, we would need no zoos at all.',
-        'Michael J. Fox',
-    ],
-    'b51a0a4c-72bc-5517-a72c-90281879d500' => [
-        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
-        'Kimberly Guilfoyle',
-    ],
-    '972860a1-39be-595b-a546-60a0b999b1d6' => [
-        'The science of today is the technology of tomorrow',
-        'Edward Teller',
-    ],
-    '3b4384b8-effc-5ff0-b905-fd86ad7890bc' => [
-        'The best way to pay for a lovely moment is to enjoy it.',
-        'Richard Bach',
-    ],
-    '6d143785-6f41-58ad-bd46-0b8210d96eb6' => [
-        'When you go through hell, your own personal hell, and you have lost - loss of fame, loss of money, loss of career, loss of family, loss of love, loss of your own identity that I experienced in my own life - and you\'ve been able to face the demons that have haunted you... I appreciate everything that I have.',
-        'David Cassidy',
-    ],
-    '04e5d17c-2059-5100-9924-8e305955eb0c' => [
-        'I like to be as positive and as peaceful as possible, but reality says, you know, sometimes you get mad, sometimes you get antsy, sometimes you get aggravated.',
-        'Musiq Soulchild',
-    ],
-    'e856fb20-ee6c-5034-b66b-9ca5b46c0035' => [
-        'When we are sure that we are on the right road there is no need to plan our journey too far ahead. No need to burden ourselves with doubts and fears as to the obstacles that may bar our progress. We cannot take more than one step at a time.',
-        'Orison Swett Marden',
-    ],
-    '6aeb1058-3c5a-57b2-a099-021812c77281' => [
-        'I was not a good-lookin\' girl. I was extremely skinny. I wasn\'t pretty. I wasn\'t cool.',
-        'Celine Dion',
-    ],
-    'f6e52528-92b8-5404-b188-118029f167ee' => [
-        'If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges.',
-        'Pat Riley',
-    ],
-    '60a6ecef-d680-5a30-83dd-df327656e4ed' => [
-        'Life isn\'t about finding yourself. Life is about creating yourself.',
-        'Bernard Shaw',
-    ],
-    '5e5c267c-7f81-524d-baaf-2ef81871bd95' => [
-        'Never bend your head. Always hold it high. Look the world right in the eye.',
-        'Helen Keller',
-    ],
-    '7066a1d6-f37e-5977-a5b1-c146ed3b35eb' => [
-        'We must embrace pain and burn it as fuel for our journey.',
-        'Kenji Miyazawa',
-    ],
-    'ad40d6ac-5425-55e2-8be2-60c2308c5a91' => [
-        'Coming to terms with the fear of death is conducive to healing, positive personality transformation, and consciousness evolution.',
-        'Stanislav Grof',
-    ],
-    '21156210-da0b-5fc0-b7d7-02eb946eb6ac' => [
-        'Nothing is given to man on earth - struggle is built into the nature of life, and conflict is possible - the hero is the man who lets no obstacle prevent him from pursuing the values he has chosen.',
-        'Andrew Bernstein',
+    '79688121-bcb0-5cbf-a0b3-f64d956263d0' => [
+        'There are things so deep and complex that only intuition can reach it in our stage of development as human beings.',
+        'John Astin',
     ],
     '9f80cc22-56e6-5178-85d0-f164b16d8ce3' => [
         'Have enough sense to know, ahead of time, when your skills will not extend to wallpapering.',
         'Marilyn vos Savant',
     ],
-    'c0d2b1e8-0b8a-5d1d-b0db-2a4d2f4f3d2a' => [
-        'The details surrounding both my marriage and subsequent filing for divorce are private, and I had hoped to keep them that way for the sake of my family.',
-        'Eminem',
+    '3037bad9-e722-5877-b191-2080bf1df92c' => [
+        'Champions are not the ones who always win races - champions are the ones who get out there and try. And try harder the next time. And even harder the next time. \'Champion\' is a state of mind. They are devoted. They compete to best themselves as much if not more than they compete to best others. Champions are not just athletes.',
+        'Simon Sinek',
     ],
-    '25a792bc-5d69-57e1-8517-d0e929166915' => [
-        'Fear of failure, it\'s the greatest motivational tool. It drives me and drives me and drives me.',
-        'Jerry West',
+    '4e47da74-154d-5791-ac70-9887115c8837' => [
+        'It takes a long time to grow an old friend.',
+        'John Leonard',
     ],
-    'e6445d95-62b8-563f-94bd-1e7ec5fbb8d0' => [
-        'If you keep yourself alive and current, funny is funny.',
-        'Alan King',
+    '57e9a456-c809-5cfb-b930-d5d63f6415c4' => [
+        'I want the kids to know that it\'s not a myth that somebody from their city plays and wins in the NBA. I just want to influence them to work hard and do whatever they want to do in life, whether it\'s to be a basketball player or scientist... if they believe in themselves, they can do anything.',
+        'Kawhi Leonard',
     ],
-    '954fd70c-8416-5423-abf4-8535172ba3c6' => [
-        'One of the best things to do sometimes is simply to be.',
-        'Eric Butterworth',
-    ],
-    'cb786472-be1e-531f-adb2-02d36df029ca' => [
-        'We cannot solve our problems with the same thinking we used when we created them.',
+    'b17e9fef-a9e5-509f-81cd-9164c33ea8bd' => [
+        'Strive not to be a success, but rather to be of value.',
         'Albert Einstein',
     ],
-    '86f1aab7-8705-5389-be4e-7cc727d52fba' => [
-        'Faith, family, academics and then sports was the order of priorities in my family. My parents really stuck to these principles when raising me and my two brothers. As long as we took care of everything, they let us play as much basketball as we wanted.',
-        'Jeremy Lin',
+    '67262e0e-5576-5d11-9d1c-8bad32e40fbf' => [
+        'There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge.',
+        'Baltasar Gracian',
     ],
-    '1d691f18-2189-5cea-b2ac-5574d72427d4' => [
-        'Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity.',
-        'A. P. J. Abdul Kalam',
+    '2b612d3b-0e8a-5a27-8c97-dba33cf93444' => [
+        'When I was eight, my piano teacher played seven or eight notes, and I sang them. She stopped and looked at me in shock! That was the first time I\'d gotten that reaction. I\'d had looks of horror, but never shock in a positive way.',
+        'Chris Cornell',
     ],
-    '875db81f-7465-5c0d-bd92-011d9d8d81a8' => [
-        'The thoughts we choose to think are the tools we use to paint the canvas of our lives.',
-        'Louise Hay',
+    '036a86b6-ade3-5c90-b671-396adf10a0c1' => [
+        'A beautiful thing is never perfect.',
+        'Unknown',
     ],
-    'ba2a1c7c-bf35-54dd-b329-57091ca3d963' => [
-        'We are entertainers. We have to give our audience a good time. If my name serves that purpose, if that brings a smile on your face, then I think it is good and my job has been done.',
-        'Tiger Shroff',
+    '229b8675-67c6-5692-830e-2adea41c10bd' => [
+        'Having nothing, nothing can he lose.',
+        'William Shakespeare',
+    ],
+    '93bc6222-0c84-5a26-a642-84ec9f3c6dc9' => [
+        'To guarantee success, act as if it were impossible to fail.',
+        'Dorothea Brande',
+    ],
+    '0a14e32c-e57d-5233-b5df-69ef25ebc253' => [
+        'You tell your kids that no matter what, you set your goals and you go for them. Whatever it is you achieve, never give up. You want your kids to have that good attitude, the confidence, and the will power to believe in themselves.',
+        'Joel Parkinson',
+    ],
+    'e07c0502-41b6-5508-8a25-9aca5363cc9d' => [
+        'Happiness comes when your work and words are of benefit to yourself and others.',
+        'Buddha',
+    ],
+    '5f4e3657-f88d-51da-8865-2f4475dd28ff' => [
+        'True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.',
+        'William Penn',
+    ],
+    '7607c145-aa27-590e-a599-3ca15a52724b' => [
+        'Sometimes I think we\'re alone in the universe, and sometimes I think we\'re not. In either case the idea is quite staggering.',
+        'Arthur C. Clarke',
+    ],
+    'dd09245e-507c-584a-a617-3a0dae1ad85e' => [
+        'If you do not change direction, you may end up where you are heading.',
+        'Lao Tzu',
+    ],
+    '76844bb2-6406-5b03-90ff-f04fe5e3755c' => [
+        'I learned early in sports that to be effective - for a player to play the best he can play - is a matter of concentration and being unaware of distractions, positive or negative.',
+        'Tom Landry',
+    ],
+    '83b0a802-1b82-5dba-a7b7-3ad077e478ef' => [
+        'At some point in life the world\'s beauty becomes enough. You don\'t need to photograph, paint or even remember it. It is enough.',
+        'Toni Morrison',
+    ],
+    '7b44cc7d-8a83-53b5-ab90-053bf53e29a7' => [
+        'While the wider global environment is worrying, we are seeing some positive results in our economic affairs.',
+        'Michael D. Higgins',
+    ],
+    'e846dd14-e920-5f2b-ba31-0cb2fe560c9e' => [
+        'I think that giving mindless praise is ridiculous. But I understand why parents do it. They want their kids to feel good about themselves. But parents are never going to teach their children true, positive self esteem by praising everything they do.',
+        'Rosalind Wiseman',
+    ],
+    'ffcf1096-92b4-571b-964f-c93a953c6e78' => [
+        'No fine work can be done without concentration and self-sacrifice and toil and doubt.',
+        'Max Beerbohm',
+    ],
+    '5b433e46-f41e-5ab5-a678-21128bfbe995' => [
+        'I was always really proud of the fact that I had a very positive influence as a role model.',
+        'David Cassidy',
+    ],
+    'ad0f5d17-26d4-5424-9d58-1fa284018179' => [
+        'Hurt leads to bitterness, bitterness to anger, travel too far that road and the way is lost.',
+        'Terry Brooks',
+    ],
+    'ff7376b5-a13e-5bcb-9da2-dd723aefd5aa' => [
+        'Life is made up of sobs, sniffles, and smiles, with sniffles predominating.',
+        'Diane von Furstenberg',
+    ],
+    '74fdcfb9-8f2f-501e-830f-a6df88a2ad4a' => [
+        'Great things are done by a series of small things brought together.',
+        'Vincent van Gogh',
+    ],
+    '7c5ecbb9-db28-5a4e-bd64-83555e443326' => [
+        'Never put a sock in a toaster.',
+        'Eddie Izzard',
+    ],
+    '018b7009-94ef-5b99-acdc-870f6fb3562d' => [
+        'Stop being a critic and be a light; don\'t be a judge, be a model. I think we are far too critical. I think the best way to correct behavior is to accentuate and affirm positive behavior and to ignore negative behavior. Generally speaking, there is a time to correct, of course; but my biggest advice would be, \'Affirm your child.\'',
+        'Sean Covey',
+    ],
+    '9475fb92-7898-5b35-8366-fe8f7f14c5c5' => [
+        'No man is free who is not master of himself.',
+        'Epictetus',
+    ],
+    '2ddb7c2d-25d7-5bbf-b454-2297e1e8254c' => [
+        'This sunlight linked me through the ages to that past consciousness.',
+        'Richard Jefferies',
+    ],
+    'd7815a5e-097b-5d21-8255-3756eaf4d73c' => [
+        'There\'s one thing about baldness, it\'s neat.',
+        'Don Herold',
+    ],
+    '8ab053bc-457a-56c9-9d53-c68012b7d584' => [
+        'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
+        'Lilly Singh',
+    ],
+    'a69a40e5-33f1-5933-a34f-37338071b7ea' => [
+        'Don\'t go through life, grow through life.',
+        'Tim Gunn',
+    ],
+    'c98472d5-3286-540f-8b56-adec73372bf2' => [
+        'The best part about being with a group is that you don\'t have to do everything alone. You\'re with your friends.',
+        'Justin Timberlake',
+    ],
+    'feb4dae8-8c92-5ee1-bab3-be03db3df23d' => [
+        'You need three things to win: discipline, hard work and, before everything maybe, commitment. No one will make it without those three. Sport teaches you that.',
+        'Haile Gebrselassie',
+    ],
+    '5b111565-01fb-503d-abe8-af2d62d43461' => [
+        'Be gentle first with yourself if you wish to be gentle with others.',
+        'Lama Yeshe',
+    ],
+    '3f37b41c-7d22-5141-8a43-d3b18c793d62' => [
+        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
+        'Orison Swett Marden',
+    ],
+    '905709d1-18da-5bac-bc08-55cedfa8108d' => [
+        'When we see the shadow on our images, are we seeing the time 11 minutes ago on Mars? Or are we seeing the time on Mars as observed from Earth now? It\'s like time travel problems in science fiction. When is now; when was then?',
+        'Bill Nye',
+    ],
+    '1abc9c04-4724-567f-af5b-d166bd09c789' => [
+        'Laughter is the best medicine - unless you\'re diabetic, then insulin comes pretty high on the list.',
+        'Jasper Carrott',
+    ],
+    'd111eb21-9c3b-56f0-8a23-578573a2aee2' => [
+        'To be able to look back upon one\'s past life with satisfaction is to live twice.',
+        'Jake Gyllenhaal',
+    ],
+    'f2bb5d8d-1237-5b67-aab2-ef5e113ab0cf' => [
+        'By taking the time to stop and appreciate who you are and what you\'ve achieved - and perhaps learned through a few mistakes, stumbles and losses - you actually can enhance everything about you. Self-acknowledgment and appreciation are what give you the insights and awareness to move forward toward higher goals and accomplishments.',
+        'Jack Canfield',
+    ],
+    'fd86a177-c1c3-552a-a874-dd7eb7e63b0c' => [
+        'Brought up to respect the conventions, love had to end in marriage. I\'m afraid it did.',
+        'Bette Davis',
+    ],
+    '0b5f8e44-3a1f-5713-bf77-c3c15e08bc23' => [
+        'What sculptors do is represent the essence of gesture. What is important in mime is attitude.',
+        'Marcel Marceau',
+    ],
+    'eff0543f-8a17-528e-94d2-e9b7ed2c084d' => [
+        'A witty woman is a treasure; a witty beauty is a power.',
+        'George Meredith',
+    ],
+    '0dd737f6-836a-5039-a270-d810dca9c5a0' => [
+        'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.',
+        'Pauline Kael',
+    ],
+    '117f1efe-7f06-5215-ad00-0b9ce23d39b8' => [
+        'Strength of character may be learned at work, but beauty of character is learned at home.',
+        'Henry Drummond',
+    ],
+    'b50f1d57-03c5-5e96-9054-9d8ec3c5689f' => [
+        'When I started Giorgio Armani in the mid-\'70s, I realized that women needed a way to dress that was equivalent to that of men - something that would give them dignity, an attitude that would help them handle their work life.',
+        'Giorgio Armani',
+    ],
+    'a49dc203-a913-58ac-a4e1-fa34c73adf59' => [
+        'The best move you can make in negotiation is to think of an incentive the other person hasn\'t even thought of - and then meet it.',
+        'Eli Broad',
+    ],
+    '22114c57-3b5c-5486-a3f1-03b47b7a0596' => [
+        'There is no personal achievement in being born beautiful.',
+        'Loretta Young',
+    ],
+    '9740f603-a08e-51cd-839d-ec3a0ffcc3af' => [
+        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
+        'Robin Williams',
     ],
 ];

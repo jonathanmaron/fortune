@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'f9eadfcf-75db-57e0-a38c-92514c9b6f84' => [
-        'I\'ll never stop dreaming that one day we can be a real family, together, all of us laughing and talking, loving and understanding, not looking at the past but only to the future.',
-        'LaToya Jackson',
+    'ecc54ef9-c367-5581-9145-95734c102341' => [
+        'The most important thing is being passionate about what you\'re doing and always give it your all. That is the key to success.',
+        'Charlie White',
     ],
-    'e4f39b29-61f4-5b36-8002-cd3dbc08b2e5' => [
-        'There\'s something about the ukulele that just makes you smile. It makes you let your guard down. It brings out the child in all of us.',
-        'Jake Shimabukuro',
+    'e9192441-4c31-589f-a364-708c05038680' => [
+        'The men I idolized built their bodies and became somebody - like Sylvester Stallone and Arnold Schwarzenegger - and I thought, \'That can be me.\' So I started working out. The funny thing is I didn\'t realize back then that I was having a defining moment.',
+        'Dwayne Johnson',
     ],
-    'a8003830-6e20-5307-90c6-0fe4a26c8eb9' => [
-        'Keep up the good work, if only for a while, if only for the twinkling of a tiny galaxy.',
-        'Wislawa Szymborska',
+    '969469bc-de76-5ab1-9ca6-890ee52fcd45' => [
+        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
+        'Richie Benaud',
     ],
-    'd0e48355-7a87-5e8a-82a2-b70db626c712' => [
-        'My father... gave me a positive connection with men because he is a gentleman.',
-        'Iman',
+    '100ebd8b-1a54-5d49-81ed-f9dc1ed4b11a' => [
+        'The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.',
+        'Anais Nin',
     ],
-    '6b01401b-7fc2-5ef8-8802-91635bc075ad' => [
-        'It\'s always too early to quit.',
-        'Norman Vincent Peale',
+    'e2c001b5-ef4e-5f81-8a54-fd36f5c6ef0c' => [
+        'We are such stuff as dreams are made on; and our little life is rounded with a sleep.',
+        'David Petraeus',
     ],
-    'f1db3c28-c882-5ae9-89a8-fb8014cce3c5' => [
-        'Sometimes people have questioned whether I was making fun of the industry or just at myself. I\'m just trying to raise a smile. Clothes aren\'t meant to be worshipped at a church altar.',
-        'Jeremy Scott',
+    'f7e2be25-88bc-561d-b467-12fed56acc82' => [
+        'Picking a best friend who stands up for what she believes in, is true to herself and allows you to be yourself without judgement of how \'cool\' you are? Well, now you\'re picking a friend for life.',
+        'Robert Baden-Powell',
     ],
-    'ec5b17b7-df32-57f3-bc81-b8f6f4e0fce7' => [
-        'Well, I took a sabbatical. I walked away from shooting movies because I couldn\'t handle the travel. I\'m a single parent. I had young kids, and I found that keeping in touch with them from hotel rooms and airports wasn\'t working for me. So I stopped.',
-        'Rick Moranis',
+    '531d26d5-6eb1-5b88-b0fe-f2547c2610b4' => [
+        'Every time you get into a new job, new location, you have an amazing opportunity in front of you. You get to play dumb for as long as people will allow you to play dumb. You get to ask all the dumb questions, you get to ask multiple people the dumb questions, and you get to make mistakes. That\'s how you stand out in the crowd.',
+        'Gary Cohn',
     ],
-    '612fa51b-4690-5d2c-ab81-6048f9f51275' => [
-        'I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.',
-        'Marcel Duchamp',
+    '9c5e99f4-47d4-5916-a354-2d90ed8f4f41' => [
+        'Success is how high you bounce when you hit bottom.',
+        'George S. Patton',
     ],
-    '22ca2e9c-de44-5500-a1f1-67f42c2718b9' => [
-        'I think our family motto is to always work hard, be humble, kind, and thoughtful about others around us.',
-        'Anwar Hadid',
+    '78f996ba-b89d-55c9-8ebe-dc844363c232' => [
+        'Time abides long enough for those who make use of it.',
+        'Leonardo da Vinci',
     ],
-    '36fa368a-08e4-5b39-bf6b-2918f9ac4d04' => [
-        'Cheney, Rumsfeld - they were Shakespearean in their attitude of impunity.',
-        'Glen Duncan',
+    '2ad592c5-fc3e-5b06-b4ba-6042d91fb166' => [
+        'Every day is a new opportunity. You can build on yesterday\'s success or put its failures behind and start over again. That\'s the way life is, with a new game every day, and that\'s the way baseball is.',
+        'Bob Feller',
     ],
-    '8ef61502-bcd4-571a-8f52-7ff728fb1984' => [
-        'I\'m not the best person at putting words together. I can\'t give you the melody. But I might inspire somebody.',
-        'Meek Mill',
+    '26c49445-cc34-599b-afbf-9935a5d31780' => [
+        'Carry on any enterprise as if all future success depended on it.',
+        'Cardinal Richelieu',
     ],
-    '926ab06b-0e96-5e1b-8097-4fba00612a48' => [
-        'I\'ve got a theory that if you give 100 percent all of the time, somehow things will work out in the end.',
-        'Larry Bird',
+    'dcde03f4-bb05-5f93-b7d8-eda05f669f43' => [
+        'The terrifying and edible beauty of Art Nouveau architecture.',
+        'Salvador Dali',
     ],
-    '69a4c7df-0a2b-541a-84f8-412f95b15777' => [
-        'One out of every 100 American men is HIV positive. The rate of infection has reached epidemic proportions in 40 developing nations.',
-        'Philip Emeagwali',
+    '22da1ecf-0f9a-5882-b620-8dd584114608' => [
+        'Truth is like the sun. You can shut it out for a time, but it ain\'t goin\' away.',
+        'Elvis Presley',
     ],
-    'e639e83f-5a60-596d-9b63-068741a8f551' => [
-        'When I was campaigning, I told the people if nothing happens under my mandate it will still be a positive thing because my mandate will be used as a rupture between the past and the future.',
-        'Michel Martelly',
+    'f3ebe82b-66da-5ac5-8c06-1a763462b442' => [
+        'Without self-discipline, success is impossible, period.',
+        'Lou Holtz',
     ],
-    'db219102-2613-525d-a7a4-835e447ac8eb' => [
-        'I\'ve just got a really bad smile. I go for the scowl instead.',
-        'Jason Statham',
+    '62c82bcd-a8a1-5ccc-bfa2-212ee01f7cd2' => [
+        'The Creator has not given you a longing to do that which you have no ability to do.',
+        'Orison Marden',
     ],
-    'b9cc5743-d3d0-5629-8245-4db8be10e003' => [
-        'If it\'s flipping hamburgers at McDonald\'s, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft.',
-        'Snoop Dogg',
+    '86bae4a9-6af3-556d-bbed-4e2231f44419' => [
+        'And for me, the real world involves everything: risk, danger, beauty, energy, all we meet with in the real world.',
+        'Christo',
     ],
-    '6a1e5224-f140-52ac-a13d-e2cc7efc57c9' => [
-        'Delete the negative; accentuate the positive!',
-        'Donna Karan',
+    'b8253fa4-9537-5157-be52-f418cb261f4b' => [
+        'I will have my publicist pull pictures of the way I look at events so I can see, \'Oh, that cut is not as flattering as I thought,\' or \'I should smile bigger,\' or \'That positioning is odd.\' I learn from it.',
+        'Allison Williams',
     ],
-    '91825a05-b2fc-57fc-ba33-739c7bf50b1a' => [
-        'Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.',
-        'Ambrose Bierce',
+    '3661645c-9435-54c6-b410-94cc4c638964' => [
+        'As an entrepreneur, I\'ve come across countless articles and quotes proudly telling me that I should accept failure, smile, and keep my head up. In other words, I\'ve been told to stay positive. The thing is, when you\'re forced to shut down a business and let really awesome people you care about go, staying positive is the last thing on your mind.',
+        'John Rampton',
     ],
-    '61d2e68d-a8c1-5929-9a56-df75298ef1d9' => [
-        'The one thing you\'ve gotta do is that you need to always do the best you can do, no matter what the given situation, no matter what comes up against you. You do the best you can do, and you never give up. Never quit.',
-        'James Corden',
+    '9b682f2e-72fb-5a4e-a020-bea6b0f94f55' => [
+        'Those who will play with cats must expect to be scratched.',
+        'Cervantes',
     ],
-    'e786156b-afb9-5d76-a7ff-f04b29ace048' => [
-        'I\'ve always believed that you can think positive just as well as you can think negative.',
-        'James A. Baldwin',
+    '55bfde97-654a-5d28-8ec7-5a9e7202f9e2' => [
+        'There is no substitute for hard work.',
+        'Thomas A. Edison',
     ],
-    '57755545-11ad-5ec9-924f-6548f27f6285' => [
-        'Women who stay true to themselves are always more interesting and beautiful to me: women like Frida Kahlo, Georgia O\'Keeffe and Anna Magnani - women who have style, chic, allure and elegance. They didn\'t submit to any standard of beauty - they defined it.',
-        'Isabella Rossellini',
+    'bd187bfe-9be6-5422-b63a-db1b2a90db35' => [
+        'We tried to set up a company that patterned ourselves after Southwest in all the fun, the spirit, the great people, the smile, the efficiency side of it, but we\'ve added some extras that people aren\'t used to finding on Southwest.',
+        'David Neeleman',
     ],
-    '22acedf2-7876-56f5-a49f-0acbbcea4e03' => [
-        'I\'m happy that the sacrificing, the hard training, the travel, the time being away from the family, is going to stop. So I\'m happy; I\'m glad about that. But I\'m also terrified. Frightened. Because, I mean, in my whole adult life, cycling was the most consistent thing I ever did.',
-        'Jens Voigt',
+    'b32b68ef-e00e-5397-8bbc-9c614d6cfff1' => [
+        'Nothing in life is promised except death.',
+        'Patrick Henry',
     ],
-    '7b0b30d1-3923-5350-8943-75110f306723' => [
-        'Beer, it\'s the best damn drink in the world.',
-        'Jack Nicholson',
+    'b31c872a-5a44-5313-bcef-ddedc7c5ea2f' => [
+        'Remember that it is not enough to abstain from lying by word of mouth; for the worst lies are often conveyed by a false look, smile, or act.',
+        'Abraham Cahan',
     ],
-    '97a3092d-ba48-5b99-b062-64b7735f422e' => [
-        'The expert in anything was once a beginner.',
-        'Anonymous',
+    'd07ed0ad-5788-5252-8bc6-490375a0a662' => [
+        'If it weren\'t for Philo T. Farnsworth, inventor of television, we\'d still be eating frozen radio dinners.',
+        'Johnny Carson',
     ],
-    '50ff977f-0146-5e69-ad24-106ca8b80568' => [
-        'The undertaking of a new action brings new strength.',
-        'Richard L. Evans',
+    '3a2be51b-6301-5afb-8630-34c2bcaf6cde' => [
+        'Success demands singleness of purpose.',
+        'Vince Lombardi',
     ],
-    '72a9bba8-27f6-5442-8f0b-7fc3104de06a' => [
-        'We should celebrate how amazing our bodies are! We all have things that we like and dislike about our bodies, but we need to focus on what we love - maybe it\'s a great smile, strong legs or curly hair?',
-        'Katherine Schwarzenegger',
+    '0909355e-e8f3-5be4-a0e1-7393fdc774d6' => [
+        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
+        'Carla Gordon',
     ],
-    '6cc5e9e4-b555-500a-9f1b-9499467adcd8' => [
-        'With the Union my best and dearest earthly hopes are entwined.',
-        'Franklin Pierce',
+    'cf9d7520-f7ab-5ade-b919-bc29df2a4a78' => [
+        'Gentleness doesn\'t get work done unless you happen to be a hen laying eggs.',
+        'Coco Chanel',
     ],
-    '3deb1b97-3460-5e1d-8b2b-e9c6b4698294' => [
-        'I say to the young, be happy that you were born in Italy because of the beauty of the human capital, both masculine and feminine, of this country... No other country has such human capital.',
-        'Rita Levi-Montalcini',
+    'acf11a44-8223-5da6-b4e8-fe9d497a236e' => [
+        'Pastry is different from cooking because you have to consider the chemistry, beauty and flavor. It\'s not just sugar and eggs thrown together. I tell my pastry chefs to be in tune for all of this. You have to be challenged by using secret or unusual ingredients.',
+        'Ron Ben-Israel',
     ],
-    '7d1d4b33-d272-5097-a719-d3ebc17f1d48' => [
-        'My parents and my grandfather on my mom\'s side would travel the earth. They went to Australia and China, and they went to probably every soccer game I ever played.',
-        'Brandi Chastain',
+    '1fb0134b-c368-51a8-ba1a-c260a8650008' => [
+        'Imagination will often carry us to worlds that never were. But without it we go nowhere.',
+        'Carl Sagan',
     ],
-    'f84a8d9c-0e0b-5ff2-8200-5dbc60a0bedb' => [
-        'It\'s very difficult to think that you\'re with someone that you know, and all of a sudden you don\'t know them: it turns out that they betray you. It\'s painful, but it\'s best to turn the page.',
-        'Shakira',
+    '0a59d11b-3532-5da2-b5a2-edbc2dcda7f0' => [
+        'The thing we often forget to talk about, or perhaps we take for granted, is our country\'s dazzling beauty. Our natural environment is so much a part of Australia\'s art, writing, music and culture, both indigenous and non indigenous.',
+        'Quentin Bryce',
     ],
-    '4037cdc6-7db5-5e48-a10d-e3e648a531c5' => [
-        'If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.',
-        'Henry David Thoreau',
+    '7968d8bd-012d-55b4-b721-22fea504fa17' => [
+        'Don\'t give up. Don\'t lose hope. Don\'t sell out.',
+        'Christopher Reeve',
     ],
-    '1f75d69d-e1b2-5793-a750-8f763664c051' => [
-        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
-        'Curtis Jackson',
+    '22998ac3-acc9-5967-9c17-6d7da09d2028' => [
+        'Our life is what our thoughts make it.',
+        'Domhnall Gleeson',
     ],
-    '05067db2-74aa-56ca-9107-12390d4d4c19' => [
-        'The funny thing is, I\'m so used to not caring what anyone says, good or bad, that unfortunately even when people say good things... I wish it made me feel good, but it doesn\'t.',
-        'Rob Zombie',
+    '67935e20-0a5b-5a89-98d4-a426544c7a75' => [
+        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
+        'Buddha',
     ],
-    '85c757c9-e940-5bff-b136-e61b93a6a93c' => [
-        'Loving a child doesn\'t mean giving in to all his whims; to love him is to bring out the best in him, to teach him to love what is difficult.',
-        'Nadia Boulanger',
+    'e7bacb56-eba0-5f1d-9353-3ffccd4ad3b0' => [
+        'For the mind disturbed, the still beauty of dawn is nature\'s finest balm.',
+        'Edwin Way Teale',
     ],
-    '8be98bc0-04ef-5afd-8a9e-cbd5bec2bf32' => [
-        'You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.',
-        'Pele',
+    '05547b1c-af18-52d0-8402-3ea7103fb69c' => [
+        'Life is about making an impact, not making an income.',
+        'Kevin Kruse',
     ],
-    '2acd647c-0a1b-535a-96e6-3a10ed595ad5' => [
-        'The communism of Karl Marx would probably be actually the best for everybody as a whole. But what he didn\'t figure into was human nature, and that\'s what corrupts it.',
-        'Jesse Ventura',
+    'c18213b4-7420-5e68-9f8a-a3769e87f46e' => [
+        'The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.',
+        'Lao Tzu',
     ],
-    'bc716978-c849-5be7-adc7-a62a942dece8' => [
-        'To be great is to be misunderstood.',
-        'Ralph Emerson',
+    'fe87a4e5-4a2f-53a6-babb-be0e2ef58941' => [
+        'I think we live in a world where the most important thing is daily life: sharing a space with your family, making meals, being with your people. It\'s not only the idea of privacy, it\'s the beauty of the moment, at a time in the world when everything goes really fast - too fast.',
+        'Ana Tijoux',
     ],
-    '5c7cc2cf-3acc-5336-8e99-c1b743c8ccb0' => [
-        'My life is about ups and downs, great joys and great losses.',
-        'Ludwig van Beethoven',
+    '9cb21fe6-18a6-5395-9e67-6fdca6e44e72' => [
+        'Without music, life would be a mistake.',
+        'Benjamin Jowett',
     ],
-    '17980f1c-fc51-5548-858f-e41f88ce5529' => [
-        'The trouble with travelling back later on is that you can never repeat the same experience.',
-        'Michael Palin',
+    '562fa184-cda6-5f97-953a-fb4d223a9364' => [
+        'Make a Goal Box, a chart of positive daily contact with a family when you are working with them.',
+        'Richard G. Scott',
     ],
-    '1227757c-5182-5bd0-bbf6-a8d01ca5c1d5' => [
-        'I look around me and nowhere do I see a stamp of disapproval with which nature marked a woman\'s candid brow.',
-        'Franz Grillparzer',
+    '4a70b3c7-4fc2-5ca6-8b51-09120f2ce4b9' => [
+        'We\'ve had great successes, but our future is not about our past success. It\'s going to be about whether we will invent things that are really going to drive our future.',
+        'Satya Nadella',
     ],
-    '9eec0772-0660-55f3-9233-a48b072f2dc1' => [
-        'Macho does not prove mucho.',
-        'Zsa Zsa Gabor',
+    '1d0e1204-7bd5-523e-89c7-58c29ff4a8ab' => [
+        'An artist, under pain of oblivion, must have confidence in himself, and listen only to his real master: Nature.',
+        'Auguste Renoir',
     ],
-    '74298d07-dd19-5e06-84fc-6e1a93fe8b63' => [
-        'To smile at the jest which plants a thorn in another\'s breast is to become a principal in the mischief.',
-        'Richard Brinsley Sheridan',
+    '81add1b5-c165-5f08-bea7-dedcd90c54f7' => [
+        'Man\'s nature is not essentially evil. Brute nature has been known to yield to the influence of love. You must never despair of human nature.',
+        'Mahatma Gandhi',
     ],
-    '97866359-bf25-50f1-a558-923e6e91282d' => [
-        'Travel, instead of broadening the mind, often merely lengthens the conversation.',
-        'Elizabeth Drew',
+    'e2424315-e6db-598e-841e-823db0d51d33' => [
+        'I love to travel, but hate to arrive.',
+        'Hernan Cortes',
     ],
-    '90e1f436-cf3d-5db2-9487-283e0f99e836' => [
-        'Wal-Mart\'s success strategies and tactics are easy to understand yet hard to duplicate.',
-        'Michael Bergdahl',
+    '4ff298ce-e016-59fd-b150-1e482c8be77a' => [
+        'There is a part of me that still wants to go out and grab a backpack and unplug - not take a cellphone or even a camera and just get out there and experience the world and travel. I have yet to do that, but someday I hope.',
+        'Emilio Estevez',
     ],
-    'b145d16e-c3e2-5272-8933-54451c08d6dd' => [
-        'Obama does not represent America. Nor does he represent anything what our forefathers stood for. This country is basically built on an attitude. It\'s a way of life. It\'s not because you\'re born here. It\'s not that you\'re supposed to take from those who have and give to those who haven\'t. That kills a country. It killed Russia.',
-        'Luke Scott',
+    '96bd8f46-a17d-5535-a160-7e44070b19c3' => [
+        'At a book festival in Fort Lauderdale, I met David Eisenhower, Ike\'s grandson, who was promoting his book \'Going Home to Glory: A Memoir of Life with Dwight D. Eisenhower,\' in which he describes attending the Yankees\' 154th game in 1961. The whole family had been following Mantle and Maris chase Babe Ruth\'s home run record across the country.',
+        'Jane Leavy',
     ],
-    '07447531-3825-5331-8101-23f6dbc6cbe6' => [
-        'When I travel, I feel more like a nomad than a tourist.',
-        'Mohsin Hamid',
+    'c21480f7-c81a-5ee0-a4a8-d8715a83d105' => [
+        'The reason that Google was such a success is because they were the first ones to take advantage of the self-organizing properties of the web. It\'s in ecological sustainability. It\'s in the developmental power of entrepreneurship, the ethical power of democracy.',
+        'Ron Eglash',
     ],
-    '8c1d0eb9-92c9-5cbe-8155-ca24c3242994' => [
-        'Elective office and public service are obviously something that have long ties with my family, and something I\'m definitely interested in.',
-        'Joseph P. Kennedy III',
+    '3acce88a-97f9-5afb-8bae-66672a3d23b8' => [
+        'As my father used to tell me, the only true sign of success in life is being able to do for a living that which makes you happy.',
+        'Al Yankovic',
     ],
-    '0f2360c2-6158-5834-8369-ba2e592db467' => [
-        'Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we\'re thinking like amateurs. Amateurs don\'t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin\', no matter what.',
-        'Steven Pressfield',
+    'ecf59df5-ea1f-50ad-95d4-419ae3ea4677' => [
+        'Stop doing things that waste time. Don\'t replace time with your family or things that you need to do. I needed to put together two fantasy teams this weekend because that\'s something I enjoy, but I did stop playing Nintendo Wii for hours on end.',
+        'Gary Vaynerchuk',
     ],
-    '536b7dd1-15e4-53ff-861a-4fbd26928b26' => [
-        'I feel like a tiger right now. There\'s nothing impossible if you get up and work for it.',
-        'Michael Flatley',
+    '3778c7b3-b63a-5fe1-80bb-73cd2434a967' => [
+        'The only question to ask yourself is, how much are you willing to sacrifice to achieve this success?',
+        'Larry Flynt',
     ],
-    'acc5c3ad-3973-56ba-ba46-0f391441e39e' => [
-        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
-        'Susan Orlean',
+    '598b8e99-8830-5de7-a376-838ae69c9d5a' => [
+        'The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.',
+        'Henry Thoreau',
     ],
 ];

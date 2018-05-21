@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '538603cd-ecfd-520d-9571-a8eb29e1c019' => [
-        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
-        'Winona Ryder',
+    'fabf0285-871f-5dc0-82f4-085f6fe006c1' => [
+        'Waking up sober is a good day. I love being able to wake up and do positive things, to go to the gym.',
+        'Rodney King',
     ],
-    '2e6db583-5350-51a2-b750-15fd33b8f20c' => [
-        'Victory has a thousand fathers, but defeat is an orphan.',
-        'John F. Kennedy',
+    '10eae63b-82c8-50cb-abf4-1528862f88e6' => [
+        'Behind every cloud is another cloud.',
+        'Judy Garland',
     ],
-    'e94dfdb9-562e-5ae0-9118-5592769b4463' => [
-        'Life is a work in progress.',
-        'Joni Eareckson Tada',
+    'd6e56a5e-a8d1-5f2a-93cb-e0686b7d6e40' => [
+        'Steady, firm, and kind government of prisoners is the truest humanity and the best exercise of duty. It is with convicts as with children: unseasonable indulgence, indiscreetly granted, leads to mischiefs which we may deplore but cannot repair.',
+        'Dorothea Dix',
     ],
-    'd4646be0-be40-5790-b58c-1d4c769e9158' => [
-        'It is not fit that every man should travel; it makes a wise man better, and a fool worse.',
-        'William Hazlitt',
+    '5e79188b-22ad-5590-89b7-09a755642bab' => [
+        'I think what\'s important in a good manager and a good agent is that they know your vision and that they are passionate about you and believe in you. Because if they don\'t, then they\'re not going to work hard for you, and they\'re going to send you out on things that you don\'t want to do.',
+        'Maiara Walsh',
     ],
-    '91462f0a-6dd9-5a23-b799-10596c578498' => [
-        'Family preparedness has been a long-established welfare principle.',
-        'Ezra Taft Benson',
+    '29064bf8-dd56-5bc8-a01b-6bb6a696da01' => [
+        'I\'ve always tried to work hard. I\'m not trying to show anybody up or do something spectacular for attention.',
+        'Roy Halladay',
     ],
-    '492536ba-01bc-503b-a0ea-699e0b6ef7f9' => [
-        'A creative man is motivated by the desire to achieve, not by the desire to beat others.',
-        'Ayn Rand',
+    '63a9af83-689b-5c05-a026-58195e7001d3' => [
+        'Delicious autumn! My very soul is wedded to it, and if I were a bird I would fly about the earth seeking the successive autumns.',
+        'George Eliot',
     ],
-    'd9d115c3-5dcf-5dea-86c4-f71bbaf80a45' => [
-        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
-        'Barry Sanders',
+    '1fa54aac-8409-5141-8441-3778fbe8330d' => [
+        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
+        'Jesse Eisenberg',
     ],
-    '3935131c-f561-512a-a3e0-ca4defa09aba' => [
-        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
-        'Hannah Arendt',
-    ],
-    'c9e3161f-95bd-52f8-8756-0d02acbd688f' => [
-        'I think anyone who\'s perfectly happy isn\'t particularly funny.',
-        'Joan Rivers',
-    ],
-    '1c1a146f-9fbb-560d-a1f7-44e17252970f' => [
-        'Make space in your life for the things that matter, for family and friends, love and generosity, fun and joy. Without this, you will burn out in mid-career and wonder where your life went.',
-        'Arthur Keith',
-    ],
-    '5149cd3f-5103-522f-ba57-d64a0a4698d6' => [
-        'A woman has two smiles that an angel might envy, the smile that accepts a lover before words are uttered, and the smile that lights on the first born babe, and assures it of a mother\'s love.',
-        'Thomas Chandler Haliburton',
-    ],
-    'd1f58a4d-7934-526d-929e-e8d01039ff13' => [
-        'Commitment in the face of conflict produces character.',
+    '5c310ad5-14ec-5b7f-be2c-c6943ce2607c' => [
+        'When you lose, don\'t lose the lesson.',
         'Unknown',
     ],
-    'f5f75734-aeab-5cf0-8141-b25dfaf53b79' => [
-        'The secret of success is constancy to purpose.',
-        'Benjamin Disraeli',
+    '40fc2df2-1321-5c9e-8247-a208f27e1ebd' => [
+        'My goals have changed throughout my life. At one time it was winning awards, selling out concert dates, selling more albums than anyone else. Now, my goals are to see my grandchildren grown, live a long and healthy life with my family and friends and travel the world.',
+        'Reba McEntire',
     ],
-    '54195657-6984-50c0-8617-e1ac6ca90510' => [
-        'It\'s a question of keeping one\'s eyes and ears open and watching how other people play the game. They\'re watching me too, to see what my attitude is like.',
-        'Charles Dance',
+    '211fe6b9-b402-5695-bad0-e790d88a8988' => [
+        'Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can\'t ride you unless your back is bent.',
+        'Martin Luther King, Jr.',
     ],
-    '0d78be5f-cbff-5a7f-981e-fd6e47f042fb' => [
-        'If you can\'t sit in a cafe quietly and be ignored, how can you observe human nature and write a story?',
-        'Evangeline Lilly',
+    '882ca3f8-4166-5c13-8239-3a6106a36e1d' => [
+        'There are many little ways to enlarge your child\'s world. Love of books is the best of all.',
+        'Jackie Kennedy',
     ],
-    '518362cc-60ac-5159-9d5e-c8bbb64ed36c' => [
-        'I do find the sibling connection endlessly fascinating, as I do all family dynamics. I like how siblings seem to create their own parentless mini-civilization within a family, one that has its own laws, myths, language, humor, its own loyalties and treacheries.',
-        'Jandy Nelson',
+    '817da242-62cb-5a91-b306-5484ce59827b' => [
+        'My mother never put an emphasis on looks. She let us grow up on our own time line. She never forced any beauty regimen into my world.',
+        'Rachel McAdams',
     ],
-    'e0a7caf9-eb83-5a81-9abd-8f41f92c4a74' => [
-        'Parents are the last people on earth who ought to have children.',
-        'Samuel Butler',
+    '80bb7b73-91a0-5463-95c0-8cea4cfbfc05' => [
+        'One of the best gifts you can give to an animal is a donation of a blanket to your local animal shelter during the winter months.',
+        'Carrie Ann Inaba',
     ],
-    '7c624b72-149a-5598-b063-576629c6e0d4' => [
-        'Today painters do not have to go to a subject matter outside of themselves. Most modern painters work from a different source. They work from within.',
-        'Jackson Pollock',
+    '4c48fbe6-bd06-5038-afe7-3a233c4b9c61' => [
+        'I have just got a new theory of eternity.',
+        'Albert Einstein',
     ],
-    '18fdaa92-dbec-5b91-8144-454a695b33d0' => [
-        'By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.',
-        'Lao Tzu',
+    '6f6e935f-0963-5fde-9c55-5b78db06eeb2' => [
+        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
+        'Josephine de La Baume',
     ],
-    '857f3f21-8a51-5437-9a83-491f864e7211' => [
-        'The best way to get to know the place you are traveling in is to walk around... and the best way to walk around is with comfortable shoes! Grab your travel buddy and your running shoes and go explore!',
-        'Laura Marano',
+    '171c18fe-fee4-5e09-8e83-d16bc1ac7cb9' => [
+        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
+        'George Bernard Shaw',
     ],
-    'c3e4331d-af18-5b08-a934-9fa3f909a5fb' => [
-        'Everyone carries his own inch rule of taste, and amuses himself by applying it, triumphantly, wherever he travels.',
-        'Henry Adams',
+    '03e63017-1373-5026-af9d-ff37b3e98f85' => [
+        'You can\'t create in a vacuum. Life gives you the material and dreams can propel new beginnings.',
+        'Byron Pulsifer',
     ],
-    'ecc1b80a-4ae1-51b5-9fb3-ab2596fb0dcf' => [
-        'Success to me is being a good person, treating people well.',
-        'David LaChapelle',
+    '4ccea5d2-2ff5-5309-a0e7-57aee2fef2b0' => [
+        'Beauty is in the strangest places. A piece of garbage floating in the wind. And that beauty exists in America. It exists everywhere. You have to develop an eye for it and be able to see it.',
+        'Alan Ball',
     ],
-    '7bc95bde-e76c-57de-8ed8-024b8a63abf9' => [
-        'The two things I was positive about in life were that I was going to be a teacher at a boarding school or an operative with the CIA posted abroad. I could write a book about all the things I was sure about.',
-        'Tucker Carlson',
+    '28c7d11f-c33d-5984-9ef3-092e0b58c5e6' => [
+        'Failure is an opportunity to begin again more intelligently.',
+        'Henry Ford.',
     ],
-    '9797f5a9-daab-5acf-a909-fe0316a4b0f2' => [
-        'I love sleep. My life has the tendency to fall apart when I\'m awake, you know?',
-        'Matt Cameron',
+    '1b3b65a5-8bd5-5916-926a-33d054eccf77' => [
+        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
+        'Frank Norris',
     ],
-    '9cb21fe6-18a6-5395-9e67-6fdca6e44e72' => [
-        'Without music, life would be a mistake.',
-        'Benjamin Jowett',
+    '5c679945-c13a-57c9-bbaa-820023f18aa9' => [
+        'Coral reefs represent some of the world\'s most spectacular beauty spots, but they are also the foundation of marine life: without them many of the sea\'s most exquisite species will not survive.',
+        'Sheherazade Goldsmith',
     ],
-    '1bee2b72-398f-5045-bb5a-025374198b9c' => [
-        'Since I travel so much, it\'s always great to be home. There\'s nothing like getting to raid my own refrigerator at two in the morning.',
-        'Amy Grant',
+    '8e7842c5-8cba-5c6c-b52a-32cc07117813' => [
+        'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
+        'Anita Sarkeesian',
     ],
-    '36f29388-42e3-5506-8327-67a00f67487b' => [
-        'Through travel, you discover a new aspect to your personality. You discover things which you wouldn\'t seated in the confines of your home.',
-        'Imtiaz Ali',
+    '065109b7-2b4b-5c4b-9bc3-584b1b4b40f2' => [
+        'The best scientists and explorers have the attributes of kids! They ask question and have a sense of wonder. They have curiosity. \'Who, what, where, why, when, and how!\' They never stop asking questions, and I never stop asking questions, just like a five year old.',
+        'Sylvia Earle',
     ],
-    '8eaa4ded-1fa4-518f-9ba8-8142b79961e3' => [
-        'Life and death are one thread, the same line viewed from different sides.',
-        'Oscar Wilde',
+    '9f231bb7-ebaa-5840-aff2-848ca5ae7d5a' => [
+        'There are actually no political aspirations. I think you need to have the right attitude and aptitude for it. I don\'t think I have the right aptitude for it. I think it is unfair to push somebody in that direction just because my father happens to be a politician.',
+        'Sonakshi Sinha',
     ],
-    '80c6fb42-f1c6-534d-a12e-23c84033b1ca' => [
-        'This life is like a swimming pool. You dive into the water, but you can\'t see how deep it is.',
-        'Ralph Waldo Emerson',
+    '379d627b-d142-514c-8497-daef0630d24b' => [
+        'Sometimes, reading my own media, the negativity can upset me, but I just deal with things on a positive basis. I mean, I have up to 20,000 people singing my words back to me on a nightly basis - they share my hopes and fears, and they relate to my own life experiences. Life can be pretty isolating, but that connection is always amazing.',
+        'James Blunt',
     ],
-    '525563b0-71e0-535f-b943-9bbee266c3d6' => [
-        'Don\'t be afraid to go out on a limb. That\'s where the fruit is.',
-        'H. Jackson Browne',
+    '65845c9b-9aed-503f-a8c6-cb61fe7e15b0' => [
+        'Liberalism is an attitude rather than a set of dogmas - an attitude that insists upon questioning all plausible and self-evident propositions, seeking not to reject them but to find out what evidence there is to support them rather than their possible alternatives.',
+        'Morris Raphael Cohen',
     ],
-    'e97d9b72-7b9b-5862-8217-60e9339c952d' => [
-        'Tell me not of joy: there\'s none Now my little sparrow\'s gone; He, just as you, Would toy and woo, He would chirp and flatter me, He would hang the wing awhile, Till at length he saw me smile, Lord! how sullen he would be!',
-        'William Cartwright',
+    '804b4300-9b7b-5980-add4-f1ed1958a738' => [
+        'Build a better mousetrap and the world will beat a path to your door.',
+        'Ralph Emerson',
     ],
-    '132e1fd1-62c2-500d-a589-e45730e91548' => [
-        'As in nature, all is ebb and tide, all is wave motion, so it seems that in all branches of industry, alternating currents - electric wave motion - will have the sway.',
-        'Nikola Tesla',
+    '7f12339f-8d20-5084-a4ac-c733d0ea8c07' => [
+        'Bald as the bare mountain tops are bald, with a baldness full of grandeur.',
+        'Matthew Arnold',
     ],
-    'a275aea0-80ff-5e4b-b28b-1200cf135462' => [
-        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
-        'Saul Alinsky',
+    '30992d56-9208-51b0-8241-8a26e08ab0c8' => [
+        'Well-timed silence is the most commanding expression.',
+        'Mark Helprin',
     ],
-    '9532372d-ac20-595f-a69b-743be31f3ab1' => [
-        'I don\'t think anybody\'s goal is to be mediocre. I think everybody should want to be the best. I\'ve always felt that way. I want to be at the best at everything I do.',
-        'Justin Verlander',
+    'a43c8a03-7d9a-5f43-965b-c07666d64eea' => [
+        'There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.',
+        'Elie Wiesel',
     ],
-    'e94ea2bd-b299-5cf2-b017-451e14a756e7' => [
-        'We, as Americans, at least - I mean, I love my country - but we\'re so self-righteous sometimes, in terms of, like, our nationality, our country. But we\'re people from somewhere else; the true \'Americans\' are the original peoples. It\'s funny, but we\'re a very territorial species.',
-        'Peter Dinklage',
+    'b4cf7268-0bad-5246-80bf-e4127ba10cea' => [
+        'I feel when somebody has been playing cricket for a long time, he creates a separate identity for himself.',
+        'Sachin Tendulkar',
     ],
-    '9d3134be-eebf-54a4-8387-9d2acb03030c' => [
-        'I have had a perfectly wonderful evening, but this wasn\'t it.',
-        'Groucho Marx',
+    'c9e9bdad-745f-5564-8a72-b57148528937' => [
+        'After a storm comes a calm.',
+        'Matthew Henry',
     ],
-    '69a6e7a8-b4d1-54e7-bc02-dcfaa099e0af' => [
-        'For a DJ at my level, you can really go through life and travel the world without seeing a single thing. It\'s harder to go out and see the sights than it is to play a show.',
-        'Steve Aoki',
+    '19cdbc98-0e2e-56c1-bf97-721a8e0d8ee7' => [
+        'Man cannot discover new oceans unless he has the courage to lose sight of the shore.',
+        'Andre Gide',
     ],
-    '332b674e-935d-5ed1-8e62-74b3f5251767' => [
-        'Travelers repose and dream among my leaves.',
-        'William Blake',
+    'e199e459-5526-52db-a4ca-4a68bea8050d' => [
+        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
+        'Coolio',
     ],
-    '0c906be0-49a6-5b73-9b71-bd35a0e06c6b' => [
-        'Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what\'s right for you.',
-        'Julie Morgenstern',
+    'a59d34bf-c9fd-5425-b797-65e918ee29fe' => [
+        'Fortune cookies are a good idea. If the message is positive, it can make your day a little better.',
+        'Yao Ming',
     ],
-    'd95db24b-7d21-50b5-b804-e560bd54ab69' => [
-        'The Twenties have this sort of attitude where you never know what\'s around the corner.',
-        'Laura Carmichael',
+    'b6fa866d-f449-5515-a0b7-0735c285c625' => [
+        'Beauty is ever to the lonely mind a shadow fleeting; she is never plain. She is a visitor who leaves behind the gift of grief, the souvenir of pain.',
+        'Christopher Morley',
     ],
-    'a3fc9061-8969-5c37-86ca-ee249ca28e41' => [
-        'Parents need all the help they can get. The strongest as well as the most fragile family requires a vital network of social supports.',
-        'Bernice Weissbourd',
+    '21c8ec1f-8f6d-59f0-8cc0-df3713e3cc63' => [
+        'I could sooner reconcile all Europe than two women.',
+        'Louis XIV',
     ],
-    '07cb8f49-7275-514f-9430-e010ca0d0f96' => [
-        'Success is not how high you have climbed, but how you make a positive difference to the world.',
-        'Roy T. Bennett',
+    'fc9d167d-26b3-531b-855d-dcbbbd720b67' => [
+        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
+        'Brock Lesnar',
     ],
-    '86a69cdc-b365-5ed1-9fd5-f8bc529b57b0' => [
-        'The jokes are great but what really matters for a comedian is his performance, his whole attitude, and the laughs that he gets between the jokes rather than on top of the jokes.',
-        'Jack Dee',
+    '2ff9b206-f650-559b-9f93-b9f6b3a40e5a' => [
+        'Cure for an obsession: get another one.',
+        'Mason Cooley',
+    ],
+    '34086240-7e3a-5138-a42f-44decf45cc1b' => [
+        'Nearly every moment of every day, we have the opportunity to give something to someone else - our time, our love, our resources.',
+        'S. Truett Cathy',
+    ],
+    '5f16c975-e0de-503d-bdb7-2577b98dfc26' => [
+        'Ten people who speak make more noise than ten thousand who are silent.',
+        'Napoleon Bonaparte',
+    ],
+    'ce864f59-2f73-5274-8e92-17064772fa85' => [
+        'Such a faith would be fatal to my reason, to my liberty, and even to the success of my undertakings; it would immediately transform me into a stupid slave, an instrument of the will and interests of others.',
+        'Mikhail Bakunin',
     ],
     '97f8e657-25f6-576d-87c6-9d61dc0fec18' => [
         'Error is discipline through which we advance.',
         'Channing',
     ],
-    '3fbbd802-960c-5e86-9fe6-c46d74eac3e5' => [
-        'If you can visualize the whole of spring and see Paradise with the eye of belief, you may understand the utter majesty of everlasting Beauty. If you respond to that Beauty with the beauty of belief and worship, you will be a most beautiful creature.',
-        'Said Nursi',
+    '1386291a-22e4-5fde-a384-8d2266608277' => [
+        'I used to work for the World Health Organisation in poor countries all over the world - Bangladesh, Korea, the Philippines and India. You learn a whole range of things about how other people are living and try to connect with them to gain an understanding of where they\'re coming from.',
+        'Robert Winston',
     ],
-    '4d1a3451-5ffa-549a-9840-cb061ed285c2' => [
-        'Confidence isn\'t optimism or pessimism, and it\'s not a character attribute. It\'s the expectation of a positive outcome.',
-        'Rosabeth Moss Kanter',
+    '0dbcc56f-d10e-57b4-8f3e-1304a4d769f3' => [
+        'As a former Airman First Class in the United States Air Force, like many veterans in America, my military experience played an important part in instilling in me a sense of character and discipline that has served me throughout my life.',
+        'Demi Lovato',
     ],
-    '71c163bf-fa9a-53f3-a7f9-62614fb3453d' => [
-        'Imagination rules the world.',
-        'Napoleon Bonaparte',
+    '5c94d2b9-880f-5908-97f7-613c6fa62556' => [
+        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+        'Buddha',
     ],
-    '6f694836-7d37-562c-93d8-7391fa722209' => [
-        'The most important relationship you have in life is the one you have with yourself. And then after that, I\'d say once you have that, it may be hard work, but you can actually design your life.',
-        'Diane von Furstenberg',
+    'ed2f81c0-5859-59db-ac8c-07c1b45b5cf1' => [
+        'I have a Dominique Wilkins Hawks jersey that I still wear. That\'s probably my favorite one. What\'s funny is that I spend all this time collecting jerseys, and now people are out there collecting mine.',
+        'Chris Paul',
     ],
-    '8fb876d5-3216-5bbf-bd57-33f8fcbc6186' => [
-        'You have to tell guys to ask you on a date. Smile when you do it - however that works, I\'m not \'Cosmo.\' But yeah - not a lot of people know how to \'court\' anymore, sorry.',
-        'Julie Klausner',
+    '5497603a-25ba-5fa5-9a3c-d1314e600ef8' => [
+        'I don\'t like the way young people write and talk about the old. I don\'t like their attitude, which, if they weren\'t young and therefore bright and vibrant, would be called outdated.',
+        'Ruth Rendell',
     ],
-    '55babdf4-2ef1-5ba1-8bf5-760cbd9321ce' => [
-        'The best education I have ever received was through travel.',
-        'Lisa Ling',
+    'b0256cb7-ba21-5599-b7a1-30ae43a12216' => [
+        'Failures to heroic minds are the stepping stones to success.',
+        'Thomas Chandler Haliburton',
+    ],
+    '29ba7585-7856-5d36-9f22-9db381d702b7' => [
+        'I think family is key, and if you have love for family, then you have love for others - and you have unity as a people.',
+        'Marlon Wayans',
     ],
 ];

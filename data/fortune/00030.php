@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '94195628-533a-56dc-8ced-4d2c937ab8ca' => [
-        'All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.',
-        'Alexis Carrel',
+    '68230db0-5f4f-5e89-b547-d1b7edf0e7a8' => [
+        'The really magical things are the ones that happen right in front of you. A lot of the time you keep looking for beauty, but it is already there. And if you look with a bit more intention, you see it.',
+        'Vik Muniz',
     ],
-    '556d6107-6506-526a-8677-b0068634829e' => [
-        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
-        'Anthony Joshua',
+    '029f89df-7104-5e52-96b4-1af8254ea84f' => [
+        'You and I come by road or rail, but economists travel on infrastructure.',
+        'Margaret Thatcher',
     ],
-    'd2c32a76-fda2-5ce3-9b5c-2702bca65814' => [
-        'The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.',
-        'Charles R. Swindoll',
+    '748a43c6-28e7-51c2-a46d-093259867d86' => [
+        'Positive culture comes from being mindful, and respecting your coworkers, and being empathetic.',
+        'Biz Stone',
     ],
-    '32e08e12-f43d-5afd-8b53-25a4756fb48d' => [
-        'I love hanging out with friends and family.',
-        'Ashley Wagner',
+    '1d628bdb-4a59-5ec6-8714-e4a9679f5a6a' => [
+        'I am a great admirer of mystery and magic. Look at this life - all mystery and magic.',
+        'Kyle MacLachlan',
     ],
-    '94c5f33d-4568-5ca3-91d4-9fcd50cd4165' => [
-        'Red carpets seem so glamorous, but you\'re really just standing there sweating and worrying your hair is going to fall. And in the end, people are only going to see one picture of you. You just smile for one second and then you walk over to the side and check your phone. It\'s pretty weird.',
-        'Morgan Saylor',
+    '9246bde1-4191-5170-ab36-42dfb3a07bfa' => [
+        'To remain a credible leader, I must always work first, hardest, and longest on changing myself. This is neither easy nor natural, but it is essential.',
+        'John C. Maxwell',
     ],
-    'f2a18710-3e74-5296-a9b0-0ac277388736' => [
-        'One day you will wake up and there won\'t be any more time to do the things you\'ve always wanted. Do it now',
-        'Paulo Coelho',
+    '4a8d0ea5-f5e6-5e6e-aa56-e5d2425397ea' => [
+        'When you believe in a thing, believe in it all the way, implicitly and unquestionable.',
+        'Walt Disney',
     ],
-    'f5aa34bb-188c-5926-98af-3be026ff7084' => [
-        'I\'m not ugly, but my beauty is a total creation.',
-        'Georg Wilhelm Friedrich Hegel',
+    '3960b6b6-b1a2-51e1-94cc-cf37c4ac8f60' => [
+        'Don\'t Let Yesterday Take Up Too Much Of Today.',
+        'Will Rogers',
     ],
-    'f4e4a279-3083-546d-9870-746e1600b060' => [
-        'Everyone has been made for some particular work, and the desire for that work has been put in every heart.',
-        'Rumi',
+    'f8ef62de-1fb0-5186-bc73-3d58ade7eb77' => [
+        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
+        'Edward James Olmos',
     ],
-    'a065d8d8-8fed-55b7-bc9f-78ce43b28d59' => [
-        'A man is great by deeds, not by birth.',
-        'Chanakya',
+    '82fcd263-e9cd-52fd-a3aa-afe8c33c3011' => [
+        'There is no better way of exercising the imagination than the study of law. No poet ever interpreted nature as freely as a lawyer interprets the truth.',
+        'Jean Giraudoux',
     ],
-    'f1f733dc-3a57-5201-b4ae-1ae3f6f4169d' => [
-        'Beauty is the bait which with delight allures man to enlarge his kind.',
-        'Socrates',
+    '661ba748-29fa-52e0-813f-b9a5804dede2' => [
+        'It\'s human nature to take the easy route and leap at storage methods that promise quick and convenient ways to remove visible clutter. Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, and the room once again overflows with things.',
+        'Marie Kondo',
     ],
-    'cadc1041-e85c-560a-b974-9ef80cbfbe32' => [
-        'Ilaiyaraaja is my most favourite music director. His music was my lullaby, his music was my food, his music was my childhood, his music was my first love, his music was my failure, his music was my first kiss, my first love failure, my success... he is in my blood.',
-        'Dhanush',
+    'd61af943-28fa-59f5-aa26-5b43ac9dc317' => [
+        'Life is an adventure, it\'s not a package tour.',
+        'Khalil Gibran',
     ],
-    '352d29ae-972a-507f-aa33-fd826cd6c5c5' => [
-        'I think it was my mom\'s attitude about art and being part of the narcissistic digital generation or whatever that made me think anyone would care what I had to say about anything!',
-        'Tavi Gevinson',
+    'b9e23fac-6faa-5df7-934a-17ef632d5b88' => [
+        'Complaining doesn\'t change a thing only taking action does.',
+        'Byron Pulsifer',
     ],
-    '1b946d5d-b91d-5220-8238-a84020fdfe69' => [
-        'Invent your world. Surround yourself with people, color, sounds, and work that nourish you.',
-        'Unknown',
+    'e49b143a-8b95-53a5-b656-4704b54388ec' => [
+        'Jessica Simpson is the youth ambassador for Operation Smile, and an episode of The Apprentice featured a team managing a charity concert she put on. Donald Trump came on stage and pledged a donation.',
+        'Roma Downey',
     ],
-    'ca0441e8-c45b-527c-9359-7ba1503a546c' => [
-        'The successful man will profit from his mistakes and try again in a different way.',
-        'Dale Carnegie',
+    '5c1d6c4f-a66c-5ea7-b42c-b33f6fc4cf3d' => [
+        'The day of the sun is like the day of a king. It is a promenade in the morning, a sitting on the throne at noon, a pageant in the evening.',
+        'Wallace Stevens',
     ],
-    '5e494f31-a27c-506f-bc96-fa2d6787eefb' => [
-        "You don\u{92}t have to explain your dreams, they belong to you.",
-        'Paulo Coelho',
+    'b33d30f9-cc6c-5a75-97d2-1f91bf1bcb5c' => [
+        'I really love showing up at work at 10 A.M., trying to make it funny until 3 P.M., and then going home. It\'s like comedy bankers\' hours.',
+        'Chris Eigeman',
     ],
-    '04087b54-718b-540a-ad67-0eeba2daca4d' => [
-        'The hardest years in life are those between ten and seventy.',
-        'Rod Stewart',
+    '57d5c6fb-08c6-5065-ab7e-aa182244d4ea' => [
+        'Nature scarcely ever gives us the very best; for that we must have recourse to art.',
+        'Baltasar Gracian',
     ],
-    '388bbca4-621f-50aa-a3bb-bdeeee1b9dc9' => [
-        'The time to take counsel of your fears is before you make an important battle decision. That\'s the time to listen to every fear you can imagine! When you have collected all the facts and fears and made your decision, turn off all your fears and go ahead!',
-        'George S. Patton',
+    '354963b5-23a2-58d1-a703-b974792c1774' => [
+        'A rolling stone gathers no moss.',
+        'Publilius Syrus',
     ],
-    'ccbbe9c4-78c6-5ecb-a335-81dad19da708' => [
-        'Who co-founded Google? Sergey Brin, a Russian-born Jew whose family fled anti-semitism in the Soviet Union to settle here and who considers himself a refugee.',
-        'Walt Mossberg',
+    '74d381a7-4e77-5d70-a62b-f60fef71f1c8' => [
+        'I don\'t think quantity time is as special as quality time with your family.',
+        'Reba McEntire',
     ],
-    '9d898b71-511f-5fd3-a30a-9b66fba6e504' => [
-        'Exercise, prayer, and meditation are examples of calming rituals. They have been shown to induce a happier mood and provide a positive pathway through life\'s daily frustrations.',
-        'Chuck Norris',
+    '9e57c789-e7e3-57aa-92af-8d89867569a6' => [
+        'Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.',
+        'Ambrose Bierce',
     ],
-    '61dae638-4303-52b9-9a11-73391150b0e9' => [
-        'Pick a flower on Earth and you move the farthest star.',
-        'Paul Dirac',
+    '2e4cc191-e3ca-5948-a8e0-b29366da9690' => [
+        'I\'m human, I\'m not perfect. I make mistakes all the time, but I guess my job is to keep those mistakes to myself, which I\'m already fine doing and just try to be the best I can be for those kids.',
+        'Selena Gomez',
     ],
-    'b37a50c3-ee73-5b0e-a636-13d6aeadd1d0' => [
-        'I would like to see the day when somebody would be appointed surgeon somewhere who had no hands, for the operative part is the least part of the work.',
-        'Harvey Cushing',
+    '290cf823-2ade-5b6b-bc3b-8a28d19bdb5e' => [
+        'What was really funny is that as I got older all those guys who called me a sissy in junior high school wanted me to be their best friend because they wanted to meet all the girls that I knew in figure skating.',
+        'Scott Hamilton',
     ],
-    'd0924704-eca6-50e8-aa38-764b5594c24e' => [
-        'I know not age, nor weariness nor defeat.',
-        'Rose Kennedy',
+    '6ef3b5b0-efaf-5b0a-b630-59874acdfdbb' => [
+        'I\'m moving forward to do the best.',
+        'Pablo Sandoval',
     ],
-    '1b200838-a32a-578c-984e-ee6af7ed0ea1' => [
-        'There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.',
-        'Henry David Thoreau',
+    '853167d6-641a-58c5-9c59-ada935bd7e82' => [
+        'If you don\'t like something, change it. If you can\'t change it, change your attitude.',
+        'Maya Angelou',
     ],
-    'bde9ec54-91c5-50cb-9b97-9a07f3c96387' => [
-        'The basic fact about human existence is not that it is a tragedy, but that it is a bore. It is not so much a war as an endless standing in line.',
-        'Ernest Hemingway',
+    '0de1b4f0-a8fe-521a-b4e1-7937a4aed0aa' => [
+        'To him who in the love of Nature holds Communion with her visible forms, she speaks A various language.',
+        'William C. Bryant',
     ],
-    '087d6c3d-7ecb-50c3-ad55-8bf72f524f45' => [
-        'It\'s funny... you can make fun of AIDS or Haiti, but if you make fun of some starlet in Hollywood\'s looks? That\'s like the one thing... the line you are not to cross.',
-        'Daniel Tosh',
+    '0aca31ac-d6dd-5a1c-909d-a65d9cb69d8e' => [
+        'Almost 70 percent of U.S. ag exports travel the upper Mississippi River and the Illinois waterway system.',
+        'Jerry Costello',
     ],
-    'ade48ea0-6426-55b3-9a28-5e7c77481a95' => [
-        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
-        'Agnes Smedley',
+    'f75892a7-40cc-5e0b-9b48-304ea02f1aa8' => [
+        'We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.',
+        'Sam Keen',
     ],
-    'd1c09900-cfc2-5122-a87b-6b09e2e50e52' => [
-        'True success is overcoming the fear of being unsuccessful.',
-        'Paul Sweeney',
+    '734b10e3-191b-517c-9052-c870d907608b' => [
+        'I\'m a funny guy. You\'ve got to be able to make fun of yourself. We only live once.',
+        'Jon Pardi',
     ],
-    '8206af69-f180-50ce-b0ba-1f3c781b3950' => [
-        'If in our daily life we can smile, if we can be peaceful and happy, not only we, but everyone will profit from it. This is the most basic kind of peace work.',
-        'Nhat Hanh',
+    '05910f06-80b6-5d58-b82d-9ca28f0f7736' => [
+        'Life is what we make it, always has been, always will be.',
+        'Sylvia Plath',
     ],
-    '0bf6068f-a280-504e-a704-08ded65d95dd' => [
-        'The World Cup tournament overall and, naturally, the new stadiums at its heart, are the ideal platform to portray Germany as a positive and exceptional location, and above all of course, as a highly capable economic location.',
-        'Franz Beckenbauer',
+    '4dd0e68b-598c-51e9-905d-7a1479a67ac8' => [
+        'If you\'re walking down the right path and you\'re willing to keep walking, eventually you\'ll make progress.',
+        'Barack Obama',
     ],
-    '5ea74031-e7ff-5da0-9251-6bf35fb7ee27' => [
-        'I feel like looking in the mirror when you brush your teeth, yes, I see lines, and then I smile and I see things here and there. But that\'s just, you know, you - that\'s your journey, you know?',
-        'Heidi Klum',
+    '5f136423-7218-5ff5-beba-e7ab1d3993c8' => [
+        'The first and most important step toward success is the feeling that we can succeed.',
+        'Nelson Boswell',
     ],
-    '7c69bf64-3718-58a0-9cfa-85d25b7b3308' => [
-        'Time travel offends our sense of cause and effect - but maybe the universe doesn\'t insist on cause and effect.',
-        'Edward M. Lerner',
+    'dae277ba-333a-5596-8e77-fc8ccb4c78e2' => [
+        'That attitude that fighting is probably not fair, but you have to defend yourself anyway and damage the enemy, has been profoundly consequential as far as my political activism goes.',
+        'June Jordan',
     ],
-    '79a2f8dd-0369-50c2-848f-50fe25c4ec75' => [
-        'Set up another case bartender! The best thing for a case of nerves is a case of Scotch.',
-        'W. C. Fields',
+    '13b36257-3978-53b3-a639-d9930ac659d2' => [
+        'The only disability in life is a bad attitude.',
+        'Oprah Winfrey',
     ],
-    '3d402283-10b9-573d-8e37-1bf7efd51095' => [
-        'It is not only fine feathers that make fine birds.',
-        'Aesop',
+    '13c073f2-528b-54c4-8925-02bf72d49199' => [
+        '\'Perfect\' is about a set-up that looks perfect from the outside - beautiful country house, beautiful wife and mother, everything where it should be - and the deep fissures that, in fact, lie beneath that. \'Perfect\' was partly a response to the shock of my first book, \'The Unlikely Pilgrimage Of Harold Fry,\' being a success.',
+        'Rachel Joyce',
     ],
-    'c8eb8559-b422-52d9-b336-736e4459a842' => [
-        'Every perfect traveler always creates the country where he travels.',
-        'Nikos Kazantzakis',
-    ],
-    'e9213887-9806-5744-8880-5833b2c6e9eb' => [
-        'I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.',
-        'Roger Tory Peterson',
-    ],
-    '16372239-9d7d-529f-97ff-d0ef939c8497' => [
-        'There is nothing stronger in the world than gentleness.',
-        'Han Suyin',
-    ],
-    '84d01981-8922-5ff8-aa3f-be69d9a31345' => [
-        'Be like a postage stamp. Stick to it until you get there',
-        'Bob Proctor',
-    ],
-    '8596a1d5-b47a-5095-b1e3-8f0b0ff8d2ef' => [
-        'The richness of life lies in memories we have forgotten.',
-        'Gretchen Rubin',
-    ],
-    'e54d532c-9fcb-528a-9de6-322c6cc67b98' => [
-        'Neither the Christian attitude of love for all mankind nor humane hopes for an organized society must cause us to forget that the \'human stratum\' may not be homogeneous.',
-        'Pierre Teilhard de Chardin',
-    ],
-    'bb2b844d-9d4b-5170-a412-85a3e3be633f' => [
-        'I\'ve learned to lose with a smile on my face. That\'s what the Oscar teaches you.',
-        'Alejandro Gonzalez Inarritu',
-    ],
-    '512d3085-5272-58b6-af80-206d1076d644' => [
-        'My mama always used to tell me: \'If you can\'t find somethin\' to live for, you best find somethin\' to die for.\'',
-        'Tupac Shakur',
-    ],
-    'f9562b76-c936-5086-bfa7-4694e0e94f18' => [
-        'A good decision is based on knowledge and not on numbers.',
-        'Plato',
-    ],
-    'c83e0032-e5a3-5edd-9332-c96173b416ee' => [
-        'Lighten up, just enjoy life, smile more, laugh more, and don\'t get so worked up about things.',
+    'abc83b78-b90f-5f44-9977-78e1120e2489' => [
+        'When you pray for anyone you tend to modify your personal attitude toward him.',
         'Norman Vincent Peale',
     ],
-    'b0113ad0-98eb-5799-8b25-eeb89c7d4364' => [
-        'I think the media can be a very positive influence by essentially holding people to task about the importance of high quality medical care. And when the media is scrutinizing you, then I think that\'s a very good, positive thing for the field of medicine.',
-        'Anthony Fauci',
-    ],
-    'e49b8e03-b9a9-50b8-b7c4-96d7b0693ddc' => [
-        'I like a girl with natural beauty.',
-        'Chandler Parsons',
-    ],
-    '669e6aa0-490f-5aa8-9299-10328b1cfa71' => [
-        'Watch the little things; a small leak will sink a great ship.',
-        'Benjamin Franklin',
-    ],
-    '99807dad-94cb-5f8c-8459-130e83a7027a' => [
-        'Why don\'t you get a haircut? You look like a chrysanthemum.',
-        'P. G. Wodehouse',
-    ],
-    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
-        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
-        'M. Scott Peck',
-    ],
-    '466f9ae6-1f7f-58fc-8e94-a1e7af6d59e4' => [
-        'Diligence is the mother of good fortune.',
+    '34e7ab32-242b-5871-b177-cb23c50f3144' => [
+        'The secret of success in life is for a man to be ready for his opportunity when it comes.',
         'Benjamin Disraeli',
     ],
-    'eaff0038-ef17-52e8-bbc0-0b4a1cb92637' => [
-        'With five chances on each hand and one unwavering aim, no boy, however poor, need despair. There is bread and success for every youth under the American flag who has energy and ability to seize his opportunity.',
-        'Orison Swett Marden',
+    '34062b8c-7727-5cdc-8872-0982d29cf0b9' => [
+        'Know how to live the time that is given you.',
+        'Dario Fo',
+    ],
+    '74ab6e07-e305-5436-985b-076558c94e84' => [
+        'Behavior used to be reinforced by great deprivation; if people weren\'t hungry, they wouldn\'t work. Now we are committed to feeding people whether they work or not. Nor is money as great a reinforcer as it once was. People no longer work for punitive reasons, yet our culture offers no new satisfactions.',
+        'B. F. Skinner',
+    ],
+    'a5984785-9af9-5f1c-825a-fcbc1a197371' => [
+        'What makes photography a strange invention is that its primary raw materials are light and time.',
+        'John Berger',
+    ],
+    'd2e6cdc2-f19c-508b-805a-285329f4553c' => [
+        'To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.',
+        'Buddha',
+    ],
+    'c804cfad-9c46-5b2f-852a-1ec64b6463aa' => [
+        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
+        'Tom Brady',
+    ],
+    'a2029d46-d249-5581-921c-fd98d9b77ef1' => [
+        'Stay committed to your decisions, but stay flexible in your approach.',
+        'Tony Robbins',
+    ],
+    'cc497ea9-9ff9-5069-84cd-219fcbfa7cde' => [
+        'Being kind is the most important thing I\'ve ever been taught. That\'s what my parents always told me - more important than ambition or success is being kind to people. The cornerstone of my life. What I aspire to is to be kind.',
+        'Rafe Spall',
+    ],
+    '94e749d0-2839-585b-8aa3-db8c905c77a8' => [
+        'Tears are sometimes an inappropriate response to death. When a life has been lived completely honestly, completely successfully, or just completely, the correct response to death\'s perfect punctuation mark is a smile.',
+        'Julie Burchill',
+    ],
+    '2eaa6195-7e64-532f-9924-79876319e4c3' => [
+        'There will always be a desire for something new, fresh and innovative, as well as a yearning and respect for timeless elegance and beauty.',
+        'Helena Christensen',
+    ],
+    '338ed5f6-aeb8-56b6-bea0-228818a0b746' => [
+        'I am closer and closer to reaching my childhood dream. This is really exciting! I will continue to work hard, to focus on each tournament I play.',
+        'Yani Tseng',
+    ],
+    '2a0f7910-b172-5670-a8c9-931b808ed901' => [
+        'I did not direct my life. I didn\'t design it. I never made decisions. Things always came up and made them for me. That\'s what life is.',
+        'Henry Ward Beecher',
+    ],
+    '0793a3b0-911f-57ae-94ab-3a3800bc009d' => [
+        'All my life through, the new sights of Nature made me rejoice like a child.',
+        'Marie Curie',
+    ],
+    'd1e33baf-2b5c-5ec1-bcc9-45ada8f4f574' => [
+        'Life is either a daring adventure or nothing.',
+        'Helen Keller',
+    ],
+    '4eebf17e-150c-588c-9c3f-1713b6276d14' => [
+        'The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.',
+        'Les Brown',
+    ],
+    'f8a11cd9-1a09-51ab-8b84-9ee1309aeaf9' => [
+        'It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.',
+        'Max Planck',
     ],
 ];

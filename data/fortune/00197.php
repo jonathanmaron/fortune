@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '23d98255-7e0e-50f5-b4ca-dbac2b10ebc8' => [
-        'Just as Darwin discovered the law of development of organic nature, so Marx discovered the law of development of human history: the simple fact, hitherto concealed by an overgrowth of ideology, that mankind must first of all eat, drink, have shelter and clothing, before it can pursue politics, science, art, religion, etc.',
-        'Friedrich Engels',
+    '82883a06-b6c8-5565-aa6b-358cb0e6a637' => [
+        'Look, I don\'t want to wax philosophic, but I will say that if you\'re alive you\'ve got to flap your arms and legs, you\'ve got to jump around a lot, for life is the very opposite of death, and therefore you must at very least think noisy and colorfully, or you\'re not alive.',
+        'Walt Disney',
     ],
-    '9ef5d5db-30e9-57b2-81fa-6b3a1f4b4bf0' => [
-        'I have a lot of younger fans, obviously the choices I make often influence them. But having said that, it\'s kind of the best motivation in the world to stay positive and make good choices.',
-        'James Maslow',
+    'd4a33964-56ed-5c76-9f9c-076df514a1d7' => [
+        'We still do not know one thousandth of one percent of what nature has revealed to us.',
+        'Albert Einstein',
     ],
-    'bc12e5d6-e390-5d96-8678-d4a31f541049' => [
-        'Nobody ever drowned in his own sweat.',
-        'Ann Landers',
+    'b56e2e8a-b19f-5bab-90e7-6fef62380bea' => [
+        'It is one of the most effective attitudes of the neurotic to measure thumbs down, so to speak, a real person by an ideal, since in doing so he can depreciate him as much as he wishes.',
+        'Alfred Adler',
     ],
-    'da1d3549-9093-5073-a0b5-06dadb062ab9' => [
-        'Skill to do comes of doing.',
-        'Ralph Emerson',
+    'e1bd21b9-ac93-5059-a9d7-4c138bdcde2b' => [
+        'I\'ve been on both sides: the victim and the villain. I was the victimised model, and everything from my weight to my fertility was held up for discussion. And then I was the person that could garner some kind of positive outcome, by taking on the role of vice chairman of the British Fashion Council and becoming an activist of body image.',
+        'Erin O\'Connor',
     ],
-    '3125bb41-ec76-540f-acf7-aa9b0cb89bc5' => [
-        'Looking at flowers, simple things in life. I don\'t need to look at gold and a castle; sometimes its very simple things that are very beautiful. I am keeping my eyes fresh to find beauty in many places, and in gold, too, sometimes!',
-        'Francois Nars',
+    'ade48ea0-6426-55b3-9a28-5e7c77481a95' => [
+        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
+        'Agnes Smedley',
     ],
-    '134f01a8-c1c8-5a91-af6a-ed67aacea476' => [
-        'Progress always involves risks. You can\'t steal second base and keep your foot on first.',
-        'Frederick Wilcox',
+    '346ccd04-602b-5f36-98d9-236cc0875996' => [
+        'A true friend is the most precious of all possessions and the one we take the least thought about acquiring.',
+        'Francois de La Rochefoucauld',
     ],
-    '02c98557-2a9f-5fcb-af12-f96c110b6c61' => [
-        'The starting point of all achievement is desire.',
-        'Napoleon Hill',
+    'a7e6f3e9-c48a-517c-a479-6cb023e15a34' => [
+        'Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.',
+        'Will Smith',
     ],
-    '1b90dadd-9931-565a-9bcd-0b162f6461fb' => [
-        'I\'m a very traditional person. The tattoos are about my grandmother dying and they tell the story about my mother and father, my brothers and my sister, my kids. It\'s pretty much a family tree on my arm with my life in football too.',
-        'Timothy F. Cahill',
+    'ca9c550f-59c5-5aa9-9a48-5016bd33c156' => [
+        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
+        'Leon Panetta',
     ],
-    'e3a3a50f-82f7-5e3a-929f-426f64aa98e5' => [
-        'Everyone has things that they don\'t love about themselves but I think that as a woman its much healthier and more positive to focus on your good parts and the things you like about yourself, not pick yourself apart.',
-        'Miranda Kerr',
+    '6aaab905-b623-5e35-8c6d-bf44311a7a66' => [
+        '\'Fast Life\' is just about going out with your friends and having a good time - I think it\'s one of those songs that people can relate with and like.',
+        'Joe Jonas',
     ],
-    'b9e33789-5498-5cc0-b107-37a9d8b9c46d' => [
-        'I mean, the first \'Back to the Future\' is kind of a perfect script, I think, in terms of handling time travel the best. It depends on your definition. To me, that means it effectively uses it in the story.',
-        'Rian Johnson',
+    '4ae96935-a665-50e2-ba38-6ef984ec592e' => [
+        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
+        'Amy Irving',
     ],
-    '3987fc7b-4279-59af-a9ea-7ec9170e6669' => [
-        'Transformation doesn\'t take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.',
-        'Byron Pulsifer',
+    '9a2b211a-061b-536f-92f3-531ee8cc5a8d' => [
+        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
+        'Khaled Hosseini',
     ],
-    '5e2c7e98-5048-51a3-ae26-fa2e2b3e94dc' => [
-        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
-        'Paula Abdul',
+    'c7f89ab7-6ed0-5a9f-b743-6d57a5bf4f70' => [
+        'I am stable when my private life is a success.',
+        'Don Johnson',
     ],
-    '06a72b09-504d-52ec-a3c2-124747fe737f' => [
-        'I want my kids to have a good work ethic. I believe you can achieve anything if you work hard enough to get it.',
-        'Victoria Beckham',
+    '9e62a162-5eb8-51a8-a22f-85707ebe9e44' => [
+        'To forgive is to set a prisoner free and realize that prisoner was you.',
+        'Lewis B. Smedes',
     ],
-    'cc44eb36-0e60-5c1a-9238-c35a1b842acb' => [
-        'Even if people do wrong, we\'re social animals, so what can we do about stopping them doing the same things in future? Saying people are \'bad\' or \'evil\' is just an unwillingness to engage; an unwillingness to try to empathise. That sanctimonious attitude doesn\'t help anyone.',
-        'Denise Mina',
+    '72cd8606-d0d0-5e1e-b124-0616a746a7af' => [
+        'The one thing we know about the future is that it comes only one day at a time.',
+        'Jeff Rich',
     ],
-    'e31f55df-4520-5e7e-a5df-9c419ed84b0b' => [
-        'If you believe you can make a difference, then you will make a difference. Believe in yourself, your family and your community and you will win.',
-        'Lindsay Fox',
+    'cb949989-c1f2-524f-8c50-580feefa9e78' => [
+        'Fun opens the doors to creativity, which then leads to inspiration, which then births passion, which all together equals both happiness and success!',
+        'Rachele Brooke Smith',
     ],
-    '13a39633-f0b8-5302-8168-4aa5254dc3b6' => [
-        'If you meet a woman in a burqa, she can\'t reply to your smile. It\'s a denial of identity.',
-        'Jean-Francois Cope',
+    '0b030965-bc0a-5178-b069-218f994d3e28' => [
+        'Learn to listen. Opportunity could be knocking at your door very softly.',
+        'Frank Tyger',
     ],
-    'd8fa1279-8310-5f60-b1ae-5c84606104a1' => [
-        'How much do you as a consumer value a positive experience with a brand or its customer service department? How willing are you to share that with your friends? How inclined are you to let that person know that you\'re interaction with them was positive?',
-        'Simon Mainwaring',
+    '1e2e5112-f2bf-5213-82e1-e9b964cbb9d6' => [
+        'My mother, she had a very good attitude toward money. I\'m very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I\'d save it for like five months. And then I\'d spend it on Christmas presents. I\'d save up like eight pounds. It\'s nothing, but we did that.',
+        'Gemma Arterton',
     ],
-    '62768bc7-b254-5562-9c15-e991472fa33e' => [
-        'I celebrate myself, and sing myself.',
-        'Walt Whitman',
+    'f699ff49-9c5d-5e2f-94c7-076faf3b1aa4' => [
+        'My goal in my career is to inspire people, is to get my music out there and have people enjoy it, and have people think of me as an inspirational artist.',
+        'Christina Grimmie',
     ],
-    '26f15243-4207-5c6b-966a-751958d8304b' => [
-        'My sister and I truly are best friends.',
-        'Solange Knowles',
+    'a4decbba-1d29-5171-86a4-85681faec882' => [
+        'To win in Australia, for me, has to be the ultimate success because the Aussies live for sport.',
+        'Ian Botham',
     ],
-    '35576fa1-4dc6-5905-8456-e2bb009a1bc4' => [
-        'Typically, if you reward something, you get more of it. You punish something, you get less of it. And our businesses have been built for the last 150 years very much on that kind of motivational scheme.',
-        'Daniel H. Pink',
+    '934f42e8-b93d-592a-8f40-4eb19b0614ea' => [
+        'I\'d rather not have a moment when I\'m known for my looks; being funny and interesting lasts longer.',
+        'Kelly Ripa',
     ],
-    'f277f701-4916-5df3-ab3d-6b85e8ffb717' => [
-        'When I\'ve had to edit my albums, I\'ll listen to it one time through, and I\'ll make edits. I want to remember to set up a camera to record myself listening to my set, because I don\'t even slightly crack a smile, I am just listening for technical details, and I look like somebody that has absolutely no sense of humor. I look insane.',
-        'Tig Notaro',
+    'b427e827-846d-549b-aa95-3d90f1763fe8' => [
+        'Out of labor\'s struggle in Arizona came better conditions for the workers, who must everywhere, at all times, under advantage and disadvantage work out their own salvation.',
+        'Mary Harris Jones',
     ],
-    '80f9e29b-c94e-51f7-9f1c-0885b7209a7e' => [
-        'When a parent says about a book, \'That\'s not my child\'s world,\' I remind them of the future. Social fluency will be the new currency of success. Not experiencing diversity challenges our kids\' future in the global work force. It handicaps them from making America and the world more livable and just.',
-        'Jewell Parker Rhodes',
+    'f9314a45-80d6-5659-a536-7acc3d997bb3' => [
+        'Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity.',
+        'Marc Anthony',
     ],
-    '7ad28d7b-f686-5201-9f3c-1e80d930a13c' => [
-        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
-        'William Shakespeare',
+    'fe7beca1-f2a9-53d2-88b8-b29cef08fe62' => [
+        'Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it\'s all over.',
+        'Octavia Butler',
     ],
-    '592cb276-2046-5b81-9518-dc6e5b421f43' => [
-        'I\'m a positive man.',
-        'Mariano Rivera',
+    'a1e70959-126b-5739-a74d-c65c38c15e85' => [
+        'Being a sex symbol has to do with an attitude, not looks. Most men think it\'s looks, most women know otherwise.',
+        'Kathleen Turner',
     ],
-    'f11adab9-1baa-5251-aa33-9310ffa71724' => [
-        'Your destiny is to fulfill those things upon which you focus most intently. So choose to keep your focus on that which is truly magnificent, beautiful, uplifting and joyful. Your life is always moving toward something.',
-        'Ralph Marston',
+    '94230d61-cd9d-5d26-88b6-ea3ccdf86b3a' => [
+        'With every drop of water you drink, every breath you take, you\'re connected to the sea. No matter where on Earth you live. Most of the oxygen in the atmosphere is generated by the sea.',
+        'Sylvia Earle',
     ],
-    '6df83284-5e12-57ce-836e-7a40a0dbbbef' => [
-        'I collect crystals and gemstones, and I\'ve been collecting them since I was a little girl. They give me positive energy and strength. They make me feel connected to the earth. I cherish them.',
-        'Isabel Lucas',
+    'e1f18336-b02e-57d3-97f6-1ff131796fd6' => [
+        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
+        'Ingrid Bergman',
     ],
-    '2c0af1f1-892d-57a9-9afc-fe6fccb790bc' => [
-        'People are patronizing the theatres with renewed enthusiasm - there is an entire picnic-like attitude when families go out to see movies, which is a very good sign. They want to see larger-than-life characters on the big screen and not just watch movies on television or on DVDs.',
-        'Salman Khan',
+    'c3aafae8-87df-5819-9c8d-1b075d8ce8a6' => [
+        'Occasionally I have come across a last patch of snow on top of a mountain in late May or June. There\'s something very powerful about finding snow in summer.',
+        'Andy Goldsworthy',
     ],
-    '8b34ef01-50f8-5093-b77e-acefe7e02342' => [
-        'I think I\'m one of the most fortunate people in the world. I travel around looking for the best waves and appreciate it every second.',
-        'Rob Machado',
+    '23e56124-852f-5d33-9a77-b04443a8de91' => [
+        'The first time I see a jogger smiling, I\'ll consider it.',
+        'Joan Rivers',
     ],
-    'd3adc1e5-5ee2-5d28-8ea6-940c95b0cebe' => [
-        'I\'ve always been motivated more by negative comments than by positive ones. I know what I do well. Tell me what I don\'t do well.',
-        'Abby Wambach',
+    'c11354ac-c237-5420-8485-5047ed7cd6d8' => [
+        'There are a lot of people who give you the message that maybe you are not good enough, and the best thing you can do for yourself is to block out all of that noise.',
+        'Rachel Platten',
     ],
-    'b60837e7-76c3-5724-b515-7fba9271adb5' => [
-        'Positive thinking will let you use the ability which you have, and that is awesome.',
-        'Zig Ziglar',
+    'ee7e5eee-b3e0-5953-a6a1-5f8325cc390b' => [
+        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
+        'Trey Anastasio',
     ],
-    '5fe508ec-700c-5509-88be-4f5ece586388' => [
-        'Travel in all the four quarters of the earth, yet you will find nothing anywhere. Whatever there is, is only here.',
-        'Ramakrishna',
+    'd138252e-fe31-5c8e-9d61-2ab68fe8a6c7' => [
+        'If you surrender to the wind, you can ride it.',
+        'Toni Morrison',
     ],
-    'eccffe93-8db9-5cac-a39a-90c8b893b8c4' => [
-        'It\'s funny, I was talking to somebody who writes for a cop show, and he was saying how they aren\'t allowed to acknowledge Christmas, Thanksgiving, Valentine\'s Day, just because it has to be able to play forever.',
-        'Hannah Simone',
+    'efe284f0-125f-5775-b4ff-5d1448ea92e7' => [
+        'I\'m a very competitive person, but competitive with myself. I want to be the best that I can be, and if that means that I\'m eventually better than everyone else, then so be it. But I don\'t go around comparing and contrasting myself with other actors if I can help it. It\'s also, I think, the key to my success.',
+        'Wentworth Miller',
     ],
-    '8c986199-d4d0-5c16-978b-1e95333be5f5' => [
-        'Southerners smile more than other Americans.',
-        'John Shelton Reed',
+    'af5c17f8-f1ac-50ab-85df-675eae3fdc47' => [
+        'What you see depends on what you\'re looking for.',
+        'Unknown',
     ],
-    'b972612b-0569-5728-93a9-28dbed1609dd' => [
-        'Economy is the basis of society. When the economy is stable, society develops. The ideal economy combines the spiritual and the material, and the best commodities to trade in are sincerity and love.',
-        'Morihei Ueshiba',
+    '76777653-5698-57f0-8da7-9510820a42e7' => [
+        'The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.',
+        'Neale Donald Walsch',
     ],
-    '2848c438-2d6c-57ff-a9da-9f3d650dd241' => [
-        'Nobody made a greater mistake than he who did nothing because he could do only a little.',
-        'Joseph Addison',
+    '154f59a3-87f9-5a5d-8a9a-7d7a5906db3c' => [
+        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
+        'George Lorimer',
     ],
-    '5bc15d83-aa1b-56f1-8409-ba6fe1418c9b' => [
-        'Nothing will work unless you do.',
-        'Maya Angelou',
+    '05034d0b-e9a4-50b3-89d2-d48618357b69' => [
+        'While the spoken word can travel faster, you can\'t take it home in your hand. Only the written word can be absorbed wholly at the convenience of the reader.',
+        'Kingman Brewster, Jr.',
     ],
-    '7607c145-aa27-590e-a599-3ca15a52724b' => [
-        'Sometimes I think we\'re alone in the universe, and sometimes I think we\'re not. In either case the idea is quite staggering.',
-        'Arthur C. Clarke',
+    'b1728c16-4df5-52c2-a5ee-fc8eaa65ed3d' => [
+        'As you become more clear about who you really are, you\'ll be better able to decide what is best for you - the first time around.',
+        'Oprah Winfrey',
     ],
-    '0726a7f0-d94b-5177-8193-8c97848e1d32' => [
-        'The love of what you do, combined with your belief in what you do, will not determine your success. It will determine how hard you will work and how dedicated you will be to achieving it. Success just shows up from there.',
-        'Jeffrey Gitomer',
+    '5dbb0ae3-7677-57b0-b6b5-f807a2f3572e' => [
+        'I\'m passionate about travel.',
+        'Jordana Spiro',
     ],
-    'b713f4ff-d433-5aa7-9247-1f9398ec6c7f' => [
-        'Patience is the best remedy for every trouble.',
-        'Plautus',
+    '45f08126-b848-5a51-a734-c88c133382fc' => [
+        'Perhaps we\'ve never been visited by aliens because they have looked upon Earth and decided there\'s no sign of intelligent life.',
+        'N. R. Narayana Murthy',
     ],
-    'c9233cd6-863f-58e4-847d-63ff3672496a' => [
-        'When I go to a bar, I don\'t go looking for a girl who knows the capital of Maine.',
-        'David Brenner',
+    'b0105ca4-ce00-51bb-88eb-f1645b54db9f' => [
+        'I cannot make my days longer so I strive to make them better.',
+        'Henry David Thoreau',
     ],
-    'a6dde4b5-fd86-57c5-82ea-0d7f880b5132' => [
-        'Men must live and create. Live to the point of tears.',
-        'Albert Camus',
+    '10df5f49-983b-5d86-8f88-a7ec1cbe192f' => [
+        'One of my passions is photography. I always carry a camera in my bag whenever I travel. I always take pictures wherever I go, and some of them end up being really crazy ones.',
+        'Sunidhi Chauhan',
     ],
-    '2489e6b6-81d3-57d0-846b-66e459e30f82' => [
-        'Never, never, never give up.',
-        'Winston Churchill',
+    '70e87ab7-7542-55a7-a08b-79b1914fce42' => [
+        'Discovering your purpose doesn\'t have to be complicated. Look at what you do and why you do it. Is it to support your family? That\'s your purpose. Is it to make a difference in your customer\'s life? That\'s your purpose.',
+        'Anne F. Beiler',
     ],
-    '62ffb914-e744-5c28-b28a-1050de03265d' => [
-        'If you create incredible value and information for others that can change their lives - and you always stay focused on that service - the financial success will follow.',
-        'Brendon Burchard',
+    'a17157d4-b4b0-5360-9e59-29737434cdb6' => [
+        'Whosoever desires constant success must change his conduct with the times.',
+        'Niccolo Machiavelli',
     ],
-    '2a8ac7fc-f215-5679-9bf7-41572765cb95' => [
-        'It\'s very hypocritical to constantly say, \'We want to keep our kids close,\' then send them home with so much homework that family time becomes nonexistent.',
-        'Marcia Gay Harden',
+    'c28a5284-7bdb-5aa7-82f9-a88920a95a4b' => [
+        'I truly believe the intention of creating positive change is so important to the collective consciousness. When you have a group of people that have the intention and the capacity, talent, and intelligence to actualize those intentions, then you have something really powerful.',
+        'Jimmy Chin',
     ],
-    'ed614424-8715-5ce3-83a9-d76824d2289f' => [
-        'As a life coach, I love makeovers, from new clothes to surgery, pedicures to highlights. But redoing makes you feel better only if approached with the right attitude.',
-        'Martha Beck',
+    '7805593a-92c0-5741-bdab-23300f6c6751' => [
+        'I sat in at every club in New York City, jamming with musicians, because it felt right - and because it felt right and we were having fun - the people dancing and sipping their drinks in the clubs felt it too and it made them smile.',
+        'Ray Conniff',
     ],
-    '41648ebf-70dc-5da5-a915-376cc7d5c69f' => [
-        'When the media defines something, you have to question: Is it the definition that you want applied to your culture? I\'m trying to determine who\'s leaving the legacy, and if the legacy that is being left is a positive one.',
-        'Tim Reid',
+    '4b127db5-3e9d-56cc-b035-4fb0b093c938' => [
+        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
+        'Carmen Electra',
     ],
-    'd520a924-bbf5-5544-b52a-856fc9b25393' => [
-        'No matter where I travel, I make sure to carry a Vaseline body lotion with me to keep my skin well moisturised all the time.',
-        'Nargis Fakhri',
+    '1a4566a1-0b59-5832-9b82-6f4e33c5aeca' => [
+        'I believe any success in life is made by going into an area with a blind, furious optimism.',
+        'Sylvester Stallone',
     ],
-    '5a581c9c-8d6b-5b31-b881-018a6c163d8f' => [
-        'What you fear is that which requires action to overcome.',
-        'Byron Pulsifer',
+    '7d1ce933-6a37-5e56-8356-84d27196c13f' => [
+        'My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you I the best place for the next moment.',
+        'Oprah Winfrey',
     ],
-    'c7758e3e-ca78-5056-8f75-4b4e8584f925' => [
-        'Just as much as we see in others we have in ourselves.',
-        'William Hazlitt',
+    '258ef034-f776-5afa-a50b-b378bd1376da' => [
+        'The artist is nothing without the gift, but the gift is nothing without work.',
+        'Emile Zola',
     ],
-    'cbad5181-eac2-5530-8184-2be5d84a5117' => [
-        'This feat I also had no idea how to accomplish, but ignorance had never stopped me from taking action before.',
-        'Viet Thanh Nguyen',
+    'b5bcb721-090f-5e8f-a1de-1f79cc2329d4' => [
+        'Many hands make light work.',
+        'John Heywood',
     ],
 ];

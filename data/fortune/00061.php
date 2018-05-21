@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4da7a6cf-cf69-5ffe-9027-a90732f18acb' => [
-        'Keep yourself to the sunshine and you cannot see the shadow.',
-        'Helen Keller',
+    'db2601ff-08b6-5e2e-b20f-57faddd2a601' => [
+        'I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
+        'Thomas A. Edison',
     ],
-    'c247f4e6-ab2b-5351-b6c8-cffbfaff37ac' => [
-        'You know, you only get to live life once, so there are two things that that yields. One is that there\'s no point in crying over spilt milk, but secondly you hate wasting time, energy, and whatever talent you\'ve got.',
-        'David Miliband',
+    'c14c672e-74f3-5499-a46f-5f8357bf835a' => [
+        'People don\'t associate red hair, pale skin, and freckles with beauty.',
+        'Shirley Manson',
     ],
-    '5a0d6a6d-ec74-5c55-8790-cda0d8467c03' => [
-        'I\'m looking forward to influencing others in a positive way. My message is you can do anything if you just put your mind to it.',
-        'Justin Bieber',
+    'a977b4ee-e086-5b47-89c2-894be385372c' => [
+        'There is nothing in which the birds differ more from man than the way in which they can build and yet leave a landscape as it was before.',
+        'Robert Wilson Lynd',
     ],
-    '3fc281a4-1dd5-5ddb-a1ea-02b39b072c2d' => [
-        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
-        'Srikumar Rao',
-    ],
-    'a99c907e-9e78-592e-a5ed-3fc08d7ded98' => [
-        'Somehow, the greater the public opposition to the health care bill, the more determined they seem to force it on us anyway. Their attitude shows Washington at its very worst - the presumption that they know best, and they\'re going to get their way whether the American people like it or not.',
-        'Scott Brown',
-    ],
-    '50780cf5-3c3c-51da-866f-fdbccebf1cf1' => [
-        'When times are tough and people are frustrated and angry and hurting and uncertain, the politics of constant conflict may be good, but what is good politics does not necessarily work in the real world. What works in the real world is cooperation.',
-        'William J. Clinton',
-    ],
-    '365f30d2-d334-56fe-a930-5f45969e84a0' => [
-        'To a synthetic chemist, the complex molecules of nature are as beautiful as any of her other creations. The perception of that beauty depends on the understanding of chemical structures and their transformations, and, as with a treasured work of art, deepens as the subject is studied, perhaps even to a level approaching romance.',
-        'Elias James Corey',
-    ],
-    'd8e74821-72e9-5454-ac33-fbb7cc0e82b9' => [
-        'Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you.',
-        'Saint Augustine',
-    ],
-    '438a2c0f-a323-5aa7-a3c2-e4c3f9fa3b05' => [
-        'Truth is powerful and it prevails.',
-        'Sojourner Truth',
-    ],
-    '3cfe09a9-ed78-5b49-a0bc-d665f17cabf2' => [
-        'No yesterdays are ever wasted for those who give themselves to today.',
-        'Brendan Francis',
-    ],
-    '0248c771-5638-533e-a7ea-d3287b204cd6' => [
-        'Mohammed was not an apparent failure. He was a dazzling success, politically as well as spiritually, and Islam went from strength to strength to strength.',
-        'Karen Armstrong',
-    ],
-    'db4b8d00-36de-5c88-9333-4668f7836064' => [
-        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
-        'Jules Renard',
-    ],
-    'bd49761b-60e0-5da8-a640-eeda8e9fc983' => [
-        'A beautiful body perishes, but a work of art dies not.',
-        'Leonardo da Vinci',
-    ],
-    'fc19dfba-8942-58dd-9de3-0843821a4f0b' => [
-        'The important thing is to learn a lesson every time you lose. Life is a learning process and you have to try to learn what\'s best for you. Let me tell you, life is not fun when you\'re banging your head against a brick wall all the time.',
-        'John McEnroe',
-    ],
-    '86bae4a9-6af3-556d-bbed-4e2231f44419' => [
-        'And for me, the real world involves everything: risk, danger, beauty, energy, all we meet with in the real world.',
-        'Christo',
-    ],
-    'e89c4c2b-f9c5-5bf1-bb5e-f47fc0b33e4d' => [
-        'As we think of power in the 21st century, we want to get away from the idea that power\'s always zero sum - my gain is your loss and vice versa. Power can also be positive sum, where your gain can be my gain.',
-        'Joseph Nye',
-    ],
-    'b4d51597-9412-5e17-a758-a3fac65d8fa3' => [
-        'But reason always cuts a poor figure beside sentiment; the one being essentially restricted, like everything that is positive, while the other is infinite.',
-        'Honore de Balzac',
-    ],
-    '79f4c215-5bef-52e0-80ee-790c6741d761' => [
-        'Time is but the stream I go a-fishing in.',
-        'Henry David Thoreau',
-    ],
-    '77f39603-a2c7-5ff0-a5e3-1f4b19b0b737' => [
-        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
-        'Walter Cronkite',
-    ],
-    'c3907861-2d38-52f1-bc66-0efc171f3a37' => [
-        'I managed to take a family trip to the Bahamas and it was quite lovely.',
-        'Jackie Collins',
-    ],
-    '35a1ad0a-f506-57e9-b46b-50d99269a32a' => [
-        'I destroy my enemies when I make them my friends.',
-        'Abraham Lincoln',
-    ],
-    'f6cddaa9-dcfd-53ef-afae-0306bb390fb7' => [
-        'We\'ve created a tenfold core value protocol to make sure that we don\'t fall into an \'empire\' attitude.',
-        'Joel Salatin',
-    ],
-    '7561a443-bb7a-53e1-8b88-35e64ddaa8a2' => [
-        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
-        'Lenny Kravitz',
-    ],
-    '7187fc79-85f0-5d41-8b94-8016a598254e' => [
-        'Now, therefore, the Directors of the company are hereby ordered to see that precautions are taken to make travel on said railroad perfectly safe by using a screw with at least twenty-four inches diameter.',
-        'Joshua A. Norton',
-    ],
-    '370c5b74-a6cc-5730-b309-c2d377e3611f' => [
-        'I don\'t think punk ever really dies, because punk rock attitude can never die.',
-        'Billy Idol',
-    ],
-    '816259fd-5979-5a6f-ba64-1f2dd00b719f' => [
-        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
-        'Sarah MacLean',
-    ],
-    'f0b7d9fe-8871-560d-810a-0826d4189ca2' => [
-        'One needs more than ambition and talent to make a success of anything, really. There must be love and a vocation.',
-        'Jessye Norman',
-    ],
-    '6931d6c8-d26d-5963-abfb-e812064702d0' => [
-        'It would be good for us Africans to accept ourselves as we are and recapture some of the positive aspects of our culture.',
-        'Wangari Maathai',
-    ],
-    'b64a43c4-6f9d-5c6e-878e-ea4657daca32' => [
-        'The poor man is not he who is without a cent, but he who is without a dream.',
-        'Harry Kemp',
-    ],
-    '6ac0a563-0620-5e0d-896c-b5241770a04e' => [
-        'I have learned that not diamonds but divorce lawyers are a girl\'s best friend.',
-        'Zsa Zsa Gabor',
-    ],
-    'b6c0ff0e-c50c-5689-9c06-c7e646a52998' => [
-        'Why worry about things you can\'t control when you can keep yourself busy controlling the things that depend on you?',
-        'Unknown',
-    ],
-    '1b8dd331-7e57-5569-bbe7-3c17a2731375' => [
-        'I guess when I think about it, one of the things I like to dramatise, and what is sometimes funny, is someone coming unglued. I don\'t consider myself someone who is making the argument that I support these choices. I just think it can be funny.',
-        'Wes Anderson',
-    ],
-    '469995c5-a727-5932-b4c2-393f96f19d57' => [
-        'I like to be grounded by nature, go hiking... go to an isolated island that\'s not glamorous and touristy at all.',
-        'Cote de Pablo',
-    ],
-    'db22182a-54dd-59a2-bfc1-6ef087dbec95' => [
-        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
-        'Pam Brown',
-    ],
-    'aa29716e-8326-5099-8fa9-3c59d0611403' => [
-        'Heroes represent the best of ourselves, respecting that we are human beings. A hero can be anyone from Gandhi to your classroom teacher, anyone who can show courage when faced with a problem. A hero is someone who is willing to help others in his or her best capacity.',
-        'Ricky Martin',
-    ],
-    '84773476-0e13-5703-86cd-476000adcfa2' => [
-        'The more you like yourself, the less you are like anyone else, which makes you unique.',
-        'Walt Disney',
-    ],
-    '9e63acee-0bf3-5c56-8929-455ddc1bae14' => [
-        'Animals have a much better attitude to life and death than we do. They know when their time has come. We are the ones that suffer when they pass, but it\'s a healing kind of grief that enables us to deal with other griefs that are not so easy to grab hold of.',
-        'Emmylou Harris',
-    ],
-    'cb5867aa-ff33-5c6b-a783-30d4531c5bd1' => [
-        'He taught me never to smile, which helps me when I visit disaster sites.',
-        'Emo Philips',
-    ],
-    '923a8830-7145-5a31-98da-389ac3a567c1' => [
-        'Never let lack of money interfere with having fun.',
-        'Unknown',
-    ],
-    '2bcc7d07-351b-5d20-8771-0a13adb7bf2a' => [
-        'The best executive is one who has sense enough to pick good people to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.',
-        'Theodore Roosevelt',
-    ],
-    '3627bf52-124c-5acf-b1e6-e351f164b06f' => [
-        'Change can be frightening, and the temptation is often to resist it. But change almost always provides opportunities - to learn new things, to rethink tired processes, and to improve the way we work.',
-        'Klaus Schwab',
-    ],
-    '87d50790-8813-532d-bf0e-74275003bd8b' => [
-        'Some people dream of success, while other people get up every morning and make it happen.',
-        'Wayne Huizenga',
-    ],
-    'bcbbee28-77a4-5996-9015-e7e9baed936b' => [
-        'It was one of those evenings when men feel that truth, goodness and beauty are one. In the morning, when they commit their discovery to paper, when others read it written there, it looks wholly ridiculous.',
+    'b544d53c-3600-52a9-b4e9-528db16f44ed' => [
+        'My father considered a walk among the mountains as the equivalent of churchgoing.',
         'Aldous Huxley',
     ],
-    'a4a187aa-baf2-56c6-a6ba-75f4d807e0bb' => [
-        'The impossible often has a kind of integrity which the merely improbable lacks.',
-        'Douglas Adams',
+    'daa2d907-6996-5b50-b996-4dbc50b3af08' => [
+        'An attitude to life which seeks fulfillment in the single-minded pursuit of wealth - in short, materialism - does not fit into this world, because it contains within itself no limiting principle, while the environment in which it is placed is strictly limited.',
+        'E. F. Schumacher',
     ],
-    'e8e7173a-7632-5a2e-a75a-2e8fdae3a13f' => [
-        'It\'s not an experiment if you know it\'s going to work.',
-        'Jeff Bezos',
+    'c5895147-feb9-5901-93b3-5aeee7bdc13c' => [
+        'I think one of the best words in the English language is \'compassion.\' I think it holds everything. It holds love, it holds care... and if everybody just did something. We all make a difference.',
+        'Michael Crawford',
     ],
-    '0e3882bc-433c-505e-b16e-bddf403caeaf' => [
-        'I\'ll tell you what I\'m grateful for, and that\'s the clarity of understanding that the most important things in life are health, family and friends, and the time to spend on them.',
-        'Kenneth Branagh',
+    '4287b360-5f1f-5a75-9db7-90df17f92a12' => [
+        'Water is the driving force of all nature.',
+        'Leonardo da Vinci',
     ],
-    '5b693d93-fea7-5975-a31d-023ca7a8fd58' => [
-        'Whoever is happy will make others happy too.',
-        'Anne Frank',
+    '12aae581-b356-5e5e-9902-de020e0fd0ce' => [
+        'It\'s so essential to happiness to speak your truth out loud - because this sharing of your core pain is what creates a necessary healing shift - from negative beliefs about the world - to positive beliefs - and frees you up to be able to fully view life with meaning, purpose and connection with others.',
+        'Karen Salmansohn',
     ],
-    '1457b293-b70c-57ac-b00d-9a06598cd496' => [
-        'Life is growth. If we stop growing, technically and spiritually, we are as good as dead.',
-        'Lionel Messi',
+    '905020ac-3c3e-525d-b95f-374f1bfa5564' => [
+        'All action results from thought, so it is thoughts that matter.',
+        'Sai Baba',
     ],
-    '57a82890-59dc-5c3d-b980-6870b01f9486' => [
-        'The one thing that I know is that you win with good people.',
-        'Don Shula',
+    'a488612c-4b85-51c7-a695-a24f105d523d' => [
+        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
+        'Larry Page',
     ],
-    '7146ef70-2325-5e98-bc06-217cee4ab1e4' => [
-        'I try to make the good days great and take something positive from the days I\'m not feeling good - work on technique or something like that.',
-        'Katie Ledecky',
+    '0145a36a-6eb1-5891-b451-b04dc5a71921' => [
+        'Leaders cannot work in a vacuum. They may take on larger, seemingly more important roles in an organization, but this does not exclude them from asking for and using feedback. In fact, a leader arguably needs feedback more so than anyone else. It\'s what helps a leader respond appropriately to events in pursuit of successful outcomes.',
+        'Jack Canfield',
+    ],
+    'fe49dc28-7e60-5425-a06f-ad24a11cb85f' => [
+        'You don\'t have to have anything in common with people you\'ve known since you were five. With old friends, you\'ve got your whole life in common.',
+        'H. Jackson Brown, Jr.',
+    ],
+    '778c9ff9-4121-5f97-ab8c-cec3dfdde136' => [
+        'If your mom asks you to do the dishes, do not pull out your pirate attitude. But if someone tells you you\'re not good enough, says your dreams are too lofty, or claims there is no room in showbiz for a dancing violinist - well then, by all means, pull out your eye patch, my friend, and take to the high seas.',
+        'Lindsey Stirling',
+    ],
+    'f290ddcd-26c8-5a87-b1a4-39524fd0cc2b' => [
+        'Our purpose in Vietnam is to prevent the success of aggression. It is not conquest, it is not empire, it is not foreign bases, it is not domination. It is, simply put, just to prevent the forceful conquest of South Vietnam by North Vietnam.',
+        'Lyndon B. Johnson',
+    ],
+    '844d28c1-94b3-5628-8e09-d6203545a27f' => [
+        'I am Classic Rock Revisited. I revisit it every waking moment of my life because it has the spirit and the attitude and the fire and the middle finger. I am Rosa Parks with a Gibson guitar.',
+        'Ted Nugent',
+    ],
+    '3c04196a-8b4e-557d-b176-182ff93b536c' => [
+        'Do not wait for leaders; do it alone, person to person.',
+        'Mother Teresa',
+    ],
+    '9ce89d56-77a7-5025-8a83-edc31a6c1149' => [
+        'I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.',
+        'Karan Johar',
+    ],
+    '25120df9-8e4e-5439-98ab-54f037f9c426' => [
+        'When Time is spent, Eternity begins.',
+        'Helen Hunt Jackson',
+    ],
+    'bd2f818f-9561-5739-a50f-f6539530fbef' => [
+        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
+        'Donald Trump',
+    ],
+    'ad6012bc-a1e2-523f-be25-b131b41cc1db' => [
+        'Bodybuilding is an art, your body is the canvas, weights are your brush and nutrition is your paint. We all have the ability to turn a self-portrait into a masterpiece.',
+        'Kai Greene',
+    ],
+    'a1362bd7-5682-562c-8b19-5465b5237e15' => [
+        'Individuals need to be willing to face truth about their attitudes, behaviors, even what we want out of life.',
+        'Joyce Meyer',
+    ],
+    'a3e3a51b-cea1-5e50-a98e-55a79f608d91' => [
+        'Life is short, so I\'m knowing exactly where I\'m putting my time. I don\'t want to do things that I don\'t have to do.',
+        'Mira Nair',
+    ],
+    'eb94f746-4e2b-53a1-81e8-bdb7c9653f15' => [
+        'Here\'s the funny thing about the response I\'ve been aware of to my dating famous people: It\'s been very negative. I\'m either not good-looking enough, not a good enough actor or not successful enough for these people.',
+        'Dax Shepard',
+    ],
+    '12f3dc56-2261-5172-9a7f-cdcacc2b7490' => [
+        'What\'s funny is funny. The same thing that made you laugh a hundred years ago makes you laugh now.',
+        'Chevy Chase',
+    ],
+    '329f6bba-9a08-51fe-89b1-c1aebf43a720' => [
+        'To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.',
+        'Pope John Paul II',
+    ],
+    '89738bb8-2fbd-5112-8b19-fdc83d411a81' => [
+        'Every mother and daughter should make time for a trip together. It\'s good for the soul.',
+        'Anne Robinson',
+    ],
+    'dcb2f02c-f836-5b53-9ab8-d7888cdc8dbf' => [
+        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
+        'Nostradamus',
+    ],
+    '0c52f103-6916-5633-951b-9a5277aafc56' => [
+        'Winning is great, sure, but if you are really going to do something in life, the secret is learning how to lose. Nobody goes undefeated all the time. If you can pick up after a crushing defeat, and go on to win again, you are going to be a champion someday.',
+        'Wilma Rudolph',
+    ],
+    '9cbd39d3-9372-5e30-8d46-2493aafc9c6c' => [
+        'They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.',
+        'Rita Rudner',
+    ],
+    '33c5533b-c868-5f40-9926-7c1e4ed341d6' => [
+        'He has achieved success who has worked well, laughed often, and loved much.',
+        'Elbert Hubbard',
+    ],
+    '5e56cde6-9784-5cff-bdc7-f36a565a4bbc' => [
+        'It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.',
+        'Mabel Newcomber',
+    ],
+    '6399738c-cc2d-58af-93d1-4d3cd7c973b5' => [
+        'Do whatever you do intensely.',
+        'Robert Henri',
+    ],
+    '656303ea-ff5b-5b9e-a5a8-2e7582c95a58' => [
+        'A woman\'s mind is cleaner than a man\'s: She changes it more often.',
+        'Oliver Herford',
+    ],
+    'f1544d74-48b0-55d2-81c6-d39b5ea2d12a' => [
+        'I can see how you could get dragged into the bad stuff, but I\'ve got good friends around me, good family. I think I\'ve got my head screwed on.',
+        'Harry Styles',
+    ],
+    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
+        'M. Scott Peck',
+    ],
+    '6bce0c38-6844-5fc9-a92d-5277bd699535' => [
+        'If you\'re public speaking, imagine yourself feeling confident; if you\'re nervous about a date and thinking, \'I\'m gonna be a dork,\' picture yourself being funny. Then it will be familiar to your brain.',
+        'Lindsey Stirling',
+    ],
+    '3c73ed52-f47a-576b-851e-9ee58778b954' => [
+        'Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.',
+        'Augustus Hare',
+    ],
+    'dc932cc6-b746-50c7-8cac-14d017b7078f' => [
+        'If you set your goals ridiculously high and it\'s a failure, you will fail above everyone else\'s success.',
+        'James Cameron',
+    ],
+    '128d9c89-ceea-5b86-bd80-843eccc0b3d0' => [
+        'In the long run, I believe that honesty is definitely the best policy. One can get away by being dishonest for a short term, but ultimately, honesty is what pays.',
+        'Kapil Dev',
+    ],
+    'e94226e2-fdbc-5c35-9dfd-2b6030c71342' => [
+        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
+        'Justin Zackham',
+    ],
+    'c26f7518-abfa-5ad6-98b2-697b1e9b3af9' => [
+        'I have no idols. I admire work, dedication and competence.',
+        'Ayrton Senna',
+    ],
+    '0a7a2ae9-a781-5125-9716-b21197b13461' => [
+        'In the United States, I am a great success, but I am not a celebrity.',
+        'Paulo Coelho',
+    ],
+    '7fa1a06e-44d2-5b2e-a020-ef4da6274dc7' => [
+        'Believe deep down in your heart that you\'re destined to do great things.',
+        'Joe Paterno',
+    ],
+    '86608e36-24ab-5a7e-a289-07f121ae431c' => [
+        'I believe that you should gravitate to people who are doing productive and positive things with their lives.',
+        'Nadia Comaneci',
+    ],
+    'ce088e6a-a2d8-5c57-a876-09e22e2abc90' => [
+        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
+        'Duane Michals',
+    ],
+    '297677f5-7cdd-5c5b-ac68-adade704f37d' => [
+        'No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude.',
+        'Alfred North Whitehead',
+    ],
+    '01a6e3d3-ab5c-5dde-8499-274ef919e8c5' => [
+        'I own more pairs of Calvin Klein underwear than I can count. At any given time, I probably have 50 to 60 pairs on deck. I travel with an entire suitcase of underwear and t-shirts, and they\'re all Calvin Klein.',
+        'Trey Songz',
+    ],
+    '75d61811-87e0-5ecc-9565-25f317b59f1b' => [
+        'My best friend is the one who brings out the best in me.',
+        'Henry Ford',
+    ],
+    '4b4f34e6-8ce8-5208-8a3f-810ac6922eb7' => [
+        'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
+        'Marcus Garvey',
+    ],
+    '7bc0005a-6108-5448-9e5c-bb5bd108cc9f' => [
+        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
+        'Calvin Coolidge',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '63849f29-50d3-51d9-bbcb-2b55e9ee27ce' => [
-        'Nature uses as little as possible of anything.',
-        'Johannes Kepler',
+    '42ec7362-05c5-597f-8703-fab95be101eb' => [
+        'Evangelicals always assume that humor and faith are contradictory. It\'s OK to smile, to be nice, but not frivolous.',
+        'Mike Yaconelli',
     ],
-    '1e8a0a84-8c56-5214-9cfb-bf4560077572' => [
-        'The most remarkable thing about my mother is that for thirty years she served the family nothing but leftovers. The original meal has never been found.',
-        'Calvin Trillin',
+    '030bd028-88b2-5304-a0dd-be2258c88f40' => [
+        'If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.',
+        'Henry David Thoreau',
     ],
-    '1fd9d114-379c-519d-9f6e-176ede16ed73' => [
-        'There is no cosmetic for beauty like happiness.',
-        'Maria Mitchell',
+    '2b460ed6-b806-5202-b380-ccca1e2c1b2f' => [
+        'The only way that we\'re going to feel secure in this country again and that we\'re going to feel good about ourselves is if we use these systems we\'ve put into place to create positive change around the world. I really believe we can do that.',
+        'John Perkins',
     ],
-    'a7873de7-2ad2-51c7-899f-970ace7f8e4e' => [
-        'Reality leaves a lot to the imagination.',
-        'John Lennon',
+    '1dc84b19-be19-59b4-96a8-9c012a81658e' => [
+        'I love every minute of fatherhood, staying up all night, changing nappies, kids crying, I find it really funny and inspiring. It connects you to the world in a new way.',
+        'Elton John',
     ],
-    'c13e44e9-2803-5949-a558-2aeaeec4412a' => [
-        'I can\'t wait for summer in the city! I love all the free activities in the parks that become available to us New Yorkers. Yoga and movie screenings in Bryant Park, concerts in Central Park - there\'s so much more available to the New York community in the summer! And everyone just seems to smile more.',
-        'Kara Lindsay',
+    'd44381c1-f4bc-5eaa-b35e-0e57acc2d737' => [
+        'The glamour of air travel - its aspirational meaning in the public imagination - disappeared before its luxury did, dissipating as flying gradually became commonplace.',
+        'Virginia Postrel',
     ],
-    '090e6d3b-e9eb-5090-99df-8409639c75cf' => [
-        'He is a very positive captain; he is proactive as well as reactive. He is keen to read the game, to get in there, and he never stops thinking about the game, the situation, and trying to turn it to his advantage. He has been very good for the game.',
-        'David Gower',
+    '05dba7b2-2145-5830-955a-b210ad5ccf22' => [
+        'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
+        'Dieter F. Uchtdorf',
     ],
-    'a470210b-b76a-56a3-a382-ad524715395d' => [
-        'Ever since I began to compose, I have remained true to my starting principle: not to write a page because no matter what public, or what pretty girl wanted it to be thus or thus; but to write solely as I myself thought best, and as it gave me pleasure.',
-        'Felix Mendelssohn',
+    'b2e22980-9fd7-5fff-8f89-2cb6806e3ab9' => [
+        'In the depth of winter, I finally learned that there was within me an invincible summer.',
+        'Albert Camus',
     ],
-    'a130d336-c94b-5c66-90c1-e2e944315184' => [
-        'I find that it\'s the simple things that remind you of family around the holidays.',
-        'Amy Adams',
+    'f7f0b1e7-2abe-58e7-9d9a-0340cf64811c' => [
+        'A friend may well be reckoned the masterpiece of nature.',
+        'Ralph Waldo Emerson',
     ],
-    'fe536bab-1985-5597-8f6c-b839c77c57cb' => [
-        'I love to photograph the gorgeous landscapes when I travel.',
-        'Blake Lively',
+    'a99c907e-9e78-592e-a5ed-3fc08d7ded98' => [
+        'Somehow, the greater the public opposition to the health care bill, the more determined they seem to force it on us anyway. Their attitude shows Washington at its very worst - the presumption that they know best, and they\'re going to get their way whether the American people like it or not.',
+        'Scott Brown',
     ],
-    '27535eeb-d6a5-595c-a024-579acc008386' => [
-        'Dad could talk about peace and love out loud to the world, but he could never show it to the people who supposedly meant the most to him: his wife and son. How can you talk about peace and love and have a family in bits and pieces - no communication, adultery, divorce? You can\'t do it, not if you\'re being true and honest with yourself.',
-        'Julian Lennon',
+    'a33be87b-f744-51a8-943f-c9f2a17924c6' => [
+        'The world is a book, and those who do not travel read only a page.',
+        'Augustinus Sanctus',
     ],
-    'f2c4505d-d30f-55ce-9792-993d1755c2bf' => [
-        'Obstacles are necessary for success because in selling, as in all careers of importance, victory comes only after many struggles and countless defeats.',
-        'Og Mandino',
+    'daca1a01-c2b5-5f03-9ebf-260818a5ae32' => [
+        'Science fiction is filled with Martians and space travel to other planets, and things like that.',
+        'Margaret Atwood',
     ],
-    '55aaaa8e-689c-51ee-9b0b-4634ec98b1d6' => [
-        'In my career, there\'s many things I\'ve won and many things I\'ve achieved, but for me, my greatest achievement is my children and my family. It\'s about being a good father, a good husband, just being connected to family as much as possible.',
-        'David Beckham',
+    'b4e54c1c-f3a6-505f-ad16-b64f409e0048' => [
+        'Staying in one place is the best path to be taken over and surpassed by many.',
+        'Byron Pulsifer',
     ],
-    '8361982c-f0e0-5ee2-9032-6b1e64200209' => [
-        'Yesterday I dared to struggle. Today I dare to win.',
-        'Bernadette Devlin',
+    '74616d94-87d8-5f99-ada1-fefa7750c15a' => [
+        'Step with care and great tact, and remember that Life\'s a Great Balancing Act.',
+        'Carla Gugino',
     ],
-    '75805e58-1522-59ac-a37a-52ac6c35887d' => [
-        'Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.',
-        'August Wilson',
+    '5e622c9f-607a-5331-9c52-6f6c013e3fdf' => [
+        'Time is the scarcest resource and unless it is managed nothing else can be managed.',
+        'Peter Drucker',
     ],
-    '37d203f5-eafa-5c7f-9ab8-b1ad30a6c69e' => [
-        'People always say golfers don\'t smile. But there is so much psychology in golf so we have to be a bit robotic.',
-        'Lee Westwood',
+    '651db827-e4a8-5fa4-b9b8-b111a9b39a53' => [
+        'Take it easy, but take it.',
+        'Woody Guthrie',
     ],
-    '88df056f-91d8-51d8-af48-9fe22e8f7162' => [
-        'I am not embarrassed to tell you that I believe in miracles.',
-        'Corazon Aquino',
+    'a833bfcb-2868-527a-b6a6-5f3b7119834c' => [
+        'With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.',
+        'Doris Roberts',
     ],
-    '999e5ae0-a8aa-5d83-807f-ef3affa2d4ec' => [
-        'It is more important to eat some carbohydrates at breakfast, because the brain needs fuel right away, and carbohydrate is the best source.',
-        'Andrew Weil',
+    '454f8f94-10fb-5c36-a230-74b422de8835' => [
+        'When most people think of Woodrow Wilson, they see a dour minister\'s son who never cracked a smile, where in fact he was a man of genuine joy and great sadness.',
+        'A. Scott Berg',
     ],
-    '46aa4052-78a3-5874-ae1a-304480a77a7d' => [
-        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
-        'E. B. White',
+    '50a7a13a-af18-5614-aec4-1e4f3d4182c2' => [
+        'I\'m blessed to come from a family with five brothers. We\'re all physical and athletic and like to work out, like to be outside, like to throw the ball around. We spent our entire childhoods on some kind of corner or in a field. We still do a Turkey Bowl every Thanksgiving. It gets competitive, man. Bloody.',
+        'Danny Pino',
     ],
-    '647a8303-5bdb-5f3e-8c51-3876e2e4a52e' => [
-        'I am suggesting that as we go through life, we \'accentuate the positive.\' I am asking that we look a little deeper for the good, that we still our voices of insult and sarcasm, that we more generously compliment and endorse virtue and effort.',
-        'Gordon B. Hinckley',
+    'e6ef05ec-a84e-58c9-b27c-dc028b98888d' => [
+        'Quality is pride of workmanship.',
+        'W. Edwards Deming',
     ],
-    '89255b3e-c997-5f26-915e-9e39f468f5dc' => [
-        'I get tired of comedies where there are a bunch of funny guys and a beautiful woman who doesn\'t do anything funny. And I don\'t like books where there\'s a rough-and-tumble boy and a really clever, snotty girl. That\'s just not my experience with teenagers.',
-        'Patrick Ness',
+    '1a04cf34-483b-5df5-aaec-e83cf2199aa9' => [
+        'People are basically the same the world over. Everybody wants the same things - to be happy, to be healthy, to be at least reasonably prosperous, and to be secure. They want friends, peace of mind, good family relationships, and hope that tomorrow is going to be even better than today.',
+        'Zig Ziglar',
     ],
-    '6e851ca6-dbd5-514d-beac-14f4a257d6b7' => [
-        'Roses are red, violets are blue, I\'m schizophrenic, and so am I.',
-        'Oscar Levant',
+    '1bb63e3a-2493-50c5-8471-3491dfc32f03' => [
+        'The only people for me are the mad ones: the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who... burn, burn, burn like fabulous yellow Roman candles.',
+        'Jack Kerouac',
     ],
-    '98359a7a-2f90-51ac-b0d7-c1c5ff55d4d0' => [
-        'To be an artist is to believe in life.',
-        'Henry Moore',
+    '00ba21d2-b9ff-546d-885f-3e33abf93642' => [
+        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
+        'Jennifer Aniston',
     ],
-    '8ec54c09-381d-5b1c-a550-c3af4c615d5c' => [
-        'Across professions, consistency is a direct product of work ethic.',
-        'Harsha Bhogle',
+    '91dbc1d9-ae96-53ac-8288-ccaa7a7d0e67' => [
+        'Everything that slows us down and forces patience, everything that sets us back into the slow circles of nature, is a help. Gardening is an instrument of grace.',
+        'May Sarton',
     ],
-    'f0d56507-7f3b-5fc2-99a0-05e5ae1b7db0' => [
-        'I\'ve always believed that one woman\'s success can only help another woman\'s success.',
-        'Gloria Vanderbilt',
+    'daab1c29-46b1-55a2-84f3-efd9c456a145' => [
+        'The most important single ingredient in the formula of success is knowing how to get along with people.',
+        'Theodore Roosevelt',
     ],
-    'd6dde7c3-0717-57d4-8492-90021d935b6b' => [
-        'I got a lot of support from my parents. That\'s the one thing I always appreciated. They didn\'t tell me I was being stupid; they told me I was being funny.',
-        'Jim Carrey',
+    'cc44eb36-0e60-5c1a-9238-c35a1b842acb' => [
+        'Even if people do wrong, we\'re social animals, so what can we do about stopping them doing the same things in future? Saying people are \'bad\' or \'evil\' is just an unwillingness to engage; an unwillingness to try to empathise. That sanctimonious attitude doesn\'t help anyone.',
+        'Denise Mina',
     ],
-    '0f7cc81d-ccf4-51b2-9386-2266080bf87f' => [
-        'Music is probably the only real magic I have encountered in my life. There\'s not some trick involved with it. It\'s pure and it\'s real. It moves, it heals, it communicates and does all these incredible things.',
-        'Thomas Jefferson',
+    '1fbf8dd3-9f8e-5661-8de1-dd5c67064eee' => [
+        'I\'m going to write a book, continue acting, continue motivational speaking and just share with people who I am and what I\'ve learned in my second chance of life and pass it on to people in their first chance of life.',
+        'J. R. Martinez',
     ],
-    'bbab53ff-264b-570d-92d0-d1f8d4af9c08' => [
-        'To be able to travel the world, especially to places I never thought I\'d be... it\'s really, you know, still fascinating for me.',
-        'Beyonce Knowles',
+    '3229b58a-9f99-505e-813c-89b8a9da2e45' => [
+        'I come from a family of Russian immigrant Jews who were all big storytellers, who would get together, and one would try to top the others\' stories, and stories would get bigger and bigger. And the lying aspect, the exaggeration, would get large.',
+        'Philip Schultz',
     ],
-    '7506e32a-f5af-51b8-b2c0-0ce6b46b9c27' => [
-        'To be able to throw one\'s self away for the sake of a moment, to be able to sacrifice years for a woman\'s smile - that is happiness.',
-        'Hermann Hesse',
+    'e532bd18-d2fd-592d-8687-8c69bbc4243b' => [
+        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
+        'Michael Bay',
     ],
-    '357eb847-a63c-5fa6-b7e0-2a212e5e7434' => [
-        'Anytime you see a turtle up on top of a fence post, you know he had some help.',
-        'Alex Haley',
+    '35848cf5-ad81-5b82-80eb-81706a515331' => [
+        'The judge is not the knight-errant, roaming at will in pursuit of his own ideal of beauty or of goodness.',
+        'Benjamin N. Cardozo',
     ],
-    '962fc46a-2a3b-5f86-a141-a78d3f6369d2' => [
-        'I drove right into the music with the same sort of attitude as I went into the football stuff with. Just found a routine and hard work, and it helped me progress a lot faster.',
-        'Sam Hunt',
+    'd5e8bda5-7aed-558c-9442-9c9762a408d7' => [
+        'Childbirth changed my perception of my wife. She was now the bloodied special forces soldier who had fought and risked everything for our family.',
+        'Mohsin Hamid',
     ],
-    'c55348d5-0c18-5600-8aa2-a96771227e3b' => [
-        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
-        'Malala Yousafzai',
+    '0453c69b-a861-52b3-ad72-4b7b54e5bf75' => [
+        'Family life is fragmenting in this modern age, but it\'s up to all of us to keep it together.',
+        'Mary Berry',
     ],
-    'd24dd934-13af-59d2-b299-24a94a044c9c' => [
-        'Every small business will give you an entrepreneurial way of looking at things. I guarantee you that for every plant that closes, if you gave it to one small-business person in that community, he or she would find a way to make it work. The small-business attitude is you always find a way to make it work.',
-        'Hamdi Ulukaya',
+    '5c730c94-002e-5e2a-8e3c-6fa2c0020796' => [
+        'The most beautiful thing in the world is, of course, the world itself.',
+        'Wallace Stevens',
     ],
-    'fc6e2070-f210-52f0-ae6f-4e48e3f786a8' => [
-        'I truly believe my job is to make sure people smile.',
-        'Shah Rukh Khan',
+    '29c29cef-450a-5197-a6e6-ccde0e6c3834' => [
+        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
+        'Aldous Huxley',
     ],
-    'c61e5a3d-98f2-52c6-9604-0791af14061a' => [
-        'The more real you get, the more unreal the world gets.',
-        'John Lennon',
+    '19a3bc31-134c-5435-99f6-8253f605510b' => [
+        'I always find it actually funny that the analysis is that the characters I play in comedies are the manchild, the adolescent, characters that refuse to grow up. And yet, if you look back in the history of comedy all the way back to the Marx brothers, that\'s a big part of comedy.',
+        'Will Ferrell',
     ],
-    '9c449f5e-4662-5c7b-8cdc-8517dc6ae750' => [
-        'A society is defined as much by how it comes to terms with its past as by its attitude toward the future: its memories are no less revealing than its aims.',
-        'Octavio Paz',
+    '8eeae70c-06e2-5fe4-a53e-7b0e883e21d7' => [
+        'An aristocratic culture does not advertise its emotions. In its forms of expression it is sober and reserved. Its general attitude is stoic.',
+        'Johan Huizinga',
     ],
-    '99aab2fb-37be-5b23-b31c-86e15d0a8bd1' => [
-        'I come from a family of well-endowed booty women.',
-        'Estelle',
+    'f6cddaa9-dcfd-53ef-afae-0306bb390fb7' => [
+        'We\'ve created a tenfold core value protocol to make sure that we don\'t fall into an \'empire\' attitude.',
+        'Joel Salatin',
     ],
-    '13ec7823-5bfc-5dda-a287-1cb051d53ce2' => [
-        'Men talk of killing time, while time quietly kills them.',
-        'Dion Boucicault',
+    '976fe3d8-01dd-5390-9ec1-6132d1fd1c0e' => [
+        'How beautiful the leaves grow old. How full of light and color are their last days.',
+        'John Burroughs',
     ],
-    '2d46d3b0-bd97-58e1-955e-a68fb4e549e8' => [
-        'Be sure you put your feet in the right place, then stand firm.',
-        'Abraham Lincoln',
+    'a3e1d496-cc24-5898-aefc-8995ee7abe2a' => [
+        'Life is full of confusion. Confusion of love, passion, and romance. Confusion of family and friends. Confusion with life itself. What path we take, what turns we make. How we roll our dice.',
+        'Matthew Underwood',
     ],
-    '481cacb4-6d58-5aef-a456-8fae8233fed1' => [
-        'Although I know it\'s unfair I reveal myself one mask at a time.',
-        'Stephen Dunn',
+    'fb871a2d-14fd-57e2-9084-c630989e8407' => [
+        'Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.',
+        'John Wooden',
     ],
-    '0e907d6c-4361-5560-be38-3f8ae117a00c' => [
-        'If all difficulties were known at the outset of a long journey, most of us would never start out at all.',
-        'Dan Rather',
+    '5eb2b471-5df9-5f06-948c-2c62ae803bfe' => [
+        'All things are perceived in the light of charity, and hence under the aspect of beauty; for beauty is simply reality seen with the eyes of love.',
+        'Evelyn Underhill',
     ],
-    '1d5be22f-312d-53c8-9d5c-7bfc191db33f' => [
-        'The time to enjoy a European trip is about three weeks after unpacking.',
-        'George Ade',
+    '4e5db875-4535-56e5-a3c4-323ee2dd87d7' => [
+        'It\'s funny: when people always talk about the importance of role models, I used to think that was so exaggerated, but as I get older, I start to realize I don\'t feel that way so much anymore. If you see somebody like you who\'s doing something, an older version of what you are, it does make you feel like it\'s more possible.',
+        'Demetri Martin',
     ],
-    'b6bb815d-9d9f-5762-8e06-4ecddec6c100' => [
-        'I do find things funny. When you see life through the eyes of someone with a good sense of humor, which my grandmother did, life is a human comedy.',
-        'George Takei',
+    '4fd8c7fd-4ffe-5c81-9515-cbda0865af63' => [
+        'Good actions give strength to ourselves and inspire good actions in others.',
+        'Plato',
     ],
-    'faffb3f9-2a21-596c-8702-0cfbf81086f7' => [
-        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
-        'Max Martin',
+    '639102ce-84df-5c32-8861-e81d5e5941c1' => [
+        'People living deeply have no fear of death.',
+        'Hans Christian Andersen',
     ],
-    'ce4601bf-4eda-5c7d-9476-1870e3d75f45' => [
-        'To be able to look back upon ones life in satisfaction, is to live twice.',
-        'Thomas A. Edison',
+    '0a17a7be-afe6-597e-8574-026b921f6117' => [
+        'From a very young age, music was very much in my house. I would sit with my mom, with the old LPs, listening to The Beatles and Carly Simon and Lionel Richie. The old LPs used to have the lyrics. From there, I would put on dance and music displays for my family, just to entertain them and make people laugh and smile.',
+        'Lara Pulver',
     ],
-    'cef61bf2-e84d-552b-a0af-fb6030655c7b' => [
-        'For many years, it seemed as if nothing changed in Norway. You could leave the country for three months, travel the world, through coups d\'etat, assassinations, famines, massacres and tsunamis, and come home to find that the only new thing in the newspapers was the crossword puzzle.',
-        'Jo Nesbo',
+    'd63a9650-5661-5950-8666-582819d955b6' => [
+        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
+        'Derrick Rose',
     ],
-    '7db26f33-beb0-5ba9-ae52-ad25c3b66021' => [
-        'It\'s sort of a feeling of power onstage. It\'s really the ability to make people smile, or just to turn them one way or another for that duration of time, and for it to have some effect later on. I don\'t really think it\'s power... it\'s the goodness.',
-        'Robert Plant',
+    '328b35b8-badd-551a-b2bb-87ef38471e0c' => [
+        'On \'Van Halen,\' I was a young punk, and everything revolved around the fastest kid in town, gunslinger attitude. But I\'d say that at the time of \'Fair Warning,\' I started concentrating more on songwriting. But I guess in most people\'s minds I\'m just a gunslinger.',
+        'Eddie Van Halen',
     ],
-    '9e97193c-f7d6-517b-a6ab-0b87512ecf63' => [
-        'Tough times never last, but tough people do.',
-        'Robert H. Schuller',
+    '4b4897c4-6f4d-52e2-8e77-5301e58d7c7a' => [
+        'There is a Japanese proverb that literally goes \'Raise the sail with your stronger hand\', meaning you must go after the opportunities that arise in life that you are best equipped to do.',
+        'Soichiro Honda',
     ],
-    '0b610574-7270-50e8-8165-163e414142a5' => [
-        'Somehow a bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
-        'Helen Rowland',
+    'db94e19f-12b7-55b0-95c6-ecf8fafdd0a2' => [
+        'Why don\'t you start believing that no matter what you have or haven\'t done, that your best days are still out in front of you.',
+        'Joel Osteen',
     ],
-    'cd7240ab-6d0f-5b93-bfc8-5d8d7017a419' => [
-        'The creed of a true saint is to make the best of life, and to make the most of it.',
-        'Edwin Hubbel Chapin',
+    '70249243-9035-51dd-8b6c-8ae109ccc186' => [
+        'Sometimes not telling people anything is a good thing.',
+        'Jason Myers',
     ],
-    '5f894df1-7f05-551f-af91-9841fe6c01c4' => [
-        'Great ideas often receive violent opposition from mediocre minds.',
-        'Albert Einstein',
+    'a68ffecd-59d5-56c0-ad2e-1b40d06fb703' => [
+        'Life is what you make of it. Always has been, always will be.',
+        'Grandma Moses',
     ],
 ];

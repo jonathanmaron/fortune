@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '013ef8a2-82f9-57cd-86c1-f1d1c191bfa4' => [
-        'The power of women in the politics is a soft power. It is a positive change that our country and other countries in the region... are making by giving a chance to women.',
-        'Atifete Jahjaga',
+    '07a2a811-3141-52db-8a73-bb00572b7d8f' => [
+        'By refocusing our space program on Mars for America\'s future, we can restore the sense of wonder and adventure in space exploration that we knew in the summer of 1969. We won the moon race; now it\'s time for us to live and work on Mars, first on its moons and then on its surface.',
+        'Buzz Aldrin',
     ],
-    'a2831ae7-52cf-5e47-ab3b-652508064342' => [
-        'Success comes in waves.',
-        'Guy Pearce',
+    'c3d1c2a7-6cee-55ff-8cf2-49c7e6f1154a' => [
+        'To be a good loser is to learn how to win.',
+        'Carl Sandburg',
     ],
-    '567b8e79-4e52-57ef-b8f8-927913fba84a' => [
-        'We achieved our mission to the moon. Let\'s look home from that lofty perch and reimagine our mission on Earth - that is what we need to do here. Together, we can upcycle everything. The world will be better for our positive visions and actions.',
-        'William McDonough',
+    '63a3e716-f66f-5117-9ff1-62d3a9ee2c92' => [
+        'A champion is afraid of losing. Everyone else is afraid of winning.',
+        'Billie Jean King',
     ],
-    'ef67fe8f-fbc2-5182-b2bd-f71f0ccf3158' => [
-        'If we get our self-esteem from superficial places, from our popularity, appearance, business success, financial situation, health, any of these, we will be disappointed, because no one can guarantee that we\'ll have them tomorrow.',
-        'Kathy Ireland',
+    'f1e57bd5-40a4-5306-bf46-a651a27dac12' => [
+        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
+        'Thomas Mann',
     ],
-    '7d696a81-b1f7-5d37-b1b2-c8f9467734c4' => [
-        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
-        'Benjamin Franklin',
+    'bab3c795-1f19-51c3-a770-4a9d93129d09' => [
+        'No hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me.',
+        'Colonel Sanders',
     ],
-    '810544c7-90e2-5982-9d18-1d64e619a9f5' => [
-        'Sacred joy exists in any suffering.',
-        'Lailah Gift Akita',
+    '2867b803-aeed-5453-a2c7-c7455e4fc6e7' => [
+        'You reach a point where you don\'t work for money.',
+        'Walt Disney',
     ],
-    '3789f2e1-8305-5648-8630-28079e09b343' => [
-        'I look my best when I\'m totally free, on holiday, walking on the beach.',
-        'Rosamund Pike',
+    '6f5d27ec-3fef-53ca-8ecf-a8a960fb9dc3' => [
+        'Both young children and old people have a lot of time on their hands. That\'s probably why they get along so well.',
+        'Jonathan Carroll',
     ],
-    'ab410ed0-c634-5337-bf64-5121ec801e3e' => [
-        'That\'s the real work, being away from my loved ones, my family, my household. There\'s nothing that\'s hurt any more than being away from my little girl and missing days, but I\'m lucky.',
-        'Roman Reigns',
+    '556d6107-6506-526a-8677-b0068634829e' => [
+        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
+        'Anthony Joshua',
     ],
-    '909a80d9-39ba-53c3-823e-3e3b3227b50b' => [
-        'Love is a fruit in season at all times, and within reach of every hand.',
-        'Mother Teresa',
+    '02d15e31-c066-5472-9adb-aea698ea9d05' => [
+        'Psychographics speaks more to an attitude, a lifestyle.',
+        'Richard Hayne',
     ],
-    '21b1e1cd-21e0-5fa3-b504-c270619ce9e5' => [
-        'One of the things that binds us as a family is a shared sense of humor.',
-        'Ralph Fiennes',
+    '0cd830d3-d22f-5ff0-84a9-bd4d924bb810' => [
+        'Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get.',
+        'Kevin Spacey',
     ],
-    'd24ecdaf-09ef-57e0-9cb5-62bff517797d' => [
-        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
-        'Sonny Chiba',
+    '3b8bc5ce-b852-55cc-a8bb-dc0d030f1186' => [
+        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
+        'Harry Connick, Jr.',
     ],
-    '3b102f63-8fab-5c6e-a89c-5e299ca9a090' => [
-        'Most of my show is true; like, 90% of everything I say on stage is true. I just have to find the way to make it funny - that\'s the difficult thing.',
-        'Trevor Noah',
+    '23a8475d-bd35-5393-a1a3-91a52ffb3fba' => [
+        'As long as I\'m not selling out the people that ride or die with me, I\'m glad I\'m not an MC. I\'m a motivational speaker. I\'m not that rapper dude.',
+        'Young Jeezy',
     ],
-    'b715d4a7-ec28-586f-8c65-4c8af3ba3377' => [
-        'You can never control who you fall in love with, even when you\'re in the most sad, confused time of your life. You don\'t fall in love with people because they\'re fun. It just happens.',
-        'Kirsten Dunst',
+    '31523262-29e1-550a-a6c3-2a46b8619fc0' => [
+        'I find that it\'s best to take one step at a time and cross each bridge as they come to you.',
+        'Michael Stuhlbarg',
     ],
-    '1a440dc4-37a5-5eaa-b4a4-b708950467b7' => [
-        'Sometimes Queens\' music is dark, but somehow it\'s ok to deliver it with a smile on your face because thing\'s are still going to kick in.',
-        'Josh Homme',
+    '973bedf2-4082-5852-9a14-12498ed46b45' => [
+        'People think because I\'ve got some success, I\'ve made it, but in my eyes it\'s like, \'How long has Jay Z been in the business? How many albums has he got?\' Not that I\'m trying to be Jay Z, but I am trying to be around for a long time.',
+        'J. Cole',
     ],
-    '8dc99728-e660-5c9b-8d4e-d6a37025b6be' => [
-        'Behaving like a princess is work. It\'s not just about looking beautiful or wearing a crown. It\'s more about how you are inside.',
-        'Julie Andrews',
+    'd30232a5-c34f-595b-9a22-1bd001a11a25' => [
+        'Having an aim is the key to achieving your best.',
+        'Henry J. Kaiser',
     ],
-    'd4012e6e-13fa-53e5-a99c-5fed1484259e' => [
-        'Young people need the hands-on training that comes with a summer job. They need to know how to dress for success and nail job interviews. But most of all, they need mentorship, guidance, and inspiration.',
-        'Hilda Solis',
+    '452b94fa-d561-5b17-a76f-be5fa4ddd147' => [
+        'Forests, lakes, and rivers, clouds and winds, stars and flowers, stupendous glaciers and crystal snowflakes - every form of animate or inanimate existence, leaves its impress upon the soul of man.',
+        'Orison Swett Marden',
     ],
-    'a9a87ba3-636d-5a59-b7a5-acd6ba4b340e' => [
-        'Take heed: you do not find what you do not seek.',
-        'English proverb',
+    '2e5bc717-f7fd-57da-9728-bc6f0bbac8a5' => [
+        'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
+        'Queen Elizabeth II',
     ],
-    'b9e2a1af-e374-5c64-b438-55583eef607a' => [
-        'We live in a beauty-obsessed age and success sometimes appears to hinge solely on the presentation of an image that is acceptable to the press.',
-        'Douglas Booth',
+    'fd526e5b-a976-5b0b-9df6-a915930a0d19' => [
+        'The science of psychology has been far more successful on the negative than on the positive side... It has revealed to us much about man\'s shortcomings, his illnesses, his sins, but little about his potentialities, his virtues, his achievable aspirations, or his psychological health.',
+        'Abraham Maslow',
     ],
-    '3d4c51b2-a11b-5cd6-82a8-db2cb4157abc' => [
-        'Not everything is going to be handed to you just because you\'re talented with a big smile. Sometimes you just gotta get out and shoot jumpers for hours and hours and hours. That\'s something I didn\'t really get a grasp on until way later, waking up early and treating it like a job if you\'re serious about it. Get the freak up and, you know, work.',
-        'Anderson Paak',
+    '051f1e1e-8cc1-5394-a5a4-59159ad6ea6b' => [
+        'I didn\'t grow up around wild horses, no. But I\'ve appreciated their beauty and their power ever since I can remember.',
+        'Ricky Schroder',
     ],
-    '92a3a46e-5fc3-55d1-bd4e-7026bbb1eef4' => [
-        'If you love someone, set them free. If they come back they\'re yours; if they don\'t they never were.',
-        'Richard Bach',
+    'adf07116-6568-5192-ac42-f176db44d01b' => [
+        'One\'s appearance bespeaks dignity corresponding to the depth of his character. One\'s concentrated effort, serene attitude, taciturn air, courteous disposition, thoroughly polite bearing, gritted teeth with a piercing look - each of these reveals dignity. Such outward appearance, in short, comes from constant attentiveness and seriousness.',
+        'Yamamoto Tsunetomo',
     ],
-    'f840458e-c392-574d-b7d4-550314afcda6' => [
-        'If you are not too long, I will wait here for you all my life.',
-        'Jim Rohn',
+    'e09d7c86-7196-5131-918a-194e85913a47' => [
+        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
+        'A.P.J. Abdul Kalam',
     ],
-    '8689ba77-28dc-599e-aa8b-811ec8da5603' => [
-        'Every story I create, creates me. I write to create myself.',
-        'Octavia E. Butler',
+    'da346e76-184a-5a67-8ee8-621a646e50d6' => [
+        'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
+        'Kevin O\'Leary',
     ],
-    'e3e4b904-f1ea-5cdd-bbf2-e7c6334479c7' => [
-        'In the workplace, employees should be judged on their merit and hard work and not on aspects that are irrelevant to their performance.',
-        'Paul Singer',
+    '2c68fbe5-5544-529a-9a76-39634b6b115f' => [
+        'Mainly what I learned from Buddy... was an attitude. He loved music, and he taught me that it shouldn\'t have any barriers to it.',
+        'Waylon Jennings',
     ],
-    '8fd4eaf2-b838-50d9-b108-61bc4372afdd' => [
-        'Politeness and civility are the best capital ever invested in business. Large stores, gilt signs, flaming advertisements, will all prove unavailing if you or your employees treat your patrons abruptly. The truth is, the more kind and liberal a man is, the more generous will be the patronage bestowed upon him.',
-        'P. T. Barnum',
+    '2eae7ed9-4e31-56cb-a8ce-dcba070cf2ce' => [
+        'No pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.',
+        'Helen Keller',
     ],
-    'f8133a4c-c9ae-56aa-b100-02787002e126' => [
-        'I\'m a very positive person. My grandmother taught me that happiness is both a skill and a decision, and you are responsible for the outcome.',
-        'Helen McCrory',
+    'f9906a40-cc20-50d5-b030-8b003fcd235f' => [
+        'Our family life was certainly not intellectual.',
+        'Douglass North',
     ],
-    '43b1439d-a1ca-5b4e-b3e4-2e0561030bb9' => [
-        'I have never, ever focused on the negative of things. I always look at the positive.',
-        'Sonia Sotomayor',
+    '3ee42ea7-fc5d-5056-8746-0eadbc92f56f' => [
+        'There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.',
+        'Robert Quillen',
     ],
-    'c6e378d7-885a-527e-bf84-9ecf85530377' => [
-        'Sometimes we may ask God for success, and He gives us physical and mental stamina. We might plead for prosperity, and we receive enlarged perspective and increased patience, or we petition for growth and are blessed with the gift of grace. He may bestow upon us conviction and confidence as we strive to achieve worthy goals.',
-        'David A. Bednar',
+    'e9448ce1-7f8b-563d-a151-da5f00e2247d' => [
+        'Work hard! In the end, passion and hard work beats out natural talent.',
+        'Pete Docter',
     ],
-    'e7d1df42-d614-5bc9-8dec-c3d7555d1c78' => [
-        'Life is an unfoldment, and the further we travel the more truth we can comprehend. To understand the things that are at our door is the best preparation for understanding those that lie beyond.',
-        'Hypatia',
+    'ad699c46-81fc-5980-8fcf-59a1587c44b7' => [
+        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
+        'Evan Davis',
     ],
-    'dcde03f4-bb05-5f93-b7d8-eda05f669f43' => [
-        'The terrifying and edible beauty of Art Nouveau architecture.',
-        'Salvador Dali',
+    '9cc604e4-9a12-536e-8e13-eb1bd8e6819b' => [
+        'Don\'t wait. The time will never be just right.',
+        'Napoleon Hill',
     ],
-    '01af21d2-6ea2-5036-a57a-580b30950521' => [
-        'Surprise is the greatest gift which life can grant us.',
-        'Alana Stewart',
+    '20e50bd0-3d4c-5f66-b107-31109c15eb43' => [
+        'Never ignore a gut feeling, but never believe that it\'s enough.',
+        'Robert Heller',
     ],
-    '42eee73a-d0aa-59c9-b810-d6d486e7ad55' => [
-        'The ultimate dream in life is to be able to do what you love and learn something from it.',
-        'Tom DeLonge',
+    '02ad8874-8d84-517d-a8ad-358a005b77ec' => [
+        'We must use time creatively.',
+        'Martin Luther King, Jr.',
     ],
-    '09fd5516-d75d-5072-a119-9a5b442197fa' => [
-        'There is a sense that things, if you keep positive and optimistic about what can be done, do work out.',
-        'Hillary Clinton',
+    'cef82176-7619-5b60-b4a8-b6d338cae569' => [
+        'The big problem of our modern society is that we feel that we are separated from the nature. But it\'s just the opposite. We are interrelated and our DNA is the same. And only when human beings understand that, the nature will not be obstacle.',
+        'Marina Abramovic',
     ],
-    '2b3baa66-3d99-5e66-9ab9-19fa19e79635' => [
-        'Two wrongs don\'t make a right, but they make a good excuse.',
-        'Thomas Szasz',
+    'd7acf25d-ee3d-59e0-9092-4e6b1d40f77b' => [
+        'A vegetarian is a person who won\'t eat anything that can have children.',
+        'David Brenner',
     ],
-    'be174004-617f-5bbb-856c-256219b2c758' => [
-        'Architecture should speak of its time and place, but yearn for timelessness.',
-        'Frank Gehry',
+    'b5c7b130-8185-5c3c-a3d4-9f628ea4c470' => [
+        'Straight men just can\'t imagine the bliss of being in a relationship with someone who finds farting as funny as they do.',
+        'Graham Norton',
     ],
-    '585cf14c-dfac-553a-bfda-e0ddcfe7f9fd' => [
-        'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
-        'Anna Pavlova',
+    '7c28a8e4-ce00-5c16-b378-8e696243ea51' => [
+        'One\'s own self-worth is tied to the worth of the community to which one belongs, which is intimately connected to humanity in general. What happens in Darfur becomes an assault on my own community, and on me as an individual. That\'s what the human family is all about.',
+        'Wole Soyinka',
     ],
-    'c9baba8c-b3e4-55a9-b9ae-54d5f8cb6ee8' => [
-        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
-        'Plato',
+    '97b680d5-340c-5115-ad04-c3ca8ba65259' => [
+        'Grief is in two parts. The first is loss. The second is the remaking of life.',
+        'Will Smith',
     ],
-    'd24b29ab-fa01-54c0-9bf4-5386467dc41b' => [
-        'Family, work, familiarity. Listen, if I had a magic wand and I could make myself really be happy, I\'d zap me onto a farm. And I know nothing about farming.',
-        'Scott Baio',
+    'c8f751ff-98c9-53d3-99b1-1cb5c55b59d6' => [
+        'There is a brief moment when all there is in a man\'s mind and soul and spirit is reflected through his eyes, his hands, his attitude. This is the moment to record.',
+        'Yousuf Karsh',
     ],
-    '4e8cbbfe-ef92-57b0-86e2-e9420c4aa63f' => [
-        'I am not bound for any public place, but for ground of my own where I have planted vines and orchard trees, and in the heat of the day climbed up into the healing shadow of the woods.',
-        'Wendell Berry',
+    'c312ddbd-1a4e-59eb-8ee3-8fd1f2858f72' => [
+        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
+        'Kevin James',
     ],
-    '0ca0f7be-5fd7-543f-9aa7-614cb9214e34' => [
-        'The Lord gave me \'Sojourner,\' because I was to travel up an\' down the land, showin\' the people their sins an\' bein\' a sign unto them. Afterwards, I told the Lord I wanted another name \'cause everybody else had two names, and the Lord gave me \'Truth,\' because I was to declare the truth to people.',
-        'Sojourner Truth',
+    '56c3dc92-96d3-5473-984f-b89db7b01c92' => [
+        'It isn\'t where you come from, it\'s where you\'re going that counts.',
+        'Ella Fitzgerald',
     ],
-    '2960f91a-9e93-5d59-98c3-a08838f9e252' => [
-        'People naturally want to know about what happened, about my leukemia. They ask the same questions again and again. And there have been so many positive conclusions, even through the bad times, that I don\'t mind at all to be reminded of my struggles.',
-        'Jose Carreras',
+    '7777be80-b544-5fee-a492-185a99e15a7c' => [
+        'The way of the Creative works through change and transformation, so that each thing receives its true nature and destiny and comes into permanent accord with the Great Harmony: this is what furthers and what perseveres.',
+        'Alexander Pope',
     ],
-    'd96ed833-b8a4-5dab-98d4-02ce4b967721' => [
-        'I envy the sensibility in Europe, appreciating beauty in women as they age. I\'m going to go that way. I might dye my gray hair for a bit, but beyond that the buck stops. I\'m not having any work done.',
-        'Rachel Bilson',
+    '47005e0a-7c82-583d-9b4a-a91c5a6e60e5' => [
+        'The life of a model isn\'t easy. But I try to keep a good head on my shoulders by staying close to my family and old friends. They\'re my support system.',
+        'Constance Jablonski',
     ],
-    '4f7f1590-de9c-5a33-8926-d9b8474602fc' => [
-        'There are other writers who try for subtle and minimalists effects, but I don\'t travel in that tribe.',
-        'Pat Conroy',
+    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
+        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
+        'Betsy Byars',
     ],
-    '7bd5b7ae-0b51-5e55-bc00-e6e9c47e61e8' => [
-        'Michael Palin decided to give up on his considerable comedy talents to make those dreadfully tedious travel shows. Have you ever tried to watch one?',
-        'John Cleese',
+    '94d8592d-2071-5248-8164-56e2a9a18e40' => [
+        'The cure for boredom is curiosity. There is no cure for curiosity.',
+        'Ellen Parr',
     ],
-    '3b4da0ac-d0c5-5733-a3cd-17ef7504608b' => [
-        'We are all born mad. Some remain so.',
-        'Samuel Beckett',
+    '319f0eea-0889-5c2c-892c-2714289df6b2' => [
+        'A smile is a curve that sets everything straight.',
+        'Phyllis Diller',
     ],
-    '7b992cd9-73e2-5416-8604-eddf62a4030f' => [
-        'What I have in common with the character in \'Truman\' is this incredible need to please people. I feel like I want to take care of everyone and I also feel this terrible guilt if I am unable to. And I have felt this way ever since all this success started.',
-        'Jim Carrey',
+    '439e3175-9bb1-55ff-ae0e-0f417a761af5' => [
+        'The airplane stays up because it doesn\'t have the time to fall.',
+        'Orville Wright',
     ],
-    '45334e93-7fd6-561d-afee-b04cc2ad47ac' => [
-        'Often, I\'ll do a quick workout in my hotel room consisting of exercises for the legs, glutes, abs, and arms with my own body weight. Also, I always have a jump rope, a medicine ball I can inflate, and a band in my suitcase. It\'s a great kit to have for travel.',
-        'Izabel Goulart',
+    '98c1df7c-bb04-513e-b891-c98f59fe36c3' => [
+        'Everything I buy is vintage and smells funny. Maybe that\'s why I don\'t have a boyfriend.',
+        'Lucy Liu',
     ],
-    'd1abf4bc-734c-5e5b-9cbe-f53c06846717' => [
-        'I am conscious of my inability to grasp, in all its details and positive developments, any very large portion of human knowledge.',
-        'Mikhail Bakunin',
+    'eaaf42f5-45f8-58e8-9173-ebde4aee4057' => [
+        'Knowledge doesn\'t really form part of human nature. Conflict, combat, the outcome of the combat, and, consequently, risk and chance are what gives rise to knowledge. Knowledge is not instinctive; it is counter instinctive, just as it is not natural but counter natural.',
+        'Michel Foucault',
     ],
-    '65bcdd48-ea2b-519a-a813-e8f20fddf94b' => [
-        'Land really is the best art.',
-        'Andy Warhol',
+    '091a9c32-65d9-534c-be6f-c5813e922ae2' => [
+        'Some people have no respect whether you are with your family or not. That\'s the hardest part. I was shopping in a grocery store in Seattle looking for stuff for Nicholas. This guy kept following me with his cell phone video on.',
+        'Joe Montana',
     ],
-    'f068fe81-b51e-5cb6-a406-4e590c1781f5' => [
-        'Who does not desire such a victory by which we shall join places in our Kingdom, so far divided by nature, and for which we shall set up trophies in another conquered world?',
-        'Alexander the Great',
+    'a53c775f-11ae-54fb-8a38-0f11760786f4' => [
+        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
+        'Tia Mowry',
     ],
-    '430f5bf8-785f-5020-9fd8-293e958b4379' => [
-        'When life gives you Monday, dip it in glitter and sparkle all day.',
-        'Friedrich Nietzsche',
+    'a79e5bbf-2852-526d-a989-520a07085c2b' => [
+        'Anticipate the difficult by managing the easy.',
+        'Lao Tzu',
     ],
 ];
