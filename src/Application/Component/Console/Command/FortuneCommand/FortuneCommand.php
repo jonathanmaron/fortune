@@ -19,19 +19,19 @@ class FortuneCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        // <editor-fold desc="Option: (int) wordwrap">
+        // <editor-fold desc="InputOption: (int) wordwrap">
 
         $name        = 'wordwrap';
         $shortcut    = 'w';
         $mode        = InputOption::VALUE_REQUIRED;
-        $description = 'Wrap lines at the "w" th character. Disable with "0"';
+        $description = 'Wrap lines at the "width" th character. Disable with "0"';
         $default     = $this->getWordwrapDefault();
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         // </editor-fold>
 
-        // <editor-fold desc="Option: (int) length">
+        // <editor-fold desc="InputOption: (int) length">
 
         $name        = 'length';
         $shortcut    = 'i';
@@ -43,7 +43,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        // <editor-fold desc="Option: (int) wait">
+        // <editor-fold desc="InputOption: (int) wait">
 
         $name        = 'wait';
         $shortcut    = 'p';
@@ -55,7 +55,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        // <editor-fold desc="Option: (string) author">
+        // <editor-fold desc="InputOption: (string) author">
 
         $name        = 'author';
         $shortcut    = 'a';
@@ -67,7 +67,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        // <editor-fold desc="Option: (bool) short">
+        // <editor-fold desc="InputOption: (bool) short">
 
         $name        = 'short';
         $shortcut    = 's';
@@ -78,7 +78,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        // <editor-fold desc="Option (bool) long">
+        // <editor-fold desc="InputOption: (bool) long">
 
         $name        = 'long';
         $shortcut    = 'l';
@@ -96,7 +96,7 @@ class FortuneCommand extends AbstractCommand
     {
         $fortune = $this->getFortune();
 
-        // <editor-fold desc="Option: (int) wordwrap">
+        // <editor-fold desc="InputOption: (int) wordwrap">
 
         $wordwrap = (string) $input->getOption('wordwrap');
         $wordwrap = trim($wordwrap);
@@ -128,7 +128,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        // <editor-fold desc="Option: (int) length">
+        // <editor-fold desc="InputOption: (int) length">
 
         $length = (string) $input->getOption('length');
         $length = trim($length);
@@ -150,9 +150,9 @@ class FortuneCommand extends AbstractCommand
 
         $this->setLength($length);
 
-        //</editor-fold>
+        // </editor-fold>
 
-        // <editor-fold desc="Option: (int) wait">
+        // <editor-fold desc="InputOption: (int) wait">
 
         $wait = (string) $input->getOption('wait');
         $wait = trim($wait);
@@ -174,9 +174,9 @@ class FortuneCommand extends AbstractCommand
 
         $this->setWait($wait);
 
-        //</editor-fold>
+        // </editor-fold>
 
-        // <editor-fold desc="Option: (string) author">
+        // <editor-fold desc="InputOption: (string) author">
 
         $author = (string) $input->getOption('author');
         $author = trim($author);
@@ -192,21 +192,21 @@ class FortuneCommand extends AbstractCommand
 
         $this->setAuthor($author);
 
-        //</editor-fold>
+        // </editor-fold>
 
-        // <editor-fold desc="Option: (bool) short">
+        // <editor-fold desc="InputOption: (bool) short">
 
         $short = (bool) $input->getOption('short');
         $this->setShort($short);
 
-        //</editor-fold>
+        // </editor-fold>
 
-        // <editor-fold desc="Option: (bool) long">
+        // <editor-fold desc="InputOption: (bool) long">
 
         $long = (bool) $input->getOption('long');
         $this->setLong($long);
 
-        //</editor-fold>
+        // </editor-fold>
 
         return $this;
     }

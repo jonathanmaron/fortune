@@ -23,7 +23,7 @@ class ImportCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        // <editor-fold desc="Option: (string) path">
+        // <editor-fold desc="InputOption: (string) path">
 
         $name        = 'path';
         $shortcut    = null;
@@ -33,14 +33,14 @@ class ImportCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
-        //</editor-fold>
+        // </editor-fold>
 
         return $this;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        // <editor-fold desc="Option: (string) path">
+        // <editor-fold desc="InputOption: (string) path">
 
         $path = (string) $input->getOption('path');
         $path = trim($path);
@@ -51,10 +51,11 @@ class ImportCommand extends AbstractCommand
         }
 
         $path = (string) $path;
+        $path = realpath($path);
 
-        $this->setPath(realpath($path));
+        $this->setPath($path);
 
-        //</editor-fold>
+        // </editor-fold>
 
         return $this;
     }

@@ -30,10 +30,10 @@ abstract class AbstractCommand extends ParentCommand
                 if (array_key_exists($uuid, $ret)) {
                     continue;
                 }
-                if (empty($quote)) {
+                if (0 === strlen($quote)) {
                     continue;
                 }
-                if (empty($author)) {
+                if (0 === strlen($author)) {
                     $author = 'Unknown';
                 }
                 $ret[$uuid] = [
