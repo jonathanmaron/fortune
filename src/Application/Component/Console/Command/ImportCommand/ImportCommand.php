@@ -23,7 +23,7 @@ class ImportCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        //<editor-fold desc="Option: (string) path">
+        // <editor-fold desc="Option: (string) path">
 
         $name        = 'path';
         $shortcut    = null;
@@ -40,7 +40,7 @@ class ImportCommand extends AbstractCommand
 
     protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        //<editor-fold desc="Option: (string) path">
+        // <editor-fold desc="Option: (string) path">
 
         $path = (string) $input->getOption('path');
         $path = trim($path);

@@ -20,7 +20,7 @@ class StatisticsCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        //<editor-fold desc="Option: (int) limit">
+        // <editor-fold desc="Option: (int) limit">
 
         $name        = 'limit';
         $shortcut    = null;
@@ -37,7 +37,7 @@ class StatisticsCommand extends AbstractCommand
 
     protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        //<editor-fold desc="Option: (int) limit">
+        // <editor-fold desc="Option: (int) limit">
 
         $limit = (string) $input->getOption('limit');
         $limit = trim($limit);

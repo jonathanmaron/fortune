@@ -19,7 +19,7 @@ class FortuneCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        //<editor-fold desc="Option: (int) wordwrap">
+        // <editor-fold desc="Option: (int) wordwrap">
 
         $name        = 'wordwrap';
         $shortcut    = 'w';
@@ -31,7 +31,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option: (int) length">
+        // <editor-fold desc="Option: (int) length">
 
         $name        = 'length';
         $shortcut    = 'i';
@@ -43,7 +43,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option: (int) wait">
+        // <editor-fold desc="Option: (int) wait">
 
         $name        = 'wait';
         $shortcut    = 'p';
@@ -55,7 +55,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option: (string) author">
+        // <editor-fold desc="Option: (string) author">
 
         $name        = 'author';
         $shortcut    = 'a';
@@ -67,7 +67,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option: (bool) short">
+        // <editor-fold desc="Option: (bool) short">
 
         $name        = 'short';
         $shortcut    = 's';
@@ -78,7 +78,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option (bool) long">
+        // <editor-fold desc="Option (bool) long">
 
         $name        = 'long';
         $shortcut    = 'l';
@@ -96,7 +96,7 @@ class FortuneCommand extends AbstractCommand
     {
         $fortune = $this->getFortune();
 
-        //<editor-fold desc="Option: (int) wordwrap">
+        // <editor-fold desc="Option: (int) wordwrap">
 
         $wordwrap = (string) $input->getOption('wordwrap');
         $wordwrap = trim($wordwrap);
@@ -128,7 +128,7 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        //<editor-fold desc="Option: (int) length">
+        // <editor-fold desc="Option: (int) length">
 
         $length = (string) $input->getOption('length');
         $length = trim($length);
@@ -152,7 +152,7 @@ class FortuneCommand extends AbstractCommand
 
         //</editor-fold>
 
-        //<editor-fold desc="Option: (int) wait">
+        // <editor-fold desc="Option: (int) wait">
 
         $wait = (string) $input->getOption('wait');
         $wait = trim($wait);
@@ -176,7 +176,7 @@ class FortuneCommand extends AbstractCommand
 
         //</editor-fold>
 
-        //<editor-fold desc="Option: (string) author">
+        // <editor-fold desc="Option: (string) author">
 
         $author = (string) $input->getOption('author');
         $author = trim($author);
@@ -194,14 +194,14 @@ class FortuneCommand extends AbstractCommand
 
         //</editor-fold>
 
-        //<editor-fold desc="Option: (bool) short">
+        // <editor-fold desc="Option: (bool) short">
 
         $short = (bool) $input->getOption('short');
         $this->setShort($short);
 
         //</editor-fold>
 
-        //<editor-fold desc="Option: (bool) long">
+        // <editor-fold desc="Option: (bool) long">
 
         $long = (bool) $input->getOption('long');
         $this->setLong($long);
