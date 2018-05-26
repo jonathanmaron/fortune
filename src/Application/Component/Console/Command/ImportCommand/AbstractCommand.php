@@ -10,7 +10,7 @@ use Ramsey\Uuid\Uuid;
 
 abstract class AbstractCommand extends ParentCommand
 {
-    protected const FORTUNES_PER_FILE = 50;
+    protected const FORTUNES_PER_FILE = 250;
 
     protected $path = '';
 
@@ -43,7 +43,7 @@ abstract class AbstractCommand extends ParentCommand
             }
         }
 
-        shuffle($ret);
+        ksort($ret, SORT_NATURAL);
 
         return $ret;
     }

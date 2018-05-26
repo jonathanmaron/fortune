@@ -2,6 +2,8 @@
 
 ## dev-master
 
+* Naturally sorted all data.
+* Added command `purge`.
 * Added `--wait` option to command `fortune`.
 * Restructured import data.
 * Added strict typing.

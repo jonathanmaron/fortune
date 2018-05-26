@@ -60,6 +60,7 @@ class IndexCommand extends AbstractCommand
         }
 
         foreach ($indices as $key => $index) {
+            ksort($index, SORT_NATURAL);
             $outputFilename = $fortune->getIndexFilename($key);
             $filesystem->dumpFile($outputFilename, $index);
             $format  = 'Wrote "%s" index to "%s"';

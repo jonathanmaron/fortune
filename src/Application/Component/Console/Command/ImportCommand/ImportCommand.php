@@ -96,6 +96,8 @@ class ImportCommand extends AbstractCommand
 
         $progressBar->finish();
 
+        ksort($curFortunes, SORT_NATURAL);
+
         if ($addFortunesCount > 0) {
             $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
             $filesystem->dumpFiles($outputPath, "%'.05d.php", $chunks);
