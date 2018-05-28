@@ -1,5 +1,4 @@
 <?php
-
 declare(strict_types=1);
 
 return [
@@ -41,17 +40,11 @@ return [
             '069666b0-4cdb-5bd7-a3fc-41767fe099ce',
         ],
     ],
-    'A.P.J. Abdul Kalam' => [
+    'A. P. J. Abdul Kalam' => [
         [
             '00051.php',
             'e09d7c86-7196-5131-918a-194e85913a47',
         ],
-        [
-            '00057.php',
-            'f6449bda-b709-5970-ada1-afd02238b093',
-        ],
-    ],
-    'A. P. J. Abdul Kalam' => [
         [
             '00051.php',
             'e3d008c3-88f4-514a-ba26-c3de1230087e',
@@ -63,6 +56,10 @@ return [
         [
             '00012.php',
             '8a576cf9-6194-5b10-a1a1-5716b3554e0e',
+        ],
+        [
+            '00057.php',
+            'f6449bda-b709-5970-ada1-afd02238b093',
         ],
         [
             '00050.php',
@@ -83,6 +80,10 @@ return [
         [
             '00025.php',
             '561d2c77-d943-54d3-bdee-ecc8818e3483',
+        ],
+        [
+            '00048.php',
+            'd2b463ba-ab1b-5d2c-ac4f-d61a89fc7a22',
         ],
         [
             '00048.php',
@@ -179,12 +180,6 @@ return [
         [
             '00025.php',
             '454f8f94-10fb-5c36-a230-74b422de8835',
-        ],
-    ],
-    'APJ Abdul Kalam' => [
-        [
-            '00048.php',
-            'd2b463ba-ab1b-5d2c-ac4f-d61a89fc7a22',
         ],
     ],
     'ASAP Rocky' => [
@@ -28211,12 +28206,6 @@ return [
             'cc83419e-b97e-560b-bf4f-82cb3a8e448b',
         ],
     ],
-    'J.K. Rowling' => [
-        [
-            '00015.php',
-            '13d9a63b-a701-52a3-b1b3-14cbceebea54',
-        ],
-    ],
     'J. K. Rowling' => [
         [
             '00044.php',
@@ -28229,6 +28218,12 @@ return [
         [
             '00038.php',
             'a99b70f9-91c1-572c-8fc8-24cda4d86aaa',
+        ],
+    ],
+    'J.K. Rowling' => [
+        [
+            '00015.php',
+            '13d9a63b-a701-52a3-b1b3-14cbceebea54',
         ],
     ],
     'J. K. Simmons' => [

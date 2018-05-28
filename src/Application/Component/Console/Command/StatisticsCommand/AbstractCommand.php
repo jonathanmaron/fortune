@@ -9,7 +9,7 @@ abstract class AbstractCommand extends ParentCommand
 {
     protected const LIMIT_MIN = 0;
 
-    protected $limit;
+    protected $limit = 0;
 
     protected function getLimit(): int
     {

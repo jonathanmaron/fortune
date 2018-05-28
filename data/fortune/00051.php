@@ -1,5 +1,4 @@
 <?php
-
 declare(strict_types=1);
 
 return [
@@ -701,7 +700,7 @@ return [
     ],
     'e09d7c86-7196-5131-918a-194e85913a47' => [
         'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-        'A.P.J. Abdul Kalam',
+        'A. P. J. Abdul Kalam',
     ],
     'e09e52b5-1d59-5115-afb5-4c76bd119700' => [
         'Today, we have private airline companies, but if you take a look at a Boeing plane next time you travel, you\'ll see that you are basically taking a ride on a modified bomber.',

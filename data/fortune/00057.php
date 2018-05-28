@@ -1,5 +1,4 @@
 <?php
-
 declare(strict_types=1);
 
 return [
@@ -97,7 +96,7 @@ return [
     ],
     'f6449bda-b709-5970-ada1-afd02238b093' => [
         'Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.',
-        'A.P.J. Abdul Kalam',
+        'A. P. J. Abdul Kalam',
     ],
     'f6518ec6-48d8-589c-bf32-c883f3476630' => [
         'Without some goals and some efforts to reach it, no man can live.',

@@ -30,6 +30,6 @@ class Filesystem extends ParentFilesystem
     {
         $phpEncoder = new PhpEncoder();
 
-        return sprintf("<?php\n\ndeclare(strict_types=1);\n\nreturn %s;\n", $phpEncoder->encode($data));
+        return sprintf("<?php\ndeclare(strict_types=1);\n\nreturn %s;\n", $phpEncoder->encode($data));
     }
 }

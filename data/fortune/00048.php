@@ -1,5 +1,4 @@
 <?php
-
 declare(strict_types=1);
 
 return [
@@ -205,7 +204,7 @@ return [
     ],
     'd2b463ba-ab1b-5d2c-ac4f-d61a89fc7a22' => [
         'If you want to shine like a sun, first burn like a sun.',
-        'APJ Abdul Kalam',
+        'A. P. J. Abdul Kalam',
     ],
     'd2b479cf-5b86-5189-a202-84fdb40ec064' => [
         'Like charity, I believe glamour should begin at home.',
