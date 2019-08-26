@@ -10,7 +10,7 @@ It is similar to the BSD `fortune` program, originally written by Ken Arnold. Un
 
 Use [Composer](https://getcomposer.org/doc/00-intro.md#globally) to install the application:
 
-    composer create-project jonathanmaron/fortune ^1.0 ~/apps/fortune
+    composer create-project jonathanmaron/fortune ~/apps/fortune
 
 ### Usage
 
