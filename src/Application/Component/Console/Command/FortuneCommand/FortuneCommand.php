@@ -10,7 +10,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class FortuneCommand extends AbstractCommand
 {
-    protected function configure(): self
+    protected function configure(): void
     {
         $this->setName('fortune');
 
@@ -88,10 +88,10 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output): self
+    protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $fortune = $this->getFortune();
 
@@ -207,10 +207,10 @@ class FortuneCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output): self
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();
         $short   = $this->getShort();
@@ -237,7 +237,7 @@ class FortuneCommand extends AbstractCommand
         return $this->output($output, $fortune->getRandomFortune());
     }
 
-    private function output(OutputInterface $output, array $fortuneArray): self
+    private function output(OutputInterface $output, array $fortuneArray): int
     {
         $wordwrap = $this->getWordwrap();
         $wait     = $this->getWait();
@@ -261,6 +261,6 @@ class FortuneCommand extends AbstractCommand
             sleep($wait);
         }
 
-        return $this;
+        return 1;
     }
 }

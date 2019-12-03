@@ -10,7 +10,7 @@ use Symfony\Component\Console\Question\ConfirmationQuestion;
 
 class PurgeCommand extends AbstractCommand
 {
-    protected function configure(): self
+    protected function configure(): void
     {
         $this->setName('purge');
 
@@ -18,10 +18,10 @@ class PurgeCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        return $this;
+        return;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output): self
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem = new Filesystem();
         $fortune    = $this->getFortune();
@@ -39,7 +39,7 @@ class PurgeCommand extends AbstractCommand
         $helper   = $this->getHelper('question');
         $question = new ConfirmationQuestion('Do you want to continue? [Y|N] ', false);
         if (!$helper->ask($input, $output, $question)) {
-            return $this;
+            return 0;
         }
         $output->writeln('');
 
@@ -58,6 +58,6 @@ class PurgeCommand extends AbstractCommand
         $output->writeln('fortune index');
         $output->writeln('');
 
-        return $this;
+        return 1;
     }
 }

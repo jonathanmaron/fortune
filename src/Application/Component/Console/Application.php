@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Application\Component\Console;
 
-use Application\Component\Console\Command\CommandFactory;
+use Application\Component\Console\Command\Factory;
 use Application\Component\Console\Command\FortuneCommand\FortuneCommand;
 use Application\Component\Console\Command\ImportCommand\ImportCommand;
 use Application\Component\Console\Command\IndexCommand\IndexCommand;
@@ -13,7 +13,7 @@ use Symfony\Component\Console\Application as ParentApplication;
 
 class Application extends ParentApplication
 {
-    protected function getDefaultCommands()
+    protected function getDefaultCommands(): array
     {
         $ret = parent::getDefaultCommands();
 
@@ -29,9 +29,8 @@ class Application extends ParentApplication
         $options   = [];
 
         foreach ($commands as $requestedName) {
-            $instance = new CommandFactory();
-            $command  = $instance($container, $requestedName, $options);
-            array_push($ret, $command);
+            $instance = new Factory();
+            $ret[]    = $instance($container, $requestedName, $options);
         }
 
         return $ret;

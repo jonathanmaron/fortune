@@ -5,9 +5,9 @@ namespace Application\Fortune;
 
 abstract class AbstractFortune
 {
-    private $fortunePath = '';
+    private string $fortunePath = '';
 
-    private $indexPath   = '';
+    private string $indexPath   = '';
 
     public function getFilename($file): string
     {

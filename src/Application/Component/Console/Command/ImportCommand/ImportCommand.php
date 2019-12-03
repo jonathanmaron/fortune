@@ -14,7 +14,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportCommand extends AbstractCommand
 {
-    protected function configure(): self
+    protected function configure(): void
     {
         $this->setName('import');
 
@@ -34,10 +34,10 @@ class ImportCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output): self
+    protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         // <editor-fold desc="InputOption: (string) path">
 
@@ -56,10 +56,10 @@ class ImportCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output): self
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem      = new Filesystem();
         $numberFormatter = new NumberFormatter(locale_get_default(), NumberFormatter::DECIMAL);
@@ -112,6 +112,6 @@ class ImportCommand extends AbstractCommand
         $message      = sprintf($format, $addFormatted, $addNoun, $curFormatted, $curNoun);
         $output->writeln(['', $message]);
 
-        return $this;
+        return 1;
     }
 }

@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## dev-php-7.4
+
+* Added support for PHP 7.4.
+* Updated to PHPUnit 8.
+
 ## dev-master
 
 * Naturally sorted all data.

@@ -8,14 +8,14 @@ use Symfony\Component\Console\Command\Command as ParentCommand;
 
 abstract class AbstractCommand extends ParentCommand
 {
-    private $fortune;
+    private ?Fortune $fortune;
 
-    public function getFortune()
+    public function getFortune(): ?Fortune
     {
         return $this->fortune;
     }
 
-    public function setFortune(Fortune $fortune)
+    public function setFortune(Fortune $fortune): self
     {
         $this->fortune = $fortune;
 

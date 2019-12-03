@@ -18,17 +18,17 @@ abstract class AbstractCommand extends ParentCommand
 
     protected const WAIT_MAX          = 60;
 
-    protected $wordwrap = 0;
+    protected int    $wordwrap = 0;
 
-    protected $length   = 0;
+    protected int    $length   = 0;
 
-    protected $wait     = 0;
+    protected int    $wait     = 0;
 
-    protected $author   = '';
+    protected string $author   = '';
 
-    protected $short    = false;
+    protected bool   $short    = false;
 
-    protected $long     = false;
+    protected bool   $long     = false;
 
     protected function getWordwrapDefault(): int
     {

@@ -10,7 +10,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class IndexCommand extends AbstractCommand
 {
-    protected function configure(): self
+    protected function configure(): void
     {
         $this->setName('index');
 
@@ -18,10 +18,10 @@ class IndexCommand extends AbstractCommand
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
 
-        return $this;
+        return;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output): self
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem = new Filesystem();
         $finder     = new Finder();
@@ -67,6 +67,6 @@ class IndexCommand extends AbstractCommand
             $output->writeln($message);
         }
 
-        return $this;
+        return 1;
     }
 }

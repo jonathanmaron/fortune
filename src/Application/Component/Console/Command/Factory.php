@@ -7,7 +7,7 @@ use Application\Fortune\Fortune;
 use Interop\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
 
-class CommandFactory
+class Factory
 {
     public function __invoke(
         ?ContainerInterface $container = null,

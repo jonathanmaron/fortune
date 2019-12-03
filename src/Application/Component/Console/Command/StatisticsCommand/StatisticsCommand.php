@@ -11,7 +11,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class StatisticsCommand extends AbstractCommand
 {
-    protected function configure(): self
+    protected function configure(): void
     {
         $this->setName('statistics');
 
@@ -31,10 +31,10 @@ class StatisticsCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output): self
+    protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         // <editor-fold desc="InputOption: (int) limit">
 
@@ -54,10 +54,10 @@ class StatisticsCommand extends AbstractCommand
 
         // </editor-fold>
 
-        return $this;
+        return;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output): self
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();
         $limit   = $this->getLimit();
@@ -97,6 +97,6 @@ class StatisticsCommand extends AbstractCommand
         $table->setRows($rows);
         $table->render();
 
-        return $this;
+        return 1;
     }
 }

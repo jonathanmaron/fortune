@@ -9,6 +9,8 @@ class PhpEncoder extends ParentPhpEncoder
 {
     public function __construct(array $options = [], $encoders = null)
     {
+        unset($options);
+
         $options = [
             'array.inline'     => false,
             'array.omit'       => true,

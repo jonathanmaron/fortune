@@ -110,9 +110,8 @@ class Fortune extends AbstractFortune
         $lengths = array_values($this->getAllLengths());
         sort($lengths, SORT_NUMERIC);
         $middleKey = floor(count($lengths) / 2);
-        $ret       = (int) $lengths[$middleKey];
 
-        return $ret;
+        return (int) $lengths[$middleKey];
     }
 
     public function getRandomFortuneByLength($length): array
@@ -156,8 +155,6 @@ class Fortune extends AbstractFortune
 
         $fortunes = include $filename;
 
-        $fortuneArray = $fortunes[$uuid] ?? [];
-
-        return $fortuneArray;
+        return $fortunes[$uuid] ?? [];
     }
 }

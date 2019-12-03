@@ -11,7 +11,7 @@ abstract class AbstractCommand extends ParentCommand
 {
     protected const FORTUNES_PER_FILE = 250;
 
-    protected $path = '';
+    protected string $path = '';
 
     protected function getNewFortunes($inputPath): array
     {
