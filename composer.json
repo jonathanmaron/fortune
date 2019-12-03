@@ -4,6 +4,9 @@
     "license": "BSD-3-Clause",
     "type": "project",
     "autoload": {
+        "files": [
+            "bootstrap.php"
+        ],
         "psr-4": {
             "Application\\": "src/Application"
         }
