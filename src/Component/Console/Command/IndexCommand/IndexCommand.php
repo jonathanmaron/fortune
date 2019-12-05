@@ -67,6 +67,6 @@ class IndexCommand extends AbstractCommand
             $output->writeln($message);
         }
 
-        return 1;
+        return 0;
     }
 }

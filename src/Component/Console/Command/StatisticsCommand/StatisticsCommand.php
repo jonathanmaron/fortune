@@ -97,6 +97,6 @@ class StatisticsCommand extends AbstractCommand
         $table->setRows($rows);
         $table->render();
 
-        return 1;
+        return 0;
     }
 }

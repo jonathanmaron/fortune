@@ -58,6 +58,6 @@ class PurgeCommand extends AbstractCommand
         $output->writeln('fortune index');
         $output->writeln('');
 
-        return 1;
+        return 0;
     }
 }

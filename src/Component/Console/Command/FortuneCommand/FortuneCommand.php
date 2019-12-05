@@ -261,6 +261,6 @@ class FortuneCommand extends AbstractCommand
             sleep($wait);
         }
 
-        return 1;
+        return 0;
     }
 }

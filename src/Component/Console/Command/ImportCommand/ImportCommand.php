@@ -112,6 +112,6 @@ class ImportCommand extends AbstractCommand
         $message      = sprintf($format, $addFormatted, $addNoun, $curFormatted, $curNoun);
         $output->writeln(['', $message]);
 
-        return 1;
+        return 0;
     }
 }
