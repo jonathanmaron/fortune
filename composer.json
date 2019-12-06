@@ -13,7 +13,7 @@
     },
     "require": {
         "php": "^7.4",
-        "container-interop/container-interop": "^1.2",
+        "psr/container": "^1.0",
         "ramsey/uuid": "^3.7",
         "riimu/kit-phpencoder": "^2.4",
         "symfony/console": "^5.0",
