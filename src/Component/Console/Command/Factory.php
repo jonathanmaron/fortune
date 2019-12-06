@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace Application\Component\Console\Command;
 
 use Application\Fortune\Fortune;
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
 
 class Factory
