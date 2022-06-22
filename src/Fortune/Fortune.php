@@ -114,17 +114,23 @@ class Fortune extends AbstractFortune
         return (int) $lengths[$middleKey];
     }
 
-    public function getRandomFortuneByLength($length): array
+    public function getRandomFortuneByLength(int $length): array
     {
         return $this->getRandomFortuneByKeyValue('length', $length);
     }
 
-    public function getRandomFortuneByAuthor($author): array
+    public function getRandomFortuneByAuthor(string $author): array
     {
         return $this->getRandomFortuneByKeyValue('author', $author);
     }
 
-    private function getRandomFortuneByKeyValue($key, $value): array
+    /**
+     * @param string $key
+     * @param int|string $value
+     *
+     * @return array
+     */
+    private function getRandomFortuneByKeyValue(string $key, $value): array
     {
         $filename = $this->getIndexFilename($key);
 

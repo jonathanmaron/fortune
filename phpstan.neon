@@ -1,0 +1,18 @@
+includes:
+	- phpstan-baseline.neon
+parameters:
+    level: max
+    checkMissingIterableValueType: false
+    parallel:
+        jobSize: 64
+        maximumNumberOfProcesses: 4
+        minimumNumberOfJobsPerProcess: 4
+        processTimeout: 240.0
+    scanFiles:
+        -  %currentWorkingDirectory%/vendor/autoload.php
+    paths:
+        - bin
+        - src
+        - bootstrap.php
+    fileExtensions:
+        - php
