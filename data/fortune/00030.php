@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '5595ef45-3cfd-5575-88f4-5bb3d8a5dde8' => [
         'Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.',
@@ -1003,3 +1007,5 @@ return [
         'Hugh Hefner',
     ],
 ];
+
+// phpcs:enable

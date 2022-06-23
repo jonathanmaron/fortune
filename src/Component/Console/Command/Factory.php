@@ -6,6 +6,7 @@ namespace Application\Component\Console\Command;
 use Application\Fortune\Fortune;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
+use Application\Component\Console\Command\AbstractCommand;
 
 class Factory
 {
@@ -21,6 +22,7 @@ class Factory
         $fortune->setIndexPath("{$path}/index");
 
         $command = new $requestedName;
+        assert($command instanceof AbstractCommand);
         $command->setFortune($fortune);
 
         return $command;

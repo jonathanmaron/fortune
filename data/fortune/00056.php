@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'f8a70c72-163c-560a-87f0-7a00f1088f8f' => [
         'Unless I can come in in the morning and smile, walk in the lobby and say, \'Good morning!\' - if I am stressed - I am not going to do a good job. Everybody is watching us. They are feeding off of our energy.',
@@ -111,7 +115,7 @@ return [
         'Eliot Spitzer',
     ],
     'f9b3248b-60e8-5ef0-827a-e0c344620c16' => [
-        'If one way be better than another, that you may be sure is nature\'s way.',
+        'If one way be better than another, that you may be sure is natures way.',
         'Aristotle',
     ],
     'f9bde904-fa19-5110-b996-8058aa81a903' => [
@@ -408,7 +412,7 @@ return [
     ],
     'f44e417e-950f-5141-8eec-d81bd67d1961' => [
         'Sadness flies away on the wings of time.',
-        'Jean de La Fontaine',
+        'Jean de la Fontaine',
     ],
     'f46c0a87-1aa1-5098-a174-cadd040010e9' => [
         'My attitude is that, if you have nothing to hide, why not show it?',
@@ -1003,3 +1007,5 @@ return [
         'Gary Player',
     ],
 ];
+
+// phpcs:enable

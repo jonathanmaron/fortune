@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '757b605a-4dcc-519c-844c-c3ece1b7c033' => [
         'It\'s a funny thing: You want so badly for people to see what you do - you\'re proud of it - and I like the effect that movies have on people. But the attention can also make me uncomfortable.',
@@ -583,7 +587,7 @@ return [
         'Isaac Asimov',
     ],
     '856d7de2-5a43-5435-a42b-6a87738346e2' => [
-        'What the caterpillar calls the end of the world the master calls a butterfly.',
+        'What the caterpillar calls the end of the world, the master calls a butterfly.',
         'Richard Bach',
     ],
     '857c9af4-7a5b-5782-bb33-de4c918efef3' => [
@@ -1003,3 +1007,5 @@ return [
         'Anita Shreve',
     ],
 ];
+
+// phpcs:enable

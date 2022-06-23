@@ -30,15 +30,14 @@ class StatisticsCommand extends AbstractCommand
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         // <editor-fold desc="InputOption: (int) limit">
 
-        $limit = (string) $input->getOption('limit');
+        $limit = $input->getOption('limit');
+        assert(is_string($limit));
         $limit = trim($limit);
 
         if (strlen($limit) > 0) {
@@ -53,8 +52,6 @@ class StatisticsCommand extends AbstractCommand
         $this->setLimit($limit);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

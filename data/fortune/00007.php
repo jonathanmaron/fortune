@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '4b28f091-6203-5bc7-836e-ef80fa0bec21' => [
         'I love Snoop. I worked with him on \'Old School,\' and he\'s very accessible. He\'s very kind. He\'s always nice to everyone, to the crew. He\'s always got something positive to say. He\'s very childlike and loves to come and play. So, I had fun working with him.',
@@ -687,7 +691,7 @@ return [
         'Neil deGrasse Tyson',
     ],
     '4e50bde9-cb2a-5079-ac4a-6316c0357a64' => [
-        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
+        'To accomplish great things, we must not only act, but also dream; not only plan, but also believe.',
         'Anatole France',
     ],
     '4e62d7e2-fe54-5623-a011-ec60ea3df85d' => [
@@ -1003,3 +1007,5 @@ return [
         'John O\'Donohue',
     ],
 ];
+
+// phpcs:enable

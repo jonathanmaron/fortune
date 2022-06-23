@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '62a45999-e0ac-554b-a086-230b42ca43e2' => [
         'Nothing puzzles me more than the time and space; and yet nothing troubles me less.',
@@ -348,7 +352,7 @@ return [
     ],
     '65ef818e-a5ff-5afa-9c0d-0fd1c8d3c0c7' => [
         'Every man dies. Not every man really lives.',
-        'George Takei',
+        'Unknown',
     ],
     '65efb8e3-d36b-5054-a9f0-e4aea5fc70c4' => [
         'We know from science that nothing in the universe exists as an isolated or independent entity.',
@@ -607,8 +611,8 @@ return [
         'Robert Smithson',
     ],
     '68fc42c7-0fc5-5e33-99f3-08637fb4f3c8' => [
-        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
-        'Christopher McCandless',
+        'To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.',
+        'Buddha',
     ],
     '69a0f0c9-e65c-58a6-846c-4b5cee843847' => [
         'I can and I will. Watch me.',
@@ -715,7 +719,7 @@ return [
         'Roger Federer',
     ],
     '70aaf22e-6881-5cef-8063-8d52afff5ab0' => [
-        'Kindness is the language which the deaf can hear and the blind can see',
+        'Kindness is the language which the deaf can hear and the blind can see.',
         'Mark Twain',
     ],
     '70ac3092-9f73-5daa-b90c-185fa6af152c' => [
@@ -1003,3 +1007,5 @@ return [
         'Richard Lewis',
     ],
 ];
+
+// phpcs:enable

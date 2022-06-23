@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'ef6e08d8-d228-56bb-ad3d-6a7e35b8c9d8' => [
         'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
@@ -280,7 +284,7 @@ return [
     ],
     'f0fdbdfe-64bc-56f8-8f4e-80c7fe38912f' => [
         'From small beginnings come great things.',
-        'Proverb',
+        'Unknown',
     ],
     'f0ffaa5d-bef5-50c3-bfd7-349922bfcf2f' => [
         'I thank my personal staff for their restless sacrifice for my work.',
@@ -495,7 +499,7 @@ return [
         'Anouk Aimee',
     ],
     'f1f213bc-281a-565c-9ea0-344127ce7501' => [
-        'If only we\'d stop trying to be happy we\'d have a pretty good time.',
+        'If only wed stop trying to be happy wed have a pretty good time.',
         'Edith Wharton',
     ],
     'f1f733dc-3a57-5201-b4ae-1ae3f6f4169d' => [
@@ -1003,3 +1007,5 @@ return [
         'Max Planck',
     ],
 ];
+
+// phpcs:enable

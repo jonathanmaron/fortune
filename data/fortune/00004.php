@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '2a8ac7fc-f215-5679-9bf7-41572765cb95' => [
         'It\'s very hypocritical to constantly say, \'We want to keep our kids close,\' then send them home with so much homework that family time becomes nonexistent.',
@@ -248,7 +252,7 @@ return [
     ],
     '2b7da5d3-b3c3-5192-8776-7f32b2c98851' => [
         'If you love life, don\'t waste time, for time is what life is made up of.',
-        'Pope John XXIII',
+        'Bruce Lee',
     ],
     '2b8fea4d-eaac-5cb2-9f2e-3f0c401dcef3' => [
         'But the best teams I\'ve encountered have one important thing in common: their team structure and processes cover a full range of distinct competencies necessary for success.',
@@ -304,7 +308,7 @@ return [
     ],
     '2b977c5e-ea07-5594-ade9-9300d296c951' => [
         'Fortune befriends the bold.',
-        'Emily Dickinson',
+        'John Dryden',
     ],
     '2b6774a2-88b5-5e9e-9114-6139a52ca7c1' => [
         'You\'ll never convince me there is a hopeless situation or there is any finality in any success or any failure.',
@@ -1003,3 +1007,5 @@ return [
         'Viktor Orban',
     ],
 ];
+
+// phpcs:enable

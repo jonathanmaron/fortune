@@ -56,7 +56,7 @@ foreach ($stack as $key => $quote) {
 
 $filesystem = new Filesystem();
 
-$filesystem->dumpFile($outputFilename, $fortunes);
+$filesystem->arrayExportFile($outputFilename, $fortunes);
 
 echo sprintf('Written to "%s"', $outputFilename);
 echo PHP_EOL;

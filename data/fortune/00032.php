@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '35123fa5-65e0-5989-8976-68a72fa682fc' => [
         'Society develops wit, but its contemplation alone forms genius.',
@@ -356,7 +360,7 @@ return [
     ],
     '53418d85-1939-5b84-bf0e-bda8f6a4219b' => [
         'Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.',
-        'Nhat Hanh',
+        'Thich Nhat Hanh',
     ],
     '53533f3f-172c-5580-8a97-bf2630909d00' => [
         'It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.',
@@ -800,7 +804,7 @@ return [
     ],
     '71490ce2-0afb-54ba-aa50-0ee1b7c207e2' => [
         'If we are facing in the right direction, all we have to do is keep on walking.',
-        'Proverb',
+        'Unknown',
     ],
     '71829a9a-c8cd-520f-8352-e5c8ee0aceac' => [
         'Beside every great success are the seeds of enormous failure. In every failure, there\'s the opportunity seeds of great success. They\'re not miles apart. So if they\'re that close together, and if you\'re really working, you\'re always gonna have that likelihood that something\'s not going to work.',
@@ -880,7 +884,7 @@ return [
     ],
     '75246c0e-1c55-5f07-a276-10ec27671ef9' => [
         'Doing what you love is the cornerstone of having abundance in your life.',
-        'Jean Paul',
+        'Wayne Dyer',
     ],
     '75647b81-031b-5e8d-9fe7-3a9775f285e6' => [
         'The day, water, sun, moon, night - I do not have to purchase these things with money.',
@@ -936,7 +940,7 @@ return [
     ],
     '78208a1e-342e-515f-bc41-86709918dd19' => [
         'What lies behind us and what lies before us are tiny matters compared to what lies within us.',
-        'Ralph Waldo Emerson',
+        'Walt Emerson',
     ],
     '78208f6d-c012-58f5-a44e-ecd072866a46' => [
         'None of us can claim to be fair and square in love - and I\'m definitely not a hypocrite! Humans are built to evolve with time. It depends on the nature of the relationship you share with a person. It is there today, tomorrow it may be gone; c\'est la vie.',
@@ -1003,3 +1007,5 @@ return [
         'Margot Robbie',
     ],
 ];
+
+// phpcs:enable

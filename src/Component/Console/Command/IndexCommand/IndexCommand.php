@@ -17,8 +17,6 @@ class IndexCommand extends AbstractCommand
         $this->setDescription('Build indexes');
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
-
-        return;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -61,7 +59,7 @@ class IndexCommand extends AbstractCommand
         foreach ($indices as $key => $index) {
             ksort($index, SORT_NATURAL);
             $outputFilename = $fortune->getIndexFilename($key);
-            $filesystem->dumpFile($outputFilename, $index);
+            $filesystem->arrayExportFile($outputFilename, $index);
             $format  = 'Wrote "%s" index to "%s"';
             $message = sprintf($format, $key, $outputFilename);
             $output->writeln($message);

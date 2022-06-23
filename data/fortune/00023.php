@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '96ea1933-c896-5844-8b8d-2e48902ae2b1' => [
         'Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can.',
@@ -639,8 +643,8 @@ return [
         'Stephen Covey',
     ],
     '163b46c3-bcd0-5f53-8382-ee218f0d4534' => [
-        'Begin at once to live, and count each separate day as a separate life.',
-        'Joan Rivers',
+        'Begin at once to live and count each separate day as a separate life.',
+        'Seneca',
     ],
     '164e1a1b-4668-5ce8-9862-bc0172e67447' => [
         'To be upset over what you don\'t have is to waste what you do have.',
@@ -744,7 +748,7 @@ return [
     ],
     '186ac4c6-84b5-54d5-8fa1-56d249c924d7' => [
         'Everything in life is luck.',
-        'Jennifer Love Hewitt',
+        'Donald Trump',
     ],
     '186ca0b5-8abd-5856-9f45-642db7645049' => [
         'A good part of my leadership skills is crafted from learning from experiences early in my career that were not positive experiences.',
@@ -771,8 +775,8 @@ return [
         'Princess Diana',
     ],
     '188c32e1-01ea-5063-898f-9a5746b3d137' => [
-        'The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.',
-        'Franklin D. Roosevelt',
+        'The only limit to our realization of tomorrow will be our doubts of today.',
+        'Franklin Roosevelt',
     ],
     '189d5c75-9ec1-5b04-8946-86b4a3c8bb5e' => [
         'Instead of yelling and spanking, which don\'t work anyway, I believe in finding creative ways to keep their attention - turning things into a game, for instance. And, when they do something good, positive reinforcement and praise.',
@@ -1003,3 +1007,5 @@ return [
         'Mark Pocan',
     ],
 ];
+
+// phpcs:enable

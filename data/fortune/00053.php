@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'e244e4a6-2ab6-5856-a63e-1980d0018084' => [
         'Love and desire are the spirit\'s wings to great deeds.',
@@ -152,7 +156,7 @@ return [
     ],
     'e729aaa6-370d-579d-b5e6-1d6640d6110a' => [
         'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
-        'Jim Rohn',
+        'Buddha',
     ],
     'e739e5ab-fd37-5ccb-a1fc-26fc6561743f' => [
         'That some achieve great success, is proof to all that others can achieve it as well.',
@@ -308,7 +312,7 @@ return [
     ],
     'e5021dec-0fd3-5cec-9459-ef5fb34a5b9b' => [
         'Happiness is when what you think, what you say, and what you do are in harmony.',
-        'Mahatma Gandhi',
+        'Mohandas Gandhi',
     ],
     'e5047d2c-7367-5d4c-b6e6-3f430576ab99' => [
         'Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.',
@@ -1003,3 +1007,5 @@ return [
         'Madeleine Stowe',
     ],
 ];
+
+// phpcs:enable

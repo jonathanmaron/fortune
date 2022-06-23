@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'd435314a-87c3-541e-a189-710c96308394' => [
         'Climate change is destroying our path to sustainability. Ours is a world of looming challenges and increasingly limited resources. Sustainable development offers the best chance to adjust our course.',
@@ -8,7 +12,7 @@ return [
     ],
     'd481366a-5306-5664-9c78-83286b82b9cd' => [
         'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
-        'Michael Jordan',
+        'Morris West',
     ],
     'd508477a-2265-5d97-a2d1-5ba498198667' => [
         'The secret of my success is my hairspray.',
@@ -163,7 +167,7 @@ return [
         'Elon Musk',
     ],
     'd7767315-ef08-56c2-b982-2453eaebc8d1' => [
-        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer.',
         'Bruce Lee',
     ],
     'd7963998-bd2e-51ad-a126-083d93c6ddfc' => [
@@ -436,7 +440,7 @@ return [
     ],
     'db6c3881-4205-5aa2-8e0c-7c08cbb54a30' => [
         'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
-        'R. Buckminster Fuller',
+        'Buckminster Fuller',
     ],
     'db8c9c60-4471-5aec-9c14-fd7ce4f63e2e' => [
         'Through hard work and education, we can deliver a strong economy and opportunity for all.',
@@ -1003,3 +1007,5 @@ return [
         'Steven Pinker',
     ],
 ];
+
+// phpcs:enable

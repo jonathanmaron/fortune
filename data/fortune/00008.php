@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '4f78db42-539d-5e08-b969-0ebb43dbab01' => [
         'I think the chance of finding beauty is higher if you don\'t work on it directly. Beauty in architecture is driven by practicality. This is what you learn from studying the old townscapes of the Swiss farmers.',
@@ -151,8 +155,8 @@ return [
         'Mahatma Gandhi',
     ],
     '5a2e933e-306b-5988-ae66-4b0e45f7d460' => [
-        'I am not afraid of tomorrow, for I have seen yesterday and I love today!',
-        'William Allen White',
+        'I am not afraid of tomorrow, for I have seen yesterday and I love today.',
+        'William White',
     ],
     '5a5bf3c9-59d3-5bf2-83a5-d76540a3d4d0' => [
         'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
@@ -479,8 +483,8 @@ return [
         'David Cassidy',
     ],
     '5b693d93-fea7-5975-a31d-023ca7a8fd58' => [
-        'Whoever is happy will make others happy too.',
-        'Anne Frank',
+        'Whoever is happy will make others happy, too.',
+        'Mark Twain',
     ],
     '5b832e36-76b2-58e6-8f2d-b36ab86eeceb' => [
         'Four things for success: work and pray, think and believe.',
@@ -1003,3 +1007,5 @@ return [
         'Jordana Spiro',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '84ba1d67-910a-57b0-b29d-92d01a1e46f8' => [
         'I grew up in a time when women didn\'t really do comedy. You had to be homely, overweight, an old maid, all that. You had to play a stereotype, because very attractive women were not supposed to be funny - because it\'s powerful; it\'s a threat.',
@@ -1003,3 +1007,5 @@ return [
         'Pablo Picasso',
     ],
 ];
+
+// phpcs:enable

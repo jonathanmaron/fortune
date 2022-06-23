@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '581aba97-99c3-51ba-a6b4-79e4d372c831' => [
         'People shouldn\'t look at me and think life is one big piece of glamour. That\'s the marketing, the spin. Life is challenging. But I have courage, strength, and enough good health to see the positive.',
@@ -99,8 +103,8 @@ return [
         'Henry Thoreau',
     ],
     '598b30ed-5140-5aac-8b6b-e1919a640f65' => [
-        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
-        'Emilia Fox',
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more',
+        'Anthony Robbins',
     ],
     '598caaaa-11ab-5fca-9caf-14c2829dbf2d' => [
         'It is not in the stars to hold our destiny but in ourselves.',
@@ -1003,3 +1007,5 @@ return [
         'Richard Louv',
     ],
 ];
+
+// phpcs:enable

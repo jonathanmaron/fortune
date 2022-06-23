@@ -9,12 +9,12 @@ abstract class AbstractFortune
 
     private string $indexPath   = '';
 
-    public function getFilename($file): string
+    public function getFilename(string $file): string
     {
         return sprintf('%s/%s', $this->getFortunePath(), $file);
     }
 
-    public function getIndexFilename($index): string
+    public function getIndexFilename(string $index): string
     {
         return sprintf('%s/%s.php', $this->getIndexPath(), $index);
     }
@@ -24,7 +24,7 @@ abstract class AbstractFortune
         return $this->fortunePath;
     }
 
-    public function setFortunePath($fortunePath): self
+    public function setFortunePath(string $fortunePath): self
     {
         $this->fortunePath = $fortunePath;
 
@@ -36,7 +36,7 @@ abstract class AbstractFortune
         return $this->indexPath;
     }
 
-    public function setIndexPath($indexPath): self
+    public function setIndexPath(string $indexPath): self
     {
         $this->indexPath = $indexPath;
 

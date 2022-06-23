@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '480416b6-068b-5f48-ac6c-e476e89ad544' => [
         'Hope is a state of mind, not of the world. Hope, in this deep and powerful sense, is not the same as joy that things are going well, or willingness to invest in enterprises that are obviously heading for success, but rather an ability to work for something because it is good.',
@@ -204,7 +208,7 @@ return [
     ],
     '611701c1-228f-5a43-af86-9072b422b71a' => [
         'The personal life deeply lived always expands into truths beyond itself.',
-        'Isaac Watts',
+        'Anais Nin',
     ],
     '612125e1-51e3-54e7-b754-0b3c9a67ca59' => [
         'The fascination of shooting as a sport depends almost wholly on whether you are at the right or wrong end of the gun.',
@@ -448,7 +452,7 @@ return [
     ],
     '809613c4-eba4-5d88-b1da-52066fd8b356' => [
         'When we seek to discover the best in others, we somehow bring out the best in ourselves.',
-        'William Arthur Ward',
+        'William Ward',
     ],
     '810544c7-90e2-5982-9d18-1d64e619a9f5' => [
         'Sacred joy exists in any suffering.',
@@ -539,7 +543,7 @@ return [
         'Stephen Covey',
     ],
     '869806a3-ce11-586d-9855-e19cdc234259' => [
-        'There is only one success - to be able to spend your life in your own way.',
+        'There is only one success, to be able to spend your life in your own way.',
         'Christopher Morley',
     ],
     '872640b9-9cd3-5272-a81f-9ad0246d73ad' => [
@@ -819,8 +823,8 @@ return [
         'Hunter S. Thompson',
     ],
     '1650934a-ced0-58e0-97f8-dfc2f84cdebf' => [
-        'Life is a succession of moments, to live each one is to succeed.',
-        'Eckhart Tolle',
+        'Life is a succession of moments. To live each one is to succeed.',
+        'Corita Kent',
     ],
     '1652661f-75f5-539e-922f-af2c822bcfa1' => [
         'Jews have deep respect for the Queen and the royal family. We say a prayer for them every Sabbath in synagogue. We recite a special blessing on seeing the Queen.',
@@ -1003,3 +1007,5 @@ return [
         'John Paul Jones',
     ],
 ];
+
+// phpcs:enable

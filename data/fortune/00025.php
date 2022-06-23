@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '408d8769-9820-5b7e-8b1e-27068eaa46fb' => [
         'A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away.',
@@ -151,7 +155,7 @@ return [
         'Jerome K. Jerome',
     ],
     '435aca90-21dc-5331-9eef-b3f86ea34131' => [
-        'If you spend too much time thinking about a thing, you\'ll never get it done',
+        'If you spend too much time thinking about a thing, you\'ll never get it done.',
         'Bruce Lee',
     ],
     '435bf4a5-9803-5bb6-98fb-1645739093ae' => [
@@ -475,7 +479,7 @@ return [
         'Walter Gilbert',
     ],
     '493cfdbe-6bc3-5144-a68e-213e572420f4' => [
-        'When in doubt, tell the truth',
+        'When in doubt, tell the truth.',
         'Mark Twain',
     ],
     '495a7e20-ccec-541c-ab63-24429a137625' => [
@@ -520,7 +524,7 @@ return [
     ],
     '502ecd9c-863d-5478-ae80-d91cd13bdf8b' => [
         'Can you imagine what I would do if I could do all I can?',
-        'Jeff Rich',
+        'Sun Tzu',
     ],
     '503ae449-4e32-52c1-9727-d0b4080660ac' => [
         'Actually being funny is mostly telling the truth about things.',
@@ -1003,3 +1007,5 @@ return [
         'Taylor Lautner',
     ],
 ];
+
+// phpcs:enable

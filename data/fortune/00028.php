@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '929e82e5-88a5-5d16-b198-69ddfaac97ec' => [
         'Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody\'s power and is not easy.',
@@ -504,7 +508,7 @@ return [
     ],
     '1525ac4c-efad-5670-87c4-46528c4d1c0f' => [
         'What is not started today is never finished tomorrow.',
-        'Johann Wolfgang von Goethe',
+        'Goethe',
     ],
     '1537a42c-6412-53a0-a373-eff00588f2b1' => [
         'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
@@ -664,7 +668,7 @@ return [
     ],
     '1897b8cb-ebcb-5155-b678-b529be51f615' => [
         'Success means having the courage, the determination, and the will to become the person you believe you were meant to be.',
-        'George A. Sheehan',
+        'George Sheehan',
     ],
     '1903b1dd-576f-5a6c-84fe-ba9b748bbaca' => [
         'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
@@ -1003,3 +1007,5 @@ return [
         'Will Smith',
     ],
 ];
+
+// phpcs:enable

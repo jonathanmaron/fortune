@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '9e345f23-a1fb-5d57-9144-95a38e692075' => [
         'You know you are on the road to success if you would do your job, and not be paid for it.',
@@ -952,7 +956,7 @@ return [
     ],
     '16c6389c-6822-5dd6-bf18-719f44ffeb44' => [
         'The pain passes, but the beauty remains.',
-        'Auguste Renoir',
+        'Pierre Auguste Renoir',
     ],
     '16d8e5cb-3a12-59e8-bf5e-c81fc6d3dd62' => [
         'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
@@ -1003,3 +1007,5 @@ return [
         'Zayn Malik',
     ],
 ];
+
+// phpcs:enable

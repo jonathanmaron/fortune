@@ -30,7 +30,7 @@ abstract class AbstractCommand extends ParentCommand
 
     protected bool   $long     = false;
 
-    protected function getWordwrapDefault(): int
+    protected function getWordwrapDefault(): string
     {
         $terminal = new Terminal();
 
@@ -42,7 +42,7 @@ abstract class AbstractCommand extends ParentCommand
             $width = self::TERMINAL_WIDTH;
         }
 
-        return (int) $width;
+        return (string) $width;
     }
 
     protected function getWordwrap(): int

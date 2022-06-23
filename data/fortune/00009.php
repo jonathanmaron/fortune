@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '5dc015bd-ee3f-56fd-9ccb-5d1d343edb70' => [
         'Before \'Gangnam Style\' I was not a good attitude artist.',
@@ -204,7 +208,7 @@ return [
     ],
     '5e295359-5c7a-5d0d-95a1-cedf042ab4be' => [
         'For success, attitude is equally as important as ability.',
-        'Walter Scott',
+        'Harry Banks',
     ],
     '5e659636-2145-553f-8cc7-5e49d7990a49' => [
         'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
@@ -1003,3 +1007,5 @@ return [
         'Scott Eastwood',
     ],
 ];
+
+// phpcs:enable

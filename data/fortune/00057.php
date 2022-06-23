@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'f2382c29-8c53-5c63-8a8e-7641028e51a3' => [
         'Insanity runs in my family. It practically gallops.',
@@ -380,7 +384,7 @@ return [
     ],
     'f4926375-acbe-5e42-bfee-a990a04ca61d' => [
         'Many of life\'s failures are people who did not realize how close they were to success when they gave up.',
-        'Thomas A. Edison',
+        'Thomas Edison',
     ],
     'f5399029-09d9-5f59-a159-bbfc3798dee3' => [
         'Better be ignorant of a matter than half know it.',
@@ -1003,3 +1007,5 @@ return [
         'George S. Kaufman',
     ],
 ];
+
+// phpcs:enable

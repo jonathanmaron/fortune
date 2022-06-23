@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '80073d9f-82f4-5586-bbf6-7e1f5bd9785b' => [
         'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
@@ -696,7 +700,7 @@ return [
     ],
     '270233aa-c13d-5f81-b785-d399485a41ba' => [
         'We make a living by what we get, but we make a life by what we give.',
-        'Henry Ford',
+        'Winston Churchill',
     ],
     '271427b6-1425-5225-8b74-b60f91f6a762' => [
         'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
@@ -864,7 +868,7 @@ return [
     ],
     '379816d7-f01d-556c-aafe-14acc15ee60d' => [
         'Turn your face toward the sun and the shadows will fall behind you.',
-        'Maori Proverb',
+        'Maori proverb',
     ],
     '387969cc-caa1-5dec-9d55-2e60db94749c' => [
         'It\'s important to know that words don\'t move mountains. Work, exacting work moves mountains.',
@@ -880,7 +884,7 @@ return [
     ],
     '405127ef-bf7b-5c4a-8239-013ea99741ee' => [
         'Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.',
-        'Henry Wadsworth Longfellow',
+        'Henry Longfellow',
     ],
     '407318b6-3e0c-5683-9f2e-5e62b215cf73' => [
         'I love funny people, and when I\'m with funny people, or people who are amusing in their weirdness, I love it. Because that to me is funny, as opposed to someone who stops and says, \'Hey let me tell you a joke.\'',
@@ -1003,3 +1007,5 @@ return [
         'Patrick Demarchelier',
     ],
 ];
+
+// phpcs:enable

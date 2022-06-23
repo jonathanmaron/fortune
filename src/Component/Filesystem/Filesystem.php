@@ -8,28 +8,53 @@ use Symfony\Component\Filesystem\Filesystem as ParentFilesystem;
 
 class Filesystem extends ParentFilesystem
 {
-    public function dumpFiles(string $path, string $pattern, array $chunks): bool
+    public function arrayExportFiles(string $path, string $pattern, array $chunks): bool
     {
         $counter = 1;
-        foreach ($chunks as $key => $chunk) {
+        foreach ($chunks as $chunk) {
             $file     = sprintf($pattern, $counter);
             $filename = sprintf("%s/%s", $path, $file);
-            $this->dumpFile($filename, $chunk);
+            $this->arrayExportFile($filename, $chunk);
             $counter++;
         }
 
         return true;
     }
 
-    public function dumpFile($filename, $data)
+    public function arrayExportFile(string $filename, array $data): bool
     {
-        return parent::dumpFile($filename, $this->serialize($data));
+        $ret = file_put_contents($filename, $this->serialize($data));
+
+        return is_int($ret) && is_readable($filename);
     }
 
     private function serialize(array $data): string
     {
-        $phpEncoder = new PhpEncoder();
+        $options    = [
+            'array.align'   => true,  // Documentation is at:
+            'array.indent'  => 4,     // https://goo.gl/YTobc2
+            'array.inline'  => false,
+            'array.omit'    => true,
+            'array.short'   => true,
+            'object.format' => 'export',
+            'string.utf8'   => true,
+            'whitespace'    => true,
+        ];
+        $phpEncoder = new PhpEncoder($options);
 
-        return sprintf("<?php\ndeclare(strict_types=1);\n\nreturn %s;\n", $phpEncoder->encode($data));
+        $format = <<<EOT
+            <?php
+            declare(strict_types=1);
+            
+            // This file was programmatically built
+            
+            // phpcs:disable
+            
+            return %s;
+            
+            // phpcs:enable
+            EOT;
+
+        return sprintf($format, $phpEncoder->encode($data));
     }
 }

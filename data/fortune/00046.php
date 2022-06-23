@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'c825a705-70ac-5ebd-87a1-da960c853b6e' => [
         'Nature is our chapel.',
@@ -724,7 +728,7 @@ return [
     ],
     'cac1c6ad-b1e1-5d0d-91a8-819398246357' => [
         'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
-        'Aristotle',
+        'Marcus Aurelius',
     ],
     'cac551fa-02d1-51bf-81b4-71e07b716658' => [
         'It\'s the writers\' job to make it positive. It\'s my job to make it real.',
@@ -1003,3 +1007,5 @@ return [
         'Hollis Stacy',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'ba52c8c1-a277-5000-a9e9-b4095de00100' => [
         'For, to be a stranger is naturally a very positive relation; it is a specific form of interaction.',
@@ -96,7 +100,7 @@ return [
     ],
     'bab79469-f775-5b84-a6f2-34764981a0c3' => [
         'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
-        'Bruce Lee',
+        'Carl Jung',
     ],
     'bac2b474-7b15-52f6-b2fe-fefa2903fd69' => [
         'I am the Way, the Truth, and the Life. No one comes to the Father except through me.',
@@ -827,7 +831,7 @@ return [
         'Shakuntala Devi',
     ],
     'be3b2671-3b90-54fd-bf01-32b3f4383709' => [
-        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
+        'Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.',
         'Barack Obama',
     ],
     'be5cbbd8-dead-5809-a03b-c46f75fcfe10' => [
@@ -1003,3 +1007,5 @@ return [
         'Abraham Lincoln',
     ],
 ];
+
+// phpcs:enable

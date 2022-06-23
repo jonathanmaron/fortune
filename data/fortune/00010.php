@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '6bbe5371-360d-573d-b78d-5ea72072647a' => [
         'The only thing I like about air travel is it gives me time to read.',
@@ -764,7 +768,7 @@ return [
     ],
     '6f112ee3-b479-541a-8692-1dc8bb37e21b' => [
         'You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.',
-        'Karolina Kurkova',
+        'Albert Camus',
     ],
     '6f113bd6-e4f5-5502-b870-72156565e74d' => [
         'The most satisfying thing in life is to have been able to give a large part of one\'s self to others.',
@@ -1003,3 +1007,5 @@ return [
         'Robert Harris',
     ],
 ];
+
+// phpcs:enable

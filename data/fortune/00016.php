@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '17b8c2cb-1e6a-5a1d-bee8-9f934812ddff' => [
         'I will sit in the car on the way to a meeting and just smile. I really mean that. It helps you get through life. If you have nothing to say, smile. Look up at the sky and smile. Just be grateful.',
@@ -988,7 +992,7 @@ return [
     ],
     '27f4bfa5-0338-5c8c-8e5c-7070d200211a' => [
         'Do one thing every day that scares you.',
-        'Unknown',
+        'Eleanor Roosevelt',
     ],
     '27fad9ef-05b4-55f4-aa64-b28c9f2031f0' => [
         'Health is the thing that makes you feel that now is the best time of the year.',
@@ -1003,3 +1007,5 @@ return [
         'Andie MacDowell',
     ],
 ];
+
+// phpcs:enable

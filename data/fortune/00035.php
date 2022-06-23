@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '4027135b-3d3c-54b5-a7c4-6747d07dd0fd' => [
         'The difference between us and them, between you and success, is not that you never fail, but it\'s how you recover from those failures - is that you keep getting up time and time again. You figure out what you did wrong, and then you make it right. I say that to my kids every day.',
@@ -520,7 +524,7 @@ return [
     ],
     '8949978e-3ae6-5d1f-9bab-c562b050881c' => [
         'Do not go where the path may lead, go instead where there is no path and leave a trail.',
-        'Ralph Waldo Emerson',
+        'Ralph Emerson',
     ],
     '9112572f-5d65-54f3-ae88-7a6c205016f6' => [
         'My attitude when I\'m in Mexico is I wake up in the morning with nothing to do and I go to bed half done. I don\'t wear a watch. When I live down there, I do nothing according to time. I eat when I\'m hungry and go to sleep when I\'m tired.',
@@ -1003,3 +1007,5 @@ return [
         'George Lucas',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'a48e1cd0-d39c-520c-a2d3-c9010d66d5e9' => [
         'Whatever else is unsure in this stinking dunghill of a world a mother\'s love is not.',
@@ -363,7 +367,7 @@ return [
         'Gabrielle Aplin',
     ],
     'a145fa12-bb57-5f51-86d1-9c80400d2568' => [
-        'Wrinkles should merely indicate where smiles have been',
+        'Wrinkles should merely indicate where smiles have been.',
         'Mark Twain',
     ],
     'a164a38e-2e08-5500-9c14-180b5ef3cdfa' => [
@@ -419,7 +423,7 @@ return [
         'Brad Paisley',
     ],
     'a381f9fe-f8b4-5431-abab-3649c8f14ba1' => [
-        'Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less.',
+        'Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.',
         'Marie Curie',
     ],
     'a382dcd4-4412-5084-a973-5c7a06e5038f' => [
@@ -468,7 +472,7 @@ return [
     ],
     'a528bb17-7c66-52be-823f-0cf3d9e56a3c' => [
         'I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.',
-        'Lee Ann Womack',
+        'Lee Womack',
     ],
     'a544c12e-0e2a-54f4-9775-faadb7d4c27e' => [
         'A lot of people are really excited to see the continuation of Cory and Topanga and \'Boy Meets World\'. I was getting a lot of positive feedback, which I was really happy about.',
@@ -1003,3 +1007,5 @@ return [
         'Rosie Huntington-Whiteley',
     ],
 ];
+
+// phpcs:enable

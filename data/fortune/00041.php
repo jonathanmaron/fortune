@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'b2c3ec8c-034d-5a87-be21-dc4e038c13aa' => [
         'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
@@ -88,7 +92,7 @@ return [
     ],
     'b3f7d356-4c98-5456-adc3-1349d82a5a63' => [
         'A gem cannot be polished without friction, nor a man perfected without trials.',
-        'Lucius Annaeus Seneca',
+        'Chinese proverb',
     ],
     'b3f90f3a-2a0d-53ce-8613-5a390715cd1f' => [
         'I grew up in a very strong, nuclear family. My father was a sportsman. He represented South Africa in a couple of sports, so he was a very positive person and someone who encouraged you to be your best and give your best with everything that you do.',
@@ -1003,3 +1007,5 @@ return [
         'Jeff Kinney',
     ],
 ];
+
+// phpcs:enable

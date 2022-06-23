@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'd029ffd0-115f-58fd-891f-a3873fc84fdf' => [
         'Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent\'s pressure, and the temporary failures.',
@@ -1003,3 +1007,5 @@ return [
         'Joyce Meyer',
     ],
 ];
+
+// phpcs:enable

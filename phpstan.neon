@@ -13,6 +13,7 @@ parameters:
     paths:
         - bin
         - src
+        - test
         - bootstrap.php
     fileExtensions:
         - php

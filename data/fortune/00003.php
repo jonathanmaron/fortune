@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '1c1b3f7e-4ca6-5a7a-9919-d552685de33d' => [
         'I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.',
@@ -504,7 +508,7 @@ return [
     ],
     '001dfd07-b25c-5279-b4d0-6237028f1649' => [
         'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
-        'John D. Rockefeller',
+        'John Kennedy',
     ],
     '1dfd7037-1766-5470-8bb3-0f0414a3eb14' => [
         'You must take action now that will move you towards your goals. Develop a sense of urgency in your life.',
@@ -627,7 +631,7 @@ return [
         'Adriana Lima',
     ],
     '1e77004c-c237-5848-8e7b-3dc7cd1e9783' => [
-        'Mistakes are always forgivable, if one has the courage to admit them',
+        'Mistakes are always forgivable, if one has the courage to admit them.',
         'Bruce Lee',
     ],
     '1e718712-97a2-595f-8118-a8eff5a57ebe' => [
@@ -655,7 +659,7 @@ return [
         'Jeff Ross',
     ],
     '1eb1d307-8ab2-55ea-b7f8-9a365ccbf7f7' => [
-        'Loss is nothing else but change, and change is Nature\'s delight.',
+        'Loss is nothing else but change,and change is Natures delight.',
         'Marcus Aurelius',
     ],
     '1eb2e183-961d-5828-96d6-201c4e396a16' => [
@@ -1003,3 +1007,5 @@ return [
         'Dieter F. Uchtdorf',
     ],
 ];
+
+// phpcs:enable

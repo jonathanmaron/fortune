@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '7a375bf5-216a-5bd4-a22e-9667e332f1a3' => [
         'One of the luckiest things that can happen to you in life is, I think, to have a happy childhood.',
@@ -1003,3 +1007,5 @@ return [
         'Larry the Cable Guy',
     ],
 ];
+
+// phpcs:enable

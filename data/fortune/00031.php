@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '8560e440-f33a-50ee-9a38-ed02ae43f86a' => [
         'I only travel to good material, a good director and a good company. I won\'t work in another country for a year any longer, because I have a lovely wife and I adore her and I can\'t bear to be away from her.',
@@ -803,7 +807,7 @@ return [
         'Paula Poundstone',
     ],
     '26122add-895e-5885-b9db-318bf7916003' => [
-        'Ability is what you\'re capable of doing. Motivation determines what you do. Attitude determines how well you do it.',
+        'Ability is what you\'re capable of doing. Motivation determines what you do.Attitude determines how well you do it.',
         'Lou Holtz',
     ],
     '26540da8-109a-576d-80a6-a07cef39cc68' => [
@@ -1003,3 +1007,5 @@ return [
         'Ashfaq Parvez Kayani',
     ],
 ];
+
+// phpcs:enable

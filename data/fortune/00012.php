@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '7e97ed13-038f-50f0-98d5-85575c0a7dca' => [
         'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
@@ -64,7 +68,7 @@ return [
     ],
     '7e840539-e4fa-5f12-9645-2e4c1a605d40' => [
         'People of mediocre ability sometimes achieve outstanding success because they don\'t know when to quit. Most men succeed because they are determined to.',
-        'George Allen, Sr.',
+        'George Allen',
     ],
     '07ea4466-25c7-5a20-8b06-5eb8983a2ac8' => [
         'The main thing that you have to remember on this journey is, just be nice to everyone and always smile.',
@@ -1003,3 +1007,5 @@ return [
         'John Shelton Reed',
     ],
 ];
+
+// phpcs:enable

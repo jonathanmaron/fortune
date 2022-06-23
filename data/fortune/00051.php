@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'dde59d2b-7db7-5a1e-b139-ee62937ef794' => [
         'So long as a person is capable of self-renewal they are a living being.',
@@ -1003,3 +1007,5 @@ return [
         'Red Adair',
     ],
 ];
+
+// phpcs:enable

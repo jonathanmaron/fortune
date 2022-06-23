@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'eb93a2ec-e7b3-5b6e-800b-554833c14326' => [
         'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
@@ -1003,3 +1007,5 @@ return [
         'Barton Gellman',
     ],
 ];
+
+// phpcs:enable

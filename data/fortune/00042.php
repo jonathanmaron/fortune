@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'b77ba7da-4d32-5f22-9d45-922e8f82f5f8' => [
         'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.',
@@ -284,7 +288,7 @@ return [
     ],
     'b618c332-6117-511f-befc-beac9e4979e5' => [
         'Most smiles are started by another smile.',
-        'Frank A. Clark',
+        'Unknown',
     ],
     'b627c718-24d1-568a-a43c-9878ceb8c4ee' => [
         'I used to have all these plans and think \'Ah, I have my whole life figured out\', but then I realized no matter how much I plan: life happens! So I find myself living day to day trying to do my best, embracing every moment as a learning opportunity and chance to get to know myself a little more.',
@@ -308,7 +312,7 @@ return [
     ],
     'b670f4ab-6b9e-57f5-a546-f327cd811363' => [
         'We aim above the mark to hit the mark.',
-        'Ralph Waldo Emerson',
+        'Ralph Emerson',
     ],
     'b679caba-437e-5fc0-9ff6-95a582ba0caa' => [
         'In the end, it\'s a mental maturity to let your best come out.',
@@ -572,7 +576,7 @@ return [
     ],
     'b7045d87-7643-5dc7-9706-fb8b867fdb90' => [
         'The world is always in movement.',
-        'V. S. Naipaul',
+        'V. Naipaul',
     ],
     'b7101f39-d023-5a12-b2f6-f672fc0c8ba9' => [
         'No one really wants to admit they are lonely, and it is never really addressed very much between friends and family. But I have felt lonely many times in my life.',
@@ -1003,3 +1007,5 @@ return [
         'Jeremy Irons',
     ],
 ];
+
+// phpcs:enable

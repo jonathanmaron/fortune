@@ -17,8 +17,6 @@ class PurgeCommand extends AbstractCommand
         $this->setDescription('Purge the data directories');
 
         $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
-
-        return;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

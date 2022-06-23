@@ -13,7 +13,7 @@ abstract class AbstractCommand extends ParentCommand
 
     protected string $path = '';
 
-    protected function getNewFortunes($inputPath): array
+    protected function getNewFortunes(string $inputPath): array
     {
         $ret = [];
 
@@ -21,8 +21,13 @@ abstract class AbstractCommand extends ParentCommand
 
         foreach ($finder->json($inputPath) as $fileInfo) {
             $json  = file_get_contents($fileInfo->getPathname());
+            assert(is_string($json));
             $array = json_decode($json, true);
+            assert(is_array($array));
             foreach ($array as $record) {
+                assert(is_array($record));
+                assert(key_exists('quoteText', $record));
+                assert(key_exists('quoteAuthor', $record));
                 $quote  = $this->filter($record['quoteText']);
                 $author = $this->filter($record['quoteAuthor']);
                 $uuid   = $this->uuid($quote);
@@ -58,7 +63,8 @@ abstract class AbstractCommand extends ParentCommand
     protected function uuid(string $quote): string
     {
         $name = strtolower($quote);
-        $name = preg_replace('/[^a-z]/', null, $name);
+        $name = preg_replace('/[^a-z]/', '', $name);
+        assert(is_string($name));
 
         $uuid5 = Uuid::uuid5(Uuid::NIL, $name);
 

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '2794fe83-e641-5a61-91d3-bb11f995aee6' => [
         'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
@@ -16,7 +20,7 @@ return [
     ],
     '2848c438-2d6c-57ff-a9da-9f3d650dd241' => [
         'Nobody made a greater mistake than he who did nothing because he could do only a little.',
-        'Joseph Addison',
+        'Edmund Burke',
     ],
     '2867b803-aeed-5453-a2c7-c7455e4fc6e7' => [
         'You reach a point where you don\'t work for money.',
@@ -356,7 +360,7 @@ return [
     ],
     '3758fa27-56aa-5fb1-9b78-a340b37969fa' => [
         'Nature is a mutable cloud which is always and never the same.',
-        'Ralph Waldo Emerson',
+        'Ralph Emerson',
     ],
     '3770b1a8-5717-578e-a617-190e8421199f' => [
         'But I think Kiss Kiss, Bang Bang really got that thing where, if a movie reads really funny and then has some dramatic or violent or sinister stuff in it, you can\'t forget that primarily it has to be even funnier than you read it or that other stuff doesn\'t work.',
@@ -388,7 +392,7 @@ return [
     ],
     '3816ccc5-f2b0-5f75-92b9-f85b506d787c' => [
         'You have enemies? Good. That means you\'ve stood up for something, sometime in your life.',
-        'Victor Kiam',
+        'Winston Churchill',
     ],
     '3843a889-9060-58e7-8c0e-56c401df7ba8' => [
         'When you are a photographer, you work all the time, because your eye is the first camera.',
@@ -963,7 +967,7 @@ return [
         'Alice Roosevelt Longworth',
     ],
     '5458e716-6b70-5ac6-aeaf-c2380c747223' => [
-        'We May Encounter Many Defeats But We Must Not Be Defeated.',
+        'We may encounter many defeats but we must not be defeated.',
         'Maya Angelou',
     ],
     '5461fdd8-996d-59ff-a9dd-e78d58ef2eff' => [
@@ -1003,3 +1007,5 @@ return [
         'Kate Moss',
     ],
 ];
+
+// phpcs:enable

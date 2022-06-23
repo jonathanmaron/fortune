@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '3cc4be3b-0409-58ec-9469-3a26c741d6f0' => [
         'I\'m happy with who I am inside. I\'d hate to have accolades and all that and not really be happy with who I was. So I\'m really thankful for my family and for the support system that I have for being the person that I am today. I\'m proud of who I am.',
@@ -396,7 +400,7 @@ return [
     ],
     '3ee0a67b-80d6-508b-a585-35b29424e3f1' => [
         'A man sees in the world what he carries in his heart.',
-        'Johann Wolfgang von Goethe',
+        'Goethe',
     ],
     '3ee5eb4a-509b-5253-925d-17191db50e05' => [
         'Any time I need to get a serious attitude adjustment, I put on one of their records, and there are examples there for all time to keep us honest and keep us reaching; they\'ll never be eclipsed.',
@@ -995,11 +999,13 @@ return [
         'Rita Mae Brown',
     ],
     '04b19b7c-9f17-51f4-ba3b-f0e49ab85689' => [
-        'He who conquers others is strong, he who conquers himself is mighty.',
-        'Lao Tsu',
+        'He who conquers others is strong; He who conquers himself is mighty.',
+        'Lao Tzu',
     ],
     '4b24bb13-f39e-5dbc-b830-f513e07d845c' => [
         'Success is nothing more than a few simple disciplines, practiced every day.',
         'Jim Rohn',
     ],
 ];
+
+// phpcs:enable

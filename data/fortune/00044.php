@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'becd43bb-2aeb-57ef-80e6-0dbe60def513' => [
         'The ocean is a mighty harmonist.',
@@ -92,7 +96,7 @@ return [
     ],
     'bf13e79e-41a4-583d-a083-62c7d767876a' => [
         'Life is the flower for which love is the honey.',
-        'Amisha Patel',
+        'Victor Hugo',
     ],
     'bf14b64d-b0a0-5353-9da5-f72ff5db33fd' => [
         'You have to take it as it happens, but you should try to make it happen the way you want to take it.',
@@ -548,7 +552,7 @@ return [
     ],
     'c2af05ac-e418-5384-90e9-eb66eafca909' => [
         'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-        'Robert Louis Stevenson',
+        'Robert Stevenson',
     ],
     'c2b0046d-2ca4-539f-8c93-002828887891' => [
         'The most important thing we can do is inspire young minds and to advance the kind of science, math and technology education that will help youngsters take us to the next phase of space travel.',
@@ -1003,3 +1007,5 @@ return [
         'George Halas',
     ],
 ];
+
+// phpcs:enable

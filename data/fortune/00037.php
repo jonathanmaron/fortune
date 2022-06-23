@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'a07328f7-35b6-54a0-81f6-0cd3f5d2f5a6' => [
         'Experience is simply the name we give our mistakes.',
@@ -127,7 +131,7 @@ return [
         'Lucy Punch',
     ],
     'a2a5a6ae-fe34-53ca-8878-70d85dee2414' => [
-        'Either you run the day, or the day runs you.',
+        'Either you run the day or the day runs you.',
         'Jim Rohn',
     ],
     'a2a29c36-954f-5f2e-8a5d-350c42dfd757' => [
@@ -543,8 +547,8 @@ return [
         'Dhammapada',
     ],
     'a6e2037e-f2d4-590b-bb6f-5941afe230ce' => [
-        'If you get up one more time than you fall, you will make it through',
-        'Chinese Proverb',
+        'If you get up one more time than you fall, you will make it through.',
+        'Unknown',
     ],
     'a6e2636d-d7fb-5ae1-bcb2-43e9e9473f85' => [
         'I think my mom put it best. She said, \'Little girls soften their daddy\'s hearts.\'',
@@ -1003,3 +1007,5 @@ return [
         'Daniel Kahneman',
     ],
 ];
+
+// phpcs:enable

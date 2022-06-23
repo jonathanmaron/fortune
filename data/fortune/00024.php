@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '233ae28e-07fc-5c80-8ad0-99351b04d572' => [
         'Ignoring fame was my rebellion, in a funny way. I was insistent on being normal and doing normal things. It probably wasn\'t advisable to go to college in America and room with a complete stranger. And it probably wasn\'t wise to share a bathroom with eight other people in a coed dorm. Looking back, that was crazy.',
@@ -799,7 +803,7 @@ return [
         'Dolph Ziggler',
     ],
     '369d63a7-e4df-5c3d-8a92-cc6a249107dd' => [
-        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
+        'A bend in the road is not the end of the road...unless you fail to make the turn.',
         'Unknown',
     ],
     '370c5b74-a6cc-5730-b309-c2d377e3611f' => [
@@ -1003,3 +1007,5 @@ return [
         'Rupert Sheldrake',
     ],
 ];
+
+// phpcs:enable

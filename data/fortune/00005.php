@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '2e97f7f9-48d0-53c2-b41f-af6ccfd6a4ee' => [
         'Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.',
@@ -47,8 +51,8 @@ return [
         'Clara Schumann',
     ],
     '2e133980-c594-5208-b7cb-7d004ce988d0' => [
-        'We cannot direct the wind, but we can adjust the sails.',
-        'Dolly Parton',
+        'We cannot direct the wind but we can adjust the sails.',
+        'Unknown',
     ],
     '2e351701-ef9e-5b7f-9ab2-8bb33da73f32' => [
         'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
@@ -779,7 +783,7 @@ return [
         'Maria Bartiromo',
     ],
     '3ba3c43e-1489-523f-b7f3-77ab8a87126f' => [
-        'Keep your eyes on the stars, and your feet on the ground.',
+        'Keep your eyes on the stars and your feet on the ground.',
         'Theodore Roosevelt',
     ],
     '03ba57ad-efdf-5def-9090-6e84955cd96a' => [
@@ -1003,3 +1007,5 @@ return [
         'Michael Korda',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '0e19b884-5075-561a-a5a9-1f0ac8890cf7' => [
         'I feel that sin and evil are the negative part of you, and I think it\'s like a battery: you\'ve got to have the negative and the positive in order to be a complete person.',
@@ -320,7 +324,7 @@ return [
     ],
     '0f8162bc-da19-51fc-beb8-f41b0c46fafc' => [
         'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
-        'Ralph Waldo Emerson',
+        'Desiderius Erasmus',
     ],
     '0f9657be-73ca-5523-9204-06c59d51f22a' => [
         'If we look at the world with a love of life, the world will reveal its beauty to us.',
@@ -1003,3 +1007,5 @@ return [
         'Arthur Keith',
     ],
 ];
+
+// phpcs:enable

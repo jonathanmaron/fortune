@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'fc327c3c-f20b-5d33-bddd-af953debd2a7' => [
         'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
@@ -104,7 +108,7 @@ return [
     ],
     'fcd7d54a-f0d3-5963-bf9f-ea7b7dc33d51' => [
         'Character develops itself in the stream of life.',
-        'Joan Rivers',
+        'Johann Wolfgang von Goethe',
     ],
     'fcd66473-7a71-5a6d-b7c1-c3a6b49acbed' => [
         'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
@@ -815,3 +819,5 @@ return [
         'Herman Melville',
     ],
 ];
+
+// phpcs:enable

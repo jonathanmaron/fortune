@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'c7b08bf2-f3fc-5d7d-bb0a-153a349a8d66' => [
         'To live is like to love - all reason is against it, and all healthy instinct for it.',
@@ -1003,3 +1007,5 @@ return [
         'William Shakespeare',
     ],
 ];
+
+// phpcs:enable

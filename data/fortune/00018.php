@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '39bf8108-25ad-5a00-813b-9d12dff6d6e5' => [
         'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
@@ -136,7 +140,7 @@ return [
     ],
     '41a3ddc8-bd2c-55a0-82a3-19004ee3d141' => [
         'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
-        'Chris Kyle',
+        'Wayne Dyer',
     ],
     '41a951ce-e2e3-5146-94ff-437dda14b7c0' => [
         'When I remember my mother, it makes me really sad. But, when I remember my father, it makes me smile.',
@@ -988,7 +992,7 @@ return [
     ],
     '50ff977f-0146-5e69-ad24-106ca8b80568' => [
         'The undertaking of a new action brings new strength.',
-        'Richard L. Evans',
+        'Richard Evans',
     ],
     '50ffaf77-6ab5-5035-a18b-fd9bd892b092' => [
         'The cause is hidden. The effect is visible to all.',
@@ -1003,3 +1007,5 @@ return [
         'Sterling K. Brown',
     ],
 ];
+
+// phpcs:enable

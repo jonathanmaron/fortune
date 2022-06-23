@@ -8,9 +8,9 @@ use Symfony\Component\Console\Command\Command as ParentCommand;
 
 abstract class AbstractCommand extends ParentCommand
 {
-    private ?Fortune $fortune;
+    private Fortune $fortune;
 
-    public function getFortune(): ?Fortune
+    public function getFortune(): Fortune
     {
         return $this->fortune;
     }

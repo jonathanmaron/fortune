@@ -87,8 +87,6 @@ class FortuneCommand extends AbstractCommand
         $this->addOption($name, $shortcut, $mode, $description);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): void
@@ -97,7 +95,8 @@ class FortuneCommand extends AbstractCommand
 
         // <editor-fold desc="InputOption: (int) wordwrap">
 
-        $wordwrap = (string) $input->getOption('wordwrap');
+        $wordwrap = $input->getOption('wordwrap');
+        assert(is_string($wordwrap));
         $wordwrap = trim($wordwrap);
 
         if (!ctype_digit($wordwrap)) {
@@ -110,7 +109,7 @@ class FortuneCommand extends AbstractCommand
 
         if ($wordwrap > self::WORDWRAP_DISABLED) {
 
-            $wordwrapDefault = $this->getWordwrapDefault();
+            $wordwrapDefault = (int) $this->getWordwrapDefault();
 
             if ($wordwrap > $wordwrapDefault) {
                 $wordwrap = $wordwrapDefault;
@@ -129,7 +128,8 @@ class FortuneCommand extends AbstractCommand
 
         // <editor-fold desc="InputOption: (int) length">
 
-        $length = (string) $input->getOption('length');
+        $length = $input->getOption('length');
+        assert(is_string($length));
         $length = trim($length);
 
         if (strlen($length) > 0) {
@@ -139,7 +139,7 @@ class FortuneCommand extends AbstractCommand
                 throw new InvalidArgumentException($message);
             }
 
-            if (!in_array($length, $fortune->getAllLengths())) {
+            if (!in_array($length, $fortune->getAllLengths(), true)) {
                 $message = '--length contains an invalid length';
                 throw new InvalidArgumentException($message);
             }
@@ -153,7 +153,8 @@ class FortuneCommand extends AbstractCommand
 
         // <editor-fold desc="InputOption: (int) wait">
 
-        $wait = (string) $input->getOption('wait');
+        $wait = $input->getOption('wait');
+        assert(is_string($wait));
         $wait = trim($wait);
 
         if (strlen($wait) > 0) {
@@ -177,17 +178,16 @@ class FortuneCommand extends AbstractCommand
 
         // <editor-fold desc="InputOption: (string) author">
 
-        $author = (string) $input->getOption('author');
+        $author = $input->getOption('author');
+        assert(is_string($author));
         $author = trim($author);
 
         if (strlen($author) > 0) {
-            if (!in_array($author, $fortune->getAllAuthors())) {
+            if (!in_array($author, $fortune->getAllAuthors(), true)) {
                 $message = '--author contains an invalid author';
                 throw new InvalidArgumentException($message);
             }
         }
-
-        $author = (string) $author;
 
         $this->setAuthor($author);
 
@@ -195,19 +195,19 @@ class FortuneCommand extends AbstractCommand
 
         // <editor-fold desc="InputOption: (bool) short">
 
-        $short = (bool) $input->getOption('short');
+        $short = $input->getOption('short');
+        assert(is_bool($short));
         $this->setShort($short);
 
         // </editor-fold>
 
         // <editor-fold desc="InputOption: (bool) long">
 
-        $long = (bool) $input->getOption('long');
+        $long = $input->getOption('long');
+        assert(is_bool($long));
         $this->setLong($long);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

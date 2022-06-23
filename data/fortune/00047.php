@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'cbe40b8b-30a8-5fc8-871b-49e419dafe70' => [
         'Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.',
@@ -996,10 +1000,12 @@ return [
     ],
     'd02341bb-15b5-5126-87d4-eb93aee27af1' => [
         'Light tomorrow with today!',
-        'Elizabeth Barrett Browning',
+        'Elizabeth Browning',
     ],
     'd0258e48-8784-5fd8-96c4-a002f74b44dc' => [
         'Example has more followers than reason.',
         'Christian Bovee',
     ],
 ];
+
+// phpcs:enable

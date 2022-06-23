@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '9ab3e6a2-67a7-568d-8526-c6d902a35ac5' => [
         'Civilization is a method of living, an attitude of equal respect for all men.',
@@ -260,7 +264,7 @@ return [
     ],
     '9bc4fb3e-45cd-567e-b812-008319822f5c' => [
         'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',
-        'Joseph Campbell',
+        'Denis Waitley',
     ],
     '9bc90d7a-ff69-5013-bcb1-b93c4954158d' => [
         'I intend to live life, not just exist.',
@@ -1003,3 +1007,5 @@ return [
         'Aung San Suu Kyi',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'a136257a-8952-5a17-b07b-b9d509820a08' => [
         'A great attitude does much more than turn on the lights in our worlds; it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.',
@@ -440,7 +444,7 @@ return [
     ],
     'aacf4fce-f4b0-50a4-b379-2cc9b2f6591f' => [
         'When deeds speak, words are nothing.',
-        'Pierre-Joseph Proudhon',
+        'African proverb',
     ],
     'aad1f50f-3e07-5fec-82b6-8038065e2464' => [
         'Right now I am trying to be in a place of calm, a place where I can chill out and then handle the chaos of life better. You don\'t just get it overnight; you have to work at it. It\'s a daily struggle.',
@@ -568,7 +572,7 @@ return [
     ],
     'ab936e29-402b-5f8a-9c79-1ecb00ecff60' => [
         'Life is 10% what happens to you and 90% how you react to it.',
-        'Charles R. Swindoll',
+        'Charles Swindoll',
     ],
     'ab1290d1-ad32-5194-9497-d5fd821aad6a' => [
         'If you want to be successful, put yourself in a discomfort zone.',
@@ -1003,3 +1007,5 @@ return [
         'Eric Schmidt',
     ],
 ];
+
+// phpcs:enable

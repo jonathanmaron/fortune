@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '51aa850f-7243-533b-b4a9-f6dfefe0c0b8' => [
         'Many years ago, large packs of wolves roamed the countryside in Ukraine, making travel in that part of the world very dangerous. These wolf packs were fearless. They were not intimidated by people nor by any of the weapons available at that time. The only thing that seemed to frighten them was fire.',
@@ -1003,3 +1007,5 @@ return [
         'Ray Dalio',
     ],
 ];
+
+// phpcs:enable

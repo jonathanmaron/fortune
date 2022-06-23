@@ -33,15 +33,14 @@ class ImportCommand extends AbstractCommand
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         // <editor-fold desc="InputOption: (string) path">
 
-        $path = (string) $input->getOption('path');
+        $path = $input->getOption('path');
+        assert(is_string($path));
         $path = trim($path);
 
         if (!is_dir($path)) {
@@ -49,14 +48,12 @@ class ImportCommand extends AbstractCommand
             throw new InvalidArgumentException($message);
         }
 
-        $path = (string) $path;
         $path = realpath($path);
+        assert(is_string($path));
 
         $this->setPath($path);
 
         // </editor-fold>
-
-        return;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -99,7 +96,7 @@ class ImportCommand extends AbstractCommand
 
         if ($addFortunesCount > 0) {
             $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
-            $filesystem->dumpFiles($outputPath, "%'.05d.php", $chunks);
+            $filesystem->arrayExportFiles($outputPath, "%'.05d.php", $chunks);
         }
 
         $curFortunesCount = count($curFortunes);

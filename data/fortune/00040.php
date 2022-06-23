@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'ad6dc9d7-497f-5c0e-9018-01997ea87124' => [
         'If it\'s your job to eat a frog, it\'s best to do it first thing in the morning. And If it\'s your job to eat two frogs, it\'s best to eat the biggest one first.',
@@ -220,7 +224,7 @@ return [
     ],
     'ae3a4bcc-bb25-5398-b800-8e866b6974b8' => [
         'Science is organized knowledge. Wisdom is organized life.',
-        'Eileen Caddy',
+        'Immanuel Kant',
     ],
     'ae3ee416-338f-5b48-9d7d-b695698b0bf6' => [
         'Personal health is related to self-control and to the worship of life in all its natural beauty - self-control bringing with it happiness, renewed youth, and long life.',
@@ -892,7 +896,7 @@ return [
     ],
     'b1bf57f9-3c61-5a51-9add-b57a465b4e2c' => [
         'Life is like riding a bicycle. To keep your balance you must keep moving.',
-        'Einstein',
+        'Albert Einstein',
     ],
     'b1c48f94-98fe-5a8b-b24d-e071ea1093e3' => [
         'There are no lines in nature, only areas of colour, one against another.',
@@ -1003,3 +1007,5 @@ return [
         'Edward de Bono',
     ],
 ];
+
+// phpcs:enable

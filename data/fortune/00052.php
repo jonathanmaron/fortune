@@ -1,10 +1,14 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'e4bc1743-9df0-54d6-bdc7-b02433e91d83' => [
-        'I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody.',
-        'Herbert Bayard Swope',
+        'I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.',
+        'Herbert Swope',
     ],
     'e4c5a8f5-3184-5f63-b690-6b10f8876a56' => [
         'I wake up every day with a smile on my face.',
@@ -1003,3 +1007,5 @@ return [
         'Mel Brooks',
     ],
 ];
+
+// phpcs:enable

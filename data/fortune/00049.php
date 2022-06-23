@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     'd34fddb7-8808-5af7-b5e2-8b62c4be0ac9' => [
         'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
@@ -136,7 +140,7 @@ return [
     ],
     'd55cc16d-1f54-525b-aa5a-1eef504e84ff' => [
         'People grow through experience if they meet life honestly and courageously. This is how character is built.',
-        'Bobby Brown',
+        'Eleanor Roosevelt',
     ],
     'd55e0884-d69e-557f-988b-aa24ec804420' => [
         'The purpose of human life is to serve, and to show compassion and the will to help others.',
@@ -820,7 +824,7 @@ return [
     ],
     'd7221e0d-fbf5-5fa2-bffa-3785ef24a312' => [
         'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
-        'Bernice Johnson Reagon',
+        'Bernice Reagon',
     ],
     'd7381c41-38d8-5310-86ec-fd43957b5485' => [
         'I surround myself with positive, productive people of good will and decency.',
@@ -1003,3 +1007,5 @@ return [
         'LeBron James',
     ],
 ];
+
+// phpcs:enable

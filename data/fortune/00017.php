@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '28ab378c-ef3a-53bd-bd9a-2e41672e1054' => [
         'If one is master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.',
@@ -1003,3 +1007,5 @@ return [
         'Michael Franti',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
         'I want to see friends more and travel more.',
@@ -371,7 +375,7 @@ return [
         'Richard Avedon',
     ],
     '77f39603-a2c7-5ff0-a5e3-1f4b19b0b737' => [
-        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
+        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything hes got.',
         'Walter Cronkite',
     ],
     '77ff765b-7bb6-5653-b120-ce967e3cd655' => [
@@ -1003,3 +1007,5 @@ return [
         'Martin Seligman',
     ],
 ];
+
+// phpcs:enable

@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '8ca8ea5f-62e0-5161-9353-bf98322d1001' => [
         'My parents are both really, really funny, and my little sister is a really good painter, and my other sister is a really good writer.',
@@ -319,7 +323,7 @@ return [
         'Walter Chrysler',
     ],
     '8db3d89f-5af4-5151-b0fb-4cd65d5b882e' => [
-        'Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.',
+        'Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity',
         'Louis Pasteur',
     ],
     '8db7724c-231b-51b9-8874-350437941796' => [
@@ -424,7 +428,7 @@ return [
     ],
     '8e0e4a05-3fb9-5352-9152-564a7ca49741' => [
         'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
-        'Proverb',
+        'Unknown',
     ],
     '8e00b4d4-984b-5bd0-9826-ea6190cd6901' => [
         'For most Americans, Friday afternoons are filled with positive anticipation of the weekend. In Washington, it\'s where government officials dump stories they want to bury. Good news gets dropped on Monday so bureaucrats can talk about it all week.',
@@ -1003,3 +1007,5 @@ return [
         'Zac Efron',
     ],
 ];
+
+// phpcs:enable

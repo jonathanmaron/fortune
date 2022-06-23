@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '0a0c7218-6a38-5009-9b10-ffe9ccc955ce' => [
         'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
@@ -731,8 +735,8 @@ return [
         'Gigi Hadid',
     ],
     '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
-        'In three words I can sum up everything I\'ve learned about life: it goes on.',
-        'Philip Sidney',
+        'In three words I can sum up everything Ive learned about life: it goes on.',
+        'Robert Frost',
     ],
     '0d0715ca-9f70-586c-b788-709c17d3f4e4' => [
         'In terms of the Eastern Europe stories, my family is originally from there; even as a kid, it was the Russian writers I loved most, and I\'ve spent a substantial amount of time there myself, traveling and on research grants.',
@@ -976,7 +980,7 @@ return [
     ],
     '0e7b0ca4-a90e-5a44-ba69-a36dc89f9357' => [
         'If a man does his best, what else is there?',
-        'George S. Patton',
+        'George Patton',
     ],
     '00e7cdd0-0046-58ce-affc-09c469b2e6cd' => [
         'When a man becomes a writer, I think he takes on a sacred obligation to produce beauty and enlightenment and comfort at top speed.',
@@ -1003,3 +1007,5 @@ return [
         'William Wordsworth',
     ],
 ];
+
+// phpcs:enable

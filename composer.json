@@ -5,6 +5,8 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.4",
+        "ext-json": "*",
+        "ext-intl": "*",
         "psr/container": "^1.0",
         "ramsey/uuid": "^3.7",
         "riimu/kit-phpencoder": "^2.4",
@@ -32,6 +34,7 @@
     "scripts": {
         "phpcs": "vendor/bin/phpcs",
         "test": "vendor/bin/phpunit test",
-        "phpstan": "vendor/bin/phpstan analyse"
+        "phpstan": "rm -fr build/phpstan && mkdir -p build/phpstan && vendor/bin/phpstan analyse --error-format=raw | tee build/phpstan/output.txt",
+        "phpstan-baseline": "vendor/bin/phpstan analyse --generate-baseline"
     }
 }

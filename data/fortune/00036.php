@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+// This file was programmatically built
+
+// phpcs:disable
+
 return [
     '37818799-5c08-5fae-895f-5e7c06cefef0' => [
         'A lot of people say, \'What set the Attitude Era up?\' or, \'What started the Attitude Era?\' To me - and I was allegedly the leader of it - sports entertainment, pro wrestling, whatever you want to call it has always had an attitude. So, why that particular generation got labeled, I don\'t know.',
@@ -392,7 +396,7 @@ return [
     ],
     '70678915-5e9a-5db7-bceb-2a2da3f11bd4' => [
         'Nothing is a waste of time if you use the experience wisely.',
-        'Auguste Rodin',
+        'Rodin',
     ],
     '70712888-9920-5bc0-8561-a65a138d7d79' => [
         'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.',
@@ -1003,3 +1007,5 @@ return [
         'Mahalia Jackson',
     ],
 ];
+
+// phpcs:enable
