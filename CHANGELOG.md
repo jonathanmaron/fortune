@@ -1,12 +1,9 @@
 # CHANGELOG
 
-## dev-php-7.4
-
-* Added support for PHP 7.4.
-* Updated to PHPUnit 8.
-
 ## dev-master
 
+* QA fixes.
+* Added support for PHP 7.4.
 * Naturally sorted all data.
 * Added command `purge`.
 * Added `--wait` option to command `fortune`.
@@ -19,7 +16,3 @@
 * Added `--length` option to command `fortune`. 
 * Added `--author` option to command `fortune`. 
 * Set the default `--wordwrap` to command `fortune` to the terminal window width minus one.
-
-## 1.0.0 - 2018-xx-xx
-
-* No releases yet.
