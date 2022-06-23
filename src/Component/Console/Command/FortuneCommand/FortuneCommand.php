@@ -141,7 +141,7 @@ class FortuneCommand extends AbstractCommand
 
             $lengths = array_map(function (int $int): string {
                 return (string) $int;
-            }, array_values($fortune->getAllLengths()));
+            }, $fortune->getAllLengths());
 
             if (!in_array($length, $lengths, true)) {
                 $message = '--length contains an invalid length';
