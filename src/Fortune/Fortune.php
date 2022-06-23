@@ -62,7 +62,7 @@ class Fortune extends AbstractFortune
 
         $stack = [];
         foreach ($finder->php($this->getFortunePath()) as $fileInfo) {
-            array_push($stack, $fileInfo->getPathname());
+            $stack[] = $fileInfo->getPathname();
         }
 
         $randKey = array_rand($stack);

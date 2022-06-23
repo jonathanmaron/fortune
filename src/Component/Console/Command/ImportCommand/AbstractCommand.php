@@ -55,9 +55,8 @@ abstract class AbstractCommand extends ParentCommand
     protected function filter(string $string): string
     {
         $string = str_replace('’', "'", $string);
-        $string = trim($string);
 
-        return $string;
+        return trim($string);
     }
 
     protected function uuid(string $quote): string

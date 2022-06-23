@@ -6,20 +6,24 @@ namespace Application\Component\Console\Command;
 use Application\Fortune\Fortune;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
-use Application\Component\Console\Command\AbstractCommand;
 
 class Factory
 {
     public function __invoke(
-        ?ContainerInterface $container = null,
-        ?string $requestedName = null,
-        ?array $options = null
+        ContainerInterface $container = null,
+        string $requestedName = '',
+        array $options = []
     ): Command {
-        $path = sprintf('%s/data', APPLICATION_ROOT);
 
         $fortune = new Fortune();
-        $fortune->setFortunePath("{$path}/fortune");
-        $fortune->setIndexPath("{$path}/index");
+
+        $path = sprintf('%s/data', APPLICATION_ROOT);
+
+        $fortunePath = sprintf('%s/fortune', $path);
+        $fortune->setFortunePath($fortunePath);
+
+        $indexPath = sprintf('%s/index', $path);
+        $fortune->setIndexPath($indexPath);
 
         $command = new $requestedName;
         assert($command instanceof AbstractCommand);

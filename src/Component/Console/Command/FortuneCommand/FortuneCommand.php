@@ -139,7 +139,11 @@ class FortuneCommand extends AbstractCommand
                 throw new InvalidArgumentException($message);
             }
 
-            if (!in_array($length, $fortune->getAllLengths(), true)) {
+            $lengths = array_map(function (int $int): string {
+                return (string) $int;
+            }, array_values($fortune->getAllLengths()));
+
+            if (!in_array($length, $lengths, true)) {
                 $message = '--length contains an invalid length';
                 throw new InvalidArgumentException($message);
             }
