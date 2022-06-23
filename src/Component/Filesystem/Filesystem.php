@@ -30,17 +30,7 @@ class Filesystem extends ParentFilesystem
 
     private function serialize(array $data): string
     {
-        $options    = [
-            'array.align'   => true,  // Documentation is at:
-            'array.indent'  => 4,     // https://goo.gl/YTobc2
-            'array.inline'  => false,
-            'array.omit'    => true,
-            'array.short'   => true,
-            'object.format' => 'export',
-            'string.utf8'   => true,
-            'whitespace'    => true,
-        ];
-        $phpEncoder = new PhpEncoder($options);
+        $phpEncoder = new PhpEncoder();
 
         $format = <<<EOT
             <?php
