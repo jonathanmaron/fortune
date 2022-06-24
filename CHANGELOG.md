@@ -2,7 +2,9 @@
 
 ## dev-master
 
-* QA fixes.
+* Added support for PHP 8.1.
+* Moved `Application` namespace to `App`.
+* Using static analysis, improved code quality.
 * Added support for PHP 7.4.
 * Naturally sorted all data.
 * Added command `purge`.

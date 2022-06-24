@@ -45,11 +45,12 @@ class PurgeCommand extends AbstractCommand
             $filesystem->mkdir($path);
         });
 
-        $lns = [
+        $path = sprintf('%s/import/json', dirname($fortune->getFortunePath(), 2));
+        $lns  = [
             '',
             'Now execute:',
             '',
-            'fortune import --path=import/json ; fortune index ; fortune',
+            sprintf('fortune import --path=%s ; fortune index ; fortune', $path),
             '',
         ];
         $output->writeln($lns);
