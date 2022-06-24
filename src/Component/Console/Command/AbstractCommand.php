@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command;
+namespace App\Component\Console\Command;
 
-use Application\Fortune\Fortune;
+use App\Fortune\Fortune;
 use Symfony\Component\Console\Command\Command as ParentCommand;
 
 abstract class AbstractCommand extends ParentCommand

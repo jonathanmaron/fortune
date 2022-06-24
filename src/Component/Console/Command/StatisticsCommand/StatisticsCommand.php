@@ -1,57 +1,24 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command\StatisticsCommand;
+namespace App\Component\Console\Command\StatisticsCommand;
 
-use Application\Exception\InvalidArgumentException;
+use App\Exception\InvalidArgumentException;
 use Symfony\Component\Console\Helper\Table;
 use Symfony\Component\Console\Input\InputInterface;
-use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class StatisticsCommand extends AbstractCommand
 {
     protected function configure(): void
     {
-        $this->setName('statistics');
-
-        $this->setDescription('Show statistics');
-
-        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
-
-        // <editor-fold desc="InputOption: (int) limit">
-
-        $name        = 'limit';
-        $shortcut    = null;
-        $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Show top "limit" rows only';
-        $default     = '';
-
-        $this->addOption($name, $shortcut, $mode, $description, $default);
-
-        // </editor-fold>
+        $this->configureCommand();
+        $this->configureLimit();
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
-        // <editor-fold desc="InputOption: (int) limit">
-
-        $limit = $input->getOption('limit');
-        assert(is_string($limit));
-        $limit = trim($limit);
-
-        if (strlen($limit) > 0) {
-            if (!ctype_digit($limit)) {
-                $message = '--limit must be an integer';
-                throw new InvalidArgumentException($message);
-            }
-        }
-
-        $limit = (int) $limit;
-
-        $this->setLimit($limit);
-
-        // </editor-fold>
+        $this->initializeLimit($input);
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

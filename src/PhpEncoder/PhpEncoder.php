@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\PhpEncoder;
+namespace App\PhpEncoder;
 
 use Riimu\Kit\PHPEncoder\PHPEncoder as ParentPhpEncoder;
 

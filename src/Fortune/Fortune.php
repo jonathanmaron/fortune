@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Fortune;
+namespace App\Fortune;
 
-use Application\Component\Finder\Finder;
+use App\Component\Finder\Finder;
 
 class Fortune extends AbstractFortune
 {
@@ -13,7 +13,7 @@ class Fortune extends AbstractFortune
 
         $finder = new Finder();
         foreach ($finder->php($this->getFortunePath()) as $fileInfo) {
-            $ret = array_merge($ret, include $fileInfo->getPathname());
+            $ret += include $fileInfo->getPathname();
         }
 
         return $ret;
@@ -47,12 +47,12 @@ class Fortune extends AbstractFortune
 
     public function getRandomFortune(): array
     {
-        $stack   = include $this->getRandomFilename();
-        $randKey = array_rand($stack);
+        $stack = include $this->getRandomFilename();
+        $key   = array_rand($stack);
 
         return [
-            $stack[$randKey][0] ?? null,
-            $stack[$randKey][1] ?? null,
+            $stack[$key][0] ?? '',
+            $stack[$key][1] ?? '',
         ];
     }
 
@@ -65,9 +65,9 @@ class Fortune extends AbstractFortune
             $stack[] = $fileInfo->getPathname();
         }
 
-        $randKey = array_rand($stack);
+        $key = array_rand($stack);
 
-        return $stack[$randKey];
+        return $stack[$key];
     }
 
     public function getRandomShortFortune(): array
@@ -76,16 +76,12 @@ class Fortune extends AbstractFortune
         $lengths      = $this->getAllLengths();
 
         $lengths = array_filter($lengths, function ($length) use ($medianLength) {
-            if ($medianLength < $length) {
-                return false;
-            }
-
-            return true;
+            return $medianLength > $length;
         });
 
-        $randomKey = array_rand($lengths);
+        $key = array_rand($lengths);
 
-        return $this->getRandomFortuneByLength($lengths[$randomKey]);
+        return $this->getRandomFortuneByLength($lengths[$key]);
     }
 
     public function getRandomLongFortune(): array
@@ -93,25 +89,21 @@ class Fortune extends AbstractFortune
         $medianLength = $this->getMedianFortuneLength();
         $lengths      = $this->getAllLengths();
         $lengths      = array_filter($lengths, function ($length) use ($medianLength) {
-            if ($medianLength > $length) {
-                return false;
-            }
-
-            return true;
+            return $medianLength < $length;
         });
 
-        $randomKey = array_rand($lengths);
+        $key = array_rand($lengths);
 
-        return $this->getRandomFortuneByLength($lengths[$randomKey]);
+        return $this->getRandomFortuneByLength($lengths[$key]);
     }
 
     private function getMedianFortuneLength(): int
     {
         $lengths = array_values($this->getAllLengths());
         sort($lengths, SORT_NUMERIC);
-        $middleKey = floor(count($lengths) / 2);
+        $key = floor(count($lengths) / 2);
 
-        return (int) $lengths[$middleKey];
+        return (int) $lengths[$key];
     }
 
     public function getRandomFortuneByLength(int $length): array
@@ -125,7 +117,7 @@ class Fortune extends AbstractFortune
     }
 
     /**
-     * @param string $key
+     * @param string     $key
      * @param int|string $value
      *
      * @return array
@@ -146,10 +138,10 @@ class Fortune extends AbstractFortune
 
         $randKey = array_rand($index[$value]);
         $ref     = $index[$value][$randKey];
-        $file    = $ref[0] ?? null;
-        $uuid    = $ref[1] ?? null;
+        $file    = $ref[0] ?? '';
+        $uuid    = $ref[1] ?? '';
 
-        if (null === $file || null === $uuid) {
+        if ('' === $file || '' === $uuid) {
             return [];
         }
 

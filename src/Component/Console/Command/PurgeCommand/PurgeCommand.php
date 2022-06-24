@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command\PurgeCommand;
+namespace App\Component\Console\Command\PurgeCommand;
 
-use Application\Component\Filesystem\Filesystem;
+use App\Component\Filesystem\Filesystem;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\ConfirmationQuestion;
@@ -12,11 +12,7 @@ class PurgeCommand extends AbstractCommand
 {
     protected function configure(): void
     {
-        $this->setName('purge');
-
-        $this->setDescription('Purge the data directories');
-
-        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+        $this->configureCommand();
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -49,12 +45,14 @@ class PurgeCommand extends AbstractCommand
             $filesystem->mkdir($path);
         });
 
-        $output->writeln('');
-        $output->writeln('Now execute commands:');
-        $output->writeln('');
-        $output->writeln('fortune import --path=import/json');
-        $output->writeln('fortune index');
-        $output->writeln('');
+        $lns = [
+            '',
+            'Now execute:',
+            '',
+            'fortune import --path=import/json ; fortune index ; fortune',
+            '',
+        ];
+        $output->writeln($lns);
 
         return 0;
     }

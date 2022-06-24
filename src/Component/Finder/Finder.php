@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Finder;
+namespace App\Component\Finder;
 
 use Symfony\Component\Finder\Finder as ParentFinder;
 

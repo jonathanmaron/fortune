@@ -1,19 +1,21 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Filesystem;
+namespace App\Component\Filesystem;
 
-use Application\PhpEncoder\PhpEncoder;
+use App\PhpEncoder\PhpEncoder;
+use Ramsey\Uuid\Uuid;
 use Symfony\Component\Filesystem\Filesystem as ParentFilesystem;
 
 class Filesystem extends ParentFilesystem
 {
-    public function arrayExportFiles(string $path, string $pattern, array $chunks): bool
+    public function arrayExportFiles(string $path, array $chunks): bool
     {
         $counter = 1;
         foreach ($chunks as $chunk) {
-            $file     = sprintf($pattern, $counter);
-            $filename = sprintf("%s/%s", $path, $file);
+            $name     = sprintf('%s %d', __METHOD__, $counter);
+            $uuid5    = Uuid::uuid5(APP_UUID5_NAMESPACE, $name);
+            $filename = sprintf("%s/%s.php", $path, $uuid5->toString());
             $this->arrayExportFile($filename, $chunk);
             $counter++;
         }

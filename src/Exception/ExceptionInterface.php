@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Exception;
+namespace App\Exception;
 
 interface ExceptionInterface
 {

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Fortune;
+namespace App\Fortune;
 
 abstract class AbstractFortune
 {

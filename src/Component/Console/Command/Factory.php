@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command;
+namespace App\Component\Console\Command;
 
-use Application\Fortune\Fortune;
+use App\Fortune\Fortune;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
 
@@ -17,13 +17,8 @@ class Factory
 
         $fortune = new Fortune();
 
-        $path = sprintf('%s/data', APPLICATION_ROOT);
-
-        $fortunePath = sprintf('%s/fortune', $path);
-        $fortune->setFortunePath($fortunePath);
-
-        $indexPath = sprintf('%s/index', $path);
-        $fortune->setIndexPath($indexPath);
+        $fortune->setFortunePath(APP_PATH_FORTUNE);
+        $fortune->setIndexPath(APP_PATH_INDEX);
 
         $command = new $requestedName;
         assert($command instanceof AbstractCommand);

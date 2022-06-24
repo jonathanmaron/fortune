@@ -1,17 +1,75 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command\ImportCommand;
+namespace App\Component\Console\Command\ImportCommand;
 
-use Application\Component\Console\Command\AbstractCommand as ParentCommand;
-use Application\Component\Finder\Finder;
+use App\Component\Console\Command\AbstractCommand as ParentCommand;
+use App\Component\Finder\Finder;
+use App\Exception\InvalidArgumentException;
 use Ramsey\Uuid\Uuid;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Input\InputOption;
 
 abstract class AbstractCommand extends ParentCommand
 {
+    // <editor-fold desc="Class Constants">
+
     protected const FORTUNES_PER_FILE = 250;
 
+    // </editor-fold>
+
+    // <editor-fold desc="Class Properties">
+
     protected string $path = '';
+
+    // </editor-fold>
+
+    // <editor-fold desc="Command Configuration">
+
+    protected function configureCommand(): void
+    {
+        $this->setName('import');
+
+        $this->setDescription('Import fortunes from JSON files');
+
+        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+    }
+
+    protected function configurePath(): void
+    {
+        $name        = 'path';
+        $shortcut    = null;
+        $mode        = InputOption::VALUE_REQUIRED;
+        $description = 'Path to JSON files containing fortunes';
+        $default     = '';
+
+        $this->addOption($name, $shortcut, $mode, $description, $default);
+    }
+
+    // </editor-fold>
+
+    // <editor-fold desc="Option Value Validation and Setting">
+
+    protected function initializePath(InputInterface $input): void
+    {
+        $path = $input->getOption('path');
+        assert(is_string($path));
+        $path = trim($path);
+
+        if (!is_dir($path)) {
+            $message = '--path contains an invalid path';
+            throw new InvalidArgumentException($message);
+        }
+
+        $path = realpath($path);
+        assert(is_string($path));
+
+        $this->setPath($path);
+    }
+
+    // </editor-fold>
+
+    // <editor-fold desc="Helpers">
 
     protected function getNewFortunes(string $inputPath): array
     {
@@ -20,7 +78,7 @@ abstract class AbstractCommand extends ParentCommand
         $finder = new Finder();
 
         foreach ($finder->json($inputPath) as $fileInfo) {
-            $json  = file_get_contents($fileInfo->getPathname());
+            $json = file_get_contents($fileInfo->getPathname());
             assert(is_string($json));
             $array = json_decode($json, true);
             assert(is_array($array));
@@ -65,10 +123,14 @@ abstract class AbstractCommand extends ParentCommand
         $name = preg_replace('/[^a-z]/', '', $name);
         assert(is_string($name));
 
-        $uuid5 = Uuid::uuid5(Uuid::NIL, $name);
+        $uuid5 = Uuid::uuid5(APP_UUID5_NAMESPACE, $name);
 
         return strtolower($uuid5->toString());
     }
+
+    // </editor-fold>
+
+    // <editor-fold desc="Option Getters & Setters">
 
     protected function getPath(): string
     {
@@ -81,4 +143,6 @@ abstract class AbstractCommand extends ParentCommand
 
         return $this;
     }
+
+    // </editor-fold>
 }

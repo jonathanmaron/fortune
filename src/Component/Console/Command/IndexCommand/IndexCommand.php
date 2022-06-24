@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Component\Console\Command\IndexCommand;
+namespace App\Component\Console\Command\IndexCommand;
 
-use Application\Component\Filesystem\Filesystem;
-use Application\Component\Finder\Finder;
+use App\Component\Filesystem\Filesystem;
+use App\Component\Finder\Finder;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
@@ -12,11 +12,7 @@ class IndexCommand extends AbstractCommand
 {
     protected function configure(): void
     {
-        $this->setName('index');
-
-        $this->setDescription('Build indexes');
-
-        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+        $this->configureCommand();
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int

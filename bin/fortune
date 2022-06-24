@@ -4,8 +4,7 @@ declare(strict_types=1);
 
 require_once dirname(__FILE__, 2) . '/vendor/autoload.php';
 
-use Application\Component\Console\Application;
+use App\Component\Console\App;
 
-$application = new Application();
-$application->setDefaultCommand('fortune');
-$application->run();
+(new App())->setDefaultCommand('fortune')->run();
+
