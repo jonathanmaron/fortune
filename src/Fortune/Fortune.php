@@ -115,6 +115,8 @@ class Fortune extends AbstractFortune
     }
 
     /**
+     * @todo: Switch to union type when supporting only php 8.0 and newer
+     *
      * @param string     $key
      * @param int|string $value
      *
