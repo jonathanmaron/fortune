@@ -684,7 +684,7 @@ return [
     ],
     'f233f479-bb38-5728-857f-8ded8cdc050e' => [
         'Happiness is when what you think, what you say, and what you do are in harmony.',
-        'Mohandas Gandhi',
+        'Mahatma Gandhi',
     ],
     'f261f62d-80fa-5049-8c60-c098c9e121f9' => [
         'If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.',

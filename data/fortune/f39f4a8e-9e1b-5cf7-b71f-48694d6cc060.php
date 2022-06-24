@@ -876,7 +876,7 @@ return [
     ],
     'bea9455f-8402-5ac5-b4fc-6f8c059d6700' => [
         'If you love life, don\'t waste time, for time is what life is made up of.',
-        'Bruce Lee',
+        'Pope John XXIII',
     ],
     'bea39874-61b3-5370-bbb5-4f1503ca922f' => [
         'Over the years, I\'ve learnt how to strike a balance between both my lives and give quality time to my passion as well as to my family. Yes, it is tiring at times, and every working woman goes through the phase.',

@@ -416,7 +416,7 @@ return [
     ],
     '5053966e-5bf3-505c-9735-17b5f858fc6e' => [
         'Turn your face toward the sun and the shadows will fall behind you.',
-        'Maori proverb',
+        'Maori Proverb',
     ],
     '5059943d-3074-5481-979f-bb1e3cce56ca' => [
         'I know some people will be surprised to hear it, but I\'ve found that my music, whether its blues or rock, or whatever you want to call it, can be channeled into a positive direction that actually helps people.',
@@ -900,7 +900,7 @@ return [
     ],
     '15187792-9a48-5c61-a301-a23fd9a3e1d7' => [
         'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
-        'John Kennedy',
+        'John D. Rockefeller',
     ],
     '15458835-329a-5ef1-bd19-a5b0019721f6' => [
         'Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.',

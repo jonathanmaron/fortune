@@ -119,7 +119,7 @@ return [
         'Tori Spelling',
     ],
     'a38a8116-aadb-5988-8b13-2cbdabbd3b1b' => [
-        'Wrinkles should merely indicate where smiles have been.',
+        'Wrinkles should merely indicate where smiles have been',
         'Mark Twain',
     ],
     'a38c1b28-982e-5ece-8a8f-8be97d147698' => [
@@ -227,12 +227,12 @@ return [
         'Susanne Bier',
     ],
     'a58b22b0-169d-5634-bc23-1677ee39da6f' => [
-        'If one way be better than another, that you may be sure is natures way.',
+        'If one way be better than another, that you may be sure is nature\'s way.',
         'Aristotle',
     ],
     'a58dbc9b-4deb-5887-8336-ef8c9d8b615f' => [
         'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
-        'Buddha',
+        'Jim Rohn',
     ],
     'a59a9718-2aed-5a1c-8515-c487544d7e11' => [
         'The bird of paradise alights only upon the hand that does not grasp.',

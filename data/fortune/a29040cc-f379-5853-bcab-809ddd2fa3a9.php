@@ -99,7 +99,7 @@ return [
         'James Cromwell',
     ],
     'd2a04c87-fb0e-5760-892e-02f7657f1f5b' => [
-        'If only wed stop trying to be happy wed have a pretty good time.',
+        'If only we\'d stop trying to be happy we\'d have a pretty good time.',
         'Edith Wharton',
     ],
     'd2a3f03d-16ac-5c1c-8170-7c500463edd3' => [
@@ -539,7 +539,7 @@ return [
         'Pope Francis',
     ],
     'd7ee3419-0749-5e2f-ae95-403a2635687e' => [
-        'Keep your eyes on the stars and your feet on the ground.',
+        'Keep your eyes on the stars, and your feet on the ground.',
         'Theodore Roosevelt',
     ],
     'd7f1aa15-cc20-5f99-b65c-7a076cbcc50e' => [
@@ -779,8 +779,8 @@ return [
         'John Muir',
     ],
     'd9fcfea6-e855-5176-8d62-7a13eb12c0e3' => [
-        'I am not afraid of tomorrow, for I have seen yesterday and I love today.',
-        'William White',
+        'I am not afraid of tomorrow, for I have seen yesterday and I love today!',
+        'William Allen White',
     ],
     'd9fe206c-82c8-5fc0-b7bc-4980fa63e02c' => [
         'Since I travel so much, it\'s always great to be home. There\'s nothing like getting to raid my own refrigerator at two in the morning.',

@@ -984,7 +984,7 @@ return [
     ],
     '90fb5fe6-3372-5aa6-85d7-b18d5115e368' => [
         'You have enemies? Good. That means you\'ve stood up for something, sometime in your life.',
-        'Winston Churchill',
+        'Victor Kiam',
     ],
     '91a1d67f-8c23-590b-87c0-11bd578b7253' => [
         'I\'m not trying to win an award for being the best vegetarian, just want to be healthy. Take a salt bath. Do things that my parents were never able to do. I\'m blessed to do anything I want, so I decide to take the best care of my body and my family in the same way. Holistically. Vitally.',

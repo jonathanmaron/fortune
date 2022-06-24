@@ -831,7 +831,7 @@ return [
         'Wayne Dyer',
     ],
     '57afb281-02b6-5d6b-b360-1cdab5c89bc7' => [
-        'Ability is what you\'re capable of doing. Motivation determines what you do.Attitude determines how well you do it.',
+        'Ability is what you\'re capable of doing. Motivation determines what you do. Attitude determines how well you do it.',
         'Lou Holtz',
     ],
     '57b2ea54-38ea-50f1-ab58-819833d0c457' => [

@@ -132,7 +132,7 @@ return [
     ],
     '0a5425eb-38b7-56fd-a4ff-dd13371e2075' => [
         'Nature is a mutable cloud which is always and never the same.',
-        'Ralph Emerson',
+        'Ralph Waldo Emerson',
     ],
     '0a19494b-dcac-5612-8b97-2406918bc298' => [
         'I can and I will. Watch me.',
@@ -180,7 +180,7 @@ return [
     ],
     '0aaf6973-8c23-5e20-844d-b953ddf1e504' => [
         'If a man does his best, what else is there?',
-        'George Patton',
+        'George S. Patton',
     ],
     '0ab1ea92-9887-5e39-9ee3-1148c67449b0' => [
         'Cheney, Rumsfeld - they were Shakespearean in their attitude of impunity.',

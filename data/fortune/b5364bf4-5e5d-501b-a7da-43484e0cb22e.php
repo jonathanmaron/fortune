@@ -232,7 +232,7 @@ return [
     ],
     '706e8f19-3679-554c-b76a-d5cef1f2bd64' => [
         'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
-        'Morris West',
+        'Michael Jordan',
     ],
     '706ecd50-e2d6-51f4-aa6b-1ad44176f255' => [
         'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
@@ -563,7 +563,7 @@ return [
         'Gail Devers',
     ],
     '765f89fb-717e-52ce-ab68-d8cad0aa0c2d' => [
-        'Kindness is the language which the deaf can hear and the blind can see.',
+        'Kindness is the language which the deaf can hear and the blind can see',
         'Mark Twain',
     ],
     '0766cd4b-ea07-5dfd-aa60-426a7a260cc7' => [

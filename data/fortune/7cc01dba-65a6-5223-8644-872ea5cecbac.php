@@ -483,8 +483,8 @@ return [
         'Thomas S. Monson',
     ],
     'b4559ba2-c08f-569f-8536-6a4a0e4d244a' => [
-        'Whoever is happy will make others happy, too.',
-        'Mark Twain',
+        'Whoever is happy will make others happy too.',
+        'Anne Frank',
     ],
     'b4859b49-b42e-5013-ac60-aad59cb31c4b' => [
         'Properly used, positive reinforcement is extremely powerful.',

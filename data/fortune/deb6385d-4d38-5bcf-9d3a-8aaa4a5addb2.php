@@ -600,7 +600,7 @@ return [
     ],
     'ca721a3a-bebf-567c-b033-aafdc86f27f3' => [
         'Life is 10% what happens to you and 90% how you react to it.',
-        'Charles Swindoll',
+        'Charles R. Swindoll',
     ],
     'ca816fe0-78ca-5002-9e96-c4bb685f8e05' => [
         'Would Jove appoint some flower to reign, in matchless beauty on the plain, the Rose (mankind will all agree). The Rose the queen of flowers should be.',

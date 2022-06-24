@@ -180,7 +180,7 @@ return [
     ],
     '7dd0bb4e-269e-5fc8-86e2-73115969b60a' => [
         'Character develops itself in the stream of life.',
-        'Johann Wolfgang von Goethe',
+        'Joan Rivers',
     ],
     '7dd1e3ca-b225-5790-9701-be9e8f9bbe69' => [
         'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
@@ -363,7 +363,7 @@ return [
         'Gigi Hadid',
     ],
     '7e480d6b-fa6d-5063-b1b3-733f1d551af6' => [
-        'Either you run the day or the day runs you.',
+        'Either you run the day, or the day runs you.',
         'Jim Rohn',
     ],
     '7e526f48-9e55-5e28-a7cf-a5a6347d5ccf' => [
@@ -528,7 +528,7 @@ return [
     ],
     '7f8adcf3-b1e8-5540-b62d-1b8dbd62e075' => [
         'I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.',
-        'Lee Womack',
+        'Lee Ann Womack',
     ],
     '7f8fb253-f585-53c1-941f-0ec58f80907e' => [
         'Don\'t worry about being a star, worry about doing good work, and all that will come to you.',
@@ -984,7 +984,7 @@ return [
     ],
     '8adeffd1-3011-52e4-823b-774c54c6e659' => [
         'Nobody made a greater mistake than he who did nothing because he could do only a little.',
-        'Edmund Burke',
+        'Joseph Addison',
     ],
     '8adf7b36-84ad-5a42-b744-f92c56a7e541' => [
         'I try to make the good days great and take something positive from the days I\'m not feeling good - work on technique or something like that.',

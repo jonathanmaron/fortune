@@ -107,8 +107,8 @@ return [
         'Ralph Waldo Emerson',
     ],
     'eb834733-2a1b-56fc-bf72-f8dc562337c6' => [
-        'If you get up one more time than you fall, you will make it through.',
-        'Unknown',
+        'If you get up one more time than you fall, you will make it through',
+        'Chinese Proverb',
     ],
     'eb884573-3b14-5282-a718-db45087c18a6' => [
         'I want to do what I love, which is act, and hopefully through that, leave a positive impact somehow, someway, with somebody.',
@@ -199,8 +199,8 @@ return [
         'W. C. Fields',
     ],
     'ebde5442-b6cd-5bb0-a8d0-21c1594d7685' => [
-        'Life is a succession of moments. To live each one is to succeed.',
-        'Corita Kent',
+        'Life is a succession of moments, to live each one is to succeed.',
+        'Eckhart Tolle',
     ],
     'ebe1eabd-e265-55b1-a6ab-4b4957c20881' => [
         'The Indian Summer of life should be a little sunny and a little sad, like the season, and infinite in wealth and depth of tone, but never hustled.',

@@ -688,7 +688,7 @@ return [
     ],
     '05f179f0-9eba-51af-ade5-5f5c44ecece0' => [
         'People of mediocre ability sometimes achieve outstanding success because they don\'t know when to quit. Most men succeed because they are determined to.',
-        'George Allen',
+        'George Allen, Sr.',
     ],
     '5f232cf4-9266-590b-a460-92512617463e' => [
         'The first time I see a jogger smiling, I\'ll consider it.',
@@ -828,7 +828,7 @@ return [
     ],
     '6a1d4b65-c4cd-5acd-a23c-5e1918fff020' => [
         'What lies behind us and what lies before us are tiny matters compared to what lies within us.',
-        'Walt Emerson',
+        'Ralph Waldo Emerson',
     ],
     '6a1d6c61-1b26-515d-99e9-56d50ade1f7e' => [
         'I travel a lot, so when I arrive in a city, I like to go to good local bookshops and make a selection based on how I\'m feeling and what I\'m thinking. The book I pick usually seems to have a definite karmic connection!',

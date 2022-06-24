@@ -115,7 +115,7 @@ return [
         'Walter Chrysler',
     ],
     '65116a87-24c9-5a14-9196-c035f5a041ce' => [
-        'Loss is nothing else but change,and change is Natures delight.',
+        'Loss is nothing else but change, and change is Nature\'s delight.',
         'Marcus Aurelius',
     ],
     '65184c56-bb1d-5694-acb1-e56b5f100cf4' => [
@@ -696,7 +696,7 @@ return [
     ],
     '93525d0c-4d64-5cbf-b1bf-632e8e907975' => [
         'Do not go where the path may lead, go instead where there is no path and leave a trail.',
-        'Ralph Emerson',
+        'Ralph Waldo Emerson',
     ],
     '93542adf-0c1c-5a25-87be-d69a574447a3' => [
         'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
@@ -748,7 +748,7 @@ return [
     ],
     '95777d1d-7501-5610-9b80-8a95c16cefdc' => [
         'We aim above the mark to hit the mark.',
-        'Ralph Emerson',
+        'Ralph Waldo Emerson',
     ],
     '95929f28-96e8-54f3-8b3b-a54fb3da8bed' => [
         'Winners embrace hard work. They love the discipline of it, the trade-off they\'re making to win. Losers, on the other hand, see it as punishment. And that\'s the difference.',

@@ -508,7 +508,7 @@ return [
     ],
     '2c5e045e-7186-5a51-a16b-3cc8059d71ed' => [
         'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
-        'Bernice Reagon',
+        'Bernice Johnson Reagon',
     ],
     '2c5e3ce2-e7ba-5703-941b-09b4a73f8de8' => [
         'I tell you, it\'s funny because the only time I think about HIV is when I have to take my medicine twice a day.',

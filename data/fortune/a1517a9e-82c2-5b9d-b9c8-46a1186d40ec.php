@@ -828,7 +828,7 @@ return [
     ],
     '643f0a9b-216b-5bd7-a755-6c7a6c1a082d' => [
         'The pain passes, but the beauty remains.',
-        'Pierre Auguste Renoir',
+        'Auguste Renoir',
     ],
     '644f7ef7-535c-597e-8ebe-8a26593efb45' => [
         'I don\'t buy a lot when I travel, but when I do, I like to send gifts from wherever I am. It\'s fun to find the local post office.',

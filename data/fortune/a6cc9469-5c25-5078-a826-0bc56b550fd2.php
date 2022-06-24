@@ -88,7 +88,7 @@ return [
     ],
     '0320c385-e195-54af-b03c-25cb15ed2bfc' => [
         'Every man dies. Not every man really lives.',
-        'Unknown',
+        'George Takei',
     ],
     '320e71be-fd88-57e8-98e1-f43d5e5e2b46' => [
         'I started singing about three years ago, I entered a local singing competition called Stratford Idol. The other people in the competition had been taking singing lessons and had vocal coaches. I wasn\'t taking it too seriously at the time, I would just sing around the house. I was only 12 and I got second place.',
@@ -128,7 +128,7 @@ return [
     ],
     '326f066a-e7a7-51af-9385-25e7709fc3ed' => [
         'Success means having the courage, the determination, and the will to become the person you believe you were meant to be.',
-        'George Sheehan',
+        'George A. Sheehan',
     ],
     '327ee0fb-9b80-5c3b-ad80-f5f024ff22a5' => [
         'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
@@ -263,7 +263,7 @@ return [
         'Marina Abramovic',
     ],
     '351b0a08-e7fc-51f3-8dbe-6ec9b3e5d1ba' => [
-        'Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity',
+        'Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.',
         'Louis Pasteur',
     ],
     '352a9664-0bf5-5702-9474-60c3bd495434' => [

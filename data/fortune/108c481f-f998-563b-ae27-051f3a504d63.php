@@ -759,8 +759,8 @@ return [
         'Richard Bach',
     ],
     'abe356fc-51bd-58e7-8903-8e0466667a78' => [
-        'I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.',
-        'Herbert Swope',
+        'I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody.',
+        'Herbert Bayard Swope',
     ],
     'abe868b1-6bc3-5bf6-98ce-d6d101265f55' => [
         'I remember my mother\'s prayers and they have always followed me. They have clung to me all my life.',
@@ -792,7 +792,7 @@ return [
     ],
     'ac3acc31-dbb0-5f60-b22f-76b30dc99764' => [
         'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
-        'Unknown',
+        'Proverb',
     ],
     'ac3b0390-0de3-5312-8b60-dda6eee1064d' => [
         'You\'re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.',

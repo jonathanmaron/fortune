@@ -127,7 +127,7 @@ return [
         'Samuel Taylor Coleridge',
     ],
     '4579c165-42e0-55d8-bfc0-82a67899244b' => [
-        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything hes got.',
+        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
         'Walter Cronkite',
     ],
     '4582b065-7413-531b-9335-5f7105a032e5' => [

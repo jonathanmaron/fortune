@@ -787,8 +787,8 @@ return [
         'Colin Kaepernick',
     ],
     '78a25189-9d6c-5160-a813-c18fa995b3c8' => [
-        'The only limit to our realization of tomorrow will be our doubts of today.',
-        'Franklin Roosevelt',
+        'The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.',
+        'Franklin D. Roosevelt',
     ],
     '78ae9852-3c29-5b19-a035-c98870644840' => [
         'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',

@@ -575,8 +575,8 @@ return [
         'Kate Brown',
     ],
     'afab81b0-2c86-576b-8729-1432e9e1913c' => [
-        'Begin at once to live and count each separate day as a separate life.',
-        'Seneca',
+        'Begin at once to live, and count each separate day as a separate life.',
+        'Joan Rivers',
     ],
     'afabd908-f4f3-5195-8a54-f51ae2c1584c' => [
         'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',

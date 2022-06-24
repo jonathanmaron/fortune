@@ -596,7 +596,7 @@ return [
     ],
     'fefb8c5f-202f-5e83-a01d-bf32ad3c0293' => [
         'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
-        'Desiderius Erasmus',
+        'Ralph Waldo Emerson',
     ],
     'ff0c168e-0fd2-529f-968a-1d7793c80a95' => [
         'It is not enough to have a good mind; the main thing is to use it well.',
@@ -776,7 +776,7 @@ return [
     ],
     'ffd9e7f7-b046-508a-93be-0ed6c2e68641' => [
         'Most smiles are started by another smile.',
-        'Unknown',
+        'Frank A. Clark',
     ],
     'ffdc6f1d-a3b3-5966-884c-67fde8ff7804' => [
         'Never a lip is curved with pain that can\'t be kissed into smiles again.',

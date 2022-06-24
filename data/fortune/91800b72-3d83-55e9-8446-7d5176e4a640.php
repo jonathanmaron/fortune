@@ -932,7 +932,7 @@ return [
     ],
     'dd7184ab-05fd-5148-b3b5-4ed0b89074fa' => [
         'The world is always in movement.',
-        'V. Naipaul',
+        'V. S. Naipaul',
     ],
     'dd8115f9-3731-505a-8480-1f2164f1d4cd' => [
         'The foundation of family - that\'s where it all begins for me.',
@@ -1000,7 +1000,7 @@ return [
     ],
     'ddc5c354-62e8-5ac8-af32-21024df577a9' => [
         'The personal life deeply lived always expands into truths beyond itself.',
-        'Anais Nin',
+        'Isaac Watts',
     ],
     'ddc38d3c-92f1-507d-8522-a409d65ebd2b' => [
         'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',

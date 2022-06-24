@@ -544,7 +544,7 @@ return [
     ],
     '35350e05-d0c9-57d9-9e15-514074211cb4' => [
         'Science is organized knowledge. Wisdom is organized life.',
-        'Immanuel Kant',
+        'Eileen Caddy',
     ],
     '35479ad3-b566-5ab2-bcfe-787167a7ffbf' => [
         'The three ordinary things that we often don\'t pay enough attention to, but which I believe are the drivers of all success, are hard work, perseverance, and basic honesty.',

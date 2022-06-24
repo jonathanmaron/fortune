@@ -108,7 +108,7 @@ return [
     ],
     '153a0c59-ada5-52d7-a8b9-f71128227568' => [
         'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',
-        'Denis Waitley',
+        'Joseph Campbell',
     ],
     '153b9de4-167c-58d8-b518-ee06969f201d' => [
         'Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.',
@@ -344,7 +344,7 @@ return [
     ],
     '196bd300-4e91-50cf-9a6b-b116e0c5b47a' => [
         'A gem cannot be polished without friction, nor a man perfected without trials.',
-        'Chinese proverb',
+        'Lucius Annaeus Seneca',
     ],
     '196c63c8-14b7-5cd0-907f-9125513226b7' => [
         'As the twig is bent the tree inclines.',

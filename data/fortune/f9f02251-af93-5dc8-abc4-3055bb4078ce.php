@@ -236,7 +236,7 @@ return [
     ],
     'e8a0ce33-8628-528f-97ee-c01240eb31aa' => [
         'When we seek to discover the best in others, we somehow bring out the best in ourselves.',
-        'William Ward',
+        'William Arthur Ward',
     ],
     'e8a7e115-309b-5b29-a096-1f78e59a636e' => [
         'Be what you are. This is the first step toward becoming better than you are.',

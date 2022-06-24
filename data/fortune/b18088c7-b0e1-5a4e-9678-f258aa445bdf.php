@@ -155,7 +155,7 @@ return [
         'George Herbert',
     ],
     '9e1babed-aa19-59f7-8b15-a8949ea010b3' => [
-        'If you spend too much time thinking about a thing, you\'ll never get it done.',
+        'If you spend too much time thinking about a thing, you\'ll never get it done',
         'Bruce Lee',
     ],
     '9e1e1ada-b479-5fe9-85c3-75806b151666' => [
@@ -344,7 +344,7 @@ return [
     ],
     '9eb85ab0-1e56-5bbb-a0e4-f254309e1c30' => [
         'Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.',
-        'Thich Nhat Hanh',
+        'Nhat Hanh',
     ],
     '9eb7674b-97da-5fbf-9bd3-2fd7491673c2' => [
         'People might not get all they work for in this world, but they must certainly work for all they get.',

@@ -511,7 +511,7 @@ return [
         'Carroll Quigley',
     ],
     'e57688a9-25c3-549b-a271-b95ba8f14ef2' => [
-        'A wise man can learn more from a foolish question than a fool can learn from a wise answer.',
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
         'Bruce Lee',
     ],
     'e66936d9-61c1-5e05-b964-fc843d2a77d3' => [
@@ -803,7 +803,7 @@ return [
         'A. P. J. Abdul Kalam',
     ],
     'ea6e253b-48e5-520f-a5c7-16cadd27a6ef' => [
-        'What the caterpillar calls the end of the world, the master calls a butterfly.',
+        'What the caterpillar calls the end of the world the master calls a butterfly.',
         'Richard Bach',
     ],
     'ea8cfaa9-559d-5ef0-b961-612cc696b58e' => [

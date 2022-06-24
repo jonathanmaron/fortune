@@ -83,7 +83,7 @@ return [
         'Vijay Mallya',
     ],
     '1c5c663f-d78e-5bd2-bd43-046b4666a97d' => [
-        'There is only one success, to be able to spend your life in your own way.',
+        'There is only one success - to be able to spend your life in your own way.',
         'Christopher Morley',
     ],
     '1c5e55f4-80d6-5add-9269-653edffb4a66' => [
@@ -588,7 +588,7 @@ return [
     ],
     '1e35ba04-3ac1-55af-b591-0981bb397a97' => [
         'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
-        'Buckminster Fuller',
+        'R. Buckminster Fuller',
     ],
     '01e88fde-58e1-514d-81fc-d9a6eb754dc1' => [
         'In all my wild mountaineering, I have enjoyed only one avalanche ride; and the start was so sudden, and the end came so soon, I thought but little of the danger that goes with this sort of travel, though one thinks fast at such times.',
@@ -859,7 +859,7 @@ return [
         'Nathaniel Hawthorne',
     ],
     '1f64735f-09cb-5c19-ac2f-091520a49d64' => [
-        'A bend in the road is not the end of the road...unless you fail to make the turn.',
+        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
         'Unknown',
     ],
     '1f67990c-2a6f-5613-90b4-1bfcd7fa036d' => [

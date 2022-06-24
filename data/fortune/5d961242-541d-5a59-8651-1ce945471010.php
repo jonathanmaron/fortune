@@ -376,7 +376,7 @@ return [
     ],
     '4fc5e134-6b0f-562d-a2fd-e2887e804085' => [
         'Fortune befriends the bold.',
-        'John Dryden',
+        'Emily Dickinson',
     ],
     '4fc833a6-0854-5a27-b6a6-9e586e9ebca5' => [
         'I know some people say I can be funny. But there is always a deeper meaning to what I say. I am a socialist at heart and have the interests of the poor in mind. When people see how I manage to work my way out of tough situations, it gives them hope in their own life.',
@@ -384,7 +384,7 @@ return [
     ],
     '4fc40744-cbfb-56b3-9922-0ff5291c91dc' => [
         'Many of life\'s failures are people who did not realize how close they were to success when they gave up.',
-        'Thomas Edison',
+        'Thomas A. Edison',
     ],
     '4fcea94d-8076-5f7a-8e76-50191351e8fd' => [
         'I have beauty, intelligence, individuality, sensuality and sexuality.',

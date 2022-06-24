@@ -680,7 +680,7 @@ return [
     ],
     '3ef04c34-78e3-56a4-a75c-1973990e5e2c' => [
         'From small beginnings come great things.',
-        'Unknown',
+        'Proverb',
     ],
     '3ef3cb51-8b2b-52ee-9033-66f747e6ac00' => [
         'When you travel on a bus with guys who love all kinds of music, you get exposed to some great stuff, man.',
@@ -923,7 +923,7 @@ return [
         'Frank Sinatra',
     ],
     '4a1e4a76-f146-59cb-b2f1-41c50a7f7098' => [
-        'We may encounter many defeats but we must not be defeated.',
+        'We May Encounter Many Defeats But We Must Not Be Defeated.',
         'Maya Angelou',
     ],
     '4a1e4cd9-1cbc-5d80-a773-98a88baa1083' => [

@@ -200,7 +200,7 @@ return [
     ],
     '1557c3a8-cab6-5113-b6e2-10a7f8d8b85c' => [
         'Everything in life is luck.',
-        'Donald Trump',
+        'Jennifer Love Hewitt',
     ],
     '1566fd7c-bf0d-57c6-888b-5f1f4f175c7f' => [
         'I\'m doing a pilot for Comedy Central with the band Steel Panther. They\'re faux heavy metal. They started as kind of a tribute band out here, or a cover band, and they\'re funny guys, and they just sort of morphed into their own thing.',
@@ -235,7 +235,7 @@ return [
         'Joyce Carol Oates',
     ],
     '1698c0be-ef79-575a-be0b-023504b6fb24' => [
-        'Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.',
+        'Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less.',
         'Marie Curie',
     ],
     '1700aa05-1724-5f1a-b436-fb0be15b73fa' => [
@@ -460,7 +460,7 @@ return [
     ],
     '2513fd80-4596-5f1f-8501-07bd1fc66ed3' => [
         'Sadness flies away on the wings of time.',
-        'Jean de la Fontaine',
+        'Jean de La Fontaine',
     ],
     '2528b6ff-1efc-5925-b77b-cf5c720830ec' => [
         'Right now I am trying to be in a place of calm, a place where I can chill out and then handle the chaos of life better. You don\'t just get it overnight; you have to work at it. It\'s a daily struggle.',
@@ -784,7 +784,7 @@ return [
     ],
     '3718f240-0cb9-5970-9a97-f32c5e51042a' => [
         'You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.',
-        'Albert Camus',
+        'Karolina Kurkova',
     ],
     '3754bbc6-0b4d-5da6-aaf0-92c6c891f76f' => [
         'I believe that the greatest gift you can give your family and the world is a healthy you.',

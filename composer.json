@@ -4,16 +4,16 @@
     "license": "BSD-3-Clause",
     "type": "project",
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "ext-intl": "*",
         "ext-json": "*",
         "psr/container": "^1.0",
         "ramsey/uuid": "^4.0",
         "riimu/kit-phpencoder": "^2.0",
-        "symfony/console": "^5.0",
-        "symfony/filesystem": "^5.0",
-        "symfony/finder": "^5.0",
-        "symfony/lock": "^5.0"
+        "symfony/console": "^5.0 || ^6.0",
+        "symfony/filesystem": "^5.0 || ^6.0",
+        "symfony/finder": "^5.0 || ^6.0",
+        "symfony/lock": "^5.0 || ^6.0"
     },
     "require-dev": {
         "phpstan/extension-installer": "^1.0",

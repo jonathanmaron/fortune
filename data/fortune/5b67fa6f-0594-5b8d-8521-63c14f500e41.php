@@ -363,8 +363,8 @@ return [
         'Jared Padalecki',
     ],
     '893d7430-73a1-513b-9caa-28cb09642d45' => [
-        'To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.',
-        'Buddha',
+        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
+        'Christopher McCandless',
     ],
     '893fcee9-7e63-5986-b52f-73051bb25bc4' => [
         'I\'ve covered a lot of ground geographically and emotionally and for years I lost my connection with my family. But the best comfort you can have, whether you are on the phone or sitting there in the living room with them, is with your parents, and to me family has always meant protection. When you smile you get a smile back, unconditionally.',

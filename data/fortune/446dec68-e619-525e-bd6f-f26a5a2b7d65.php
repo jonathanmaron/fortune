@@ -600,7 +600,7 @@ return [
     ],
     '7b9dc6b4-f5e3-5bf4-b0f9-854450fe100c' => [
         'Life is like riding a bicycle. To keep your balance you must keep moving.',
-        'Albert Einstein',
+        'Einstein',
     ],
     '7b9eb715-015c-5372-b808-6bfdf63556a8' => [
         'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',

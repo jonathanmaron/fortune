@@ -315,8 +315,8 @@ return [
         'Dustin Clare',
     ],
     'c0311ce9-183e-5b52-8434-7633fb4e1f98' => [
-        'We cannot direct the wind but we can adjust the sails.',
-        'Unknown',
+        'We cannot direct the wind, but we can adjust the sails.',
+        'Dolly Parton',
     ],
     'c0342e21-7565-5878-b5fc-70923896345b' => [
         'If an employee told you he had the flu, you\'d send him home. If an employee told you he was feeling anxious, you\'d probably tell him to get back to work. But the emotion is just as contagious as a flu virus.',
@@ -572,7 +572,7 @@ return [
     ],
     'c2f9e665-b9b9-5666-a320-5e9b422c6d03' => [
         'Light tomorrow with today!',
-        'Elizabeth Browning',
+        'Elizabeth Barrett Browning',
     ],
     'c2ff985a-fbb3-545a-acfd-143ab2d8d4be' => [
         'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
@@ -783,8 +783,8 @@ return [
         'Unknown',
     ],
     'c5a43058-c9c2-5a45-8537-e432720a513b' => [
-        'In three words I can sum up everything Ive learned about life: it goes on.',
-        'Robert Frost',
+        'In three words I can sum up everything I\'ve learned about life: it goes on.',
+        'Philip Sidney',
     ],
     'c5b3d81a-e3f8-5101-9bd4-9c0f7a28f7db' => [
         'I\'ve been around a long time, and life still has a whole lot of surprises for me.',

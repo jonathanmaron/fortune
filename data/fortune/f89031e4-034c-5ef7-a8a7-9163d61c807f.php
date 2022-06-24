@@ -380,7 +380,7 @@ return [
     ],
     '538000b6-f83f-57e6-86fa-42d18f26b8c5' => [
         'We make a living by what we get, but we make a life by what we give.',
-        'Winston Churchill',
+        'Henry Ford',
     ],
     '541360a6-711d-5169-80cb-63bc21d6c3ab' => [
         'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
@@ -523,7 +523,7 @@ return [
         'Mercedes Ruehl',
     ],
     '663998e7-70fc-583f-8d98-57cab71f576b' => [
-        'Mistakes are always forgivable, if one has the courage to admit them.',
+        'Mistakes are always forgivable, if one has the courage to admit them',
         'Bruce Lee',
     ],
     '669317ad-0b8c-5beb-ae0f-f5024afb3da6' => [

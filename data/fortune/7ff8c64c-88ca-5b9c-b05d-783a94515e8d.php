@@ -228,7 +228,7 @@ return [
     ],
     '7594edd2-51d2-5af0-a832-427583a68b82' => [
         'A man sees in the world what he carries in his heart.',
-        'Goethe',
+        'Johann Wolfgang von Goethe',
     ],
     '7595d31e-6c74-59ab-8703-0fefdec2ca66' => [
         'Talking is always positive. That\'s why I talk too much.',
@@ -376,7 +376,7 @@ return [
     ],
     '7942af55-aff7-5519-a69b-877bc4709215' => [
         'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
-        'Carl Jung',
+        'Bruce Lee',
     ],
     '7942afbf-6b8c-5917-bd83-0702dbd957db' => [
         'The traveler was active; he went strenuously in search of people, of adventure, of experience. The tourist is passive; he expects interesting things to happen to him. He goes \'sight-seeing.\'',
@@ -715,7 +715,7 @@ return [
         'George Jessel',
     ],
     '9010af41-a08f-5b5a-9f90-727da737e426' => [
-        'Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.',
+        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
         'Barack Obama',
     ],
     '9017b48e-0991-5657-9922-81e42cd90bda' => [
@@ -980,7 +980,7 @@ return [
     ],
     '9838e9e8-f12f-51c3-aecc-bd6565a3156f' => [
         'When deeds speak, words are nothing.',
-        'African proverb',
+        'Pierre-Joseph Proudhon',
     ],
     '9843f138-223c-5638-b178-a37ea2e42f01' => [
         'Nobody needs a smile so much as the one who has none to give. So get used to smiling heart-warming smiles, and you will spread sunshine in a sometimes dreary world.',

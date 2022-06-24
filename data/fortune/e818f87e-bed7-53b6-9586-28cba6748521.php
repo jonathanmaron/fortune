@@ -804,7 +804,7 @@ return [
     ],
     '45de993a-5c6f-5236-9d31-7a786b22272e' => [
         'What is not started today is never finished tomorrow.',
-        'Goethe',
+        'Johann Wolfgang von Goethe',
     ],
     '45e2f7e5-76a0-51ad-9bbf-6aa7823b910a' => [
         'If you want to achieve greatness stop asking for permission.',
@@ -948,7 +948,7 @@ return [
     ],
     '47ccb2c3-a844-554d-88b6-366d2e75ff96' => [
         'Life is the flower for which love is the honey.',
-        'Victor Hugo',
+        'Amisha Patel',
     ],
     '47d0aba4-6ba8-5a1f-a19b-28db07beeae8' => [
         'I was a huge Beatles fan. We could talk about who I listened to growing up and what my sources were, but certainly the Beatles were a late, important resource for me, and I just took my guitar and a handful of songs, and I decided, well, I\'ll just go over and travel around Europe and see what comes of it.',

@@ -16,7 +16,7 @@ return [
     ],
     '6adb1f08-e689-5946-a2da-48640a5abe80' => [
         'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
-        'Wayne Dyer',
+        'Chris Kyle',
     ],
     '6adddaa4-3fc0-5aa3-8e56-f1a006ac7642' => [
         'A smile is the chosen vehicle of all ambiguities.',
@@ -28,7 +28,7 @@ return [
     ],
     '6ae51dbb-9cc3-5821-a19c-a4a53190295e' => [
         'If we are facing in the right direction, all we have to do is keep on walking.',
-        'Unknown',
+        'Proverb',
     ],
     '6ae33550-7571-5665-8b78-00ff1bf7cc0a' => [
         'A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.',
@@ -636,7 +636,7 @@ return [
     ],
     '6dde2040-53b0-502d-a3bd-a80754c3fd01' => [
         'Doing what you love is the cornerstone of having abundance in your life.',
-        'Wayne Dyer',
+        'Jean Paul',
     ],
     '6de5ad3c-0d4b-56e2-b8f0-65a79688495f' => [
         'If you have an important point to make, don\'t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack.',

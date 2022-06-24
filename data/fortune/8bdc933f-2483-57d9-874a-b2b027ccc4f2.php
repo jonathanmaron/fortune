@@ -267,8 +267,8 @@ return [
         'Walt Disney',
     ],
     'f86988b7-47f9-5976-b467-71f9fe345927' => [
-        'He who conquers others is strong; He who conquers himself is mighty.',
-        'Lao Tzu',
+        'He who conquers others is strong, he who conquers himself is mighty.',
+        'Lao Tsu',
     ],
     'f87020ff-b509-5d91-ac9a-348a65466bbd' => [
         'I just want to go in with the right attitude and from Day 1 make a difference.',
@@ -283,7 +283,7 @@ return [
         'John F. Kelly',
     ],
     'f98822c2-8792-5e57-98c5-90a63566fcd9' => [
-        'When in doubt, tell the truth.',
+        'When in doubt, tell the truth',
         'Mark Twain',
     ],
     'f105747c-ede9-5638-b45c-434ff72e3857' => [

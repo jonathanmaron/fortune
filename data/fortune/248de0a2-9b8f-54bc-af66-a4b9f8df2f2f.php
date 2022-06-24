@@ -627,7 +627,7 @@ return [
         'Fran Lebowitz',
     ],
     'c86be10b-f420-50d7-a2ad-71b103f29ec9' => [
-        'To accomplish great things, we must not only act, but also dream; not only plan, but also believe.',
+        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
         'Anatole France',
     ],
     'c88a756a-7f1c-59a3-88ec-81b5f348ae1b' => [

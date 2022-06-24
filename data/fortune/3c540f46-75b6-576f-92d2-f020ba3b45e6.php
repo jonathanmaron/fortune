@@ -440,7 +440,7 @@ return [
     ],
     '19c9567f-1e8b-51a3-be25-e5b0761eef06' => [
         'People grow through experience if they meet life honestly and courageously. This is how character is built.',
-        'Eleanor Roosevelt',
+        'Bobby Brown',
     ],
     '19d4f908-392a-57f6-a2f4-228f45bbe8fa' => [
         'If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?',
@@ -868,7 +868,7 @@ return [
     ],
     '24ba2d19-48a2-5f88-8cb3-397c038020a4' => [
         'The undertaking of a new action brings new strength.',
-        'Richard Evans',
+        'Richard L. Evans',
     ],
     '24bd4b78-312c-5e51-b989-a2748807bf08' => [
         'There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.',

@@ -8,7 +8,7 @@ declare(strict_types=1);
 return [
     '0dbc3545-adf5-592b-bb52-73b1874b45e0' => [
         'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
-        'Marcus Aurelius',
+        'Aristotle',
     ],
     '0dc00fcd-6970-5a2b-9966-df5c50dd25b1' => [
         'The greatest education in the world is watching the masters at work.',

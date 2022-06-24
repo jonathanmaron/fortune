@@ -136,7 +136,7 @@ return [
     ],
     'effc467a-ea26-5272-a348-4f0df04a168f' => [
         'Can you imagine what I would do if I could do all I can?',
-        'Sun Tzu',
+        'Jeff Rich',
     ],
     'effce1a4-a794-58b1-8d9d-2db302cea38d' => [
         'The whole secret of life is to be interested in one thing profoundly and in a thousand things well.',
@@ -784,7 +784,7 @@ return [
     ],
     'f6a528d0-6366-5a3c-b9b3-4ac818ee3714' => [
         'For success, attitude is equally as important as ability.',
-        'Harry Banks',
+        'Walter Scott',
     ],
     'f6c1a84b-7784-5f16-b071-999ad78da1c8' => [
         'Move to Italy. I mean it: they know about living in debt; they don\'t care. I stayed out there for five months while I was making a film called \'Order Of Death,\' and they\'ve really got it sussed. Nice cars. Sharp suits. Great food. Stroll into work at 10. Lunch from 12 till three. Leave work at five. That\'s living!',
@@ -800,7 +800,7 @@ return [
     ],
     'f6c463c6-3f41-546b-9b34-baf1e0465bac' => [
         'Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.',
-        'Henry Longfellow',
+        'Henry Wadsworth Longfellow',
     ],
     'f6cf11ca-82cc-5a53-a2b0-d4e4868b63c2' => [
         'I had no blood relatives till I made some.',

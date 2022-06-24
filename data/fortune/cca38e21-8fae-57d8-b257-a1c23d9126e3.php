@@ -40,7 +40,7 @@ return [
     ],
     '8efec920-1e1e-5e9f-a57f-4af13ebe64ee' => [
         'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-        'Robert Stevenson',
+        'Robert Louis Stevenson',
     ],
     '8f0cf2ee-ce96-5e98-9561-7da19559e120' => [
         'Everyone says Toyota is the best company in the world, but the customer doesn\'t care about the world. They care if we are the best in town, or not. That\'s what I want to be.',
@@ -120,7 +120,7 @@ return [
     ],
     '8f9af6ac-825c-528c-8250-44832d779847' => [
         'Nothing is a waste of time if you use the experience wisely.',
-        'Rodin',
+        'Auguste Rodin',
     ],
     '08f9c2fe-7f8a-5fda-a242-b3f2ce54c484' => [
         'Taking time to sit back and watch and think about what you\'ve seen is important. Traveling did a great deal to me. I found that when I travel and just sit in the corner and watch, a million ideas come to me.',
@@ -959,8 +959,8 @@ return [
         'Samuel Johnson',
     ],
     '9d00eca8-42c1-5808-a98d-9e8f9cb22ddc' => [
-        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more',
-        'Anthony Robbins',
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
+        'Emilia Fox',
     ],
     '9d08a8a4-d63e-544e-a9de-f8d3989c8078' => [
         'I don\'t know the key to success, but the key to failure is trying to please everybody.',

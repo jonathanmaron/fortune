@@ -8,7 +8,7 @@ declare(strict_types=1);
 return [
     '25ee1b89-de93-5e7d-b0a1-f5814862e6e4' => [
         'Do one thing every day that scares you.',
-        'Eleanor Roosevelt',
+        'Unknown',
     ],
     '25fd565b-ce15-5ac7-bde7-8eb58da82489' => [
         'All the art of living lies in a fine mingling of letting go and holding on.',
