@@ -73,9 +73,8 @@ class Fortune extends AbstractFortune
     public function getRandomShortFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
-        $lengths      = $this->getAllLengths();
 
-        $lengths = array_filter($lengths, function ($length) use ($medianLength) {
+        $lengths = array_filter($this->getAllLengths(), function ($length) use ($medianLength) {
             return $medianLength > $length;
         });
 
@@ -87,8 +86,7 @@ class Fortune extends AbstractFortune
     public function getRandomLongFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
-        $lengths      = $this->getAllLengths();
-        $lengths      = array_filter($lengths, function ($length) use ($medianLength) {
+        $lengths      = array_filter($this->getAllLengths(), function ($length) use ($medianLength) {
             return $medianLength < $length;
         });
 
