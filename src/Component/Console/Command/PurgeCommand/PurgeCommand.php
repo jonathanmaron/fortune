@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace App\Component\Console\Command\PurgeCommand;
 
 use App\Component\Filesystem\Filesystem;
+use Symfony\Component\Console\Helper\QuestionHelper;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\ConfirmationQuestion;
@@ -30,9 +31,12 @@ class PurgeCommand extends AbstractCommand
         $output->writeln($paths);
         $output->writeln('');
 
-        $helper   = $this->getHelper('question');
+        $helper = $this->getHelper('question');
+        assert($helper instanceof QuestionHelper);
         $question = new ConfirmationQuestion('Do you want to continue? [Y|N] ', false);
-        if (!$helper->ask($input, $output, $question)) {
+        $answer   = $helper->ask($input, $output, $question);
+        assert(is_bool($answer));
+        if (!$answer) {
             return 0;
         }
         $output->writeln('');

@@ -4,8 +4,3 @@ parameters:
 			message: "#^Variable variables are not allowed\\.$#"
 			count: 3
 			path: src/Component/Console/Command/IndexCommand/IndexCommand.php
-
-		-
-			message: "#^Cannot call method ask\\(\\) on mixed\\.$#"
-			count: 1
-			path: src/Component/Console/Command/PurgeCommand/PurgeCommand.php
