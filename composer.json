@@ -34,7 +34,8 @@
     "config": {
         "allow-plugins": {
             "phpstan/extension-installer": true
-        }
+        },
+        "sort-packages": true
     },
     "scripts": {
         "git-pre-commit": [],
