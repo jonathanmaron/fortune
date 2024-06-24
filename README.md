@@ -10,11 +10,11 @@ It is similar to the BSD `fortune` program, originally written by Ken Arnold. Un
 
 Use [Composer](https://getcomposer.org/doc/00-intro.md#globally) to install the application:
 
-    composer create-project jonathanmaron/fortune ~/apps/fortune
+    composer create-project jonathanmaron/fortune ~/app/fortune
 
 ### Usage
 
-    $ ~/apps/fortune/bin/fortune
+    $ ~/app/fortune/bin/fortune
     
     "A strong passion for any object will ensure success, for the desire of the end
     will point out the means."
@@ -22,7 +22,7 @@ Use [Composer](https://getcomposer.org/doc/00-intro.md#globally) to install the 
         
 By default, `fortune` wraps lines at terminal window width. You can change this by specifying the `--wordwrap` option:
 
-    $ ~/apps/fortune/bin/fortune -wordwrap=25
+    $ ~/app/fortune/bin/fortune -wordwrap=25
     
     "Success listens only to
     applause. To all else it
@@ -35,7 +35,7 @@ It is recommended to add `fortune` to your path:
 
     $ cd ~/bin
     
-    $ ln -s ~/apps/fortune/bin/fortune fortune
+    $ ln -s ~/app/fortune/bin/fortune fortune
     
     <log out> <log in>
     
