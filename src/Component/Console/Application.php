@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace App\Component\Console;
 
-use App\Component\Console\Command\Factory;
+use App\Component\Console\Command\CommandFactory;
 use App\Component\Console\Command\FortuneCommand\FortuneCommand;
 use App\Component\Console\Command\ImportCommand\ImportCommand;
 use App\Component\Console\Command\IndexCommand\IndexCommand;
@@ -29,7 +29,7 @@ class Application extends ParentApplication
     {
         return array_merge(
             parent::getDefaultCommands(),
-            array_map(fn(string $command): Command => (new Factory())->__invoke(null, $command), self::COMMANDS)
+            array_map(fn(string $command): Command => (new CommandFactory())->__invoke(null, $command), self::COMMANDS)
         );
     }
 }

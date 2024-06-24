@@ -7,7 +7,7 @@ use App\Fortune\Fortune;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\Console\Command\Command;
 
-class Factory
+class CommandFactory
 {
     public function __invoke(
         ContainerInterface $container = null,

@@ -9,15 +9,19 @@ class Finder extends ParentFinder
 {
     public function php(string $path): self
     {
-        return $this->files()
-            ->in($path)
-            ->name('*.php');
+        $files = $this->files();
+        $files->in($path);
+        $files->name('*.php');
+
+        return $files;
     }
 
     public function json(string $path): self
     {
-        return $this->files()
-            ->in($path)
-            ->name('*.json');
+        $files = $this->files();
+        $files->in($path);
+        $files->name('*.json');
+
+        return $files;
     }
 }
