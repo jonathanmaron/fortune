@@ -8,11 +8,6 @@ use Ctw\Qa\EasyCodingStandard\Config\ECSConfig\DefaultRules;
 use Ctw\Qa\EasyCodingStandard\Config\ECSConfig\DefaultRulesWithConfiguration;
 use Ctw\Qa\EasyCodingStandard\Config\ECSConfig\DefaultSets;
 use Ctw\Qa\EasyCodingStandard\Config\ECSConfig\DefaultSkip;
-use PhpCsFixer\Fixer\Phpdoc\GeneralPhpdocAnnotationRemoveFixer;
-use Symplify\CodingStandard\Fixer\ArrayNotation\StandaloneLineInMultilineArrayFixer;
-use Symplify\CodingStandard\Fixer\LineLength\LineLengthFixer;
-use Symplify\CodingStandard\Fixer\Spacing\MethodChainingNewlineFixer;
-use Symplify\CodingStandard\Fixer\Spacing\SpaceAfterCommaHereNowDocFixer;
 use Symplify\EasyCodingStandard\Config\ECSConfig;
 
 return static function (ECSConfig $ecsConfig): void {
@@ -36,6 +31,10 @@ return static function (ECSConfig $ecsConfig): void {
         [
             sprintf('%s/bin', APP_PATH_ROOT),
             sprintf('%s/src', APP_PATH_ROOT),
+            sprintf('%s/bootstrap.php', APP_PATH_ROOT),
+            sprintf('%s/consts.php', APP_PATH_ROOT),
+            sprintf('%s/ecs.php', APP_PATH_ROOT),
+            sprintf('%s/rector.php', APP_PATH_ROOT),
         ]
     );
 
@@ -45,9 +44,5 @@ return static function (ECSConfig $ecsConfig): void {
 
     $ecsConfig->rulesWithConfiguration($rulesConfig());
 
-    $ecsConfig->skip(
-        [
-            ...$skip(),
-        ]
-    );
+    $ecsConfig->skip($skip());
 };

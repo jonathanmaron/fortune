@@ -341,7 +341,7 @@ abstract class AbstractCommand extends ParentCommand
         }
 
         $lines = [
-            sprintf('<fg=green;options=bold>"%s"</>', $quote),
+            sprintf('<fg=green;options=bold>“%s”</>', $quote),
             sprintf('<fg=magenta;options=bold>%s</>', $author),
         ];
 
