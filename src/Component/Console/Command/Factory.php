@@ -20,7 +20,7 @@ class Factory
         $fortune->setFortunePath(APP_PATH_FORTUNE);
         $fortune->setIndexPath(APP_PATH_INDEX);
 
-        $command = new $requestedName;
+        $command = new $requestedName();
         assert($command instanceof AbstractCommand);
         $command->setFortune($fortune);
 

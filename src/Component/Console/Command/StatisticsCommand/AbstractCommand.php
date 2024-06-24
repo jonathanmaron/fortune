@@ -12,7 +12,7 @@ abstract class AbstractCommand extends ParentCommand
 {
     // <editor-fold desc="Class Constants">
 
-    protected const LIMIT_MIN = 0;
+    protected const int LIMIT_MIN = 0;
 
     // </editor-fold>
 
@@ -54,11 +54,9 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($limit));
         $limit = trim($limit);
 
-        if (strlen($limit) > 0) {
-            if (!ctype_digit($limit)) {
-                $message = '--limit must be an integer';
-                throw new InvalidArgumentException($message);
-            }
+        if (0 < strlen($limit) && !ctype_digit($limit)) {
+            $message = '--limit must be an integer';
+            throw new InvalidArgumentException($message);
         }
 
         $limit = (int) $limit;

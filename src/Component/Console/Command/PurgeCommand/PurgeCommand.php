@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace App\Component\Console\Command\PurgeCommand;
 
 use App\Component\Filesystem\Filesystem;
+use Override;
 use Symfony\Component\Console\Helper\QuestionHelper;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -11,20 +12,18 @@ use Symfony\Component\Console\Question\ConfirmationQuestion;
 
 class PurgeCommand extends AbstractCommand
 {
+    #[Override]
     protected function configure(): void
     {
         $this->configureCommand();
     }
 
+    #[Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $filesystem = new Filesystem();
-        $fortune    = $this->getFortune();
+        $fortune = $this->getFortune();
 
-        $paths = [
-            $fortune->getFortunePath(),
-            $fortune->getIndexPath(),
-        ];
+        $paths = [$fortune->getFortunePath(), $fortune->getIndexPath()];
 
         $output->writeln('You are about to purge:');
         $output->writeln('');
@@ -41,22 +40,17 @@ class PurgeCommand extends AbstractCommand
         }
         $output->writeln('');
 
-        array_walk($paths, function ($path) use ($filesystem, $output) {
-            $format  = 'Purged %s';
-            $message = sprintf($format, $path);
+        array_walk($paths, function ($path) use ($output) {
+            $filesystem = new Filesystem();
+            $format     = 'Purged %s';
+            $message    = sprintf($format, $path);
             $output->writeln($message);
             $filesystem->remove($path);
             $filesystem->mkdir($path);
         });
 
         $path = sprintf('%s/import/json', dirname($fortune->getFortunePath(), 2));
-        $lns  = [
-            '',
-            'Now execute:',
-            '',
-            sprintf('fortune import --path=%s ; fortune index ; fortune', $path),
-            '',
-        ];
+        $lns  = ['', 'Now execute:', '', sprintf('fortune import --path=%s ; fortune index ; fortune', $path), ''];
         $output->writeln($lns);
 
         return 0;

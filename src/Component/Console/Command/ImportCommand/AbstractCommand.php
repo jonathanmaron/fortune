@@ -14,7 +14,7 @@ abstract class AbstractCommand extends ParentCommand
 {
     // <editor-fold desc="Class Constants">
 
-    protected const FORTUNES_PER_FILE = 250;
+    protected const int FORTUNES_PER_FILE = 250;
 
     // </editor-fold>
 
@@ -84,24 +84,21 @@ abstract class AbstractCommand extends ParentCommand
             assert(is_array($array));
             foreach ($array as $record) {
                 assert(is_array($record));
-                assert(key_exists('quoteText', $record));
-                assert(key_exists('quoteAuthor', $record));
+                assert(array_key_exists('quoteText', $record));
+                assert(array_key_exists('quoteAuthor', $record));
                 $quote  = $this->filter($record['quoteText']);
                 $author = $this->filter($record['quoteAuthor']);
                 $uuid   = $this->uuid($quote);
                 if (array_key_exists($uuid, $ret)) {
                     continue;
                 }
-                if (0 === strlen($quote)) {
+                if ('' === $quote) {
                     continue;
                 }
-                if (0 === strlen($author)) {
+                if ('' === $author) {
                     $author = 'Unknown';
                 }
-                $ret[$uuid] = [
-                    $quote,
-                    $author,
-                ];
+                $ret[$uuid] = [$quote, $author];
             }
         }
 

@@ -5,16 +5,19 @@ namespace App\Component\Console\Command\IndexCommand;
 
 use App\Component\Filesystem\Filesystem;
 use App\Component\Finder\Finder;
+use Override;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class IndexCommand extends AbstractCommand
 {
+    #[Override]
     protected function configure(): void
     {
         $this->configureCommand();
     }
 
+    #[Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem = new Filesystem();
@@ -41,13 +44,13 @@ class IndexCommand extends AbstractCommand
                 $length = strlen($fortuneArray[0]);
                 $author = $fortuneArray[1];
                 foreach (array_keys($indices) as $key) {
+                    // @phpstan-ignore-next-line
                     if (!isset($indices[$key][${$key}])) {
+                        // @phpstan-ignore-next-line
                         $indices[$key][${$key}] = [];
                     }
-                    $indices[$key][${$key}][] = [
-                        $fileInfo->getFilename(),
-                        $uuid,
-                    ];
+                    // @phpstan-ignore-next-line
+                    $indices[$key][${$key}][] = [$fileInfo->getFilename(), $uuid];
                 }
             }
         }

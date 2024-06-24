@@ -3,11 +3,13 @@ declare(strict_types=1);
 
 namespace App\Component\Console\Command\FortuneCommand;
 
+use Override;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class FortuneCommand extends AbstractCommand
 {
+    #[Override]
     protected function configure(): void
     {
         $this->configureCommand();
@@ -19,6 +21,7 @@ class FortuneCommand extends AbstractCommand
         $this->configureLong();
     }
 
+    #[Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializeWordwrap($input);
@@ -29,6 +32,7 @@ class FortuneCommand extends AbstractCommand
         $this->initializeLong($input);
     }
 
+    #[Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();
@@ -43,11 +47,11 @@ class FortuneCommand extends AbstractCommand
             return $this->render($output, $fortune->getRandomLongFortune());
         }
 
-        if ($length > 0) {
+        if (0 < $length) {
             return $this->render($output, $fortune->getRandomFortuneByLength($length));
         }
 
-        if (strlen($author) > 0) {
+        if (0 < strlen($author)) {
             return $this->render($output, $fortune->getRandomFortuneByAuthor($author));
         }
 

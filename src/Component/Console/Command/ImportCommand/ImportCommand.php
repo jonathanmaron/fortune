@@ -6,23 +6,27 @@ namespace App\Component\Console\Command\ImportCommand;
 use App\Component\Filesystem\Filesystem;
 use App\Exception\RuntimeException;
 use NumberFormatter;
+use Override;
 use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportCommand extends AbstractCommand
 {
+    #[Override]
     protected function configure(): void
     {
         $this->configureCommand();
         $this->configurePath();
     }
 
+    #[Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializePath($input);
     }
 
+    #[Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem       = new Filesystem();
@@ -48,10 +52,7 @@ class ImportCommand extends AbstractCommand
             if (array_key_exists($uuid, $curFortunes)) {
                 continue;
             }
-            $curFortunes[$uuid] = [
-                $newFortune[0],
-                $newFortune[1],
-            ];
+            $curFortunes[$uuid] = [$newFortune[0], $newFortune[1]];
             $addFortunesCount++;
         }
 
@@ -59,7 +60,7 @@ class ImportCommand extends AbstractCommand
 
         ksort($curFortunes, SORT_NATURAL);
 
-        if ($addFortunesCount > 0) {
+        if (0 < $addFortunesCount) {
             $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
             $filesystem->arrayExportFiles($outputPath, $chunks);
         }

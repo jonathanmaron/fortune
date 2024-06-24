@@ -14,15 +14,15 @@ abstract class AbstractCommand extends ParentCommand
 {
     // <editor-fold desc="Class Constants">
 
-    protected const TERMINAL_WIDTH    = 80;
+    protected const int TERMINAL_WIDTH = 80;
 
-    protected const WORDWRAP_DISABLED = 0;
+    protected const int WORDWRAP_DISABLED = 0;
 
-    protected const WORDWRAP_MIN      = 5;
+    protected const int WORDWRAP_MIN = 5;
 
-    protected const WAIT_MIN          = 0;
+    protected const int WAIT_MIN = 0;
 
-    protected const WAIT_MAX          = 60;
+    protected const int WAIT_MAX = 60;
 
     // </editor-fold>
 
@@ -134,7 +134,7 @@ abstract class AbstractCommand extends ParentCommand
 
         $wordwrap = (int) $wordwrap;
 
-        if ($wordwrap > self::WORDWRAP_DISABLED) {
+        if (self::WORDWRAP_DISABLED < $wordwrap) {
 
             $wordwrapDefault = (int) $this->getWordwrapDefault();
 
@@ -142,7 +142,7 @@ abstract class AbstractCommand extends ParentCommand
                 $wordwrap = $wordwrapDefault;
             }
 
-            if ($wordwrap < self::WORDWRAP_MIN) {
+            if (self::WORDWRAP_MIN > $wordwrap) {
                 $format  = '--wordwrap must be greater than or equal to %d';
                 $message = sprintf($format, self::WORDWRAP_MIN);
                 throw new InvalidArgumentException($message);
@@ -160,16 +160,14 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($length));
         $length = trim($length);
 
-        if (strlen($length) > 0) {
+        if (0 < strlen($length)) {
 
             if (!ctype_digit($length)) {
                 $message = '--length must be an integer';
                 throw new InvalidArgumentException($message);
             }
 
-            $lengths = array_map(function (int $int): string {
-                return (string) $int;
-            }, $fortune->getAllLengths());
+            $lengths = array_map(fn(int $int): string => (string) $int, $fortune->getAllLengths());
 
             if (!in_array($length, $lengths, true)) {
                 $message = '--length contains an invalid length';
@@ -188,16 +186,14 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($wait));
         $wait = trim($wait);
 
-        if (strlen($wait) > 0) {
-            if (!ctype_digit($wait)) {
-                $message = '--wait must be an integer';
-                throw new InvalidArgumentException($message);
-            }
+        if (0 < strlen($wait) && !ctype_digit($wait)) {
+            $message = '--wait must be an integer';
+            throw new InvalidArgumentException($message);
         }
 
         $wait = (int) $wait;
 
-        if ($wait < self::WAIT_MIN || $wait > self::WAIT_MAX) {
+        if (self::WAIT_MIN > $wait || self::WAIT_MAX < $wait) {
             $format  = '--wait must be in range %d to %d';
             $message = sprintf($format, self::WAIT_MIN, self::WAIT_MAX);
             throw new InvalidArgumentException($message);
@@ -214,11 +210,9 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($author));
         $author = trim($author);
 
-        if (strlen($author) > 0) {
-            if (!in_array($author, $fortune->getAllAuthors(), true)) {
-                $message = '--author contains an invalid author';
-                throw new InvalidArgumentException($message);
-            }
+        if (0 < strlen($author) && !in_array($author, $fortune->getAllAuthors(), true)) {
+            $message = '--author contains an invalid author';
+            throw new InvalidArgumentException($message);
         }
 
         $this->setAuthor($author);
@@ -248,7 +242,7 @@ abstract class AbstractCommand extends ParentCommand
 
         $width = $terminal->getWidth();
 
-        if ($width > 0) {
+        if (0 < $width) {
             $width--;
         } else {
             $width = self::TERMINAL_WIDTH;
@@ -341,7 +335,7 @@ abstract class AbstractCommand extends ParentCommand
         $quote  = $fortuneArray[0];
         $author = sprintf('    — %s', $fortuneArray[1]);
 
-        if ($wordwrap > self::WORDWRAP_DISABLED) {
+        if (self::WORDWRAP_DISABLED < $wordwrap) {
             $quote  = wordwrap($quote, $wordwrap);
             $author = wordwrap($author, $wordwrap);
         }
@@ -353,7 +347,7 @@ abstract class AbstractCommand extends ParentCommand
 
         $output->writeln($lines);
 
-        if ($wait > 0) {
+        if (0 < $wait) {
             sleep($wait);
         }
 

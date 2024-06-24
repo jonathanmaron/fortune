@@ -4,23 +4,27 @@ declare(strict_types=1);
 namespace App\Component\Console\Command\StatisticsCommand;
 
 use App\Exception\InvalidArgumentException;
+use Override;
 use Symfony\Component\Console\Helper\Table;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class StatisticsCommand extends AbstractCommand
 {
+    #[Override]
     protected function configure(): void
     {
         $this->configureCommand();
         $this->configureLimit();
     }
 
+    #[Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializeLimit($input);
     }
 
+    #[Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();
@@ -31,19 +35,13 @@ class StatisticsCommand extends AbstractCommand
             $quote  = $fortuneArray[0];
             $author = $fortuneArray[1];
             if (!isset($rows[$author])) {
-                $rows[$author] = [
-                    $author,
-                    0,
-                    0,
-                ];
+                $rows[$author] = [$author, 0, 0];
             }
-            $rows[$author][1] += 1;
+            ++$rows[$author][1];
             $rows[$author][2] += str_word_count($quote);
         }
 
-        usort($rows, function ($a, $b) {
-            return $b[1] <=> $a[1];
-        });
+        usort($rows, fn($a, $b) => $b[1] <=> $a[1]);
 
         $count = count($rows);
         if ($limit > $count) {
@@ -52,7 +50,7 @@ class StatisticsCommand extends AbstractCommand
             throw new InvalidArgumentException($message);
         }
 
-        if ($limit > self::LIMIT_MIN) {
+        if (self::LIMIT_MIN < $limit) {
             $rows = array_slice($rows, 0, $limit);
         }
 

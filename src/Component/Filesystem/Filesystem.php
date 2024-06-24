@@ -15,7 +15,7 @@ class Filesystem extends ParentFilesystem
         foreach ($chunks as $chunk) {
             $name     = sprintf('%s %d', __METHOD__, $counter);
             $uuid5    = Uuid::uuid5(APP_UUID5_NAMESPACE, $name);
-            $filename = sprintf("%s/%s.php", $path, $uuid5->toString());
+            $filename = sprintf('%s/%s.php', $path, $uuid5->toString());
             $this->arrayExportFile($filename, $chunk);
             $counter++;
         }

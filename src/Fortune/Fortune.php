@@ -50,10 +50,38 @@ class Fortune extends AbstractFortune
         $stack = include $this->getRandomFilename();
         $key   = array_rand($stack);
 
-        return [
-            $stack[$key][0] ?? '',
-            $stack[$key][1] ?? '',
-        ];
+        return [$stack[$key][0] ?? '', $stack[$key][1] ?? ''];
+    }
+
+    public function getRandomShortFortune(): array
+    {
+        $medianLength = $this->getMedianFortuneLength();
+
+        $lengths = array_filter($this->getAllLengths(), fn($length) => $medianLength > $length);
+
+        $key = array_rand($lengths);
+
+        return $this->getRandomFortuneByLength($lengths[$key]);
+    }
+
+    public function getRandomLongFortune(): array
+    {
+        $medianLength = $this->getMedianFortuneLength();
+        $lengths      = array_filter($this->getAllLengths(), fn($length) => $medianLength < $length);
+
+        $key = array_rand($lengths);
+
+        return $this->getRandomFortuneByLength($lengths[$key]);
+    }
+
+    public function getRandomFortuneByLength(int $length): array
+    {
+        return $this->getRandomFortuneByKeyValue('length', $length);
+    }
+
+    public function getRandomFortuneByAuthor(string $author): array
+    {
+        return $this->getRandomFortuneByKeyValue('author', $author);
     }
 
     private function getRandomFilename(): string
@@ -70,31 +98,6 @@ class Fortune extends AbstractFortune
         return $stack[$key];
     }
 
-    public function getRandomShortFortune(): array
-    {
-        $medianLength = $this->getMedianFortuneLength();
-
-        $lengths = array_filter($this->getAllLengths(), function ($length) use ($medianLength) {
-            return $medianLength > $length;
-        });
-
-        $key = array_rand($lengths);
-
-        return $this->getRandomFortuneByLength($lengths[$key]);
-    }
-
-    public function getRandomLongFortune(): array
-    {
-        $medianLength = $this->getMedianFortuneLength();
-        $lengths      = array_filter($this->getAllLengths(), function ($length) use ($medianLength) {
-            return $medianLength < $length;
-        });
-
-        $key = array_rand($lengths);
-
-        return $this->getRandomFortuneByLength($lengths[$key]);
-    }
-
     private function getMedianFortuneLength(): int
     {
         $lengths = array_values($this->getAllLengths());
@@ -104,25 +107,7 @@ class Fortune extends AbstractFortune
         return (int) $lengths[$key];
     }
 
-    public function getRandomFortuneByLength(int $length): array
-    {
-        return $this->getRandomFortuneByKeyValue('length', $length);
-    }
-
-    public function getRandomFortuneByAuthor(string $author): array
-    {
-        return $this->getRandomFortuneByKeyValue('author', $author);
-    }
-
-    /**
-     * @todo: Switch to union type when supporting only php 8.0 and newer
-     *
-     * @param string     $key
-     * @param int|string $value
-     *
-     * @return array
-     */
-    private function getRandomFortuneByKeyValue(string $key, $value): array
+    private function getRandomFortuneByKeyValue(string $key, int|string $value): array
     {
         $filename = $this->getIndexFilename($key);
 
