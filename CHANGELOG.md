@@ -2,6 +2,7 @@
 
 ## dev-master
 
+* Added support for PHP 8.3.
 * Added support for PHP 8.1.
 * Removed support for PHP 7.4 and PHP 8.0.
 * Moved `Application` namespace to `App`.
