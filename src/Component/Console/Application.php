@@ -10,10 +10,10 @@ use App\Component\Console\Command\IndexCommand\IndexCommand;
 use App\Component\Console\Command\PurgeCommand\PurgeCommand;
 use App\Component\Console\Command\StatisticsCommand\StatisticsCommand;
 use Override;
-use Symfony\Component\Console\Application as ParentApp;
+use Symfony\Component\Console\Application as ParentApplication;
 use Symfony\Component\Console\Command\Command;
 
-class App extends ParentApp
+class Application extends ParentApplication
 {
     private const array COMMANDS
         = [
