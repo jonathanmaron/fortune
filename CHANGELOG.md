@@ -2,6 +2,7 @@
 
 ## dev-php84
 
+* Added support for nix to manage the development environment.
 * Added support for PHP 8.4.
 
 ## dev-master
