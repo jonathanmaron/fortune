@@ -13,5 +13,6 @@ pkgs.mkShell {
     which composer
     composer update -W
     echo "Welcome to the environment with PHP 8.4 and Composer!"
+    ./bin/fortune
   '';
 }
