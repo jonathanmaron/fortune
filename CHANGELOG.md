@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## dev-php84
+
+* Added support for PHP 8.4.
+
 ## dev-master
 
 * Added support for PHP 8.3.
