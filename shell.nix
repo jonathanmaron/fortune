@@ -3,10 +3,15 @@
 pkgs.mkShell {
   buildInputs = [
     pkgs.php84
+    pkgs.php84Packages.composer
   ];
 
   shellHook = ''
-    echo "Welcome to the PHP 8.4 development environment for fortune!";
+    clear
+    composer --version
     which php
+    which composer
+    composer update -W
+    echo "Welcome to the environment with PHP 8.4 and Composer!"
   '';
 }
