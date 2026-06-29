@@ -18,12 +18,13 @@ return static function (RectorConfig $rectorConfig): void {
 
     $rectorConfig->paths(
         [
-            sprintf('%s/bin', APP_PATH_ROOT),
-            sprintf('%s/src', APP_PATH_ROOT),
-            sprintf('%s/bootstrap.php', APP_PATH_ROOT),
-            sprintf('%s/consts.php', APP_PATH_ROOT),
-            sprintf('%s/ecs.php', APP_PATH_ROOT),
-            sprintf('%s/rector.php', APP_PATH_ROOT),
+            sprintf('%s/bin', __DIR__),
+            sprintf('%s/src', __DIR__),
+            sprintf('%s/test', __DIR__),
+            sprintf('%s/bootstrap.php', __DIR__),
+            sprintf('%s/consts.php', __DIR__),
+            sprintf('%s/ecs.php', __DIR__),
+            sprintf('%s/rector.php', __DIR__),
         ]
     );
 

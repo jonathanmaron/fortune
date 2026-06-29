@@ -1,5 +1,6 @@
 .claude
 .idea
+.phpunit.cache
 build
 composer.lock
 vendor
