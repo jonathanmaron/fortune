@@ -15,7 +15,7 @@ final class ApplicationTest extends AbstractTestCase
      * @param non-empty-string $commandName
      */
     #[DataProvider('provideCommandNames')]
-    public function testGetDefaultCommandsRegistersTheFortuneCommand(string $commandName): void
+    public function testGetDefaultCommandsRegistersEachConsoleCommand(string $commandName): void
     {
         $application = new Application();
         $application->setAutoExit(false);
