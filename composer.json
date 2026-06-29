@@ -4,19 +4,20 @@
     "license": "BSD-3-Clause",
     "type": "project",
     "require": {
-        "php": "^8.3",
+        "php": "^8.5",
         "ext-intl": "*",
         "ext-json": "*",
-        "psr/container": "^1.0",
+        "psr/container": "^1.0 || ^2.0",
         "ramsey/uuid": "^4.0",
-        "riimu/kit-phpencoder": "^2.0",
+        "riimu/kit-phpencoder": "^3.0",
         "symfony/console": "^7.0",
         "symfony/filesystem": "^7.0",
         "symfony/finder": "^7.0",
         "symfony/lock": "^7.0"
     },
     "require-dev": {
-        "ctw/ctw-qa": "^4.0",
+        "ctw/ctw-qa": "dev-php85",
+        "phpunit/phpunit": "^13.0",
         "symfony/var-dumper": "^7.0"
     },
     "minimum-stability": "dev",
@@ -30,6 +31,11 @@
             "bootstrap.php"
         ]
     },
+    "autoload-dev": {
+        "psr-4": {
+            "AppTest\\": "test"
+        }
+    },
     "config": {
         "allow-plugins": {
             "phpstan/extension-installer": true
@@ -37,12 +43,10 @@
         "sort-packages": true
     },
     "scripts": {
-        "git-pre-commit": [],
-        "git-pre-push": [],
-        "ecs": "@php vendor/bin/ecs --clear-cache",
-        "ecs-fix": "@php vendor/bin/ecs --clear-cache --fix",
-        "phpstan": "d=build/phpstan ; rm -fr $d ; mkdir -p $d ; php vendor/bin/phpstan analyse --error-format=raw | tee $d/output.txt",
-        "phpstan-baseline": "@php vendor/bin/phpstan analyse --generate-baseline",
+        "ecs": "php vendor/bin/ecs --clear-cache",
+        "ecs-fix": "php vendor/bin/ecs --clear-cache --fix",
+        "phpstan": "bash vendor/ctw/ctw-qa/bin/phpstan.sh",
+        "phpstan-baseline": "bash vendor/ctw/ctw-qa/bin/phpstan-baseline.sh",
         "qa": [
             "@rector",
             "@ecs",
@@ -53,7 +57,8 @@
             "@ecs-fix",
             "@phpstan"
         ],
-        "rector": "@php vendor/bin/rector process --clear-cache --dry-run",
-        "rector-fix": "@php vendor/bin/rector process --clear-cache"
+        "rector": "php vendor/bin/rector process --clear-cache --dry-run",
+        "rector-fix": "php vendor/bin/rector process --clear-cache",
+        "test": "export XDEBUG_MODE=coverage ; php vendor/bin/phpunit"
     }
 }
