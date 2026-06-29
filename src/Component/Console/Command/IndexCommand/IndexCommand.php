@@ -40,18 +40,16 @@ class IndexCommand extends AbstractCommand
         $fileInfos = $finder->php($fortune->getFortunePath());
         foreach ($fileInfos as $fileInfo) {
             $fortunes = include $fileInfo->getPathname();
+            assert(is_array($fortunes));
             foreach ($fortunes as $uuid => $fortuneArray) {
-                $length = strlen($fortuneArray[0]);
+                assert(is_array($fortuneArray));
+                $quote  = $fortuneArray[0];
                 $author = $fortuneArray[1];
-                foreach (array_keys($indices) as $key) {
-                    // @phpstan-ignore-next-line
-                    if (!isset($indices[$key][${$key}])) {
-                        // @phpstan-ignore-next-line
-                        $indices[$key][${$key}] = [];
-                    }
-                    // @phpstan-ignore-next-line
-                    $indices[$key][${$key}][] = [$fileInfo->getFilename(), $uuid];
-                }
+                assert(is_string($quote));
+                assert(is_string($author));
+                $reference                           = [$fileInfo->getFilename(), $uuid];
+                $indices['length'][strlen($quote)][] = $reference;
+                $indices['author'][$author][]        = $reference;
             }
         }
 

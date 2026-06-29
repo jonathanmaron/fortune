@@ -28,17 +28,17 @@ abstract class AbstractCommand extends ParentCommand
 
     // <editor-fold desc="Class Properties">
 
-    protected int    $wordwrap = 0;
+    protected int $wordwrap = 0;
 
-    protected int    $length   = 0;
+    protected int $length   = 0;
 
-    protected int    $wait     = 0;
+    protected int $wait     = 0;
 
     protected string $author   = '';
 
-    protected bool   $short    = false;
+    protected bool $short    = false;
 
-    protected bool   $long     = false;
+    protected bool $long     = false;
 
     // </editor-fold>
 
@@ -160,7 +160,7 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($length));
         $length = trim($length);
 
-        if (0 < strlen($length)) {
+        if ('' !== $length) {
 
             if (!ctype_digit($length)) {
                 $message = '--length must be an integer';
@@ -186,7 +186,7 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($wait));
         $wait = trim($wait);
 
-        if (0 < strlen($wait) && !ctype_digit($wait)) {
+        if ('' !== $wait && !ctype_digit($wait)) {
             $message = '--wait must be an integer';
             throw new InvalidArgumentException($message);
         }
@@ -210,7 +210,7 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($author));
         $author = trim($author);
 
-        if (0 < strlen($author) && !in_array($author, $fortune->getAllAuthors(), true)) {
+        if ('' !== $author && !in_array($author, $fortune->getAllAuthors(), true)) {
             $message = '--author contains an invalid author';
             throw new InvalidArgumentException($message);
         }
@@ -327,6 +327,9 @@ abstract class AbstractCommand extends ParentCommand
 
     // <editor-fold desc="Render Formatted Quote">
 
+    /**
+     * @param array{string, string} $fortuneArray
+     */
     protected function render(OutputInterface $output, array $fortuneArray): int
     {
         $wordwrap = $this->getWordwrap();

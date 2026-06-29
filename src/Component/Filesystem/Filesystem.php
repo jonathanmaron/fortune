@@ -9,6 +9,9 @@ use Symfony\Component\Filesystem\Filesystem as ParentFilesystem;
 
 class Filesystem extends ParentFilesystem
 {
+    /**
+     * @param array<int, array<string, array{string, string}>> $chunks
+     */
     public function arrayExportFiles(string $path, array $chunks): bool
     {
         $counter = 1;

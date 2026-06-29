@@ -71,6 +71,9 @@ abstract class AbstractCommand extends ParentCommand
 
     // <editor-fold desc="Helpers">
 
+    /**
+     * @return array<string, array{string, string}>
+     */
     protected function getNewFortunes(string $inputPath): array
     {
         $ret = [];
@@ -86,8 +89,12 @@ abstract class AbstractCommand extends ParentCommand
                 assert(is_array($record));
                 assert(array_key_exists('quoteText', $record));
                 assert(array_key_exists('quoteAuthor', $record));
-                $quote  = $this->filter($record['quoteText']);
-                $author = $this->filter($record['quoteAuthor']);
+                $quoteText   = $record['quoteText'];
+                $quoteAuthor = $record['quoteAuthor'];
+                assert(is_string($quoteText));
+                assert(is_string($quoteAuthor));
+                $quote  = $this->filter($quoteText);
+                $author = $this->filter($quoteAuthor);
                 $uuid   = $this->uuid($quote);
                 if (array_key_exists($uuid, $ret)) {
                     continue;

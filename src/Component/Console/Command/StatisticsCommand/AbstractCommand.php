@@ -54,7 +54,7 @@ abstract class AbstractCommand extends ParentCommand
         assert(is_string($limit));
         $limit = trim($limit);
 
-        if (0 < strlen($limit) && !ctype_digit($limit)) {
+        if ('' !== $limit && !ctype_digit($limit)) {
             $message = '--limit must be an integer';
             throw new InvalidArgumentException($message);
         }
