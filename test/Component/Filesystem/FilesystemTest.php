@@ -19,7 +19,8 @@ final class FilesystemTest extends AbstractTestCase
             '11111111-1111-1111-1111-111111111111' => ['Quote', 'Author'],
         ];
 
-        $result = (new Filesystem())->arrayExportFile($filename, $data);
+        $result = new Filesystem()
+            ->arrayExportFile($filename, $data);
 
         self::assertTrue($result);
         self::assertFileExists($filename);
@@ -45,7 +46,8 @@ final class FilesystemTest extends AbstractTestCase
             ],
         ];
 
-        $result = (new Filesystem())->arrayExportFiles($directory, $chunks);
+        $result = new Filesystem()
+            ->arrayExportFiles($directory, $chunks);
 
         self::assertTrue($result);
 
@@ -62,7 +64,8 @@ final class FilesystemTest extends AbstractTestCase
     {
         $directory = $this->createTemporaryDirectory();
 
-        $result = (new Filesystem())->arrayExportFiles($directory, []);
+        $result = new Filesystem()
+            ->arrayExportFiles($directory, []);
 
         self::assertTrue($result);
 

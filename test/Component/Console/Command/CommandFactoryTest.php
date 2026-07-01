@@ -14,7 +14,8 @@ final class CommandFactoryTest extends AbstractTestCase
      */
     public function testInvokeReturnsAnInstanceOfTheRequestedCommand(): void
     {
-        $command = (new CommandFactory())->__invoke(null, FortuneCommand::class);
+        $command = new CommandFactory()
+            ->__invoke(null, FortuneCommand::class);
 
         self::assertInstanceOf(FortuneCommand::class, $command);
     }
@@ -24,7 +25,8 @@ final class CommandFactoryTest extends AbstractTestCase
      */
     public function testInvokeConfiguresTheCommandWithTheApplicationFortuneAndIndexPaths(): void
     {
-        $command = (new CommandFactory())->__invoke(null, FortuneCommand::class);
+        $command = new CommandFactory()
+            ->__invoke(null, FortuneCommand::class);
 
         self::assertInstanceOf(FortuneCommand::class, $command);
         self::assertSame(APP_PATH_FORTUNE, $command->getFortune()->getFortunePath());

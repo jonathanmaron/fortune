@@ -29,7 +29,7 @@ class Application extends ParentApplication
     {
         return array_merge(
             parent::getDefaultCommands(),
-            array_map(fn(string $command): Command => (new CommandFactory())->__invoke(null, $command), self::COMMANDS)
+            array_map(fn(string $command): Command => new CommandFactory()->__invoke(null, $command), self::COMMANDS)
         );
     }
 }

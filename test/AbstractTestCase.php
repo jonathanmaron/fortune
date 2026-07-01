@@ -35,7 +35,8 @@ abstract class AbstractTestCase extends TestCase
     {
         $path = sprintf('%s/fortune-test-%s', sys_get_temp_dir(), bin2hex(random_bytes(8)));
 
-        (new Filesystem())->mkdir($path);
+        new Filesystem()
+            ->mkdir($path);
 
         $this->temporaryPaths[] = $path;
 
@@ -58,7 +59,8 @@ abstract class AbstractTestCase extends TestCase
     {
         $pathname = sprintf('%s/%s', $directory, $filename);
 
-        (new Filesystem())->arrayExportFile($pathname, $fortunes);
+        new Filesystem()
+            ->arrayExportFile($pathname, $fortunes);
 
         return $pathname;
     }
@@ -70,7 +72,8 @@ abstract class AbstractTestCase extends TestCase
     {
         $pathname = sprintf('%s/%s.php', $directory, $key);
 
-        (new Filesystem())->arrayExportFile($pathname, $index);
+        new Filesystem()
+            ->arrayExportFile($pathname, $index);
 
         return $pathname;
     }
@@ -79,7 +82,8 @@ abstract class AbstractTestCase extends TestCase
     {
         $pathname = sprintf('%s/%s', $directory, $filename);
 
-        (new Filesystem())->dumpFile($pathname, $contents);
+        new Filesystem()
+            ->dumpFile($pathname, $contents);
 
         return $pathname;
     }
