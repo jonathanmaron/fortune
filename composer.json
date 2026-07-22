@@ -17,6 +17,7 @@
     },
     "require-dev": {
         "ctw/ctw-qa": "^6.0",
+        "ctw/ctw-temp": "^1.0",
         "phpunit/phpunit": "^13.0",
         "symfony/var-dumper": "^8.0"
     },

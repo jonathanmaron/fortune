@@ -5,6 +5,7 @@ namespace AppTest;
 
 use App\Component\Filesystem\Filesystem;
 use App\Fortune\Fortune;
+use Ctw\Temp\Temp;
 use Override;
 use PHPUnit\Framework\TestCase;
 
@@ -33,10 +34,7 @@ abstract class AbstractTestCase extends TestCase
 
     protected function createTemporaryDirectory(): string
     {
-        $path = sprintf('%s/fortune-test-%s', sys_get_temp_dir(), bin2hex(random_bytes(8)));
-
-        new Filesystem()
-            ->mkdir($path);
+        $path = (new Temp('fortune', 'fortune-test-' . bin2hex(random_bytes(8))))->createPath();
 
         $this->temporaryPaths[] = $path;
 
