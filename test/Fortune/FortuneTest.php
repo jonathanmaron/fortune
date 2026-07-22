@@ -7,12 +7,24 @@ use App\Fortune\Fortune;
 use AppTest\AbstractTestCase;
 use PHPUnit\Framework\Attributes\DataProvider;
 
+/**
+ * Tests the fortune service, covering retrieval, filtering by length and author, and path accessors.
+ */
 final class FortuneTest extends AbstractTestCase
 {
+    /**
+     * Fixture UUID for the first stored fortune.
+     */
     private const string UUID_ONE = '11111111-1111-1111-1111-111111111111';
 
+    /**
+     * Fixture UUID for the second stored fortune.
+     */
     private const string UUID_TWO = '22222222-2222-2222-2222-222222222222';
 
+    /**
+     * Fixture UUID for the third stored fortune.
+     */
     private const string UUID_THREE = '33333333-3333-3333-3333-333333333333';
 
     /**
@@ -250,6 +262,8 @@ final class FortuneTest extends AbstractTestCase
     }
 
     /**
+     * Provides index names paired with their expected composed filenames.
+     *
      * @return array<string, array{index: non-empty-string, expected: non-empty-string}>
      */
     public static function provideIndexNames(): array
@@ -279,6 +293,9 @@ final class FortuneTest extends AbstractTestCase
         self::assertSame('/data/index', $fortune->getIndexPath());
     }
 
+    /**
+     * Creates a fortune backed by standard fortune, length and author index fixtures.
+     */
     private function createStandardEnvironment(): Fortune
     {
         $fortunePath = $this->createTemporaryDirectory();

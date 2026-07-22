@@ -8,6 +8,9 @@ use App\Exception\InvalidArgumentException;
 use AppTest\AbstractTestCase;
 use Symfony\Component\Console\Tester\CommandTester;
 
+/**
+ * Tests the statistics command, covering the author breakdown, limiting and validation.
+ */
 final class StatisticsCommandTest extends AbstractTestCase
 {
     /**
@@ -87,6 +90,9 @@ final class StatisticsCommandTest extends AbstractTestCase
         ]);
     }
 
+    /**
+     * Creates a command tester backed by fortune fixtures for three authors.
+     */
     private function createCommandTester(): CommandTester
     {
         $fortunePath = $this->createTemporaryDirectory();

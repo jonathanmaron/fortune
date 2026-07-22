@@ -6,6 +6,9 @@ namespace AppTest\PhpEncoder;
 use App\PhpEncoder\PhpEncoder;
 use AppTest\AbstractTestCase;
 
+/**
+ * Tests that the PHP encoder produces evaluable, multiline array source.
+ */
 final class PhpEncoderTest extends AbstractTestCase
 {
     /**

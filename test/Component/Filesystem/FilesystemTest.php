@@ -6,6 +6,9 @@ namespace AppTest\Component\Filesystem;
 use App\Component\Filesystem\Filesystem;
 use AppTest\AbstractTestCase;
 
+/**
+ * Tests the filesystem component's array export helpers.
+ */
 final class FilesystemTest extends AbstractTestCase
 {
     /**

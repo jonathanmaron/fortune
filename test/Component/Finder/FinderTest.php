@@ -6,6 +6,9 @@ namespace AppTest\Component\Finder;
 use App\Component\Finder\Finder;
 use AppTest\AbstractTestCase;
 
+/**
+ * Tests the finder component's matching of PHP and JSON files.
+ */
 final class FinderTest extends AbstractTestCase
 {
     /**

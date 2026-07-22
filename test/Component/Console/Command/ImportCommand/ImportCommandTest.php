@@ -9,6 +9,9 @@ use App\Exception\RuntimeException;
 use AppTest\AbstractTestCase;
 use Symfony\Component\Console\Tester\CommandTester;
 
+/**
+ * Tests the import command, covering importing, deduplication, normalization and error handling.
+ */
 final class ImportCommandTest extends AbstractTestCase
 {
     /**
@@ -195,6 +198,9 @@ final class ImportCommandTest extends AbstractTestCase
         ]);
     }
 
+    /**
+     * Creates a command tester for an import command writing to the given fortune path.
+     */
     private function createCommandTester(string $fortunePath): CommandTester
     {
         $command = new ImportCommand();
@@ -204,6 +210,8 @@ final class ImportCommandTest extends AbstractTestCase
     }
 
     /**
+     * Loads every imported fortune from the PHP files in the directory, keyed by UUID.
+     *
      * @return array<string, array{string, string}>
      */
     private function loadImportedFortunes(string $directory): array

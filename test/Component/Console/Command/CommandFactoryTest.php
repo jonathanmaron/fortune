@@ -7,6 +7,9 @@ use App\Component\Console\Command\CommandFactory;
 use App\Component\Console\Command\FortuneCommand\FortuneCommand;
 use AppTest\AbstractTestCase;
 
+/**
+ * Tests that the command factory instantiates and configures fortune commands.
+ */
 final class CommandFactoryTest extends AbstractTestCase
 {
     /**

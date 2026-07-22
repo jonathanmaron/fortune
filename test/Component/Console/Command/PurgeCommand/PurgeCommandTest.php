@@ -8,6 +8,9 @@ use AppTest\AbstractTestCase;
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Tester\CommandTester;
 
+/**
+ * Tests the purge command, covering confirmed purges and declined confirmations.
+ */
 final class PurgeCommandTest extends AbstractTestCase
 {
     /**
@@ -54,6 +57,9 @@ final class PurgeCommandTest extends AbstractTestCase
         self::assertStringNotContainsString('Purged', $display);
     }
 
+    /**
+     * Creates a command tester for a purge command targeting the given fortune and index paths.
+     */
     private function createCommandTester(string $fortunePath, string $indexPath): CommandTester
     {
         $command = new PurgeCommand();

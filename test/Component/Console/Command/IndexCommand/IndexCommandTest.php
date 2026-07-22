@@ -7,6 +7,9 @@ use App\Component\Console\Command\IndexCommand\IndexCommand;
 use AppTest\AbstractTestCase;
 use Symfony\Component\Console\Tester\CommandTester;
 
+/**
+ * Tests the index command, covering index building, directory creation and stale index removal.
+ */
 final class IndexCommandTest extends AbstractTestCase
 {
     /**

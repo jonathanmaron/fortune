@@ -7,6 +7,9 @@ use App\Component\Console\Application;
 use AppTest\AbstractTestCase;
 use PHPUnit\Framework\Attributes\DataProvider;
 
+/**
+ * Tests that the console application registers the fortune commands.
+ */
 final class ApplicationTest extends AbstractTestCase
 {
     /**
@@ -24,6 +27,8 @@ final class ApplicationTest extends AbstractTestCase
     }
 
     /**
+     * Provides the names of the commands expected to be registered.
+     *
      * @return array<string, array{commandName: non-empty-string}>
      */
     public static function provideCommandNames(): array

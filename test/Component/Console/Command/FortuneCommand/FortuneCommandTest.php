@@ -9,12 +9,24 @@ use AppTest\AbstractTestCase;
 use PHPUnit\Framework\Attributes\DataProvider;
 use Symfony\Component\Console\Tester\CommandTester;
 
+/**
+ * Tests the fortune command, covering filtering options and validation of invalid input.
+ */
 final class FortuneCommandTest extends AbstractTestCase
 {
+    /**
+     * Fixture UUID for the first stored fortune.
+     */
     private const string UUID_ONE = '11111111-1111-1111-1111-111111111111';
 
+    /**
+     * Fixture UUID for the second stored fortune.
+     */
     private const string UUID_TWO = '22222222-2222-2222-2222-222222222222';
 
+    /**
+     * Fixture UUID for the third stored fortune.
+     */
     private const string UUID_THREE = '33333333-3333-3333-3333-333333333333';
 
     /**
@@ -215,6 +227,8 @@ final class FortuneCommandTest extends AbstractTestCase
     }
 
     /**
+     * Provides invalid option values paired with their expected exception messages.
+     *
      * @return array<string, array{option: non-empty-string, value: string, message: string}>
      */
     public static function provideInvalidOptions(): array
@@ -270,6 +284,9 @@ final class FortuneCommandTest extends AbstractTestCase
         ]);
     }
 
+    /**
+     * Creates a command tester backed by fortune, length and author index fixtures.
+     */
     private function createCommandTester(): CommandTester
     {
         $fortunePath = $this->createTemporaryDirectory();

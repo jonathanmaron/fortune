@@ -7,6 +7,9 @@ use App\Component\Console\Command\FortuneCommand\FortuneCommand;
 use App\Fortune\Fortune;
 use AppTest\AbstractTestCase;
 
+/**
+ * Tests the fortune accessor shared by the abstract console command.
+ */
 final class AbstractCommandTest extends AbstractTestCase
 {
     /**
