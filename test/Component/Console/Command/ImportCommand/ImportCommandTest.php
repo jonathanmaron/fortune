@@ -158,6 +158,27 @@ final class ImportCommandTest extends AbstractTestCase
     }
 
     /**
+     * Test that a source directory holding no JSON files yields a runtime exception because nothing is imported.
+     */
+    public function testExecuteThrowsRuntimeExceptionWhenSourceDirectoryHasNoJsonFiles(): void
+    {
+        $fortunePath = $this->createTemporaryDirectory();
+        $jsonPath    = $this->createTemporaryDirectory();
+        $this->writeTextFile($jsonPath, 'notes.txt', 'not a json file');
+
+        $tester = $this->createCommandTester($fortunePath);
+
+        $this->expectException(RuntimeException::class);
+        $this->expectExceptionMessage('There are no quotations to process');
+
+        $tester->execute([
+            '--path' => $jsonPath,
+        ], [
+            'interactive' => false,
+        ]);
+    }
+
+    /**
      * Test that a non-existent source path is rejected with an exception.
      */
     public function testInitializeThrowsInvalidArgumentExceptionWhenPathDoesNotExist(): void

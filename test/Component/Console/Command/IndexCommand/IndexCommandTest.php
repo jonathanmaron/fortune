@@ -42,4 +42,69 @@ final class IndexCommandTest extends AbstractTestCase
         self::assertEqualsCanonicalizing([3, 6], $fortune->getAllLengths());
         self::assertEqualsCanonicalizing(['Alice', 'Bob'], $fortune->getAllAuthors());
     }
+
+    /**
+     * Test that the index directory is created before indexes are written when it does not yet exist.
+     */
+    public function testExecuteCreatesIndexDirectoryWhenItDoesNotExist(): void
+    {
+        $fortunePath = $this->createTemporaryDirectory();
+        $indexPath   = sprintf('%s/missing-index', $this->createTemporaryDirectory());
+
+        self::assertDirectoryDoesNotExist($indexPath);
+
+        $this->writeFortuneFile($fortunePath, 'a.php', [
+            '11111111-1111-1111-1111-111111111111' => ['abc', 'Alice'],
+        ]);
+
+        $fortune = $this->createFortune($fortunePath, $indexPath);
+
+        $command = new IndexCommand();
+        $command->setFortune($fortune);
+
+        $tester = new CommandTester($command);
+
+        $tester->execute([], [
+            'interactive' => false,
+        ]);
+
+        $tester->assertCommandIsSuccessful();
+
+        self::assertDirectoryExists($indexPath);
+        self::assertEqualsCanonicalizing([3], $fortune->getAllLengths());
+        self::assertEqualsCanonicalizing(['Alice'], $fortune->getAllAuthors());
+    }
+
+    /**
+     * Test that a pre-existing index directory is purged and rebuilt so stale index files do not survive.
+     */
+    public function testExecuteRemovesStaleIndexDirectoryBeforeRebuildingIndexes(): void
+    {
+        $fortunePath = $this->createTemporaryDirectory();
+        $indexPath   = $this->createTemporaryDirectory();
+
+        $stalePathname = $this->writeTextFile($indexPath, 'stale.php', '<?php return [];');
+        self::assertFileExists($stalePathname);
+
+        $this->writeFortuneFile($fortunePath, 'a.php', [
+            '11111111-1111-1111-1111-111111111111' => ['abc', 'Alice'],
+        ]);
+
+        $fortune = $this->createFortune($fortunePath, $indexPath);
+
+        $command = new IndexCommand();
+        $command->setFortune($fortune);
+
+        $tester = new CommandTester($command);
+
+        $tester->execute([], [
+            'interactive' => false,
+        ]);
+
+        $tester->assertCommandIsSuccessful();
+
+        self::assertFileDoesNotExist($stalePathname);
+        self::assertFileExists($fortune->getIndexFilename('length'));
+        self::assertFileExists($fortune->getIndexFilename('author'));
+    }
 }
