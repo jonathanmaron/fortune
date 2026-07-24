@@ -4,7 +4,6 @@ declare(strict_types=1);
 namespace App\Component\Console\Command\PurgeCommand;
 
 use App\Component\Filesystem\Filesystem;
-use Override;
 use Symfony\Component\Console\Helper\QuestionHelper;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -12,13 +11,13 @@ use Symfony\Component\Console\Question\ConfirmationQuestion;
 
 class PurgeCommand extends AbstractCommand
 {
-    #[Override]
+    #[\Override]
     protected function configure(): void
     {
         $this->configureCommand();
     }
 
-    #[Override]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();

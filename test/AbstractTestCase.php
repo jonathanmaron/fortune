@@ -6,7 +6,6 @@ namespace AppTest;
 use App\Component\Filesystem\Filesystem;
 use App\Fortune\Fortune;
 use Ctw\Temp\Temp;
-use Override;
 use PHPUnit\Framework\TestCase;
 
 /**
@@ -24,7 +23,7 @@ abstract class AbstractTestCase extends TestCase
     /**
      * Removes any temporary paths created during the test.
      */
-    #[Override]
+    #[\Override]
     protected function tearDown(): void
     {
         $filesystem = new Filesystem();
@@ -45,7 +44,7 @@ abstract class AbstractTestCase extends TestCase
      */
     protected function createTemporaryDirectory(): string
     {
-        $path = (new Temp('fortune', 'fortune-test-' . bin2hex(random_bytes(8))))->createPath();
+        $path = new Temp('fortune', 'fortune-test-' . bin2hex(random_bytes(8)))->createPath();
 
         $this->temporaryPaths[] = $path;
 

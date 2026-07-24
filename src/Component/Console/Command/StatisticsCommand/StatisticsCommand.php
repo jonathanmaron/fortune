@@ -4,27 +4,26 @@ declare(strict_types=1);
 namespace App\Component\Console\Command\StatisticsCommand;
 
 use App\Exception\InvalidArgumentException;
-use Override;
 use Symfony\Component\Console\Helper\Table;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class StatisticsCommand extends AbstractCommand
 {
-    #[Override]
+    #[\Override]
     protected function configure(): void
     {
         $this->configureCommand();
         $this->configureLimit();
     }
 
-    #[Override]
+    #[\Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializeLimit($input);
     }
 
-    #[Override]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();

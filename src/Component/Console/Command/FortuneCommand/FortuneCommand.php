@@ -3,13 +3,12 @@ declare(strict_types=1);
 
 namespace App\Component\Console\Command\FortuneCommand;
 
-use Override;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class FortuneCommand extends AbstractCommand
 {
-    #[Override]
+    #[\Override]
     protected function configure(): void
     {
         $this->configureCommand();
@@ -21,7 +20,7 @@ class FortuneCommand extends AbstractCommand
         $this->configureLong();
     }
 
-    #[Override]
+    #[\Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializeWordwrap($input);
@@ -32,7 +31,7 @@ class FortuneCommand extends AbstractCommand
         $this->initializeLong($input);
     }
 
-    #[Override]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $fortune = $this->getFortune();

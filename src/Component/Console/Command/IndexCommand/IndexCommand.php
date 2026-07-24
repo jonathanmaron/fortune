@@ -5,19 +5,18 @@ namespace App\Component\Console\Command\IndexCommand;
 
 use App\Component\Filesystem\Filesystem;
 use App\Component\Finder\Finder;
-use Override;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class IndexCommand extends AbstractCommand
 {
-    #[Override]
+    #[\Override]
     protected function configure(): void
     {
         $this->configureCommand();
     }
 
-    #[Override]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem = new Filesystem();

@@ -6,27 +6,26 @@ namespace App\Component\Console\Command\ImportCommand;
 use App\Component\Filesystem\Filesystem;
 use App\Exception\RuntimeException;
 use NumberFormatter;
-use Override;
 use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportCommand extends AbstractCommand
 {
-    #[Override]
+    #[\Override]
     protected function configure(): void
     {
         $this->configureCommand();
         $this->configurePath();
     }
 
-    #[Override]
+    #[\Override]
     protected function initialize(InputInterface $input, OutputInterface $output): void
     {
         $this->initializePath($input);
     }
 
-    #[Override]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $filesystem       = new Filesystem();

@@ -9,7 +9,6 @@ use App\Component\Console\Command\ImportCommand\ImportCommand;
 use App\Component\Console\Command\IndexCommand\IndexCommand;
 use App\Component\Console\Command\PurgeCommand\PurgeCommand;
 use App\Component\Console\Command\StatisticsCommand\StatisticsCommand;
-use Override;
 use Symfony\Component\Console\Application as ParentApplication;
 use Symfony\Component\Console\Command\Command;
 
@@ -24,7 +23,7 @@ class Application extends ParentApplication
             StatisticsCommand::class,
         ];
 
-    #[Override]
+    #[\Override]
     protected function getDefaultCommands(): array
     {
         return array_merge(
